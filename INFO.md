@@ -13,5 +13,3 @@
 > > !# Example: List only .gov
 > >  grep -Ei 'gov\.np' "certstream_domains_np_24h.txt" | sort -u
 > > ```
----
-- #### **Stats**
