@@ -7,7 +7,7 @@ on:
 #    - cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
 #------------------------------------------------------------------------------------#
 jobs:
-  ScopeGen:
+  Parse:
     runs-on: ubuntu-latest
     #timeout-minutes: 45 # Can't afford to finish the 2000 Minutes quotes    
     permissions:
