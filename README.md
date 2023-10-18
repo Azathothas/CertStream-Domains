@@ -1,4 +1,45 @@
 - [**Automated** | ***UpToDate***] Daily (@24 Hrs) Dumps of [CertStream](https://certstream.calidog.io/) [Certificate Logs](https://certificate.transparency.dev/) **Data**
+> 1. All the [Scripts](https://github.com/Azathothas/CertStream-Domains/tree/main/.github/scripts) & [Tools](https://github.com/Azathothas/Arsenal/tree/main/certstream) used are OpenSource & Public, as such all this ***comes with no Guarantees | Liabilities.***
+> 2. Due to [Github's File Size Limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits), all data is Compressed using [7z](https://www.7-zip.org/faq.html).
+> 3. View ***Latest*** Data from the **last 24 Hr** at: [Raw/Latest](https://github.com/Azathothas/CertStream-Domains/tree/main/Raw/Latest)
+> > - `Download` || `Parse`
+> > ```bash
+> > !# Create a Directory
+> > mkdir "./certstream-latest" && cd "./certstream-latest"
+> > 
+> > !# Download all .7z file
+> > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Latest" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do curl -LJO $url; done
+> >
+> > !# Extract all .7z files
+> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" --to "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
+> > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
+> > 
+> > !# Cat all to a single text file
+> > find . -maxdepth 1 -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_latest.txt" ; wc -l < "./certstream_domains_latest.txt"
+> > 
+> > !# Del .7z files
+> > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
+> > ```
+> 4. View ***Archival*** Data upto **7 Days** at: [Raw/Archive](https://github.com/Azathothas/CertStream-Domains/tree/main/Raw/Archive)
+> > - `Download` || `Parse`
+> > ```bash
+> > !# Create a Directory
+> > mkdir "./certstream-7days" && cd "./certstream-7days"
+> > 
+> > !# Download all .7z file
+> > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Archive" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do curl -LJO $url; done
+> >
+> > !# Extract all .7z files
+> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" --to "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
+> > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
+> > 
+> > !# Cat all to a single text file
+> > find . -maxdepth 1 -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_7days.txt" ; wc -l < "./certstream_domains_7days.txt"
+> > 
+> > !# Del .7z files
+> > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
+> > ```
+> 5. Do Whatever/However you want ! 
 ---
 - #### **Data**
 > > - **Info**: [Certificate Transparency Logs](https://certificate.transparency.dev/) only list **issuance** of website certificates. This data ***may not necessarily indicate newly registered domains***, as Certificates **expire** and are **renewed frequently**.
@@ -6,10 +47,20 @@
 > > > ```bash
 > > > !# Install:
 > > > sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crt" --to "/usr/local/bin/crt" && sudo chmod +xwr "/usr/local/bin/crt"
-> > >
-> > > !# Check:
+> > > ```
+> > > > - **Check**
+> > > ```bash
 > > > crt "$domain_name"
-> > > 
+> > > !# Example:
+> > > crt "rmb.info.np"
+> > > ```
+> > > ![image](https://github.com/Azathothas/CertStream-Domains/assets/58171889/25593891-f847-40c0-8ceb-738e46fb8700)
+> > > - **Details**
+> > > ```bash
+> > > crt -json "$domain_name"
+> > >
+> > > !# Example:
+> > > crt -json "rmb.info.np"
 > > >  ```
 > ---
 > - [**np-ccTLDs**](https://register.com.np/np-ccTLDs)
