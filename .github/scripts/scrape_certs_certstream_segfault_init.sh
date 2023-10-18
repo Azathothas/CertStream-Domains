@@ -97,7 +97,7 @@ eget "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@raw.githubusercontent
 
 #Run Script
  echo -e "\n[+] Starting CertStream in Infinite Loop"
-  nohup sh -c 'while :; do bash $HOME/bin/scrape_certs_certstream_segfault_init && sleep 05; done' > /dev/null 2>&1 &
+  nohup sh -c 'while :; do bash $HOME/bin/scrape_certs_certstream_segfault && sleep 05; done' > /dev/null 2>&1 &
 # if pgrep --full "certstream" > /dev/null; then
 #   echo -e "\n[+] CertStream already Running"
 #   ps aux | grep -i "certstream"
