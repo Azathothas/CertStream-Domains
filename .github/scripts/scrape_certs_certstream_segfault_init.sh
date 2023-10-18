@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 
 ##Usage:
-# tmux new-session -s "certstream"
+# tmux new-session -s "segfault"
 # export VARS
 #bash <(curl -qfsSL "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/scrape_certs_certstream_segfault_init.sh")
-# [ctrl + b] + d to detach 
+# [ctrl + b] + d to detach
+# To kill (Not attached): pgrep --full tmux | xargs kill -9
 #Setup Dirs
 #Persistance Dirs: https://www.thc.org/segfault/faq/
 # /sec
@@ -91,7 +92,7 @@ fi
 set +x
 #----------------------------------------------------------------------------#
 #fetch Script
-eget "https://$CERTSTREAM_DOMAINS_REPO_USER:$CERTSTREAM_DOMAINS_REPO_TOKEN@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/scrape_certs_certstream_segfault.sh" --to "$HOME/bin/scrape_certs_certstream_segfault" && chmod +xwr "scrape_certs_certstream_segfault"
+eget "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_USER@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/scrape_certs_certstream_segfault.sh" --to "$HOME/bin/scrape_certs_certstream_segfault" && chmod +xwr "scrape_certs_certstream_segfault"
 
 #Kill Stale Processes
 kill_stale_procs()
