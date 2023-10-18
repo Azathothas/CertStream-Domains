@@ -135,8 +135,8 @@ jobs:
           echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)\n" >> "$GITHUB_WORKSPACE/main/README.md"
           #np_ccTLDs
           echo -e "\n--> 🇳🇵 np_ccTLDs" >> "$GITHUB_WORKSPACE/main/README.md"
-          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h.txt)\n" >> "$GITHUB_WORKSPACE/main/README.md"
-          echo -e "[+] New/ReNewed SSL Certs (Edu): +$(wc -l < $GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_edu_24h.txt)\n" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < $GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h.txt)" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (Edu): +$(wc -l < $GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_edu_24h.txt)" >> "$GITHUB_WORKSPACE/main/README.md"
           echo -e "[+] New/ReNewed SSL Certs (Gov|Mil): +$(wc -l < $GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_gov_mil_24h.txt)\n" >> "$GITHUB_WORKSPACE/main/README.md"
           echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
           echo '```' >> "$GITHUB_WORKSPACE/main/README.md"
