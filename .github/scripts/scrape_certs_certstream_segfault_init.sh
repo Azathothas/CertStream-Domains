@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ##Usage:
-# Kill Previous Procs: pgrep --full certstream | xargs kill -9 2>/dev/null ; pgrep --full tmux | xargs kill -9
+# Kill Previous Procs: pgrep --full certstream | xargs kill -9 2>/dev/null ; pgrep --full tmux | xargs kill -9 2>/dev/null
 # tmux new-session -s "segfault"
 # export VARS
 #bash <(curl -qfsSL "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/scrape_certs_certstream_segfault_init.sh")
