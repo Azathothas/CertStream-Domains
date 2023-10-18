@@ -92,7 +92,7 @@ fi
 set +x
 #----------------------------------------------------------------------------#
 #fetch Script
-eget "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_USER@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/scrape_certs_certstream_segfault.sh" --to "$HOME/bin/scrape_certs_certstream_segfault" && chmod +xwr "scrape_certs_certstream_segfault"
+eget "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/scrape_certs_certstream_segfault.sh" --to "$HOME/bin/scrape_certs_certstream_segfault" && chmod +xwr "scrape_certs_certstream_segfault"
 
 #Kill Stale Processes
 kill_stale_procs()
