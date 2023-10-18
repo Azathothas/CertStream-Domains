@@ -1,6 +1,6 @@
 - [**Automated** | ***UpToDate***] Daily (@6 Hrs) Dumps of [CertStream](https://certstream.calidog.io/) [Certificate Logs](https://certificate.transparency.dev/) **Data**
 ---
-- #### **Stats**
+- #### **Data**
 > - [**np-ccTLDs**](https://register.com.np/np-ccTLDs)
 > > ```mathematica
 > > !# Ref: https://register.com.np/np-ccTLDs
@@ -13,3 +13,5 @@
 > > !# Example: List only .gov
 > >  grep -Ei 'gov\.np' "certstream_domains_np_24h.txt" | sort -u
 > > ```
+---
+- #### **Stats**
