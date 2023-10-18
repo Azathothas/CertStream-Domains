@@ -4,7 +4,8 @@ name: ⚓ Filter | Parse 🔰
 on:
   workflow_dispatch: # Whenever manually run from actions-tab
   schedule:
-    - cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
+    #- cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
+    - cron: "0 */6 * * *" #( Every 6 Hr )
 #------------------------------------------------------------------------------------#
 jobs:
   Parse:
