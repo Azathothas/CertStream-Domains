@@ -14,19 +14,20 @@
 > >  grep -Ei 'gov\.np' "certstream_domains_np_24h.txt" | sort -u
 > > ```
 ---
+- #### 🖨️ **Stats** ⏲️
 ```console
 
 
---> Total
-[+] New/ReNewed SSL Certs +1140187
+--> 🌐 Total
+[+] New/ReNewed SSL Certs (ALL): +1140187
 
 
---> np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL) +626
+--> 🇳🇵 np_ccTLDs
+[+] New/ReNewed SSL Certs (ALL): +626
 
-[+] New/ReNewed SSL Certs (Edu) +28
+[+] New/ReNewed SSL Certs (Edu): +28
 
-[+] New/ReNewed SSL Certs (Gov|Mil) +2
+[+] New/ReNewed SSL Certs (Gov|Mil): +2
 
 
 ```
