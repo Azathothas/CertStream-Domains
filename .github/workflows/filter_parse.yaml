@@ -1,0 +1,138 @@
+name: ⚓ Filter | Parse 🔰 
+# This will likely increase as Repo Size gets bigger over time
+#MAX_RUNTIME: 30-45 Mins
+on:
+  workflow_dispatch: # Whenever manually run from actions-tab
+#  schedule:
+#    - cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
+#------------------------------------------------------------------------------------#
+jobs:
+  ScopeGen:
+    runs-on: ubuntu-latest
+    #timeout-minutes: 45 # Can't afford to finish the 2000 Minutes quotes    
+    permissions:
+      contents: write
+      
+    steps:        
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: main  
+
+      - name: Install Coreutils
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          sudo apt update -y
+          sudo apt install coreutils curl dos2unix jq moreutils wget -y
+          # Again just because
+          sudo apt install coreutils curl dos2unix jq moreutils wget -y
+        continue-on-error: true
+
+      - name: Install eget
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          # eget for bins
+          sudo wget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget" -O "/usr/local/bin/eget"
+          sudo chmod +xwr "/usr/local/bin/eget"
+        continue-on-error: false
+
+      - name: Install Deps
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #anew
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/anew" --to "/usr/local/bin/anew"
+          #asn
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/asn" --to "/usr/local/bin/asn"
+          #asnmap
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/asnmap" --to "/usr/local/bin/asnmap"
+          #cut-cdn
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cut-cdn" --to "/usr/local/bin/cut-cdn"          
+          # dirstat-rs for tree
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ds" --to "/usr/local/bin/ds"          
+          #dnsx
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dnsx" --to "/usr/local/bin/dnsx"
+          #HTTPx
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/httpx" --to "/usr/local/bin/httpx"
+          #inscope
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/inscope" --to "/usr/local/bin/inscope"
+          #mapcidr
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mapcidr" --to "/usr/local/bin/mapcidr"
+          #scopegen
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scopegen" --to "/usr/local/bin/scopegen"
+          #scopeview
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scopeview" --to "/usr/local/bin/scopeview"
+          #spk
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/spk" --to "/usr/local/bin/spk"
+          #yq
+          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yq" --to "/usr/local/bin/yq"
+        continue-on-error: true
+
+      - name: Archive Stales
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #Create Archive Dir
+          mkdir -p "$GITHUB_WORKSPACE/main/Raw/Archive"
+          #Remove +7 days 
+          find "$GITHUB_WORKSPACE/main/Raw/Archive" -name "*.7z" -type f -mtime +8 -exec rm {} \;
+          # Find .7z files older than 13 hours & Archive
+          find "$GITHUB_WORKSPACE/main/Raw/Latest" -name "*.7z" -type f -mmin +780 -exec mv {} "$GITHUB_WORKSPACE/main/Raw/Archive" \;
+          # Update new time metadata
+          find "$GITHUB_WORKSPACE/main/Raw/Archive" -name "*.7z" -exec touch {} \;
+
+      - name: Parse New .7z
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #chdir to /tmp
+          mkdir -p "/tmp/Unzipped" ; cd "/tmp/Unzipped"
+          #Copy .7z
+          cp $GITHUB_WORKSPACE/main/Raw/Latest/*.7z /tmp/Unzipped
+          #Extract
+          find "/tmp/Unzipped" -iname "certstream*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
+          #Del .7z
+          find "/tmp/Unzipped" -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
+          #Cat {} +
+          find "/tmp/Unzipped" -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "/tmp/certstream_domains.txt" ; wc -l < "/tmp/certstream_domains.txt"
+
+      - name: Filter 🇳🇵 ccTLDs
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          mkdir -p "$GITHUB_WORKSPACE/main/Data/np_ccTLDs"
+          cd "$GITHUB_WORKSPACE/main/Data/np_ccTLDs"
+          #Last24Hrs (ALL)
+          grep -Ei 'com\.np|coop\.np|edu\.np|gov\.np|info\.np|mil\.np|name\.np|net\.np|org\.np' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h.txt"
+          #Last24Hrs (Gov & Mil)
+          grep -Ei 'gov\.np|mil\.np' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_gov_mil_24h.txt"
+          #Last24Hrs (Edu)
+          grep -Ei 'edu\.np' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_edu_24h.txt"
+        continue-on-error: true
+
+      - name: Get DateTime
+        run: |
+          # Date Time
+          NEPALI_TIME=$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')
+          echo "NEPALI_TIME=$NEPALI_TIME" >> $GITHUB_ENV
+          
+      - name: Git Pull
+        run: |
+           cd "$GITHUB_WORKSPACE/main" && git pull origin main
+        continue-on-error: true
+        
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          repository: ./main        
+          commit_user_name: Azathothas # defaults to "github-actions[bot]"
+          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "✅ ⚓ Filter | Parsed 🔰 CertStream Data 🌊 <-- ${{ env.NEPALI_TIME }} ⌚"
+          push_options: '--force'
