@@ -101,7 +101,7 @@ echo -e "\n"
 # Runs for 6.0 H (+ 40 Mins) | 400 Mins
  #timeout -k 1m 400m certstream --full --json | jq -r '.data.leaf_cert.all_domains[]' > "/tmp/certstream_domains.txt"
  echo -e "\n [+] Streaming...\n"
- timeout -k 1m 400m certstream > "/tmp/certstream_domains.txt"
+ timeout -k 1m 05m certstream > "/tmp/certstream_domains.txt"
 #Filter & Parse
  #Remove Spaces
   sed -E '/^[[:space:]]*$/d' -i "/tmp/certstream_domains.txt"
