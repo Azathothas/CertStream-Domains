@@ -94,23 +94,9 @@ set +x
 #fetch Script
 eget "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/scrape_certs_certstream_segfault.sh" --to "$HOME/bin/scrape_certs_certstream_segfault" && chmod +xwr "$HOME/bin/scrape_certs_certstream_segfault"
 
-#Kill Stale Processes
-kill_stale_procs()
-  {
-  #procs
-   pgrep --full certstream | xargs kill -9
-   pgrep --full inscope | xargs kill -9
-   #Files 
-   find "/tmp" -maxdepth 1 -name '*certstream*' -exec rm {} -rf \; 2>/dev/null
-   find "/tmp" -maxdepth 1 -name '*Automata*' -exec rm {} -rf \; 2>/dev/null
-   find "/tmp" -maxdepth 1 -name '*.log' -exec rm {} -rf \; 2>/dev/null
-   find "/tmp" -maxdepth 1 -name '*.md' -exec rm {} -rf \; 2>/dev/null
-   find "/tmp" -maxdepth 1 -name '*.txt' -exec rm {} -rf \; 2>/dev/null
-  }
- #Export
- export -f kill_stale_procs
 #Run Script
-  nohup sh -c 'while :; do kill_stale_procs && bash $HOME/bin/scrape_certs_certstream_segfault_init && sleep 05 && kill_stale_procs && sleep 05; done' > /dev/null 2>&1 &
+ echo -e "\n[+] Starting CertStream in Infinite Loop"
+  nohup sh -c 'while :; bash $HOME/bin/scrape_certs_certstream_segfault_init && sleep 05; done' > /dev/null 2>&1 &
 # if pgrep --full "certstream" > /dev/null; then
 #   echo -e "\n[+] CertStream already Running"
 #   ps aux | grep -i "certstream"
