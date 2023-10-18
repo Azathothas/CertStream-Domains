@@ -1,2 +1,16 @@
+adokalikot.gov.np
+api-rms.ndrrma.gov.np
+apps.lungrimun.gov.np
+ehrpmis.nra.gov.np
+piumustang.pmamp.gov.np
+rmsdoed.gov.np
+scwmo.bagamati.gov.np
+skhdmp.gov.np
+sports.lumbini.gov.np
+udbomorang.p1.gov.np
 wthc.gov.np
+www.adokalikot.gov.np
+www.piumustang.pmamp.gov.np
+www.rmsdoed.gov.np
+www.skhdmp.gov.np
 www.wthc.gov.np
