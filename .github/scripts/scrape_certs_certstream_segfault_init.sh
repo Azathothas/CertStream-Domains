@@ -110,12 +110,13 @@ kill_stale_procs()
  #Export
  export -f kill_stale_procs
 #Run Script
-if pgrep --full "certstream" > /dev/null; then
-  echo -e "\n[+] CertStream already Running"
-  ps aux | grep -i "certstream"
-  echo -e "\n[=] To kill: pgrep --full certstream | xargs kill -9"
-else
-  echo -e "\n[+] Starting CertStream in Infinite Loop"
-  nohup sh -c 'while :; do bash $HOME/bin/scrape_certs_certstream_segfault_init && sleep 05 && kill_stale_procs && sleep 05; done' > /dev/null 2>&1 &
-fi
+  nohup sh -c 'while :; do kill_stale_procs && bash $HOME/bin/scrape_certs_certstream_segfault_init && sleep 05 && kill_stale_procs && sleep 05; done' > /dev/null 2>&1 &
+# if pgrep --full "certstream" > /dev/null; then
+#   echo -e "\n[+] CertStream already Running"
+#   ps aux | grep -i "certstream"
+#   echo -e "\n[=] To kill: pgrep --full certstream | xargs kill -9"
+# else
+#   echo -e "\n[+] Starting CertStream in Infinite Loop"
+#   nohup sh -c 'while :; do bash $HOME/bin/scrape_certs_certstream_segfault_init && sleep 05 && kill_stale_procs && sleep 05; done' > /dev/null 2>&1 &
+# fi
 #EOF
