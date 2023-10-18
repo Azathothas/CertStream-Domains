@@ -26,6 +26,25 @@ RESET='\033[0m'
 NC='\033[0m'
 
 #----------------------------------------------------------------------------#
+#Kill Stale Processes
+kill_stale_procs()
+  {
+  #procs
+   pgrep --full inscope | xargs kill -9 2>/dev/null
+   #Files 
+   find "/tmp" -maxdepth 1 -name '*certstream*' -exec rm {} -rf \; 2>/dev/null
+   find "/tmp" -maxdepth 1 -name '*Automata*' -exec rm {} -rf \; 2>/dev/null
+   find "/tmp" -maxdepth 1 -name '*.log' -exec rm {} -rf \; 2>/dev/null
+   find "/tmp" -maxdepth 1 -name '*.md' -exec rm {} -rf \; 2>/dev/null
+   find "/tmp" -maxdepth 1 -name '*.txt' -exec rm {} -rf \; 2>/dev/null
+   find "/tmp" -maxdepth 1 -name '*.7z' -exec rm {} -rf \; 2>/dev/null
+   find "/tmp" -maxdepth 1 -name '*.zip' -exec rm {} -rf \; 2>/dev/null
+  }
+ #Export
+ export -f kill_stale_procs
+#Run Script
+  kill_stale_procs
+#----------------------------------------------------------------------------#
 #Setup Dirs
 mkdir -p "$HOME/bin"
 export PATH="$HOME/bin:$PATH"
