@@ -3,8 +3,8 @@ name: ⚓ Filter | Parse 🔰
 #MAX_RUNTIME: 30-45 Mins
 on:
   workflow_dispatch: # Whenever manually run from actions-tab
-#  schedule:
-#    - cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
+  schedule:
+    - cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
 #------------------------------------------------------------------------------------#
 jobs:
   Parse:
