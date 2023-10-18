@@ -127,7 +127,7 @@ jobs:
           #cat INFO
           cat "$GITHUB_WORKSPACE/main/INFO.md" > "$GITHUB_WORKSPACE/main/README.md"
           echo '---' >> "$GITHUB_WORKSPACE/main/README.md"
-          echo "- #### 🖨️ **Stats** `24Hr`⏲️"
+          echo "- #### 🖨️ **Stats** `24Hr`⏲️" >> "$GITHUB_WORKSPACE/main/README.md"
           echo '```console' >> "$GITHUB_WORKSPACE/main/README.md"
           echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
           #Total 
