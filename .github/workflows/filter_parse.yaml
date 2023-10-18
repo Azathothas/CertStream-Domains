@@ -83,8 +83,8 @@ jobs:
           mkdir -p "$GITHUB_WORKSPACE/main/Raw/Archive"
           #Remove +7 days 
           find "$GITHUB_WORKSPACE/main/Raw/Archive" -name "*.7z" -type f -mtime +8 -exec rm {} \;
-          # Find .7z files older than 13 hours & Archive
-          find "$GITHUB_WORKSPACE/main/Raw/Latest" -name "*.7z" -type f -mmin +780 -exec mv {} "$GITHUB_WORKSPACE/main/Raw/Archive" \;
+          # Find .7z files older than 24(+1) hours & Archive
+          find "$GITHUB_WORKSPACE/main/Raw/Latest" -name "*.7z" -type f -mmin +1500 -exec mv {} "$GITHUB_WORKSPACE/main/Raw/Archive" \;
           # Update new time metadata
           find "$GITHUB_WORKSPACE/main/Raw/Archive" -name "*.7z" -exec touch {} \;
 
