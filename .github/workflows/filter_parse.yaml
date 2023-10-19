@@ -84,7 +84,8 @@ jobs:
           #Remove +7 days 
           find "$GITHUB_WORKSPACE/main/Raw/Archive" -name "*.7z" -type f -mtime +8 -exec rm {} \;
           # Find .7z files older than 24(+1) hours & Archive
-          find "$GITHUB_WORKSPACE/main/Raw/Latest" -name "*.7z" -type f -mmin +1500 -exec mv {} "$GITHUB_WORKSPACE/main/Raw/Archive" \;
+          find "$GITHUB_WORKSPACE/main/Raw/Latest" -maxdepth 1 -type f ! -name "*$(date +'%Y_%m_%d')*" -exec mv {} "$GITHUB_WORKSPACE/main/Raw/Archive" \;
+          #find "$GITHUB_WORKSPACE/main/Raw/Latest" -name "*.7z" -type f -mmin +1500 -exec mv {} "$GITHUB_WORKSPACE/main/Raw/Archive" \;
           # Update new time metadata
           find "$GITHUB_WORKSPACE/main/Raw/Archive" -name "*.7z" -exec touch {} \;
 
