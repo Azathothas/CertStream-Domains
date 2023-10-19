@@ -4,8 +4,7 @@ name: 🛸 HTTPx | Screenshot 📷
 on:
   workflow_dispatch: # Whenever manually run from actions-tab
   schedule:
-    #- cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
-    - cron: "0 */4 * * *" #( Every 4 Hr )
+    - cron: "45 02 * * *" #( 02:45 AM UTC --> 08:30 AM Morning )
 #------------------------------------------------------------------------------------#
 jobs:
   Parse:
