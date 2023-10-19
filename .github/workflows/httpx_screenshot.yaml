@@ -80,11 +80,11 @@ jobs:
           # Presets
           set -x ; set +e
           #Dos2unix
-          dos2unix "$GITHUB_WORKSPACE/main/.github/scripts/scrape_certs_certstream.sh"
+          dos2unix "$GITHUB_WORKSPACE/main/.github/scripts/scrape_certs_certstream_httpx_gowitness.sh"
           #chmod
-          chmod +xwr "$GITHUB_WORKSPACE/main/.github/scripts/scrape_certs_certstream.sh"
+          chmod +xwr "$GITHUB_WORKSPACE/main/.github/scripts/scrape_certs_certstream_httpx_gowitness.sh"
           #Run
-          bash "$GITHUB_WORKSPACE/main/.github/scripts/scrape_certs_certstream.sh"
+          bash "$GITHUB_WORKSPACE/main/.github/scripts/scrape_certs_certstream_httpx_gowitness.sh"
         continue-on-error: true
 
       - name: Get DateTime
