@@ -1,5 +1,6 @@
 adobe.edu.np
 amarss.edu.np
+angelsparadise.edu.np
 apeuni.edu.np
 apply.nthmc.edu.np
 arunodayahss.edu.np
@@ -13,6 +14,7 @@ balmandir.edu.np
 baseeducation.edu.np
 bbacademy.edu.np
 bca.pkcampus.edu.np
+beforeeducation.icas.edu.np
 bhumeshworischool.edu.np
 bishnumemorialschool.edu.np
 c8i.edu.np
@@ -21,6 +23,7 @@ cpanel.deepsikha.edu.np
 cpanel.eternalshalom.edu.np
 cpanel.ghodaghodicampus.edu.np
 cpanel.gyandaacademy.edu.np
+cpanel.icas.edu.np
 cpanel.jlmc.edu.np
 cpanel.judgment.edu.np
 cpanel.khwopahss.edu.np
@@ -37,6 +40,7 @@ cpanel.tribhuwanacademy.edu.np
 cpcalendars.eternalshalom.edu.np
 cpcalendars.ghodaghodicampus.edu.np
 cpcalendars.gyandaacademy.edu.np
+cpcalendars.icas.edu.np
 cpcalendars.jlmc.edu.np
 cpcalendars.judgment.edu.np
 cpcalendars.mounteverest.edu.np
@@ -51,6 +55,7 @@ cpcalendars.tribhuwanacademy.edu.np
 cpcontacts.eternalshalom.edu.np
 cpcontacts.ghodaghodicampus.edu.np
 cpcontacts.gyandaacademy.edu.np
+cpcontacts.icas.edu.np
 cpcontacts.jlmc.edu.np
 cpcontacts.judgment.edu.np
 cpcontacts.mounteverest.edu.np
@@ -72,6 +77,7 @@ docs.el-computer.dipendrasecondaryschool.edu.np
 edu.npu.ac.th
 educrope.edu.np
 eternalshalom.edu.np
+eustudycenter.edu.np
 excelpsschool.edu.np
 farwes.edu.np
 fsummcdang.edu.np
@@ -81,6 +87,7 @@ ghsstulsipur.edu.np
 guacamole.trivenibarah.edu.np
 guideeducation.edu.np
 hredu.npu.ac.th
+icas.edu.np
 indrodaya.edu.np
 internationalcollege.edu.np
 jagdambapublicacademy.edu.np
@@ -92,6 +99,7 @@ jlmc.edu.np
 judgment.edu.np
 khalde.edu.np
 khwopahss.edu.np
+kmcpokhara.edu.np
 kriptan.nirmal.edu.np
 kumultimedia.edu.np
 lsptu.edu.np
@@ -101,6 +109,7 @@ mail.deepsikha.edu.np
 mail.eternalshalom.edu.np
 mail.ghodaghodicampus.edu.np
 mail.gyandaacademy.edu.np
+mail.icas.edu.np
 mail.janajyotischool.edu.np
 mail.jlmc.edu.np
 mail.judgment.edu.np
@@ -121,6 +130,8 @@ mamti.edu.np
 mbtu.edu.np
 mgbs.edu.np
 mhiits.edu.np
+milestonecollege.edu.np
+miracleeducation.edu.np
 mmamc.edu.np
 molihss.edu.np
 moodle.eemc.edu.np
@@ -133,6 +144,7 @@ nirmal.edu.np
 nps.edu.np
 ns1.nneapt.edu.np
 omcampus.edu.np
+optimusglobal.edu.np
 paschimanchalschool.edu.np
 pathshalagroup.edu.np
 pathway.edu.np
@@ -160,6 +172,7 @@ somahs.mtu.edu.np
 sparkcollege.edu.np
 staging.kafcol.edu.np
 support.nneapt.edu.np
+support.rabiacademy.edu.np
 sxs.edu.np
 tbs.edu.np
 tdtc.edu.np
@@ -167,10 +180,12 @@ tribhuwanacademy.edu.np
 uniglobal.edu.np
 viaeducation.edu.np
 vibereducation.edu.np
+vncollege.edu.np
 webdisk.dawn.edu.np
 webdisk.eternalshalom.edu.np
 webdisk.ghodaghodicampus.edu.np
 webdisk.gyandaacademy.edu.np
+webdisk.icas.edu.np
 webdisk.jlmc.edu.np
 webdisk.judgment.edu.np
 webdisk.khwopahss.edu.np
@@ -189,6 +204,7 @@ webmail.deepsikha.edu.np
 webmail.eternalshalom.edu.np
 webmail.ghodaghodicampus.edu.np
 webmail.gyandaacademy.edu.np
+webmail.icas.edu.np
 webmail.janajyotischool.edu.np
 webmail.jlmc.edu.np
 webmail.judgment.edu.np
@@ -208,6 +224,7 @@ worldandtrinity.edu.np
 worldintl.edu.np
 www.apply.nthmc.edu.np
 www.bca.pkcampus.edu.np
+www.beforeeducation.icas.edu.np
 www.dawn.edu.np
 www.dec.nast.edu.np
 www.deepsikha.edu.np

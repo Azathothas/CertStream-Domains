@@ -1,8 +1,10 @@
 adokalikot.gov.np
 api-rms.ndrrma.gov.np
+app.ag.gov.np
 apps.lungrimun.gov.np
 asbnepal.gov.np
 bajrabarahihospital.bagamati.gov.np
+chureboard.gov.np
 dadomustang.gov.np
 dadonuwakot.gov.np
 dfoachham.gov.np
@@ -15,6 +17,7 @@ dhanusha.dpr.gov.np
 dhdjiri.gov.np
 dlsubiratnagar.nlsip.gov.np
 dlsuhetauda.nlsip.gov.np
+dms.tulsipurmun.gov.np
 dtcorupandehi.gov.np
 ehrpmis.nra.gov.np
 esckanchanpur.gov.np
@@ -39,6 +42,7 @@ ntacall.nta.gov.np
 ntcdb.gov.np
 ocsis.p1.gov.np
 phedikholamun.gov.np
+photo.ntb.gov.np
 piumustang.pmamp.gov.np
 plmbis.p2.gov.np
 pradeshsabha.p3.gov.np
@@ -62,6 +66,7 @@ stateassembly.p1.gov.np
 stwsssp.gov.np
 training.moald.gov.np
 trishulihospital.gov.np
+tsc.gov.np
 udbomorang.p1.gov.np
 vhlsecsiraha.p2.gov.np
 vspcrukum.gov.np
@@ -71,6 +76,7 @@ wsdokailali.gov.np
 wthc.gov.np
 www.adokalikot.gov.np
 www.asbnepal.gov.np
+www.chureboard.gov.np
 www.dadomustang.gov.np
 www.dadonuwakot.gov.np
 www.dfoachham.gov.np
