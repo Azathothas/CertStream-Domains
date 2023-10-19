@@ -14,7 +14,9 @@
  cd "$GITHUB_WORKSPACE/main" && git pull origin main  
 #---------------------# 
 #GoWitness
-cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | sort -u | shuf > "/tmp/subs_live.txt"
+cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | sort -u -o "/tmp/subs_live.txt"
+#Random
+#cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | sort -u | shuf > "/tmp/subs_live.txt"
 #output dir is autocreated
 #Run gowitness
 # 1000 Hosts Screenshot ~ 30-45 mins
