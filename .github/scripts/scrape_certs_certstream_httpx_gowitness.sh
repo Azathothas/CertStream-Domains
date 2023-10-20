@@ -14,12 +14,13 @@
  cd "$GITHUB_WORKSPACE/main" && git pull origin main  
 #---------------------# 
 #GoWitness
-cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | sort -u > "/tmp/subs_live.txt"
+cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | grep -i 'http' | sort -u -o "/tmp/subs_live.txt"
 #Random
-#cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | sort -u | shuf > "/tmp/subs_live.txt"
+#cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | grep -i 'http' | sort -u | shuf > "/tmp/subs_live.txt"
 #output dir is autocreated
 #Run gowitness
 # 1000 Hosts Screenshot ~ 30-45 mins
+ echo ""
  gowitness file -f "/tmp/subs_live.txt" --fullpage --disable-db --debug --screenshot-path "/tmp/goshots"
 #Remove Dupes (Prefer Https)
  fdupes "/tmp/goshots" --order=name | grep -v '/https-' | xargs -I {} find {} -type f -delete
