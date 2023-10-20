@@ -1,7 +1,10 @@
 acc.itaharimun.gov.np
+accounts.gioms.doit.gov.np
 ancacouncil.gov.np
 asdp.gov.np
+bajrabarahihospital.bagamati.gov.np
 bardiyasuperzone.pmamp.gov.np
+bhaktapurhospital.gov.np
 childrights.gov.np
 chureboard.gov.np
 climate.mohp.gov.np
@@ -18,6 +21,7 @@ dfosunsari.gov.np
 dhorasuwa.gov.np
 dlsodhankuta.gov.np
 dlsokailali.gov.np
+dofe.gov.np
 dprobanke.gov.np
 dtcokaski.gov.np
 eacademy.ncrc.gov.np
@@ -26,6 +30,7 @@ epivet.gov.np
 eservice.itaharimun.gov.np
 ffsdolfd.bagamati.gov.np
 fwrms.gov.np
+gesimis.moics.gov.np
 hrdc.karnali.gov.np
 htcsp.gov.np
 icab.gov.np
@@ -35,11 +40,13 @@ katarikrishi.gov.np
 koshihospital.gov.np
 ktwr.gov.np
 lamjungamis.akc.gov.np
+lib.dmgnepal.gov.np
 loba.gov.np
 lpc.gov.np
 makwanpur.pmamp.gov.np
 moitfe.p4.gov.np
 mopid.p3.gov.np
+naksapass-api.shahidlakhanmun.gov.np
 nartc.gov.np
 ncfd.gov.np
 nprl.gov.np
@@ -67,6 +74,7 @@ wriddorupandehi.lumbini.gov.np
 www.ancacouncil.gov.np
 www.asdp.gov.np
 www.bardiyasuperzone.pmamp.gov.np
+www.bhaktapurhospital.gov.np
 www.childrights.gov.np
 www.chureboard.gov.np
 www.dadodailekh.gov.np
@@ -80,10 +88,12 @@ www.dfosunsari.gov.np
 www.dhorasuwa.gov.np
 www.dlsodhankuta.gov.np
 www.dlsokailali.gov.np
+www.dofe.gov.np
 www.dprobanke.gov.np
 www.dtcokaski.gov.np
 www.epivet.gov.np
 www.fwrms.gov.np
+www.gesimis.moics.gov.np
 www.htcsp.gov.np
 www.icab.gov.np
 www.itaharimun.gov.np
@@ -98,6 +108,7 @@ www.nprl.gov.np
 www.nptf.gov.np
 www.occ.gov.np
 www.pahs.gov.np
+www.piupdadeldhura.pmamp.gov.np
 www.poorhouseholds.gov.np
 www.ppsmo.gov.np
 www.ptc.gov.np
