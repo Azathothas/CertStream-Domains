@@ -5,6 +5,8 @@ bardiyasuperzone.pmamp.gov.np
 childrights.gov.np
 chureboard.gov.np
 climate.mohp.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
 dadodailekh.gov.np
 dadohumla.gov.np
 dadolalitpur.gov.np
@@ -43,8 +45,10 @@ ncfd.gov.np
 nprl.gov.np
 nptf.gov.np
 ntacall.nta.gov.np
+occ.gov.np
 pahs.gov.np
 parbat.akc.gov.np
+plgsp.gov.np
 pnh.koshi.gov.np
 pollution.gov.np
 poorhouseholds.gov.np
@@ -59,6 +63,7 @@ tax.itaharimun.gov.np
 udayapurdeo.cehrd.gov.np
 vftcitahari.dotm.gov.np
 vhlecdhankuta.p1.gov.np
+wriddorupandehi.lumbini.gov.np
 www.ancacouncil.gov.np
 www.asdp.gov.np
 www.bardiyasuperzone.pmamp.gov.np
@@ -91,6 +96,7 @@ www.nartc.gov.np
 www.ncfd.gov.np
 www.nprl.gov.np
 www.nptf.gov.np
+www.occ.gov.np
 www.pahs.gov.np
 www.poorhouseholds.gov.np
 www.ppsmo.gov.np
