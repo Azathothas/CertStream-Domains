@@ -9,12 +9,12 @@
  sort -u "/tmp/resolvers.txt" -o "/tmp/resolvers.txt"
 #---------------------# 
 #HTTPx (General)
- httpx -l "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h.txt" -r "/tmp/resolvers.txt" -ip -status-code -title -location -follow-host-redirects -include-chain -server -tech-detect -cdn -content-type -content-length -websocket -random-agent -filter-regex "The plain HTTP request was sent to" -disable-update-check -silent -no-color | tee "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt"
+# httpx -l "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h.txt" -r "/tmp/resolvers.txt" -ip -status-code -title -location -follow-host-redirects -include-chain -server -tech-detect -cdn -content-type -content-length -websocket -random-agent -filter-regex "The plain HTTP request was sent to" -disable-update-check -silent -no-color | tee "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt"
 #Git Pull
  cd "$GITHUB_WORKSPACE/main" && git pull origin main  
 #---------------------# 
 #GoWitness
-cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | sort -u -o "/tmp/subs_live.txt"
+cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | sort -u > "/tmp/subs_live.txt"
 #Random
 #cat "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_all_24h_httpx.txt" | awk '{print $1}' | sort -u | shuf > "/tmp/subs_live.txt"
 #output dir is autocreated
