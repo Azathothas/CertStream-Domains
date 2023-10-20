@@ -47,6 +47,7 @@ makwanpur.pmamp.gov.np
 moitfe.p4.gov.np
 mopid.p3.gov.np
 naksapass-api.shahidlakhanmun.gov.np
+naksapass.brindawanmun.gov.np
 nartc.gov.np
 ncfd.gov.np
 nprl.gov.np
@@ -55,6 +56,7 @@ ntacall.nta.gov.np
 occ.gov.np
 pahs.gov.np
 parbat.akc.gov.np
+piupdadeldhura.pmamp.gov.np
 plgsp.gov.np
 pnh.koshi.gov.np
 pollution.gov.np
