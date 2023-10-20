@@ -1,3 +1,4 @@
+acc.itaharimun.gov.np
 ancacouncil.gov.np
 asdp.gov.np
 bardiyasuperzone.pmamp.gov.np
@@ -17,7 +18,10 @@ dlsodhankuta.gov.np
 dlsokailali.gov.np
 dprobanke.gov.np
 dtcokaski.gov.np
+eacademy.ncrc.gov.np
+ebps.bardibasmun.gov.np
 epivet.gov.np
+eservice.itaharimun.gov.np
 ffsdolfd.bagamati.gov.np
 fwrms.gov.np
 hrdc.karnali.gov.np
@@ -47,8 +51,13 @@ poorhouseholds.gov.np
 ppsmo.gov.np
 ptc.gov.np
 rawabesi.rmun.gov.np
+rpplpokhara.gov.np
+sddorupandehi.lumbini.gov.np
 superzonekavre.pmamp.gov.np
 taragaon.gov.np
+tax.itaharimun.gov.np
+udayapurdeo.cehrd.gov.np
+vftcitahari.dotm.gov.np
 vhlecdhankuta.p1.gov.np
 www.ancacouncil.gov.np
 www.asdp.gov.np
@@ -72,6 +81,7 @@ www.epivet.gov.np
 www.fwrms.gov.np
 www.htcsp.gov.np
 www.icab.gov.np
+www.itaharimun.gov.np
 www.katarikrishi.gov.np
 www.koshihospital.gov.np
 www.ktwr.gov.np
@@ -85,5 +95,6 @@ www.pahs.gov.np
 www.poorhouseholds.gov.np
 www.ppsmo.gov.np
 www.ptc.gov.np
+www.rpplpokhara.gov.np
 www.superzonekavre.pmamp.gov.np
 www.taragaon.gov.np
