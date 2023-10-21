@@ -11,7 +11,7 @@
 > > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Latest" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do curl -LJO $url; done
 > >
 > > !# Extract all .7z files
-> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" -o "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
+> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" --to "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
 > > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
 > > 
 > > !# Cat all to a single text file
@@ -30,7 +30,7 @@
 > > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Archive" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do curl -LJO $url; done
 > >
 > > !# Extract all .7z files
-> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" -o "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
+> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" --to "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
 > > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
 > > 
 > > !# Cat all to a single text file
@@ -46,7 +46,7 @@
 > > - Instead, use [cemulus/crt](https://github.com/cemulus/crt) to check their history:
 > > > ```bash
 > > > !# Install:
-> > > sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crt" -o "/usr/local/bin/crt" && sudo chmod +xwr "/usr/local/bin/crt"
+> > > sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crt" --to "/usr/local/bin/crt" && sudo chmod +xwr "/usr/local/bin/crt"
 > > > ```
 > > > > - **Check**
 > > > ```bash
@@ -95,13 +95,13 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +7969124
+[+] New/ReNewed SSL Certs (ALL): +8823395
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +3213
-[+] New/ReNewed SSL Certs (Edu): +342
-[+] New/ReNewed SSL Certs (Gov|Mil): +32
+[+] New/ReNewed SSL Certs (ALL): +3467
+[+] New/ReNewed SSL Certs (Edu): +380
+[+] New/ReNewed SSL Certs (Gov|Mil): +33
 
 
 ```

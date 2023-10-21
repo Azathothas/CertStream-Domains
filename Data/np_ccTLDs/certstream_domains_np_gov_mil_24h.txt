@@ -1,5 +1,6 @@
 accounts.gioms.gov.np
 api-rms.ndrrma.gov.np
+bajrabarahihospital.bagamati.gov.np
 dpokapilvastu.postalservice.gov.np
 dprokailali.gov.np
 ehrpmis.nra.gov.np
