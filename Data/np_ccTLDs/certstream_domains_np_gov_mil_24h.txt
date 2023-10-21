@@ -19,7 +19,12 @@ horasuwa.bagamati.gov.np
 hosindhuli.bagamati.gov.np
 hosindhupalchowk.bagamati.gov.np
 lstc.p1.gov.np
+npncl.gov.np
+piudadeldhura.pmamp.gov.np
+poshanapp.fwd.gov.np
 seedlab.bagamati.gov.np
 www.dprokailali.gov.np
 www.lstc.p1.gov.np
+www.npncl.gov.np
+www.piudadeldhura.pmamp.gov.np
 www.seedlab.bagamati.gov.np
