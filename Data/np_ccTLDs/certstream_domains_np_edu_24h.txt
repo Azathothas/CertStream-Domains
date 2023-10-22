@@ -12,8 +12,11 @@ autodiscover.littlestep.edu.np
 bachpanschool.edu.np
 bajraeducure.edu.np
 balmikischool.edu.np
+baltara.edu.np
 bbsktm.edu.np
+bkschool.edu.np
 blog.machhindramavi.edu.np
+bnbnepal.edu.np
 britishgurkhacollege.edu.np
 bsskatal.edu.np
 chainpurjjss.edu.np
@@ -76,10 +79,12 @@ cpcontacts.xaviercollege.edu.np
 cv.snschool.edu.np
 deepakschool.edu.np
 demo.eternalshalom.edu.np
+demo.rabiacademy.edu.np
 diyopathshala.edu.np
 diyopathshala.edu.np.dabalikhabar.com
 dmcbaglung.edu.np
 dsmc.edu.np
+edu.npc-gmbh.de
 educrope.edu.np
 ekwa.edu.np
 elibrary.shiningstar.edu.np
@@ -96,12 +101,15 @@ ies.edu.np
 imp.thebritishcollege.edu.np
 internationalschool.edu.np
 iof.edu.np
+iworld.edu.np
 jssmyagdi.edu.np
 krisbish.edu.np
+lbes.edu.np
 letangcampus.edu.np
 littlestep.edu.np
 littlestep.edu.np.plic.edu.np
 lms.nilkanthacampus.edu.np
+mahendranagarmavi.edu.np
 mail.aaravinternational.edu.np
 mail.aplustech.edu.np
 mail.bstcollege.edu.np
@@ -131,6 +139,7 @@ mail.snsc.edu.np
 mail.udayamavi.edu.np
 mail.victoryacademy.edu.np
 mail.xaviercollege.edu.np
+mbtcdang.edu.np
 mounteverest.edu.np
 nacol.edu.np
 narayangopal.edu.np
@@ -138,6 +147,7 @@ narayanipublic.edu.np
 nefnepal.edu.np
 nimapvtltd.edu.np
 nistbanepa.edu.np
+peaceeducation.edu.np
 pentagon.edu.np
 phulbarimontessori.edu.np
 polygon.edu.np
@@ -146,7 +156,9 @@ pushas.edu.np
 rahtm.edu.np
 rammani.edu.np
 roseland.edu.np
+sarwajyoti.edu.np
 scd.edu.np
+schoolcommunity.edu.np
 shabdalaya.edu.np
 shankari.edu.np
 shantiniketanss.edu.np
@@ -154,6 +166,7 @@ shreekalikadevi.edu.np
 shreess.edu.np
 shreess.edu.np.kutoorganics.com
 slcc.edu.np
+sms.kuart.edu.np
 srpss.edu.np
 stsdipayal.edu.np
 test.gurukulca.edu.np
@@ -246,5 +259,6 @@ www.udayamavi.edu.np
 www.victoryacademy.edu.np
 www.voice.namunamachhindra.edu.np
 www.vps.cab.edu.np
+www.work.mahendranagarmavi.edu.np
 www.xaviercollege.edu.np
 xaviercollege.edu.np
