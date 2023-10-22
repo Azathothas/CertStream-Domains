@@ -15,7 +15,7 @@
 > > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
 > > 
 > > !# Cat all to a single text file
-> > find . -maxdepth 1 -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_latest.txt" ; wc -l < "./certstream_domains_latest.txt"
+> > find . -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_latest.txt" ; wc -l < "./certstream_domains_latest.txt"
 > > 
 > > !# Del .7z files
 > > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
@@ -34,7 +34,7 @@
 > > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
 > > 
 > > !# Cat all to a single text file
-> > find . -maxdepth 1 -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_7days.txt" ; wc -l < "./certstream_domains_7days.txt"
+> > find . -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_7days.txt" ; wc -l < "./certstream_domains_7days.txt"
 > > 
 > > !# Del .7z files
 > > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
