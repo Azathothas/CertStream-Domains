@@ -15,7 +15,7 @@
 > > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
 > > 
 > > !# Cat all to a single text file
-> > find . -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_latest.txt" ; wc -l < "./certstream_domains_latest.txt"
+> > find . -maxdepth 1 -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_latest.txt" ; wc -l < "./certstream_domains_latest.txt"
 > > 
 > > !# Del .7z files
 > > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
@@ -34,7 +34,7 @@
 > > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
 > > 
 > > !# Cat all to a single text file
-> > find . -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_7days.txt" ; wc -l < "./certstream_domains_7days.txt"
+> > find . -maxdepth 1 -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_7days.txt" ; wc -l < "./certstream_domains_7days.txt"
 > > 
 > > !# Del .7z files
 > > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
@@ -95,12 +95,12 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +5810166
+[+] New/ReNewed SSL Certs (ALL): +7029706
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +2043
-[+] New/ReNewed SSL Certs (Edu): +228
+[+] New/ReNewed SSL Certs (ALL): +2388
+[+] New/ReNewed SSL Certs (Edu): +250
 [+] New/ReNewed SSL Certs (Gov|Mil): +21
 
 

@@ -1,7 +1,11 @@
 aadimcollege.edu.np
 aadityafoundation.edu.np
+aaravinternational.edu.np
+aecg.edu.np
+ahs.edu.np
 alice.edu.np
 aplustech.edu.np
+asa.pcampus.edu.np
 asahieducation.edu.np
 asiamedicalcollege.edu.np
 autodiscover.littlestep.edu.np
@@ -17,6 +21,8 @@ chainpurjjss.edu.np.inspela.com
 citizencollege.edu.np
 cmsapi.citizencollege.edu.np
 comhtwww.dreamemt.edu.np
+cpanel.aaravinternational.edu.np
+cpanel.ahs.edu.np
 cpanel.chainpurjjss.edu.np
 cpanel.diyopathshala.edu.np
 cpanel.emergecomputer.edu.np
@@ -33,6 +39,8 @@ cpanel.slcc.edu.np
 cpanel.udayamavi.edu.np
 cpanel.victoryacademy.edu.np
 cpanel.xaviercollege.edu.np
+cpcalendars.aaravinternational.edu.np
+cpcalendars.ahs.edu.np
 cpcalendars.chainpurjjss.edu.np
 cpcalendars.diyopathshala.edu.np
 cpcalendars.emergecomputer.edu.np
@@ -48,6 +56,8 @@ cpcalendars.shreekalikadevi.edu.np
 cpcalendars.slcc.edu.np
 cpcalendars.victoryacademy.edu.np
 cpcalendars.xaviercollege.edu.np
+cpcontacts.aaravinternational.edu.np
+cpcontacts.ahs.edu.np
 cpcontacts.chainpurjjss.edu.np
 cpcontacts.diyopathshala.edu.np
 cpcontacts.emergecomputer.edu.np
@@ -75,6 +85,7 @@ ekwa.edu.np
 elibrary.shiningstar.edu.np
 emergecomputer.edu.np
 geniusschool.edu.np
+gnc.edu.np
 gramshikshya.edu.np
 greenlawns.edu.np
 guheshwari.edu.np
@@ -85,11 +96,13 @@ ies.edu.np
 imp.thebritishcollege.edu.np
 internationalschool.edu.np
 iof.edu.np
+jssmyagdi.edu.np
 krisbish.edu.np
 letangcampus.edu.np
 littlestep.edu.np
 littlestep.edu.np.plic.edu.np
 lms.nilkanthacampus.edu.np
+mail.aaravinternational.edu.np
 mail.aplustech.edu.np
 mail.bstcollege.edu.np
 mail.careercounselling.edu.np
@@ -103,6 +116,7 @@ mail.littlestep.edu.np
 mail.mounteverest.edu.np
 mail.nationalacademylahan.edu.np
 mail.nefnepal.edu.np
+mail.polygon.edu.np
 mail.raischool.edu.np
 mail.rammani.edu.np
 mail.saradanamunaacademy.edu.np
@@ -126,6 +140,7 @@ nimapvtltd.edu.np
 nistbanepa.edu.np
 pentagon.edu.np
 phulbarimontessori.edu.np
+polygon.edu.np
 prakasheducation.edu.np
 pushas.edu.np
 rahtm.edu.np
@@ -148,6 +163,8 @@ victoryacademy.edu.np
 virtualtour.thebritishcollege.edu.np
 voice.namunamachhindra.edu.np
 vps.cab.edu.np
+webdisk.aaravinternational.edu.np
+webdisk.ahs.edu.np
 webdisk.chainpurjjss.edu.np
 webdisk.diyopathshala.edu.np
 webdisk.emergecomputer.edu.np
@@ -163,6 +180,8 @@ webdisk.shreekalikadevi.edu.np
 webdisk.slcc.edu.np
 webdisk.victoryacademy.edu.np
 webdisk.xaviercollege.edu.np
+webmail.aaravinternational.edu.np
+webmail.ahs.edu.np
 webmail.chainpurjjss.edu.np
 webmail.diyopathshala.edu.np
 webmail.emergecomputer.edu.np
@@ -179,6 +198,8 @@ webmail.slcc.edu.np
 webmail.udayamavi.edu.np
 webmail.victoryacademy.edu.np
 webmail.xaviercollege.edu.np
+www.aaravinternational.edu.np
+www.aecg.edu.np
 www.alice.edu.np
 www.aplustech.edu.np
 www.applyonline.iof.edu.np
@@ -211,6 +232,7 @@ www.mounteverest.edu.np
 www.mscentrance.iof.edu.np
 www.nacol.edu.np
 www.nefnepal.edu.np
+www.polygon.edu.np
 www.prakasheducation.edu.np
 www.rammani.edu.np
 www.shabdalaya.edu.np
