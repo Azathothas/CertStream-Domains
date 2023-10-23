@@ -11,11 +11,11 @@
 > > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Latest" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do curl -LJO $url; done
 > >
 > > !# Extract all .7z files
-> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" --to "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
+> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" -o "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
 > > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
 > > 
 > > !# Cat all to a single text file
-> > find . -maxdepth 1 -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_latest.txt" ; wc -l < "./certstream_domains_latest.txt"
+> > find . -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_latest.txt" ; wc -l < "./certstream_domains_latest.txt"
 > > 
 > > !# Del .7z files
 > > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
@@ -30,11 +30,11 @@
 > > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Archive" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do curl -LJO $url; done
 > >
 > > !# Extract all .7z files
-> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" --to "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
+> > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" -o "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
 > > find . -iname "*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
 > > 
 > > !# Cat all to a single text file
-> > find . -maxdepth 1 -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_7days.txt" ; wc -l < "./certstream_domains_7days.txt"
+> > find . -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "./certstream_domains_7days.txt" ; wc -l < "./certstream_domains_7days.txt"
 > > 
 > > !# Del .7z files
 > > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
@@ -46,7 +46,7 @@
 > > - Instead, use [cemulus/crt](https://github.com/cemulus/crt) to check their history:
 > > > ```bash
 > > > !# Install:
-> > > sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crt" --to "/usr/local/bin/crt" && sudo chmod +xwr "/usr/local/bin/crt"
+> > > sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crt" -o "/usr/local/bin/crt" && sudo chmod +xwr "/usr/local/bin/crt"
 > > > ```
 > > > > - **Check**
 > > > ```bash
