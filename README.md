@@ -90,18 +90,18 @@
 > > 
 > > ```
 ---
-- #### 🖨️ **Stats** ⏲️ ➼ 2023_10_22
+- #### 🖨️ **Stats** ⏲️ ➼ 2023_10_23
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +9034173
+[+] New/ReNewed SSL Certs (ALL): +3486763
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +3207
-[+] New/ReNewed SSL Certs (Edu): +326
-[+] New/ReNewed SSL Certs (Gov|Mil): +21
+[+] New/ReNewed SSL Certs (ALL): +1221
+[+] New/ReNewed SSL Certs (Edu): +108
+[+] New/ReNewed SSL Certs (Gov|Mil): +8
 
 
 ```
