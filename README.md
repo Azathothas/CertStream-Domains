@@ -46,7 +46,7 @@
 > > - Instead, use [cemulus/crt](https://github.com/cemulus/crt) to check their history:
 > > > ```bash
 > > > !# Install:
-> > > sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crt" --to "/usr/local/bin/crt" && sudo chmod +xwr "/usr/local/bin/crt"
+> > > sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/crt" -o "/usr/local/bin/crt" && sudo chmod +xwr "/usr/local/bin/crt"
 > > > ```
 > > > > - **Check**
 > > > ```bash
