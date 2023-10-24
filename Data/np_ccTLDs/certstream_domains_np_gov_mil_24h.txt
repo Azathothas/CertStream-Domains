@@ -5,6 +5,7 @@ data.tulsipurmun.gov.np
 dms.tulsipurmun.gov.np
 ehrpmis.nra.gov.np
 hd.bagamati.gov.np
+news.kaligandakimunsyangja.gov.np
 np.lagani.lumbini.gov.np
 pollution.gov.np
 rajaswo.bihadimun.gov.np
