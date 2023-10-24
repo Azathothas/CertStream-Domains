@@ -2,6 +2,7 @@ balancesheet.ncfd.gov.np
 bknh.gov.np
 data.tulsipurmun.gov.np
 dms.tulsipurmun.gov.np
+ehrpmis.nra.gov.np
 hd.bagamati.gov.np
 np.lagani.lumbini.gov.np
 pollution.gov.np
