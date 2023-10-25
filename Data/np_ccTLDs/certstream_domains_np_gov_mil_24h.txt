@@ -1,4 +1,5 @@
 amis.gov.np
+api-rms.ndrrma.gov.np
 bajrabarahihospital.bagamati.gov.np
 bara.akc.gov.np
 bbdmp.gov.np
