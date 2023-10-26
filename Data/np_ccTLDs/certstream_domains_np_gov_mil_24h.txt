@@ -2,6 +2,8 @@ bajrabarahihospital.bagamati.gov.np
 ccp.sarkegadmun.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+ehrpmis.nra.gov.np
+gis.p1.gov.np
 ims.badimalikamun.gov.np
 kavre.akc.gov.np
 naksadata-api.dhunibeshimun.gov.np
