@@ -1,5 +1,6 @@
 api-rms.ndrrma.gov.np
 attendance.gov.np
+bajrabarahihospital.bagamati.gov.np
 dolfd.lumbini.gov.np
 market.sudurpashchim.gov.np
 mis.kubk.gov.np
