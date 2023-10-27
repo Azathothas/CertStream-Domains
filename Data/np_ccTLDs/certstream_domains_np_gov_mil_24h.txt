@@ -1,13 +1,3 @@
-bajrabarahihospital.bagamati.gov.np
-ccp.sarkegadmun.gov.np
-copomis.gov.np
-copomis.mocpa.gov.np
-ehrpmis.nra.gov.np
-gis.p1.gov.np
-ims.badimalikamun.gov.np
-kavre.akc.gov.np
-naksadata-api.dhunibeshimun.gov.np
-naksadata.dhunibeshimun.gov.np
+api-rms.ndrrma.gov.np
+market.sudurpashchim.gov.np
 ntacall.nta.gov.np
-rupandehi.vethos.gov.np
-www.kavre.akc.gov.np
