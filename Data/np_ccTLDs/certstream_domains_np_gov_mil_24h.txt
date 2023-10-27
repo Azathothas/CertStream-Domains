@@ -1,3 +1,9 @@
 api-rms.ndrrma.gov.np
+dolfd.lumbini.gov.np
 market.sudurpashchim.gov.np
+naksapass-api.ichchhakamanamun.gov.np
+naksapass.ichchhakamanamun.gov.np
 ntacall.nta.gov.np
+pollution.gov.np
+thdcmustang.gov.np
+www.thdcmustang.gov.np
