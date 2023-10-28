@@ -75,7 +75,7 @@
 > >  grep -Ei 'com\.np|coop\.np|edu\.np|gov\.np|info\.np|mil\.np|name\.np|net\.np|org\.np' "certstream_domains_np_24h.txt" | sort -u
 > >
 > > !# Parsed: (ISPs)
-> > grep -i 'cgnet.com.np\|classic.com.np\|ncell.axiata.com\|ncell.com.np\|nettv.com.np\|ntc.net.np\|snpl.net.np\|subisu.net.np\|vianet.com.np\|via.net.np\|viatv.com.np\|wlink.com.np\|wlinktech.com.np\|worldlink.com.np' | "certstream_domains_np_24h.txt" | sort -u
+> > grep -i 'cgnet.com.np\|classic.com.np\|ncell.axiata.com\|ncell.com.np\|nettv.com.np\|ntc.net.np\|snpl.net.np\|subisu.net.np\|vianet.com.np\|via.net.np\|viatv.com.np\|wlink.com.np\|wlinktech.com.np\|worldlink.com.np' "certstream_domains_np_24h.txt" | sort -u
 > >
 > > !# Grep for something Particular
 > > !# Example: List only .gov
