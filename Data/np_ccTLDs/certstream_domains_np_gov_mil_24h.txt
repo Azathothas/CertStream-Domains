@@ -11,6 +11,7 @@ belaurimun.bipadportal.gov.np
 benighatrorangmun.bipadportal.gov.np
 benihospital.gandaki.gov.np
 benimun.bipadportal.gov.np
+bghep.gov.np
 bhairabimun.bipadportal.gov.np
 biratnagarmun.bipadportal.gov.np
 birendranagarmun.bipadportal.gov.np
@@ -127,6 +128,7 @@ neelakanthamun.bipadportal.gov.np
 nepalacademy.gov.np
 nepalrailway.gov.np
 nistep.teacoffee.gov.np
+nrsc.gov.np
 nskrp.gov.np
 ocr.gov.np
 okhaldhunga.akc.gov.np
@@ -193,6 +195,7 @@ wlmmis.dofsc.gov.np
 wriddmahottari.p2.gov.np
 wssd3sindhupalchowk.bagamati.gov.np
 www.baitadihospital.gov.np
+www.bghep.gov.np
 www.covid19unifiedhospital.gov.np
 www.csiodadeldhura.gov.np
 www.csiomakawanpur.gov.np
