@@ -118,6 +118,8 @@ jobs:
           grep -Ei 'gov\.np|mil\.np' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_gov_mil_24h.txt"
           #Last24Hrs (Edu)
           grep -Ei 'edu\.np' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_edu_24h.txt"
+          #Last24Hrs (ISP)
+          grep -i 'cgnet.com.np\|classic.com.np\|ncell.axiata.com\|ncell.com.np\|nettv.com.np\|ntc.net.np\|snpl.net.np\|subisu.net.np\|vianet.com.np\|via.net.np\|viatv.com.np\|wlink.com.np\|wlinktech.com.np\|worldlink.com.np' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/np_ccTLDs/certstream_domains_np_isp_24h.txt"
         continue-on-error: true
 
       - name: Update README.md
