@@ -2,6 +2,7 @@ aathabismun.bipadportal.gov.np
 adboard.gov.np
 ag.gov.np
 api-rms.ndrrma.gov.np
+api.fwd.gov.np
 baglungmun.bipadportal.gov.np
 bagmati.bipadportal.gov.np
 bahudarmaimun.bipadportal.gov.np
