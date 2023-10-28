@@ -89,6 +89,7 @@ kapilvastuhospital.p5.gov.np
 karjanhamun.bipadportal.gov.np
 karnali.bipadportal.gov.np
 katahariyamun.bipadportal.gov.np
+kavrewatersupply.gov.np
 kedarasyumun.bipadportal.gov.np
 khairahanimun.bipadportal.gov.np
 khandachakramun.bipadportal.gov.np
@@ -158,6 +159,7 @@ saptakoshimun.bipadportal.gov.np
 sarawalmun.bipadportal.gov.np
 shahidnagarmun.bipadportal.gov.np
 sheyphoksundo.dnpwc.gov.np
+sims.sandhikharkamun.gov.np
 siraha.akc.gov.np
 sirahamun.bipadportal.gov.np
 sism.doe.gov.np
@@ -202,6 +204,7 @@ www.doaa.gov.np
 www.dolfddipayal.gov.np
 www.eddmos.p5.gov.np
 www.gxmis.ntpmis.gov.np
+www.kavrewatersupply.gov.np
 www.kndc.gov.np
 www.leojhapa.gov.np
 www.mountain.dot.gov.np
