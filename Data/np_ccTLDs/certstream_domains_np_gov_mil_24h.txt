@@ -1,3 +1,4 @@
+analytics.sebon.gov.np
 attorneygeneral.gov.np
 bajrabarahihospital.bagamati.gov.np
 business.putalibazarmun.gov.np
@@ -10,8 +11,10 @@ dlsilam.gov.np
 dlsorautahat.gov.np
 dolakha.postalservice.gov.np
 dolfd.p5.gov.np
+dot.gov.np
 dotm.p1.gov.np
 dtcobaglung.gov.np
+ehrpinspection.nra.gov.np
 etc.gandaki.gov.np
 frspokhara.gov.np
 fuelmis.narainapurmun.gov.np
@@ -21,6 +24,7 @@ mountain.dot.gov.np
 ndrrma.gov.np
 neb.gov.np
 nprp.narc.gov.np
+nrsc.gov.np
 ntacall.nta.gov.np
 palpahospital.gov.np
 plrcip.gov.np
@@ -53,6 +57,7 @@ www.csitc.gov.np
 www.dfojajarkot.gov.np
 www.dlsilam.gov.np
 www.dlsorautahat.gov.np
+www.dot.gov.np
 www.dtcobaglung.gov.np
 www.etc.gandaki.gov.np
 www.frspokhara.gov.np
