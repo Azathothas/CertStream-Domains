@@ -17,6 +17,7 @@ database.dnpwc.gov.np
 dfojajarkot.gov.np
 dlsilam.gov.np
 dlsorautahat.gov.np
+dmis.karnali.gov.np
 dmtc.apf.gov.np
 dmts.apf.gov.np
 dolakha.postalservice.gov.np
@@ -39,6 +40,7 @@ nationalgeoportal.gov.np
 ndrrma.gov.np
 neb.gov.np
 newsms.doit.gov.np
+npctr.nhrc.gov.np
 nprp.narc.gov.np
 nrsc.gov.np
 nsc.gov.np
@@ -46,6 +48,7 @@ ntacall.nta.gov.np
 palpahospital.gov.np
 pis.molcpa.gov.np
 plrcip.gov.np
+pmis.kedarasyumun.gov.np
 pmis.parshurammun.gov.np
 pollution.gov.np
 ppis.gandaki.gov.np

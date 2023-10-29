@@ -8,7 +8,6 @@ api.giwms.gov.np
 attendance.gov.np
 baglungmun.bipadportal.gov.np
 bagmati.bipadportal.gov.np
-bagwanijanakpur.gov.np
 bahudarmaimun.bipadportal.gov.np
 baitadihospital.gov.np
 bajrabarahihospital.bagamati.gov.np
@@ -68,7 +67,6 @@ dhaulagirizonalhospital.gov.np
 dhs.gov.np
 digobikas.gov.np
 dlh.harinagarmun.gov.np
-dlsodolpa.gov.np
 dlsolalitpur.gov.np
 dms.tulsipurmun.gov.np
 doaa.gov.np
@@ -150,12 +148,9 @@ mc.p2.gov.np
 melamchikrishi.gov.np
 melamchimun.bipadportal.gov.np
 mil.np.prostats.org
-mil.np.webzz.us
 mis.doacrop.gov.np
 mis.kubk.gov.np
-moile.p1.gov.np
 mopid.bagamati.gov.np
-moud.gov.np
 mountain.dot.gov.np
 mpss.ddc.gov.np
 naksadata-api.dhunibeshimun.gov.np
@@ -163,7 +158,6 @@ naksadata.dhunibeshimun.gov.np
 naksadata.panautimun.gov.np
 naksapass-api.ichchhakamanamun.gov.np
 naksapass.ichchhakamanamun.gov.np
-naksapass.panautimun.gov.np
 narahamun.bipadportal.gov.np
 narainapurmun.bipadportal.gov.np
 narharinathmun.bipadportal.gov.np
@@ -177,20 +171,16 @@ np.lagani.lumbini.gov.np
 nrsc.gov.np
 nskrp.gov.np
 ntacall.nta.gov.np
-oca.gandaki.gov.np
 ocr.gov.np
 okhaldhunga.akc.gov.np
-old.nsc.gov.np
 panchadewalbinayakmun.bipadportal.gov.np
 panchapurimun.bipadportal.gov.np
-panchthar.akc.gov.np
 parsagadhimun.bipadportal.gov.np
 phatuwabijaypurmun.bipadportal.gov.np
 piugorkha.pmamp.gov.np
 piusurkhet.pmamp.gov.np
 planning.triyugamun.gov.np
 plmbis.p5.gov.np
-pmis.moics.gov.np
 pokharamun.bipadportal.gov.np
 pollution.gov.np
 ppc.koshi.gov.np
@@ -208,7 +198,6 @@ raptimunchitwan.bipadportal.gov.np
 raptisonarimun.bipadportal.gov.np
 raranationalpark.gov.np
 ratnanagarmun.bipadportal.gov.np
-revenue.kaligandakimunsyangja.gov.np
 rjkip.gov.np
 rupandehi.vethos.gov.np
 rwmp.gov.np
@@ -256,7 +245,6 @@ wlmmis.dofsc.gov.np
 wrfd.gov.np
 wriddmahottari.p2.gov.np
 wssd3sindhupalchowk.bagamati.gov.np
-www.bagwanijanakpur.gov.np
 www.baitadihospital.gov.np
 www.balancesheet.ncfd.gov.np
 www.bara.akc.gov.np
@@ -270,7 +258,6 @@ www.deoc.gov.np
 www.dfodadeldhura.gov.np
 www.dhaulagirizonalhospital.gov.np
 www.digobikas.gov.np
-www.dlsodolpa.gov.np
 www.dlsolalitpur.gov.np
 www.doaa.gov.np
 www.dolfddipayal.gov.np
@@ -282,14 +269,12 @@ www.kavrewatersupply.gov.np
 www.kndc.gov.np
 www.leojhapa.gov.np
 www.melamchikrishi.gov.np
-www.moud.gov.np
 www.mountain.dot.gov.np
 www.nepalacademy.gov.np
 www.nepalfoods.gov.np
 www.nepalrailway.gov.np
 www.nskrp.gov.np
 www.ocr.gov.np
-www.panchthar.akc.gov.np
 www.raranationalpark.gov.np
 www.rjkip.gov.np
 www.rwmp.gov.np
