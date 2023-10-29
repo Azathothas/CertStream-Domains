@@ -136,7 +136,7 @@ jobs:
           echo "${{ secrets.RCLONE_CF_R2_PUB }}" > "$HOME/.rclone.conf"
           #Upload
           echo -e "\n[+] Uploading Results to R2 (rclone)\n"
-          rclone copy "/tmp/certstream_domains.txt" "r2:cf-prasha-10gb-pub/certstream_domains_latest.txt" --progress >/dev/null 2>&1
+          rclone copyto "/tmp/certstream_domains.txt" "r2:cf-prasha-10gb-pub/certstream_domains_latest.txt" --progress --check-first  >/dev/null 2>&1
           
       - name: Update README.md
         run: |
