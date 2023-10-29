@@ -136,7 +136,7 @@ jobs:
           #Stats
           export SSL_7DAYS_TOTAL="$(wc -l < /tmp/certstream_domains_7days.txt)"
           echo "SSL_7DAYS_TOTAL=$SSL_7DAYS_TOTAL" >> $GITHUB_ENV
-          echo -e "\n[+] Total Subs (certstream_domains_7days.txt): ${{ env.SSL_7DAYS_TOTAL }}"
+          echo -e "\n[+] Total Subs (certstream_domains_7days.txt): $$SSL_7DAYS_TOTAL"
           echo -e "[+] Total Size (certstream_domains_7days.txt): $(du -h /tmp/certstream_domains_7days.txt | awk '{print $1}')\n"
         continue-on-error: true
         
