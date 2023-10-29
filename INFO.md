@@ -2,7 +2,14 @@
 > 1. All the [Scripts](https://github.com/Azathothas/CertStream-Domains/tree/main/.github/scripts) & [Tools](https://github.com/Azathothas/Arsenal/tree/main/certstream) used are OpenSource & Public, as such all this ***comes with no Guarantees | Liabilities.***
 > 2. Due to [Github's File Size Limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits), all data is Compressed using [7z](https://www.7-zip.org/faq.html).
 > 3. View ***Latest*** Data from the **last 24 Hr** at: [Raw/Latest](https://github.com/Azathothas/CertStream-Domains/tree/main/Raw/Latest)
-> > - `Download` || `Parse`
+> > - **`Download`** : [certstream_domains_latest.txt](https://r2-pub.prashansa.com.np/certstream_domains_latest.txt) (Warning: May Crash Browser)
+> > > ```bash
+> > > !# Download with wget
+> > >  wget "https://r2-pub.prashansa.com.np/certstream_domains_latest.txt"
+> > > !# View without Downloading (Spikes Memory Usage)
+> > >  curl -qfsSL "https://r2-pub.prashansa.com.np/certstream_domains_latest.txt" | less
+> > > ```
+> > - **`Parse`** (If for some reason, you want to do it manually)
 > > ```bash
 > > !# Create a Directory
 > > mkdir "./certstream-latest" && cd "./certstream-latest"
@@ -72,10 +79,10 @@
 > > CG Net | ClassicTech | Ncell | NTC | Subisu | Vianet | Wordlink
 > > 
 > > !# Parsed: (Main)
-> >  grep -Ei 'com\.np|coop\.np|edu\.np|gov\.np|info\.np|mil\.np|name\.np|net\.np|org\.np' "certstream_domains_np_24h.txt" | sort -u
+> >  grep -Ei 'com\.np|coop\.np|edu\.np|gov\.np|info\.np|mil\.np|name\.np|net\.np|org\.np' "certstream_domains_latest.txt" | sort -u
 > >
 > > !# Parsed: (ISPs)
-> > grep -i 'cgnet.com.np\|classic.com.np\|ncell.axiata.com\|ncell.com.np\|nettv.com.np\|ntc.net.np\|snpl.net.np\|subisu.net.np\|vianet.com.np\|via.net.np\|viatv.com.np\|wlink.com.np\|wlinktech.com.np\|worldlink.com.np' "certstream_domains_np_24h.txt" | sort -u
+> > grep -i 'cgnet.com.np\|classic.com.np\|ncell.axiata.com\|ncell.com.np\|nettv.com.np\|ntc.net.np\|snpl.net.np\|subisu.net.np\|vianet.com.np\|via.net.np\|viatv.com.np\|wlink.com.np\|wlinktech.com.np\|worldlink.com.np' "certstream_domains_latest.txt" | sort -u
 > > 
 > > !# Grep for something Particular
 > > !# Example: List only .gov
@@ -93,5 +100,8 @@
 > > !# Only gov.np | mil.np
 > > wget "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_gov_mil_24h.txt"
 > > View: curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_gov_mil_24h.txt" | less
-> > 
+> >
+> > !# Only ISP
+> > wget "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_isp_24h.txt"
+> > View: curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_isp_24h.txt" | less
 > > ```
