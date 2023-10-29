@@ -21,13 +21,13 @@ jobs:
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@v3.0.0
         with:
-          FOLDER: "$GITHUB_WORKSPACE/main/Raw"     #directory to generate index
+          FOLDER: Raw     #directory to generate index
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: 'Raw'     # upload generated folder
-        continue-on-error: true          
+          path: Raw     # upload generated folder
+        continue-on-error: true
 #------------------------------------------------------------------------------------#  
   deploy:
     needs: list
