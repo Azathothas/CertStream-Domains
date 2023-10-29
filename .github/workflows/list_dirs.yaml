@@ -3,9 +3,9 @@ name: 🛸List as Dirs 🗂️
 #MAX_RUNTIME: 30-45 Mins
 on:
   workflow_dispatch: # Whenever manually run from actions-tab
-  schedule:
+  #schedule:
     #- cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
-    - cron: "0 */4 * * *" #( Every 4 Hr )
+    #- cron: "0 */4 * * *" #( Every 4 Hr )
 #------------------------------------------------------------------------------------#
 jobs:
 #Main Job to Upload Dirs/Files as Gh Artifacts 
