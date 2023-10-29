@@ -53,7 +53,10 @@
 > > !# Del .7z files
 > > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
 > > ```
-> 5. Do Whatever/However you want ! 
+> 5. Do Whatever/However you want !
+> > - **`Blue Teamers`**: *Monitor* for `Phising Domains`
+> > - **`Red Teamers`** || **`Bug Bounty Hunters`** : *Monitor* for **`new assets`** for your target
+> > - **`Statistician`** || **`Chad Data Analyst`** : *`Have Fun`*
 ---
 - #### **Data**
 > > - **Info**: [Certificate Transparency Logs](https://certificate.transparency.dev/) only list **issuance** of website certificates. This data ***may not necessarily indicate newly registered domains***, as Certificates **expire** and are **renewed frequently**.
