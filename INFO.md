@@ -56,7 +56,7 @@
 > 5. Do Whatever/However you want !
 > > - **`Blue Teamers`**: *Monitor* for `Phising Domains`
 > > - **`Red Teamers`** || **`Bug Bounty Hunters`** : *Monitor* for **`new assets`** for your target
-> > - **`Statistician`** || **`Chad Data Analyst`** : *`Have Fun`*
+> > - **`Statisticians`** || **`Chad Data Analysts`** : *`Have Fun`*
 ---
 - #### **Data**
 > > - **Info**: [Certificate Transparency Logs](https://certificate.transparency.dev/) only list **issuance** of website certificates. This data ***may not necessarily indicate newly registered domains***, as Certificates **expire** and are **renewed frequently**.
