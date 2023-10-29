@@ -28,7 +28,14 @@
 > > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
 > > ```
 > 4. View ***Archival*** Data upto **7 Days** at: [Raw/Archive](https://github.com/Azathothas/CertStream-Domains/tree/main/Raw/Archive)
-> > - `Download` || `Parse`
+> > - **`Download`** : [certstream_domains_weekly.txt](https://r2-pub.prashansa.com.np/certstream_domains_weekly.txt) (Warning: May Crash Browser)
+> > > ```bash
+> > > !# Download with wget
+> > >  wget "https://r2-pub.prashansa.com.np/certstream_domains_weekly.txt"
+> > > !# View without Downloading (DANGEROUS for your CPU/RAM)
+> > >  curl -qfsSL "https://r2-pub.prashansa.com.np/certstream_domains_weekly.txt" | less
+> > > ``` 
+> > - **`Parse`** (If for some reason, you want to do it manually)
 > > ```bash
 > > !# Create a Directory
 > > mkdir "./certstream-7days" && cd "./certstream-7days"
