@@ -1,10 +1,12 @@
 analytics.sebon.gov.np
+api-krishi.walingmun.gov.np
 attorneygeneral.gov.np
 bajrabarahihospital.bagamati.gov.np
 business.putalibazarmun.gov.np
 charikothospital.gov.np
 chautarahospital.gov.np
 csitc.gov.np
+dartachalani.siyarimun.gov.np
 database.dnpwc.gov.np
 dfojajarkot.gov.np
 dlsilam.gov.np
@@ -28,6 +30,7 @@ nrsc.gov.np
 ntacall.nta.gov.np
 palpahospital.gov.np
 plrcip.gov.np
+pollution.gov.np
 ppis.gandaki.gov.np
 ppsconline.p5.gov.np
 pradeshsabha.koshi.gov.np
