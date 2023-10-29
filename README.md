@@ -53,7 +53,10 @@
 > > !# Del .7z files
 > > find . -maxdepth 1 -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
 > > ```
-> 5. Do Whatever/However you want ! 
+> 5. Do Whatever/However you want !
+> > - **`Blue Teamers`**: *Monitor* for `Phising Domains`
+> > - **`Red Teamers`** || **`Bug Bounty Hunters`** : *Monitor* for **`new assets`** for your target
+> > - **`Statisticians`** || **`Chad Data Analysts`** : *`Have Fun`*
 ---
 - #### **Data**
 > > - **Info**: [Certificate Transparency Logs](https://certificate.transparency.dev/) only list **issuance** of website certificates. This data ***may not necessarily indicate newly registered domains***, as Certificates **expire** and are **renewed frequently**.
@@ -77,6 +80,7 @@
 > > > crt -json "rmb.info.np"
 > > >  ```
 > ---
+> Note: This is _just an example_, the full data contains logs from **every country** (**`TLD`**), **Worldwide**.
 > - [**np-ccTLDs**](https://register.com.np/np-ccTLDs)
 > > ```mathematica
 > > !# Ref: https://register.com.np/np-ccTLDs
@@ -118,13 +122,13 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +5683040
+[+] New/ReNewed SSL Certs (ALL): +6857631
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +1980
-[+] New/ReNewed SSL Certs (Edu): +187
-[+] New/ReNewed SSL Certs (Gov|Mil): +77
+[+] New/ReNewed SSL Certs (ALL): +2558
+[+] New/ReNewed SSL Certs (Edu): +222
+[+] New/ReNewed SSL Certs (Gov|Mil): +102
 [+] New/ReNewed SSL Certs (ISPs): +1
 
 
