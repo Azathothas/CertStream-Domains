@@ -24,7 +24,7 @@ jobs:
           FOLDER: Raw     #directory to generate index
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           path: Raw     # upload generated folder
         continue-on-error: true
