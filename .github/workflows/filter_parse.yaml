@@ -190,7 +190,8 @@ jobs:
           #--------------#        
           cd "$GITHUB_WORKSPACE/main"
           #cat INFO
-          cat "$GITHUB_WORKSPACE/main/INFO.md" > "$GITHUB_WORKSPACE/main/README.md"
+          #cat "$GITHUB_WORKSPACE/main/INFO.md" > "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "\n" > "$GITHUB_WORKSPACE/main/README.md"
           #Last 24 Hr
           echo '---' >> "$GITHUB_WORKSPACE/main/README.md"
           echo -e "- #### 🖨️ **Stats** \`24Hr\`⏲️ ➼ $(date +'%Y_%m_%d')" >> "$GITHUB_WORKSPACE/main/README.md"
@@ -226,6 +227,9 @@ jobs:
           echo '```' >> "$GITHUB_WORKSPACE/main/README.md"
           echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
           echo '---' >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
+          #cat INFO
+          cat "$GITHUB_WORKSPACE/main/INFO.md" >> "$GITHUB_WORKSPACE/main/README.md"          
         continue-on-error: true
         
       - name: Get DateTime
