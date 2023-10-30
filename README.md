@@ -1,3 +1,43 @@
+
+
+---
+- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2023_10_30
+```console
+
+
+--> 🌐 Total
+[+] New/ReNewed SSL Certs (ALL): +2292374
+
+
+--> 🇳🇵 np_ccTLDs
+[+] New/ReNewed SSL Certs (ALL): +651
+[+] New/ReNewed SSL Certs (Edu): +61
+[+] New/ReNewed SSL Certs (Gov|Mil): +42
+[+] New/ReNewed SSL Certs (ISPs): +0
+
+
+```
+
+---
+- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2023_10_30 <--> 2023_10_23
+```console
+
+
+--> 🌐 Total
+[+] New/ReNewed SSL Certs (ALL): +54640816
+
+
+--> 🇳🇵 np_ccTLDs
+[+] New/ReNewed SSL Certs (ALL): +17022
+[+] New/ReNewed SSL Certs (Edu): +1660
+[+] New/ReNewed SSL Certs (Gov|Mil): +386
+[+] New/ReNewed SSL Certs (ISPs): +1
+
+
+```
+
+---
+
 - [**Automated** | ***UpToDate***] Daily (@24 Hrs) Dumps of [CertStream](https://certstream.calidog.io/) [Certificate Logs](https://certificate.transparency.dev/) **Data**
 > 1. All the [Scripts](https://github.com/Azathothas/CertStream-Domains/tree/main/.github/scripts) & [Tools](https://github.com/Azathothas/Arsenal/tree/main/certstream) used are OpenSource & Public, as such all this ***comes with no Guarantees | Liabilities.***
 > 2. Due to [Github's File Size Limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits), all data is Compressed using [7z](https://www.7-zip.org/faq.html).
@@ -116,40 +156,3 @@
 > > wget "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_isp_24h.txt"
 > > View: curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_isp_24h.txt" | less
 > > ```
----
-- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2023_10_29
-```console
-
-
---> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +8508918
-
-
---> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +3084
-[+] New/ReNewed SSL Certs (Edu): +280
-[+] New/ReNewed SSL Certs (Gov|Mil): +105
-[+] New/ReNewed SSL Certs (ISPs): +1
-
-
-```
-
----
-- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2023_10_29 <--> 2023_10_22
-```console
-
-
---> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +47969579
-
-
---> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +14618
-[+] New/ReNewed SSL Certs (Edu): +1425
-[+] New/ReNewed SSL Certs (Gov|Mil): +289
-[+] New/ReNewed SSL Certs (ISPs): +0
-
-
-```
-
----
