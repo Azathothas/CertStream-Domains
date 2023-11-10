@@ -243,11 +243,13 @@ export -f tgbot_push_failed
  git config user.email "AjamX101@gmail.com"
  git config user.name "Azathothas"
 # Pull to sync updates
+ git config --global pull.rebase true
  git pull origin main
 # Add everything
  git add --all --verbose
  git commit -m "Segfault ($HOST_IP) --> CertStreamed SSL|TLS Certs ($SF_HOSTNAME)" 
-# Pull one last time  
+# Pull one last time
+ git config --global pull.rebase true
  git pull origin main
 # Finally push 
  # Try pushing
@@ -260,6 +262,7 @@ export -f tgbot_push_failed
     echo "GIT_PUSH_FAILED=true" >> $GITHUB_ENV 2>/dev/null
     #Wait few mins
     sleep 120
+    git config --global pull.rebase true
     git pull origin main
     # Check again
     if git push -u origin main; then
