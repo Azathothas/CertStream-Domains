@@ -1,7 +1,13 @@
+aptly.svcs.wlink.com.np
+apts.svcs.wlink.com.np
+atvbackend.nettv.com.np
 cpanel-00.wlink.com.np
 kbs.cgnet.com.np
 nettv.com.np
 pgw.ncell.axiata.com
 ported.wlink.com.np
+radldap.svcs.wlink.com.np
 speedtesthtd.ntc.net.np.prod.hosts.ooklaserver.net
+svcs.wlink.com.np
+swag.svcs.wlink.com.np
 via.net.np
