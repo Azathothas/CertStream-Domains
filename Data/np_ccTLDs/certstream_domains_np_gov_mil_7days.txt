@@ -56,9 +56,13 @@ copomis.gov.np
 copomis.mocpa.gov.np
 cpcalendars.moir.gov.np
 cpcontacts.moir.gov.np
+dahcbhaktapur.bagamati.gov.np
+dahckavrepalanchowk.bagamati.gov.np
+dahcmakawanpur.bagamati.gov.np
 dakshinkalimun.gov.np
 damakmun.gov.np
 dasharathchandmun.gov.np
+data.biratnagarmun.gov.np
 deumaimun.gov.np
 dev.bipad.gov.np
 devchulimun.gov.np
@@ -254,6 +258,7 @@ pokharamun.gov.np
 pollution.gov.np
 pqmis.npponepal.gov.np
 profile1.sunawarshimun.gov.np
+profile8.barahamun.gov.np
 projects.karnali.gov.np
 psconline1.psc.gov.np
 psdph.dopm.gov.np
@@ -335,6 +340,7 @@ vyasmun.gov.np
 walingmun.gov.np
 webmail.moen.gov.np
 webmail.moir.gov.np
+wriddsunsari.p1.gov.np
 www.aanbookhairenimun.gov.np
 www.akcdhading.gov.np
 www.amargadhimun.gov.np

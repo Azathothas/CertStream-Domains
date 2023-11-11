@@ -10,3 +10,4 @@ speedtesthtd.ntc.net.np.prod.hosts.ooklaserver.net
 svcs.wlink.com.np
 swag.svcs.wlink.com.np
 via.net.np
+wlink.nettv.com.np
