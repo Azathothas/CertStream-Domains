@@ -3,6 +3,7 @@ apts.svcs.wlink.com.np
 atvbackend.nettv.com.np
 cpanel-00.wlink.com.np
 kbs.cgnet.com.np
+kpi.nettv.com.np
 nettv.com.np
 pgw.ncell.axiata.com
 ported.wlink.com.np
