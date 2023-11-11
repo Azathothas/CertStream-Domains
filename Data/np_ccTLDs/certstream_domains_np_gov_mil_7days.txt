@@ -1,9 +1,7 @@
 2079.doed.gov.np
 aanbookhairenimun.gov.np
-admin.ambulance.mohp.gov.np
 akcdhading.gov.np
 amargadhimun.gov.np
-ambulance.mohp.gov.np
 ampis.gov.np
 api-rms.ndrrma.gov.np
 apidc.gov.np
@@ -33,7 +31,6 @@ bhanumun.gov.np
 bharatpurmun.gov.np
 bheerkotmun.gov.np
 bherimun.gov.np
-bhimadmun.gov.np
 bhimeshwor.gov.np
 bidurmun.gov.np
 biratnagarmun.gov.np
@@ -87,7 +84,6 @@ e-cabinet.sudurpashchim.gov.np
 ebps.urlabarimun.gov.np
 ebpsdata-api.mahalaxmimun.gov.np
 ebpsdata.mahalaxmimun.gov.np
-edu.hetaudamun.gov.np
 ee.bipad.gov.np
 ehirrs.kathmandu.gov.np
 ehrpmis.nra.gov.np
@@ -134,7 +130,6 @@ eservice.triyugamun.gov.np
 eservice.tulsipurmun.gov.np
 fdc.bagamati.gov.np
 fms.gandaki.gov.np
-fra.mofaga.gov.np
 fscmo.moud.gov.np
 gadhimaimun.gov.np
 gaindakotmun.gov.np
@@ -153,7 +148,6 @@ gov.np.admin-mcas-df.ms
 gov.np.admin-mcas.ms
 gov.np.mcas-df.ms
 gov.np.mcas.ms
-gps-data.ambulance.mohp.gov.np
 gpsvts.dotm.gov.np
 gulariyamun.gov.np
 hanumannagarkankalinimun.gov.np
@@ -201,10 +195,7 @@ laliguransmun.gov.np
 lamahimun.gov.np
 lamkichuhamun.gov.np
 ldta.gov.np
-led.mofaga.gov.np
 letangmun.gov.np
-license.doed.gov.np
-lisa.mofaga.gov.np
 lumbinisanskritikmun.gov.np
 madhuwanmun.gov.np
 madhyapurthimimun.gov.np
@@ -234,7 +225,6 @@ municipality.gov.np
 musikotmun.gov.np
 myanglungmun.gov.np
 nagarjunmun.gov.np
-naksapass.dhangadhimaimun.gov.np
 narayanmun.gov.np
 neelakanthamun.gov.np
 nepalgunjmun.gov.np
@@ -317,7 +307,6 @@ simraungadhmun.gov.np
 siraha.csiop2.gov.np
 snp.gov.np
 solududhkundamun.gov.np
-sthaniya.gov.np
 sukhipurmun.gov.np
 sunawarshimun.gov.np
 sundarbazarmun.gov.np
@@ -346,7 +335,6 @@ vyasmun.gov.np
 walingmun.gov.np
 webmail.moen.gov.np
 webmail.moir.gov.np
-webmonitoring.doit.gov.np
 www.aanbookhairenimun.gov.np
 www.akcdhading.gov.np
 www.amargadhimun.gov.np
@@ -534,7 +522,6 @@ www.siddhicharanmun.gov.np
 www.simraungadhmun.gov.np
 www.snp.gov.np
 www.solududhkundamun.gov.np
-www.sthaniya.gov.np
 www.sukhipurmun.gov.np
 www.sunawarshimun.gov.np
 www.sundarbazarmun.gov.np
