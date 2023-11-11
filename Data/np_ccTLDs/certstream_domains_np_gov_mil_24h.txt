@@ -11,6 +11,7 @@ dahcramechhap.bagamati.gov.np
 dahcrasuwa.bagamati.gov.np
 dahcsindhuli.bagamati.gov.np
 dahcsindhupalchowk.bagamati.gov.np
+data.biratnagarmun.gov.np
 deumaimun.gov.np
 dhanusha.csiop2.gov.np
 ebps.butwalmun.gov.np
