@@ -1,10 +1,16 @@
 api-rms.ndrrma.gov.np
 assembly.karnali.gov.np
 bajrabarahihospital.bagamati.gov.np
+balaju.kathmandu.gov.np
 dahcsindhuli.bagamati.gov.np
+dhm.gov.np
+hydrology.gov.np
 ilgprofile.gov.np
+monitoring.hydrology.gov.np
 onlineticketing.kathmandu.gov.np
 pollution.gov.np
 profile8.barahamun.gov.np
 vhlseckavre.bagamati.gov.np
 wriddsunsari.p1.gov.np
+www.dhm.gov.np
+www.hydrology.gov.np

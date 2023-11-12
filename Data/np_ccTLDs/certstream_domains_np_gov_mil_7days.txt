@@ -1,4 +1,3 @@
-2079.doed.gov.np
 aanbookhairenimun.gov.np
 akcdhading.gov.np
 amargadhimun.gov.np
@@ -83,10 +82,10 @@ dhankutamun.gov.np
 dhanusha.csiop2.gov.np
 dhanushadhammun.gov.np
 dharanmun.gov.np
+dhm.gov.np
 dhulikhelmun.gov.np
 digital.bansgadhimun.gov.np
 dipayalsilgadhimun.gov.np
-doad.bagamati.gov.np
 doad.lumbini.gov.np
 doad.p1.gov.np
 dolfd.sudurpashchim.gov.np
@@ -172,6 +171,7 @@ harionmun.gov.np
 hed.mohp.gov.np
 hetaudamun.gov.np
 hosyangja.gandaki.gov.np
+hydrology.gov.np
 ialdopyuthan.p5.gov.np
 ilammun.gov.np
 ilmis.dolos.gov.np
@@ -226,7 +226,6 @@ mahottari.csiop2.gov.np
 mail.ciaa.gov.np
 mail.moen.gov.np
 mail.moir.gov.np
-mail.snp.gov.np
 malangwamun.gov.np
 mangalsenmun.gov.np
 manthalimun.gov.np
@@ -239,6 +238,7 @@ moeap.p1.gov.np
 moen.gov.np
 molmacmis.karnali.gov.np
 monitoring.doit.gov.np
+monitoring.hydrology.gov.np
 mopiud.karnali.gov.np
 mosd.p1.gov.np
 municipality.gov.np
@@ -258,14 +258,12 @@ ntacall.nta.gov.np
 pakhribasmun.gov.np
 panautimun.gov.np
 panchkhalmun.gov.np
-parichayapatra.lekbeshimun.gov.np
 parsa.csiop2.gov.np
 parshurammun.gov.np
 patanmun.gov.np
 patharishanishcharemun.gov.np
 pathology.hetaudamun.gov.np
 patrachar.bansgadhimun.gov.np
-pfra.gov.np
 phidimmun.gov.np
 phunglingmun.gov.np
 piubara.pmamp.gov.np
@@ -273,7 +271,6 @@ piuramechhap.pmamp.gov.np
 pokharakrishi.gov.np
 pokharamun.gov.np
 pollution.gov.np
-pqmis.npponepal.gov.np
 profile1.sunawarshimun.gov.np
 profile8.barahamun.gov.np
 projects.karnali.gov.np
@@ -293,7 +290,6 @@ rampurmun.gov.np
 raptimun.gov.np
 ratnanagarmun.gov.np
 rautahat.csiop2.gov.np
-rautamaikrishi.gov.np
 rdqa.mohp.gov.np
 resungamun.gov.np
 rolpamun.gov.np
@@ -303,10 +299,6 @@ sanfebagarmun.gov.np
 saptakoshimun.gov.np
 saptari.csiop2.gov.np
 sarlahi.csiop2.gov.np
-sdobaglung.gandaki.gov.np
-sdomyagdi.gandaki.gov.np
-sdonawalpur.gandaki.gov.np
-sdoparbat.gandaki.gov.np
 seed.karnali.gov.np
 seedlabbhw.gov.np
 shaaradamun.gov.np
@@ -327,7 +319,6 @@ siddhicharanmun.gov.np
 signatureverify.kathmandu.gov.np
 simraungadhmun.gov.np
 siraha.csiop2.gov.np
-snp.gov.np
 solududhkundamun.gov.np
 sukhipurmun.gov.np
 sunawarshimun.gov.np
@@ -348,7 +339,6 @@ tilottamamun.gov.np
 tokhamun.gov.np
 triyugamun.gov.np
 urlabarimun.gov.np
-uttargayamun.gov.np
 vacancy.asdp.gov.np
 vms.ndrrma.gov.np
 vsdtc.gandaki.gov.np
@@ -413,9 +403,9 @@ www.dhangadhimun.gov.np
 www.dhankutamun.gov.np
 www.dhanushadhammun.gov.np
 www.dharanmun.gov.np
+www.dhm.gov.np
 www.dhulikhelmun.gov.np
 www.dipayalsilgadhimun.gov.np
-www.doad.bagamati.gov.np
 www.doad.lumbini.gov.np
 www.doad.p1.gov.np
 www.dsco-rasuwa.gov.np
@@ -439,6 +429,7 @@ www.gulariyamun.gov.np
 www.hanumannagarkankalinimun.gov.np
 www.harionmun.gov.np
 www.hetaudamun.gov.np
+www.hydrology.gov.np
 www.ilammun.gov.np
 www.inaruwamun.gov.np
 www.ishworpurmun.gov.np
@@ -523,7 +514,6 @@ www.ramgrammun.gov.np
 www.rampurmun.gov.np
 www.raptimun.gov.np
 www.ratnanagarmun.gov.np
-www.rautamaikrishi.gov.np
 www.resungamun.gov.np
 www.rolpamun.gov.np
 www.sabailamun.gov.np
@@ -547,7 +537,6 @@ www.shuklaphantamun.gov.np
 www.siddharthanagarmun.gov.np
 www.siddhicharanmun.gov.np
 www.simraungadhmun.gov.np
-www.snp.gov.np
 www.solududhkundamun.gov.np
 www.sukhipurmun.gov.np
 www.sunawarshimun.gov.np
