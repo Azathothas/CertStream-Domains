@@ -1,4 +1,10 @@
 api-rms.ndrrma.gov.np
+assembly.karnali.gov.np
 bajrabarahihospital.bagamati.gov.np
+dahcsindhuli.bagamati.gov.np
+ilgprofile.gov.np
 onlineticketing.kathmandu.gov.np
+pollution.gov.np
+profile8.barahamun.gov.np
 vhlseckavre.bagamati.gov.np
+wriddsunsari.p1.gov.np

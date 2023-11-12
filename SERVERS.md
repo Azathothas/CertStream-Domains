@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 2 days, 5 hours and 52 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 1.91 1.65 1.58
+       ..'''.            0Xxoc:,.  ...              Uptime: 2 days, 6 hours and 53 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 1.71 1.88 2.2
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,17 +17,17 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 135 MiB / 2048 MiB
+                                          ;l   ..   RAM: 97 MiB / 2048 MiB
                                            .o       Disk: 1.0 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.32, fe80::42:aff:fe0b:20
-                                             .'     WAN IP: 212.83.151.31
+                                             .'     WAN IP: 146.70.117.62
                                               .     
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         32.7G   25.0M      0       0       0       0 
+         33.4G   25.5M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         1.19G   16.2M      0       0       0       0 
+         1.22G   16.5M      0       0       0       0 
 
 
 
@@ -37,8 +37,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 24 days, 21 hours and 9 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 15.68 13.98 12.88
+       ..'''.            0Xxoc:,.  ...              Uptime: 24 days, 22 hours and 10 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 4.39 4.79 6.6
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -48,7 +48,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 127 MiB / 2048 MiB
+                                          ;l   ..   RAM: 94 MiB / 2048 MiB
                                            .o       Disk: 2.8 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.99, fe80::42:aff:fe0b:63
                                              .'     WAN IP: 217.138.219.220
@@ -56,9 +56,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          454G    376M      0      42       0       0 
+          455G    377M      0      42       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         17.1G    239M      0      29       0       0 
+         17.2G    239M      0      29       0       0 
 
 
 ```
