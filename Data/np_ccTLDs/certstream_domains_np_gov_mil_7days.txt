@@ -1,9 +1,7 @@
 2079.doed.gov.np
 aanbookhairenimun.gov.np
-admin.ambulance.mohp.gov.np
 akcdhading.gov.np
 amargadhimun.gov.np
-ambulance.mohp.gov.np
 ampis.gov.np
 api-rms.ndrrma.gov.np
 apidc.gov.np
@@ -26,6 +24,7 @@ belaurimun.gov.np
 belbarimun.gov.np
 beldandimun.gov.np
 benimun.gov.np
+besishaharmun.gov.np
 bhadrapurmun.gov.np
 bhajanimun.gov.np
 bhaktapurmun.gov.np
@@ -33,7 +32,6 @@ bhanumun.gov.np
 bharatpurmun.gov.np
 bheerkotmun.gov.np
 bherimun.gov.np
-bhimadmun.gov.np
 bhimeshwor.gov.np
 bidurmun.gov.np
 biratnagarmun.gov.np
@@ -59,9 +57,22 @@ copomis.gov.np
 copomis.mocpa.gov.np
 cpcalendars.moir.gov.np
 cpcontacts.moir.gov.np
+dahcbhaktapur.bagamati.gov.np
+dahcchitwan.bagamati.gov.np
+dahcdhading.bagamati.gov.np
+dahcdolakha.bagamati.gov.np
+dahckathmandu.bagamati.gov.np
+dahckavrepalanchowk.bagamati.gov.np
+dahcmakawanpur.bagamati.gov.np
+dahcnuwakot.bagamati.gov.np
+dahcramechhap.bagamati.gov.np
+dahcrasuwa.bagamati.gov.np
+dahcsindhuli.bagamati.gov.np
+dahcsindhupalchowk.bagamati.gov.np
 dakshinkalimun.gov.np
 damakmun.gov.np
 dasharathchandmun.gov.np
+data.biratnagarmun.gov.np
 deumaimun.gov.np
 dev.bipad.gov.np
 devchulimun.gov.np
@@ -84,10 +95,10 @@ dsco-rasuwa.gov.np
 duhabimun.gov.np
 dullumun.gov.np
 e-cabinet.sudurpashchim.gov.np
+ebps.butwalmun.gov.np
 ebps.urlabarimun.gov.np
 ebpsdata-api.mahalaxmimun.gov.np
 ebpsdata.mahalaxmimun.gov.np
-edu.hetaudamun.gov.np
 ee.bipad.gov.np
 ehirrs.kathmandu.gov.np
 ehrpmis.nra.gov.np
@@ -134,13 +145,13 @@ eservice.triyugamun.gov.np
 eservice.tulsipurmun.gov.np
 fdc.bagamati.gov.np
 fms.gandaki.gov.np
-fra.mofaga.gov.np
 fscmo.moud.gov.np
 gadhimaimun.gov.np
 gaindakotmun.gov.np
 ganeshmancharnathmun.gov.np
 gauradahamun.gov.np
 gaurmun.gov.np
+gaushalamun.gov.np
 ghorahimun.gov.np
 godam.ndrrma.gov.np
 godawarimunkailali.gov.np
@@ -153,7 +164,7 @@ gov.np.admin-mcas-df.ms
 gov.np.admin-mcas.ms
 gov.np.mcas-df.ms
 gov.np.mcas.ms
-gps-data.ambulance.mohp.gov.np
+gov.np.sium.co
 gpsvts.dotm.gov.np
 gulariyamun.gov.np
 hanumannagarkankalinimun.gov.np
@@ -165,6 +176,7 @@ ialdopyuthan.p5.gov.np
 ilammun.gov.np
 ilmis.dolos.gov.np
 inaruwamun.gov.np
+infobank.bagamati.gov.np
 inventory.mofa.gov.np
 ishworpurmun.gov.np
 itaharimun.gov.np
@@ -190,6 +202,7 @@ km.mohp.gov.np
 kobo.bipad.gov.np
 kohalpurmun.gov.np
 kolhabimun.gov.np
+koshi.bipadportal.gov.np
 koshi.gov.np
 krishnanagarmun.gov.np
 krishnapurmun.gov.np
@@ -201,16 +214,14 @@ laliguransmun.gov.np
 lamahimun.gov.np
 lamkichuhamun.gov.np
 ldta.gov.np
-led.mofaga.gov.np
 letangmun.gov.np
-license.doed.gov.np
-lisa.mofaga.gov.np
 lumbinisanskritikmun.gov.np
 madhuwanmun.gov.np
 madhyapurthimimun.gov.np
 madimun.gov.np
 madimunchitwan.gov.np
 mahagadhimaimun.gov.np
+mahalaxmimun.gov.np
 mahottari.csiop2.gov.np
 mail.ciaa.gov.np
 mail.moen.gov.np
@@ -234,7 +245,6 @@ municipality.gov.np
 musikotmun.gov.np
 myanglungmun.gov.np
 nagarjunmun.gov.np
-naksapass.dhangadhimaimun.gov.np
 narayanmun.gov.np
 neelakanthamun.gov.np
 nepalgunjmun.gov.np
@@ -253,6 +263,7 @@ parsa.csiop2.gov.np
 parshurammun.gov.np
 patanmun.gov.np
 patharishanishcharemun.gov.np
+pathology.hetaudamun.gov.np
 patrachar.bansgadhimun.gov.np
 pfra.gov.np
 phidimmun.gov.np
@@ -264,6 +275,7 @@ pokharamun.gov.np
 pollution.gov.np
 pqmis.npponepal.gov.np
 profile1.sunawarshimun.gov.np
+profile8.barahamun.gov.np
 projects.karnali.gov.np
 psconline1.psc.gov.np
 psdph.dopm.gov.np
@@ -317,7 +329,6 @@ simraungadhmun.gov.np
 siraha.csiop2.gov.np
 snp.gov.np
 solududhkundamun.gov.np
-sthaniya.gov.np
 sukhipurmun.gov.np
 sunawarshimun.gov.np
 sundarbazarmun.gov.np
@@ -346,7 +357,7 @@ vyasmun.gov.np
 walingmun.gov.np
 webmail.moen.gov.np
 webmail.moir.gov.np
-webmonitoring.doit.gov.np
+wriddsunsari.p1.gov.np
 www.aanbookhairenimun.gov.np
 www.akcdhading.gov.np
 www.amargadhimun.gov.np
@@ -368,6 +379,7 @@ www.belaurimun.gov.np
 www.belbarimun.gov.np
 www.beldandimun.gov.np
 www.benimun.gov.np
+www.besishaharmun.gov.np
 www.bhadrapurmun.gov.np
 www.bhajanimun.gov.np
 www.bhaktapurmun.gov.np
@@ -416,6 +428,7 @@ www.gaindakotmun.gov.np
 www.ganeshmancharnathmun.gov.np
 www.gauradahamun.gov.np
 www.gaurmun.gov.np
+www.gaushalamun.gov.np
 www.ghorahimun.gov.np
 www.godawarimunkailali.gov.np
 www.godawarimunlalitpur.gov.np
@@ -465,6 +478,7 @@ www.madhyapurthimimun.gov.np
 www.madimun.gov.np
 www.madimunchitwan.gov.np
 www.mahagadhimaimun.gov.np
+www.mahalaxmimun.gov.np
 www.malangwamun.gov.np
 www.mangalsenmun.gov.np
 www.manthalimun.gov.np
@@ -490,6 +504,7 @@ www.panchkhalmun.gov.np
 www.parshurammun.gov.np
 www.patanmun.gov.np
 www.patharishanishcharemun.gov.np
+www.pathology.hetaudamun.gov.np
 www.phidimmun.gov.np
 www.phunglingmun.gov.np
 www.piubara.pmamp.gov.np
@@ -534,7 +549,6 @@ www.siddhicharanmun.gov.np
 www.simraungadhmun.gov.np
 www.snp.gov.np
 www.solududhkundamun.gov.np
-www.sthaniya.gov.np
 www.sukhipurmun.gov.np
 www.sunawarshimun.gov.np
 www.sundarbazarmun.gov.np
