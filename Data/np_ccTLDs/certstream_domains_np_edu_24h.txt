@@ -12,6 +12,7 @@ autoconfig.prarambha.edu.np
 autodiscover.amejaneducation.edu.np
 autodiscover.amenity.edu.np
 autodiscover.bpmpi.edu.np
+autodiscover.chandrodayamabi.edu.np
 autodiscover.cvmschool.edu.np
 autodiscover.dreamland.edu.np
 autodiscover.ekatappacampus.edu.np
@@ -21,6 +22,7 @@ autodiscover.globaldestiny.edu.np
 autodiscover.iol.edu.np
 autodiscover.kathmanduvidhyalaya.edu.np
 autodiscover.majestic.edu.np
+autodiscover.nmess.edu.np
 autodiscover.prarambha.edu.np
 autodiscover.shreehimalaya.edu.np
 autodiscover.smallheart.edu.np
@@ -34,6 +36,7 @@ cisat.edu.np
 cpanel.amejaneducation.edu.np
 cpanel.amenity.edu.np
 cpanel.bpmpi.edu.np
+cpanel.chandrodayamabi.edu.np
 cpanel.cisat.edu.np
 cpanel.cvmschool.edu.np
 cpanel.dreamland.edu.np
@@ -48,6 +51,8 @@ cpanel.littleworld.edu.np
 cpanel.lvc.edu.np
 cpanel.majestic.edu.np
 cpanel.meyvn.edu.np
+cpanel.nmess.edu.np
+cpanel.salyantarcampus.edu.np
 cpanel.shreehimalaya.edu.np
 cpanel.smallheart.edu.np
 cpanel.stpaulsteiner.edu.np
@@ -57,6 +62,7 @@ cpanel.unitedtechnicalcollege.edu.np
 cpcalendars.amejaneducation.edu.np
 cpcalendars.amenity.edu.np
 cpcalendars.bpmpi.edu.np
+cpcalendars.chandrodayamabi.edu.np
 cpcalendars.cisat.edu.np
 cpcalendars.cvmschool.edu.np
 cpcalendars.dreamland.edu.np
@@ -71,6 +77,8 @@ cpcalendars.littleworld.edu.np
 cpcalendars.lvc.edu.np
 cpcalendars.majestic.edu.np
 cpcalendars.meyvn.edu.np
+cpcalendars.nmess.edu.np
+cpcalendars.salyantarcampus.edu.np
 cpcalendars.shreehimalaya.edu.np
 cpcalendars.smallheart.edu.np
 cpcalendars.stpaulsteiner.edu.np
@@ -80,6 +88,7 @@ cpcalendars.unitedtechnicalcollege.edu.np
 cpcontacts.amejaneducation.edu.np
 cpcontacts.amenity.edu.np
 cpcontacts.bpmpi.edu.np
+cpcontacts.chandrodayamabi.edu.np
 cpcontacts.cisat.edu.np
 cpcontacts.cvmschool.edu.np
 cpcontacts.dreamland.edu.np
@@ -94,6 +103,8 @@ cpcontacts.littleworld.edu.np
 cpcontacts.lvc.edu.np
 cpcontacts.majestic.edu.np
 cpcontacts.meyvn.edu.np
+cpcontacts.nmess.edu.np
+cpcontacts.salyantarcampus.edu.np
 cpcontacts.shreehimalaya.edu.np
 cpcontacts.smallheart.edu.np
 cpcontacts.stpaulsteiner.edu.np
@@ -101,6 +112,7 @@ cpcontacts.suryashikshyasadan.edu.np
 cpcontacts.thenestpreschool.edu.np
 cpcontacts.unitedtechnicalcollege.edu.np
 cvmschool.edu.np
+dashboard.www.brightstarpublicschool.edu.np
 dreamland.edu.np
 edu.np.admin-mcas-df.ms
 edu.np.admin-mcas.ms
@@ -125,6 +137,7 @@ lvc.edu.np
 mail.amejaneducation.edu.np
 mail.amenity.edu.np
 mail.bpmpi.edu.np
+mail.chandrodayamabi.edu.np
 mail.cisat.edu.np
 mail.cvmschool.edu.np
 mail.dreamland.edu.np
@@ -139,7 +152,9 @@ mail.kathmanduvidhyalaya.edu.np
 mail.littleworld.edu.np
 mail.lvc.edu.np
 mail.majestic.edu.np
+mail.nmess.edu.np
 mail.prarambha.edu.np
+mail.salyantarcampus.edu.np
 mail.shreehimalaya.edu.np
 mail.skylinks.edu.np
 mail.smallheart.edu.np
@@ -151,12 +166,17 @@ mail.unitedtechnicalcollege.edu.np
 majestic.edu.np
 meyvn.edu.np
 miracleeducation.edu.np
+nagarjuna.edu.np
+nmess.edu.np
 old.thamescollege.edu.np
+pefoundation.edu.np
 prarambha.edu.np
 prolific.edu.np
 registration.musom.edu.np
 riviera.edu.np
 saipal.edu.np
+salyantarcampus.edu.np
+samatanawalpur.edu.np
 savya.edu.np
 shreehimalaya.edu.np
 skylinks.edu.np
@@ -172,6 +192,7 @@ unitedtechnicalcollege.edu.np
 webdisk.amejaneducation.edu.np
 webdisk.amenity.edu.np
 webdisk.bpmpi.edu.np
+webdisk.chandrodayamabi.edu.np
 webdisk.cisat.edu.np
 webdisk.cvmschool.edu.np
 webdisk.dreamland.edu.np
@@ -185,6 +206,8 @@ webdisk.kathmanduvidhyalaya.edu.np
 webdisk.littleworld.edu.np
 webdisk.lvc.edu.np
 webdisk.majestic.edu.np
+webdisk.nmess.edu.np
+webdisk.salyantarcampus.edu.np
 webdisk.shreehimalaya.edu.np
 webdisk.smallheart.edu.np
 webdisk.stpaulsteiner.edu.np
@@ -194,6 +217,7 @@ webdisk.unitedtechnicalcollege.edu.np
 webmail.amejaneducation.edu.np
 webmail.amenity.edu.np
 webmail.bpmpi.edu.np
+webmail.chandrodayamabi.edu.np
 webmail.cisat.edu.np
 webmail.cvmschool.edu.np
 webmail.dreamland.edu.np
@@ -208,7 +232,9 @@ webmail.kathmanduvidhyalaya.edu.np
 webmail.littleworld.edu.np
 webmail.lvc.edu.np
 webmail.majestic.edu.np
+webmail.nmess.edu.np
 webmail.prarambha.edu.np
+webmail.salyantarcampus.edu.np
 webmail.shreehimalaya.edu.np
 webmail.smallheart.edu.np
 webmail.stpaulsteiner.edu.np
@@ -220,6 +246,7 @@ www.amenity.edu.np
 www.amenity.edu.np.kodeonix.com.np
 www.app.thamescollege.edu.np
 www.bpmpi.edu.np
+www.chandrodayamabi.edu.np
 www.cisat.edu.np
 www.cvmschool.edu.np
 www.dailyreport.cbm.edu.np
@@ -243,10 +270,13 @@ www.mail.cbm.edu.np
 www.majestic.edu.np
 www.meyvn.edu.np
 www.mydemo.cbm.edu.np
+www.nagarjuna.edu.np
+www.nmess.edu.np
 www.old.thamescollege.edu.np
 www.prarambha.edu.np
 www.riviera.edu.np
 www.saipal.edu.np
+www.salyantarcampus.edu.np
 www.shreehimalaya.edu.np
 www.skylinks.edu.np
 www.smallheart.edu.np
