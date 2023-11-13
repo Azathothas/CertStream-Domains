@@ -5,12 +5,14 @@ ampis.gov.np
 api-rms.ndrrma.gov.np
 apidc.gov.np
 arjundharamun.gov.np
+assembly.karnali.gov.np
 autodiscover.moen.gov.np
 badimalikamun.gov.np
 bagchaurmun.gov.np
 baglung.akc.gov.np
 baglungmun.gov.np
 bajrabarahihospital.bagamati.gov.np
+balaju.kathmandu.gov.np
 bandipurmun.gov.np
 banepamun.gov.np
 bangangamun.gov.np
@@ -174,6 +176,7 @@ hosyangja.gandaki.gov.np
 hydrology.gov.np
 ialdopyuthan.p5.gov.np
 ilammun.gov.np
+ilgprofile.gov.np
 ilmis.dolos.gov.np
 inaruwamun.gov.np
 infobank.bagamati.gov.np
@@ -255,6 +258,7 @@ nhssrf.mohp.gov.np
 nijgadhmun.gov.np
 nitert.gov.np
 ntacall.nta.gov.np
+onlineticketing.kathmandu.gov.np
 pakhribasmun.gov.np
 panautimun.gov.np
 panchkhalmun.gov.np
@@ -340,6 +344,7 @@ tokhamun.gov.np
 triyugamun.gov.np
 urlabarimun.gov.np
 vacancy.asdp.gov.np
+vhlseckavre.bagamati.gov.np
 vms.ndrrma.gov.np
 vsdtc.gandaki.gov.np
 vsdtcparbat.gandaki.gov.np
