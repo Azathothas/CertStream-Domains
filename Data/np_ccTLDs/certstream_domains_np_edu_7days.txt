@@ -2,7 +2,9 @@
 aadimcollege.edu.np
 abcrm.tec.edu.np
 abhayananda.edu.np
+academic.gracemontessori.edu.np
 account.alphaschool.edu.np
+account.gracemontessori.edu.np
 account.jssitahari.edu.np
 ace.edu.np
 achanesec.edu.np
@@ -106,6 +108,7 @@ autodiscover.amenity.edu.np
 autodiscover.bardiyaacademy.edu.np
 autodiscover.bnrs.edu.np
 autodiscover.bpmpi.edu.np
+autodiscover.chandrodayamabi.edu.np
 autodiscover.cherub.edu.np
 autodiscover.cvmschool.edu.np
 autodiscover.dpss.edu.np
@@ -196,12 +199,15 @@ bhanumultiplecampus.sarc.edu.np
 bhimodayasec.edu.np
 bhojprakash.edu.np
 bhrikutissdeudhakala.edu.np
+bicnepal.edu.np
+bidhyasagarschool.edu.np
 bidyodayass.edu.np
 bijayhss.edu.np
 bima.cmc.edu.np
 bipulschool.edu.np
 birgunjmeghacollege.edu.np
 blog.schoolofit.edu.np
+bluebridge.edu.np
 bluesea.edu.np
 bnchospital.edu.np
 bnrs.edu.np
@@ -234,6 +240,7 @@ chaitanya.edu.np
 champadevi.edu.np
 chanakya.edu.np
 chandeswarischool.edu.np
+chandrodayamabi.edu.np
 chbea.edu.np
 chbea.edu.np.chbea.com
 cherub.edu.np
@@ -268,10 +275,12 @@ cpanel.bhanumultiplecampus.edu.np
 cpanel.bhimodayasec.edu.np
 cpanel.bidyodayass.edu.np
 cpanel.birgunjmeghacollege.edu.np
+cpanel.bluebridge.edu.np
 cpanel.bnrs.edu.np
 cpanel.bpmpi.edu.np
 cpanel.brilliantschool.edu.np
 cpanel.chaitanya.edu.np
+cpanel.chandrodayamabi.edu.np
 cpanel.chbea.edu.np
 cpanel.cherub.edu.np
 cpanel.coem.edu.np
@@ -292,6 +301,7 @@ cpanel.galaxyglobal.edu.np
 cpanel.gandakitecnicalinstitute.edu.np
 cpanel.genius.edu.np
 cpanel.globaleducationpark.edu.np
+cpanel.gracemontessori.edu.np
 cpanel.greenhouse.edu.np
 cpanel.gsstulsipur.edu.np
 cpanel.gups.edu.np
@@ -312,6 +322,7 @@ cpanel.kaushal.edu.np
 cpanel.kcc.edu.np
 cpanel.kdbc.edu.np
 cpanel.kerwaniss.edu.np
+cpanel.ksv.edu.np
 cpanel.ktmshikshyalaya.edu.np
 cpanel.lbef.edu.np
 cpanel.lia.edu.np
@@ -391,6 +402,7 @@ cpanel.unitedtechnicalcollege.edu.np
 cpanel.usconsult.edu.np
 cpanel.vrikuti.edu.np
 cpanel.westzoneschool.edu.np
+cpanel.whitegravity.edu.np
 cpanel.wiec.edu.np
 cpanel.yogendraschool.edu.np
 cpcalendars.achanesec.edu.np
@@ -419,6 +431,7 @@ cpcalendars.bnrs.edu.np
 cpcalendars.bpmpi.edu.np
 cpcalendars.brilliantschool.edu.np
 cpcalendars.chaitanya.edu.np
+cpcalendars.chandrodayamabi.edu.np
 cpcalendars.chbea.edu.np
 cpcalendars.cherub.edu.np
 cpcalendars.coem.edu.np
@@ -439,6 +452,7 @@ cpcalendars.galaxyglobal.edu.np
 cpcalendars.gandakitecnicalinstitute.edu.np
 cpcalendars.genius.edu.np
 cpcalendars.globaleducationpark.edu.np
+cpcalendars.gracemontessori.edu.np
 cpcalendars.greenhouse.edu.np
 cpcalendars.gsstulsipur.edu.np
 cpcalendars.gups.edu.np
@@ -459,6 +473,7 @@ cpcalendars.kaushal.edu.np
 cpcalendars.kcc.edu.np
 cpcalendars.kdbc.edu.np
 cpcalendars.kerwaniss.edu.np
+cpcalendars.ksv.edu.np
 cpcalendars.ktmshikshyalaya.edu.np
 cpcalendars.lbef.edu.np
 cpcalendars.lia.edu.np
@@ -535,6 +550,7 @@ cpcalendars.ujjwaltara.edu.np
 cpcalendars.unitedtechnicalcollege.edu.np
 cpcalendars.usconsult.edu.np
 cpcalendars.westzoneschool.edu.np
+cpcalendars.whitegravity.edu.np
 cpcalendars.wiec.edu.np
 cpcalendars.yogendraschool.edu.np
 cpcontacts.achanesec.edu.np
@@ -563,6 +579,7 @@ cpcontacts.bnrs.edu.np
 cpcontacts.bpmpi.edu.np
 cpcontacts.brilliantschool.edu.np
 cpcontacts.chaitanya.edu.np
+cpcontacts.chandrodayamabi.edu.np
 cpcontacts.chbea.edu.np
 cpcontacts.cherub.edu.np
 cpcontacts.coem.edu.np
@@ -583,6 +600,7 @@ cpcontacts.galaxyglobal.edu.np
 cpcontacts.gandakitecnicalinstitute.edu.np
 cpcontacts.genius.edu.np
 cpcontacts.globaleducationpark.edu.np
+cpcontacts.gracemontessori.edu.np
 cpcontacts.greenhouse.edu.np
 cpcontacts.gsstulsipur.edu.np
 cpcontacts.gups.edu.np
@@ -603,6 +621,7 @@ cpcontacts.kaushal.edu.np
 cpcontacts.kcc.edu.np
 cpcontacts.kdbc.edu.np
 cpcontacts.kerwaniss.edu.np
+cpcontacts.ksv.edu.np
 cpcontacts.ktmshikshyalaya.edu.np
 cpcontacts.lbef.edu.np
 cpcontacts.lia.edu.np
@@ -679,6 +698,7 @@ cpcontacts.ujjwaltara.edu.np
 cpcontacts.unitedtechnicalcollege.edu.np
 cpcontacts.usconsult.edu.np
 cpcontacts.westzoneschool.edu.np
+cpcontacts.whitegravity.edu.np
 cpcontacts.wiec.edu.np
 cpcontacts.yogendraschool.edu.np
 crimsonacademyschool.edu.np
@@ -748,6 +768,8 @@ eschhauni.edu.np
 etiohs.edu.np
 euroschool.edu.np
 events.bridgeeducation.edu.np
+everest.edu.np
+everestsecondaryacademy.edu.np
 exam.hritacademy.edu.np
 exam.nrmv.edu.np
 exam.nsu.edu.np
@@ -786,6 +808,7 @@ globallead.edu.np
 globallife.edu.np
 globalpark.edu.np
 gogalprasad.edu.np
+gracemontessori.edu.np
 greenhouse.edu.np
 gsst.gsstulsipur.edu.np
 gsstulsipur.edu.np
@@ -801,6 +824,7 @@ hc.tu.edu.np
 hcoe.edu.np
 hec.edu.np
 hiccdrc.ku.edu.np
+himalayacollege.edu.np
 himalayanglory.edu.np
 himalayans.edu.np
 hist.edu.np
@@ -823,6 +847,7 @@ icac.edu.np
 ican.gyaninstitute.edu.np
 icare.edu.np
 ice.edu.np
+ices.edu.np
 icmc.cmc.edu.np
 idbnepal.edu.np
 ielts.niec.edu.np
@@ -888,11 +913,14 @@ khwopa.edu.np
 khwopacollege.edu.np
 khwopahss.edu.np
 khwopalaw.edu.np
+kimino.edu.np
 klc.edu.np
 kls.edu.np
 kmss.kmcen.edu.np
 kohinoor.edu.np
 kslalitpur.edu.np
+ksv.edu.np
+ksv.edu.np.fitnesshoursnepal.com
 kti.edu.np
 ktmshikshyalaya.edu.np
 kucc.ku.edu.np
@@ -904,6 +932,7 @@ laxmisschepang.edu.np
 lbamnr.edu.np
 lbc.edu.np
 lbef.edu.np
+lbps.edu.np
 lbsrangeli.edu.np
 learn.eceas.easycare.edu.np
 learn.pragatisheel.edu.np
@@ -915,6 +944,7 @@ lifetimelearning.edu.np
 lincolncollege.edu.np
 littleworld.edu.np
 lms.achanesec.edu.np
+lms.apexcollege.edu.np
 lms.karkigaunsec.edu.np
 lms.kathford.edu.np
 lms.mahendrodayamulabarisec.edu.np
@@ -961,12 +991,14 @@ mail.bhanumultiplecampus.edu.np
 mail.bhimodayasec.edu.np
 mail.bidyodayass.edu.np
 mail.birgunjmeghacollege.edu.np
+mail.bluebridge.edu.np
 mail.bnrs.edu.np
 mail.bpmpi.edu.np
 mail.brilliantschool.edu.np
 mail.bstcollege.edu.np
 mail.careercounselling.edu.np
 mail.chaitanya.edu.np
+mail.chandrodayamabi.edu.np
 mail.chbea.edu.np
 mail.cherub.edu.np
 mail.cmsnepal.edu.np
@@ -993,12 +1025,14 @@ mail.gandakitecnicalinstitute.edu.np
 mail.genius.edu.np
 mail.globaleducationpark.edu.np
 mail.globalpark.edu.np
+mail.gracemontessori.edu.np
 mail.greenhouse.edu.np
 mail.gsstulsipur.edu.np
 mail.gups.edu.np
 mail.gyandaacademy.edu.np
 mail.gyaninstitute.edu.np
 mail.gyanodyaschool.edu.np
+mail.himalayacollege.edu.np
 mail.hopeia.edu.np
 mail.icare.edu.np
 mail.ihm.edu.np
@@ -1016,6 +1050,7 @@ mail.kathmanduvidhyalaya.edu.np
 mail.kaushal.edu.np
 mail.kdbc.edu.np
 mail.kerwaniss.edu.np
+mail.ksv.edu.np
 mail.ktmshikshyalaya.edu.np
 mail.lbef.edu.np
 mail.lfebs.edu.np
@@ -1111,6 +1146,7 @@ mail.valleyview.edu.np
 mail.vrikuti.edu.np
 mail.vsagar.edu.np
 mail.westzoneschool.edu.np
+mail.whitegravity.edu.np
 mail.wiec.edu.np
 mail.wieducation.edu.np
 mail.yogendraschool.edu.np
@@ -1137,6 +1173,7 @@ millsmavi.edu.np
 milton.edu.np
 minduka.edu.np
 minilandschool.edu.np
+miracleeducation.edu.np
 mis.citwrc.edu.np
 mis.pcampus.edu.np
 misadmission.ioepas.edu.np
@@ -1226,6 +1263,7 @@ pec.edu.np
 pefoundation.edu.np
 peoplescampus.edu.np
 pgc.tu.edu.np
+pinnacleacademy.edu.np
 planeteducation.edu.np
 plus.xaviercollege.edu.np
 pmhs.edu.np
@@ -1245,6 +1283,7 @@ pride.edu.np
 prithivisslakhana.edu.np
 professionaleducation.edu.np
 project.kcc.edu.np
+prolific.edu.np
 pts.edu.np
 publication.ioepas.edu.np
 publichighschool.edu.np
@@ -1326,6 +1365,7 @@ schoollibrary.ullens.edu.np
 scsat.edu.np
 sdes.edu.np
 secure.snats.edu.np
+server.ioepc.edu.np
 set2019.acem.edu.np
 sevenstar.edu.np
 sewanepal.edu.np
@@ -1446,10 +1486,12 @@ tssbelatari.edu.np
 tstec.edu.np
 tucds.edu.np
 tucl.tu.edu.np
+tuconvocation.tuexam.edu.np
 tuiombnc.edu.np
 tulsipurmetrocollege.edu.np
 tusne.edu.np
 twcdemo.thebritishcollege.edu.np
+uc.edu.np
 uebschool.edu.np
 ujjwaltara.edu.np
 unitedtechnicalcollege.edu.np
@@ -1495,6 +1537,7 @@ webdisk.bnrs.edu.np
 webdisk.bpmpi.edu.np
 webdisk.brilliantschool.edu.np
 webdisk.chaitanya.edu.np
+webdisk.chandrodayamabi.edu.np
 webdisk.chbea.edu.np
 webdisk.cherub.edu.np
 webdisk.coem.edu.np
@@ -1515,6 +1558,7 @@ webdisk.galaxyglobal.edu.np
 webdisk.gandakitecnicalinstitute.edu.np
 webdisk.genius.edu.np
 webdisk.globaleducationpark.edu.np
+webdisk.gracemontessori.edu.np
 webdisk.greenhouse.edu.np
 webdisk.gsstulsipur.edu.np
 webdisk.gups.edu.np
@@ -1534,6 +1578,7 @@ webdisk.kaushal.edu.np
 webdisk.kcc.edu.np
 webdisk.kdbc.edu.np
 webdisk.kerwaniss.edu.np
+webdisk.ksv.edu.np
 webdisk.ktmshikshyalaya.edu.np
 webdisk.lbef.edu.np
 webdisk.lia.edu.np
@@ -1612,6 +1657,7 @@ webdisk.unitedtechnicalcollege.edu.np
 webdisk.usconsult.edu.np
 webdisk.vrikuti.edu.np
 webdisk.westzoneschool.edu.np
+webdisk.whitegravity.edu.np
 webdisk.wiec.edu.np
 webdisk.yogendraschool.edu.np
 webmail.achanesec.edu.np
@@ -1638,10 +1684,12 @@ webmail.bhanumultiplecampus.edu.np
 webmail.bhimodayasec.edu.np
 webmail.bidyodayass.edu.np
 webmail.birgunjmeghacollege.edu.np
+webmail.bluebridge.edu.np
 webmail.bnrs.edu.np
 webmail.bpmpi.edu.np
 webmail.brilliantschool.edu.np
 webmail.chaitanya.edu.np
+webmail.chandrodayamabi.edu.np
 webmail.chbea.edu.np
 webmail.cherub.edu.np
 webmail.coem.edu.np
@@ -1664,6 +1712,7 @@ webmail.galaxyglobal.edu.np
 webmail.gandakitecnicalinstitute.edu.np
 webmail.genius.edu.np
 webmail.globaleducationpark.edu.np
+webmail.gracemontessori.edu.np
 webmail.greenhouse.edu.np
 webmail.gsstulsipur.edu.np
 webmail.gups.edu.np
@@ -1684,6 +1733,7 @@ webmail.kaushal.edu.np
 webmail.kcc.edu.np
 webmail.kdbc.edu.np
 webmail.kerwaniss.edu.np
+webmail.ksv.edu.np
 webmail.ktmshikshyalaya.edu.np
 webmail.lbef.edu.np
 webmail.lia.edu.np
@@ -1766,11 +1816,13 @@ webmail.ujjwaltara.edu.np
 webmail.usconsult.edu.np
 webmail.vrikuti.edu.np
 webmail.westzoneschool.edu.np
+webmail.whitegravity.edu.np
 webmail.wiec.edu.np
 webmail.yogendraschool.edu.np
 wendyhouse.edu.np
 westzoneschool.edu.np
 whez.edu.np
+whitegravity.edu.np
 whitehouse.edu.np
 whm.gups.edu.np
 whm.ktmshikshyalaya.edu.np
@@ -1779,7 +1831,9 @@ wieducation.edu.np
 wingsschool.edu.np
 wisdomkids.edu.np
 wmc.edu.np
+www.academic.gracemontessori.edu.np
 www.account.alphaschool.edu.np
+www.account.gracemontessori.edu.np
 www.ace.edu.np
 www.achanesec.edu.np
 www.aci.edu.np
@@ -1836,9 +1890,11 @@ www.beesintl.edu.np
 www.bhanumultiplecampus.edu.np
 www.bhanumultiplecampus.sarc.edu.np
 www.bhimodayasec.edu.np
+www.bidhyasagarschool.edu.np
 www.bidyodayass.edu.np
 www.birgunjmeghacollege.edu.np
 www.blog.schoolofit.edu.np
+www.bluebridge.edu.np
 www.bnchospital.edu.np
 www.bnrs.edu.np
 www.bnrs.edu.np.logiclync.com
@@ -1852,6 +1908,7 @@ www.bstcollege.edu.np
 www.call.ecea-s.easycare.edu.np
 www.career.careeracademy.edu.np
 www.chaitanya.edu.np
+www.chandrodayamabi.edu.np
 www.chbea.edu.np
 www.chbea.edu.np.chbea.com
 www.cherub.edu.np
@@ -1902,6 +1959,8 @@ www.eschhauni.edu.np
 www.etiohs.edu.np
 www.euroschool.edu.np
 www.events.bridgeeducation.edu.np
+www.everest.edu.np
+www.everestsecondaryacademy.edu.np
 www.exam.nrmv.edu.np
 www.exam.nsu.edu.np
 www.exam.rammani.edu.np
@@ -1919,6 +1978,7 @@ www.gigadachhaus.com.icas.edu.np
 www.glaciercollege.edu.np
 www.globaleducationpark.edu.np
 www.globalpark.edu.np
+www.gracemontessori.edu.np
 www.greenhouse.edu.np
 www.gsst.gsstulsipur.edu.np
 www.gsstulsipur.edu.np
@@ -1928,6 +1988,7 @@ www.gyandaacademy.edu.np
 www.gyaninstitute.edu.np
 www.gyanodyaschool.edu.np
 www.happykidsmontessori.edu.np
+www.himalayacollege.edu.np
 www.hit.edu.np
 www.hopeia.edu.np
 www.hopeia.edu.np.sims.com.np
@@ -1969,6 +2030,8 @@ www.kef.edu.np
 www.kenntcollege.edu.np.logiclync.com
 www.kerwaniss.edu.np
 www.kmss.kmcen.edu.np
+www.ksv.edu.np
+www.ksv.edu.np.fitnesshoursnepal.com
 www.ktmshikshyalaya.edu.np
 www.kusumakarschool.edu.np
 www.lajf.edu.np
@@ -1984,6 +2047,7 @@ www.lifetimelearning.edu.np
 www.lincolncollege.edu.np
 www.littleworld.edu.np
 www.lms.achanesec.edu.np
+www.lms.apexcollege.edu.np
 www.lms.karkigaunsec.edu.np
 www.lms.mahendrodayamulabarisec.edu.np
 www.lms.mahendrodayapokharasec.edu.np
@@ -2037,6 +2101,7 @@ www.nitenmemorial.edu.np
 www.nmess.edu.np
 www.nms.edu.np
 www.nobel.edu.np
+www.notredameschool.edu.np
 www.npictevt.edu.np.venus-cbs.com
 www.ntbns.org.np.lakshya.edu.np
 www.ocean.edu.np
@@ -2172,6 +2237,7 @@ www.trichandracampus.edu.np
 www.tripurasec.edu.np
 www.tripureshwarschool.edu.np
 www.tstec.edu.np
+www.tuconvocation.tuexam.edu.np
 www.tuiombnc.edu.np
 www.tusne.edu.np
 www.ujjwaltara.edu.np
@@ -2185,6 +2251,7 @@ www.web.ac.id.juddhaschool.edu.np
 www.web.gurukulca.edu.np
 www.webmail.shreemedical.edu.np
 www.westzoneschool.edu.np
+www.whitegravity.edu.np
 www.whitehouse.edu.np
 www.wiec.edu.np
 www.wieducation.edu.np

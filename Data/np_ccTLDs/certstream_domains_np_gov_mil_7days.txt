@@ -162,6 +162,7 @@ gov.np.mcas.ms
 gov.np.sium.co
 gpsvts.dotm.gov.np
 gulariyamun.gov.np
+gunaso.krishnapurmun.gov.np
 hanumannagarkankalinimun.gov.np
 harionmun.gov.np
 hed.mohp.gov.np
@@ -180,6 +181,7 @@ itaharimun.gov.np
 jaleshwarmun.gov.np
 janakpurmun.gov.np
 kageshworimanoharamun.gov.np
+kakarvitta.npponepal.gov.np
 kalaiyamun.gov.np
 kalimatimarket.gov.np
 kamalamaimun.gov.np
@@ -250,6 +252,7 @@ nijgadhmun.gov.np
 nitert.gov.np
 ntacall.nta.gov.np
 onlineticketing.kathmandu.gov.np
+p2.gov.np
 pakhribasmun.gov.np
 panautimun.gov.np
 panchkhalmun.gov.np
@@ -428,6 +431,7 @@ www.itaharimun.gov.np
 www.jaleshwarmun.gov.np
 www.janakpurmun.gov.np
 www.kageshworimanoharamun.gov.np
+www.kakarvitta.npponepal.gov.np
 www.kalaiyamun.gov.np
 www.kamalamaimun.gov.np
 www.kamalbazarmun.gov.np
@@ -480,6 +484,7 @@ www.neelakanthamun.gov.np
 www.nepalgunjmun.gov.np
 www.nepalpolice.gov.np
 www.nijgadhmun.gov.np
+www.p2.gov.np
 www.pakhribasmun.gov.np
 www.panautimun.gov.np
 www.panchkhalmun.gov.np
