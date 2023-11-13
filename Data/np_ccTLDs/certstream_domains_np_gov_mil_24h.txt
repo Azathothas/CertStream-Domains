@@ -2,6 +2,8 @@ copomis.gov.np
 copomis.mocpa.gov.np
 dahclalitpur.bagamati.gov.np
 daq.hydrology.gov.np
+dev.bipadportal.gov.np
+dev.ndrrma.gov.np
 ebps.itaharimun.gov.np
 ehrpmis.nra.gov.np
 gunaso.krishnapurmun.gov.np
@@ -9,6 +11,7 @@ hydrology.gov.np
 ijajatpatra.bansgadhimun.gov.np
 monitoring.hydrology.gov.np
 ntacall.nta.gov.np
+onlinesystem.doit.gov.np
 p2.gov.np
 pga.p2.gov.np
 pis.krishnapurmun.gov.np
