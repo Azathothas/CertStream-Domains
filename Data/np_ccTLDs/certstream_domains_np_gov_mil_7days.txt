@@ -1,7 +1,6 @@
 aanbookhairenimun.gov.np
 akcdhading.gov.np
 amargadhimun.gov.np
-ampis.gov.np
 api-rms.ndrrma.gov.np
 apidc.gov.np
 arjundharamun.gov.np
@@ -97,15 +96,11 @@ duhabimun.gov.np
 dullumun.gov.np
 e-cabinet.sudurpashchim.gov.np
 ebps.butwalmun.gov.np
-ebps.urlabarimun.gov.np
-ebpsdata-api.mahalaxmimun.gov.np
 ebpsdata.mahalaxmimun.gov.np
-ee.bipad.gov.np
 ehirrs.kathmandu.gov.np
 ehrpmis.nra.gov.np
 elearning.ndrrma.gov.np
 epustakalaya.nepalacademy.gov.np
-erb.nhrc.gov.np
 erp.kathmandu.gov.np
 eservice.banepamun.gov.np
 eservice.bardaghatmun.gov.np
@@ -113,7 +108,6 @@ eservice.bardgoriyamun.gov.np
 eservice.bateshwormun.gov.np
 eservice.belaurimun.gov.np
 eservice.bhaktapurmun.gov.np
-eservice.bharatpurmun.gov.np
 eservice.biratnagarmun.gov.np
 eservice.bishnupurmunsiraha.gov.np
 eservice.butwalmun.gov.np
@@ -196,13 +190,11 @@ kapilvastumun.gov.np
 katarimun.gov.np
 kathmandu.gov.np
 kawasotimun.gov.np
-kc.bipad.gov.np
 khairahanimun.gov.np
 khairhanimun.gov.np
 khandbarimun.gov.np
 kirtipurmun.gov.np
 km.mohp.gov.np
-kobo.bipad.gov.np
 kohalpurmun.gov.np
 kolhabimun.gov.np
 koshi.bipadportal.gov.np
@@ -253,7 +245,6 @@ neelakanthamun.gov.np
 nepalgunjmun.gov.np
 nepalpolice.gov.np
 nhfr.mohp.gov.np
-nhpc.gov.np
 nhssrf.mohp.gov.np
 nijgadhmun.gov.np
 nitert.gov.np
@@ -275,10 +266,7 @@ piuramechhap.pmamp.gov.np
 pokharakrishi.gov.np
 pokharamun.gov.np
 pollution.gov.np
-profile1.sunawarshimun.gov.np
 profile8.barahamun.gov.np
-projects.karnali.gov.np
-psconline1.psc.gov.np
 psdph.dopm.gov.np
 ptms.postalservice.gov.np
 punarbasmun.gov.np
@@ -328,7 +316,6 @@ sukhipurmun.gov.np
 sunawarshimun.gov.np
 sundarbazarmun.gov.np
 sunwalmun.gov.np
-survey.bipad.gov.np
 suryabinayakmun.gov.np
 suryodayamun.gov.np
 tangramvdc.gov.np
@@ -356,7 +343,6 @@ wriddsunsari.p1.gov.np
 www.aanbookhairenimun.gov.np
 www.akcdhading.gov.np
 www.amargadhimun.gov.np
-www.ampis.gov.np
 www.apidc.gov.np
 www.arjundharamun.gov.np
 www.badimalikamun.gov.np
