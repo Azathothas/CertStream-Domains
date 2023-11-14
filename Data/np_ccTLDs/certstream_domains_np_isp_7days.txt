@@ -3,6 +3,7 @@ apts.svcs.wlink.com.np
 atvbackend.nettv.com.np
 bknd.cgnet.com.np
 demo1.cgnet.com.np
+dristicam.nettv.com.np
 himalayatv.nettv.com.np
 kbs.cgnet.com.np
 kpi.nettv.com.np

@@ -63,6 +63,7 @@ dahcdhading.bagamati.gov.np
 dahcdolakha.bagamati.gov.np
 dahckathmandu.bagamati.gov.np
 dahckavrepalanchowk.bagamati.gov.np
+dahclalitpur.bagamati.gov.np
 dahcmakawanpur.bagamati.gov.np
 dahcnuwakot.bagamati.gov.np
 dahcramechhap.bagamati.gov.np
@@ -71,10 +72,13 @@ dahcsindhuli.bagamati.gov.np
 dahcsindhupalchowk.bagamati.gov.np
 dakshinkalimun.gov.np
 damakmun.gov.np
+daq.hydrology.gov.np
 dasharathchandmun.gov.np
 data.biratnagarmun.gov.np
 deumaimun.gov.np
 dev.bipad.gov.np
+dev.bipadportal.gov.np
+dev.ndrrma.gov.np
 devchulimun.gov.np
 devdahamun.gov.np
 dhangadhimaimun.gov.np
@@ -96,6 +100,7 @@ duhabimun.gov.np
 dullumun.gov.np
 e-cabinet.sudurpashchim.gov.np
 ebps.butwalmun.gov.np
+ebps.itaharimun.gov.np
 ebpsdata.mahalaxmimun.gov.np
 ehirrs.kathmandu.gov.np
 ehrpmis.nra.gov.np
@@ -170,6 +175,7 @@ hetaudamun.gov.np
 hosyangja.gandaki.gov.np
 hydrology.gov.np
 ialdopyuthan.p5.gov.np
+ijajatpatra.bansgadhimun.gov.np
 ilammun.gov.np
 ilgprofile.gov.np
 ilmis.dolos.gov.np
@@ -251,6 +257,7 @@ nhssrf.mohp.gov.np
 nijgadhmun.gov.np
 nitert.gov.np
 ntacall.nta.gov.np
+onlinesystem.doit.gov.np
 onlineticketing.kathmandu.gov.np
 p2.gov.np
 pakhribasmun.gov.np
@@ -262,14 +269,17 @@ patanmun.gov.np
 patharishanishcharemun.gov.np
 pathology.hetaudamun.gov.np
 patrachar.bansgadhimun.gov.np
+pga.p2.gov.np
 phidimmun.gov.np
 phunglingmun.gov.np
+pis.krishnapurmun.gov.np
 piubara.pmamp.gov.np
 piuramechhap.pmamp.gov.np
 pokharakrishi.gov.np
 pokharamun.gov.np
 pollution.gov.np
 profile8.barahamun.gov.np
+provincialassembly.bagamati.gov.np
 psdph.dopm.gov.np
 ptms.postalservice.gov.np
 punarbasmun.gov.np
