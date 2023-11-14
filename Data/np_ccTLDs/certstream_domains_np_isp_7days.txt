@@ -5,14 +5,10 @@ bknd.cgnet.com.np
 demo1.cgnet.com.np
 dristicam.nettv.com.np
 himalayatv.nettv.com.np
-kbs.cgnet.com.np
 kpi.nettv.com.np
 pctl.cgnet.com.np
 pgw.ncell.axiata.com
-ported.wlink.com.np
 radldap.svcs.wlink.com.np
-speedtesthtd.ntc.net.np.prod.hosts.ooklaserver.net
 svcs.wlink.com.np
 swag.svcs.wlink.com.np
-via.net.np
 wlink.nettv.com.np
