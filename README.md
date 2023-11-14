@@ -6,14 +6,14 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +3292262
+[+] New/ReNewed SSL Certs (ALL): +6452566
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +945
-[+] New/ReNewed SSL Certs (Edu): +88
-[+] New/ReNewed SSL Certs (Gov|Mil): +15
-[+] New/ReNewed SSL Certs (ISPs): +0
+[+] New/ReNewed SSL Certs (ALL): +2343
+[+] New/ReNewed SSL Certs (Edu): +240
+[+] New/ReNewed SSL Certs (Gov|Mil): +20
+[+] New/ReNewed SSL Certs (ISPs): +1
 
 
 ```
@@ -65,7 +65,7 @@
 > > mkdir "./certstream-latest" && cd "./certstream-latest"
 > > 
 > > !# Download all .7z file
-> > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Latest" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do curl -LJO $url; done
+> > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Latest" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do echo -e "\n[+] $url\n" && curl -qfLJO "$url"; done
 > >
 > > !# Extract all .7z files
 > > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" -o "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"
@@ -91,7 +91,7 @@
 > > mkdir "./certstream-7days" && cd "./certstream-7days"
 > > 
 > > !# Download all .7z file
-> > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Archive" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do curl -LJO $url; done
+> > for url in $(curl -qfsSL "https://api.github.com/repos/Azathothas/CertStream-Domains/contents/Raw/Archive" -H "Accept: application/vnd.github.v3+json" | jq -r '.[].download_url'); do echo -e "\n[+] $url\n" && curl -qfLJO "$url"; done
 > >
 > > !# Extract all .7z files
 > > !# Install 7z: sudo curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/7z" -o "/usr/local/bin/7z" && sudo chmod +xwr "/usr/local/bin/7z"

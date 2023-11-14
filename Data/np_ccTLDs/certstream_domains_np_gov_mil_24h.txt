@@ -5,6 +5,9 @@ dev.bipadportal.gov.np
 eservice.madhyabindumun.gov.np
 health.kaligandakimunsyangja.gov.np
 inventory.kaligandakimunsyangja.gov.np
+mnch.mohp.gov.np
+oph.p2.gov.np
+ppsconline.lumbini.gov.np
 ramechhaphospital.bagamati.gov.np
 revenue.kaligandakimunsyangja.gov.np
 school.kaligandakimunsyangja.gov.np
@@ -12,4 +15,6 @@ sso.ndrrma.gov.np
 tanahun.akc.gov.np
 tax.madhyabindumun.gov.np
 trishulihospital.bagamati.gov.np
+vaccine.mohp.gov.np
 www.madhyabindumun.gov.np
+www.oph.p2.gov.np
