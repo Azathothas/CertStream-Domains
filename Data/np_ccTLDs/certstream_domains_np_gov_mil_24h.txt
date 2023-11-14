@@ -1,0 +1,15 @@
+acc.madhyabindumun.gov.np
+bajrabarahihospital.bagamati.gov.np
+crime.kaligandakimunsyangja.gov.np
+dev.bipadportal.gov.np
+eservice.madhyabindumun.gov.np
+health.kaligandakimunsyangja.gov.np
+inventory.kaligandakimunsyangja.gov.np
+ramechhaphospital.bagamati.gov.np
+revenue.kaligandakimunsyangja.gov.np
+school.kaligandakimunsyangja.gov.np
+sso.ndrrma.gov.np
+tanahun.akc.gov.np
+tax.madhyabindumun.gov.np
+trishulihospital.bagamati.gov.np
+www.madhyabindumun.gov.np
