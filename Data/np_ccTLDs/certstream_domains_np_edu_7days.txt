@@ -285,6 +285,7 @@ cpanel.cpbs.edu.np
 cpanel.cvmschool.edu.np
 cpanel.damaktechnical.edu.np
 cpanel.dbss.edu.np
+cpanel.deepboarding.edu.np
 cpanel.donaldhome.edu.np
 cpanel.dpss.edu.np
 cpanel.dreamland.edu.np
@@ -354,6 +355,7 @@ cpanel.nilkanthacampus.edu.np
 cpanel.nitenmemorial.edu.np
 cpanel.nmess.edu.np
 cpanel.ocean.edu.np
+cpanel.oldschool.edu.np
 cpanel.optimusglobal.edu.np
 cpanel.outlook.edu.np
 cpanel.oxfordsecondaryschool.edu.np
@@ -455,6 +457,7 @@ cpcalendars.cpbs.edu.np
 cpcalendars.cvmschool.edu.np
 cpcalendars.damaktechnical.edu.np
 cpcalendars.dbss.edu.np
+cpcalendars.deepboarding.edu.np
 cpcalendars.dpss.edu.np
 cpcalendars.dreamland.edu.np
 cpcalendars.dudilabhati.edu.np
@@ -522,6 +525,7 @@ cpcalendars.nilkanthacampus.edu.np
 cpcalendars.nitenmemorial.edu.np
 cpcalendars.nmess.edu.np
 cpcalendars.ocean.edu.np
+cpcalendars.oldschool.edu.np
 cpcalendars.optimusglobal.edu.np
 cpcalendars.outlook.edu.np
 cpcalendars.oxfordsecondaryschool.edu.np
@@ -620,6 +624,7 @@ cpcontacts.cpbs.edu.np
 cpcontacts.cvmschool.edu.np
 cpcontacts.damaktechnical.edu.np
 cpcontacts.dbss.edu.np
+cpcontacts.deepboarding.edu.np
 cpcontacts.dpss.edu.np
 cpcontacts.dreamland.edu.np
 cpcontacts.dudilabhati.edu.np
@@ -686,6 +691,7 @@ cpcontacts.nilkanthacampus.edu.np
 cpcontacts.nitenmemorial.edu.np
 cpcontacts.nmess.edu.np
 cpcontacts.ocean.edu.np
+cpcontacts.oldschool.edu.np
 cpcontacts.optimusglobal.edu.np
 cpcontacts.outlook.edu.np
 cpcontacts.oxfordsecondaryschool.edu.np
@@ -754,6 +760,7 @@ cvmschool.edu.np
 damaktechnical.edu.np
 dashboard.www.brightstarpublicschool.edu.np
 dbss.edu.np
+deepboarding.edu.np
 deerwalk.edu.np
 delight.edu.np
 delta.edu.np
@@ -763,6 +770,7 @@ demo.lna.edu.np
 demo.millsberry.edu.np
 demo.spa.edu.np
 demo.thamescollege.edu.np
+dharanmodelschool.edu.np
 digitaltechnosoft.nrmv.edu.np
 disney.plus.easylink.edu.np
 dms.edu.np
@@ -904,6 +912,7 @@ jantamavisoltee.edu.np
 jillianchristoff.comhtwww.dreamemt.edu.np
 journal.mean.edu.np
 jpss.edu.np
+jssdeuripattishivnagar.edu.np
 jts.edu.np
 kabhrecampus.edu.np
 kakhara.edu.np
@@ -1012,6 +1021,7 @@ mail.cpbs.edu.np
 mail.cvmschool.edu.np
 mail.damaktechnical.edu.np
 mail.dbss.edu.np
+mail.deepboarding.edu.np
 mail.donaldhome.edu.np
 mail.dpss.edu.np
 mail.dreamland.edu.np
@@ -1100,6 +1110,7 @@ mail.old.kanchanjungaschool.edu.np
 mail.old.nbkspjhapa.edu.np
 mail.old.shreebiramarsinghss.edu.np
 mail.old.sitaramschool.edu.np
+mail.oldschool.edu.np
 mail.optimusglobal.edu.np
 mail.outlook.edu.np
 mail.oxfordsecondaryschool.edu.np
@@ -1195,6 +1206,7 @@ mds.edu.np
 mech.pcampus.edu.np
 mechicampus.edu.np
 meetings.ghen.edu.np
+members.sukunass.edu.np
 meyvn.edu.np
 michi.edu.np
 middlepointschool.edu.np
@@ -1274,6 +1286,7 @@ old.nbkspjhapa.edu.np
 old.shreebiramarsinghss.edu.np
 old.sitaramschool.edu.np
 old.thamescollege.edu.np
+oldschool.edu.np
 online.saraswatidamak.edu.np
 onlineform.kecktm.edu.np
 optima.edu.np
@@ -1337,6 +1350,7 @@ result.achanesec.edu.np
 result.bhimodayasec.edu.np
 result.chulidevisec.edu.np
 result.karkigaunsec.edu.np
+result.kusoed.edu.np
 result.mahendrodayamulabarisec.edu.np
 result.mahendrodayapokharasec.edu.np
 result.nilkanthacampus.edu.np
@@ -1495,6 +1509,7 @@ timescollege.edu.np
 tour.thenewsummit.edu.np
 tpnl.edu.np
 tracer.nilkanthacampus.edu.np
+translation.ilprl.ku.edu.np
 travisrestaurant.seishin.edu.np
 tres.edu.np
 tribhuwanadarshamavi.edu.np
@@ -1568,6 +1583,7 @@ webdisk.cpbs.edu.np
 webdisk.cvmschool.edu.np
 webdisk.damaktechnical.edu.np
 webdisk.dbss.edu.np
+webdisk.deepboarding.edu.np
 webdisk.donaldhome.edu.np
 webdisk.dpss.edu.np
 webdisk.dreamland.edu.np
@@ -1634,6 +1650,7 @@ webdisk.nilkanthacampus.edu.np
 webdisk.nitenmemorial.edu.np
 webdisk.nmess.edu.np
 webdisk.ocean.edu.np
+webdisk.oldschool.edu.np
 webdisk.optimusglobal.edu.np
 webdisk.outlook.edu.np
 webdisk.oxfordsecondaryschool.edu.np
@@ -1736,6 +1753,7 @@ webmail.cpbs.edu.np
 webmail.cvmschool.edu.np
 webmail.damaktechnical.edu.np
 webmail.dbss.edu.np
+webmail.deepboarding.edu.np
 webmail.dpss.edu.np
 webmail.dreamland.edu.np
 webmail.dudilabhati.edu.np
@@ -1816,6 +1834,7 @@ webmail.old.kanchanjungaschool.edu.np
 webmail.old.nbkspjhapa.edu.np
 webmail.old.shreebiramarsinghss.edu.np
 webmail.old.sitaramschool.edu.np
+webmail.oldschool.edu.np
 webmail.optimusglobal.edu.np
 webmail.outlook.edu.np
 webmail.oxfordsecondaryschool.edu.np
@@ -1968,6 +1987,7 @@ www.cvmschool.edu.np
 www.dailyreport.cbm.edu.np
 www.damaktechnical.edu.np
 www.dbss.edu.np
+www.deepboarding.edu.np
 www.demo.jmssg.edu.np
 www.demo.libertycollege.edu.np
 www.demo.lna.edu.np
@@ -2001,6 +2021,7 @@ www.eschhauni.edu.np
 www.euroschool.edu.np
 www.euroschoolkathmandu.edu.np
 www.events.bridgeeducation.edu.np
+www.everest-academy.edu.np
 www.everest.edu.np
 www.everestcollege.edu.np
 www.everestsecondaryacademy.edu.np
@@ -2098,6 +2119,7 @@ www.maivalleyschool.edu.np
 www.majestic.edu.np
 www.margadarshanacademy.edu.np
 www.maulakalikadriving.standardinstitute.edu.np
+www.members.sukunass.edu.np
 www.meyvn.edu.np
 www.michi.edu.np
 www.middlepointschool.edu.np
@@ -2143,6 +2165,7 @@ www.old.nbkspjhapa.edu.np
 www.old.shreebiramarsinghss.edu.np
 www.old.sitaramschool.edu.np
 www.old.thamescollege.edu.np
+www.oldschool.edu.np
 www.online.saraswatidamak.edu.np
 www.optimusglobal.edu.np
 www.outlook.edu.np

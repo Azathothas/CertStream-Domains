@@ -172,6 +172,7 @@ ntacall.nta.gov.np
 onlinesystem.doit.gov.np
 onlineticketing.kathmandu.gov.np
 oph.p2.gov.np
+otcc.dohs.gov.np
 p2.gov.np
 parsa.csiop2.gov.np
 pathology.hetaudamun.gov.np
