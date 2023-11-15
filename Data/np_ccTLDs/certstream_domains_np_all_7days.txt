@@ -6907,7 +6907,6 @@ forms.premsingh.com.np
 fortunetrade.com.np
 forum.devbohara.com.np
 forum.firstconoco.com.np
-forum.icorebusinesssolutions.com.np
 forum.kirtipurcop.com.np
 forum.manohardharel.com.np
 forum.milannagarkoti.com.np
@@ -9632,7 +9631,6 @@ mail.minoriinstitute.com.np
 mail.mkspicesandfoods.com.np
 mail.moen.gov.np
 mail.moir.gov.np
-mail.molihss.edu.np
 mail.mona.com.np
 mail.moneyplant.coop.np
 mail.moneyworks.com.np
@@ -10682,7 +10680,6 @@ mohanyalmavchure.sajilosikcha.com.np
 mohobanipadamidyalaypokhariya.sajilosikcha.com.np
 mokshaayurveda.com.np
 mokshcrafts.kodeonix.com.np
-molihss.edu.np
 molmacmis.karnali.gov.np
 momentumsoft.com.np
 momomantra.com.np
@@ -16602,7 +16599,6 @@ webmail.minoriinstitute.com.np
 webmail.mkspicesandfoods.com.np
 webmail.moen.gov.np
 webmail.moir.gov.np
-webmail.molihss.edu.np
 webmail.mona.com.np
 webmail.moneyplant.coop.np
 webmail.moneyworld.com.np
@@ -20175,7 +20171,6 @@ www.mohanyalmavchure.sajilosikcha.com.np
 www.mohobanipadamidyalaypokhariya.sajilosikcha.com.np
 www.moir.gov.np
 www.mokshcrafts.kodeonix.com.np
-www.molihss.edu.np
 www.momosansar.kodeonix.com.np
 www.mona.com.np
 www.moneyplant.coop.np
