@@ -73,6 +73,7 @@ ehirrs.kathmandu.gov.np
 ehrpmis.nra.gov.np
 elearning.ndrrma.gov.np
 eservice.madhyabindumun.gov.np
+esuggestions.kathmandu.gov.np
 gadhimaimun.gov.np
 gaindakotmun.gov.np
 ganeshmancharnathmun.gov.np

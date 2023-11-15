@@ -371,6 +371,7 @@ cpanel.riacollege.edu.np
 cpanel.rippleeducation.edu.np
 cpanel.salyantarcampus.edu.np
 cpanel.samjhanaelite.edu.np
+cpanel.saraswatidamak.edu.np
 cpanel.saraswatisanskrit.edu.np
 cpanel.sarc.edu.np
 cpanel.scsat.edu.np
@@ -538,6 +539,7 @@ cpcalendars.riacollege.edu.np
 cpcalendars.rippleeducation.edu.np
 cpcalendars.salyantarcampus.edu.np
 cpcalendars.samjhanaelite.edu.np
+cpcalendars.saraswatidamak.edu.np
 cpcalendars.saraswatisanskrit.edu.np
 cpcalendars.sarc.edu.np
 cpcalendars.scsat.edu.np
@@ -701,6 +703,7 @@ cpcontacts.riacollege.edu.np
 cpcontacts.rippleeducation.edu.np
 cpcontacts.salyantarcampus.edu.np
 cpcontacts.samjhanaelite.edu.np
+cpcontacts.saraswatidamak.edu.np
 cpcontacts.saraswatisanskrit.edu.np
 cpcontacts.sarc.edu.np
 cpcontacts.scsat.edu.np
@@ -815,6 +818,7 @@ excelpsschool.edu.np
 expertmultipurpose.edu.np
 facultyagriculture.fwu.edu.np
 faith.edu.np
+fbynepal.saraswatidamak.edu.np
 fea.edu.np
 finediamond.edu.np
 fivestar.edu.np
@@ -826,6 +830,7 @@ futurepathconsult.edu.np
 gaasc.edu.np
 galaxyglobal.edu.np
 gandakitecnicalinstitute.edu.np
+gauletas.com.icas.edu.np
 gci.edu.np
 gems.edu.np
 geusic.edu.np
@@ -1120,6 +1125,7 @@ mail.samiha.edu.np
 mail.samjhanaelite.edu.np
 mail.sandhiacademy.edu.np
 mail.saradanamunaacademy.edu.np
+mail.saraswatidamak.edu.np
 mail.saraswatisanskrit.edu.np
 mail.sarc.edu.np
 mail.scsat.edu.np
@@ -1267,6 +1273,7 @@ old.nbkspjhapa.edu.np
 old.shreebiramarsinghss.edu.np
 old.sitaramschool.edu.np
 old.thamescollege.edu.np
+online.saraswatidamak.edu.np
 onlineform.kecktm.edu.np
 optima.edu.np
 optimusglobal.edu.np
@@ -1336,6 +1343,7 @@ result.ranipauwasec.edu.np
 result.salyankotsec.edu.np
 result.salyantarcampus.edu.np
 result.salyantarsec.edu.np
+result.saraswatidamak.edu.np
 result.sundarisec.edu.np
 result.tripurasec.edu.np
 riacollege.edu.np
@@ -1364,6 +1372,7 @@ samjhanaelite.edu.np
 samjhanaelite.edu.np.sims.com.np
 sandhiacademy.edu.np
 sanopaila.edu.np
+saraswatidamak.edu.np
 saraswatimaviitahara.edu.np
 saraswatiniketanschool.edu.np
 saraswatisanskrit.edu.np
@@ -1496,6 +1505,7 @@ tripureshworss.edu.np
 trivenimavisimrutu.edu.np
 tssbelatari.edu.np
 tstec.edu.np
+tta.saraswatidamak.edu.np
 ttc.ku.edu.np
 tucds.edu.np
 tuconvocation.tuexam.edu.np
@@ -1641,6 +1651,7 @@ webdisk.riacollege.edu.np
 webdisk.rippleeducation.edu.np
 webdisk.salyantarcampus.edu.np
 webdisk.samjhanaelite.edu.np
+webdisk.saraswatidamak.edu.np
 webdisk.saraswatisanskrit.edu.np
 webdisk.sarc.edu.np
 webdisk.scsat.edu.np
@@ -1823,6 +1834,7 @@ webmail.riacollege.edu.np
 webmail.rippleeducation.edu.np
 webmail.salyantarcampus.edu.np
 webmail.samjhanaelite.edu.np
+webmail.saraswatidamak.edu.np
 webmail.saraswatisanskrit.edu.np
 webmail.sarc.edu.np
 webmail.scsat.edu.np
@@ -1995,11 +2007,13 @@ www.exam.nsu.edu.np
 www.exam.rammani.edu.np
 www.expertmultipurpose.edu.np
 www.faith.edu.np
+www.fbynepal.saraswatidamak.edu.np
 www.fea.edu.np
 www.finediamond.edu.np
 www.fomecd.edu.np
 www.galaxyglobal.edu.np
 www.gandakitecnicalinstitute.edu.np
+www.gauletas.com.icas.edu.np
 www.ghumtee.standardinstitute.edu.np
 www.glaciercollege.edu.np
 www.globaldestiny.edu.np
@@ -2127,6 +2141,7 @@ www.old.nbkspjhapa.edu.np
 www.old.shreebiramarsinghss.edu.np
 www.old.sitaramschool.edu.np
 www.old.thamescollege.edu.np
+www.online.saraswatidamak.edu.np
 www.optimusglobal.edu.np
 www.outlook.edu.np
 www.oxfordsecondaryschool.edu.np
@@ -2162,6 +2177,7 @@ www.result.ranipauwasec.edu.np
 www.result.salyankotsec.edu.np
 www.result.salyantarcampus.edu.np
 www.result.salyantarsec.edu.np
+www.result.saraswatidamak.edu.np
 www.result.sundarisec.edu.np
 www.result.tripurasec.edu.np
 www.results.milanschool.edu.np
@@ -2182,6 +2198,7 @@ www.samiha.edu.np
 www.samjhanaelite.edu.np
 www.samjhanaelite.edu.np.sims.com.np
 www.sandhiacademy.edu.np
+www.saraswatidamak.edu.np
 www.saraswatisanskrit.edu.np
 www.sarc.edu.np
 www.sbkssgorkha.edu.np
@@ -2254,6 +2271,7 @@ www.trijyoti.edu.np
 www.tripurasec.edu.np
 www.tripureshwarschool.edu.np
 www.tstec.edu.np
+www.tta.saraswatidamak.edu.np
 www.tuconvocation.tuexam.edu.np
 www.tuexam.edu.np
 www.tuiombnc.edu.np
