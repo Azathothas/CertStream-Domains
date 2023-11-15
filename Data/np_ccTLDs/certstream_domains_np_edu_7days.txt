@@ -1129,6 +1129,7 @@ mail.maivalleyschool.edu.np
 mail.majestic.edu.np
 mail.michi.edu.np
 mail.middlepointschool.edu.np
+mail.molihss.edu.np
 mail.mounteverest.edu.np
 mail.namuna.edu.np
 mail.nationalacademylahan.edu.np
@@ -1263,6 +1264,7 @@ mmconsultancy.edu.np
 mmihs.edu.np
 mna.edu.np
 modbro.nda.edu.np
+molihss.edu.np
 montessorikopila.edu.np
 morangmarigold.edu.np
 morangpathibhara.edu.np
@@ -1869,6 +1871,7 @@ webmail.maivalleyschool.edu.np
 webmail.majestic.edu.np
 webmail.michi.edu.np
 webmail.middlepointschool.edu.np
+webmail.molihss.edu.np
 webmail.mounteverest.edu.np
 webmail.namuna.edu.np
 webmail.nationalengineeringcollege.edu.np
@@ -2198,6 +2201,7 @@ www.middlepointschool.edu.np
 www.milton.edu.np
 www.mmconsultancy.edu.np
 www.mmihs.edu.np
+www.molihss.edu.np
 www.morangmarigold.edu.np
 www.morangpathibhara.edu.np
 www.mounteverest.edu.np
