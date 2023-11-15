@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 12 hours and 11 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 2.14 2.47 2.05
+       ..'''.            0Xxoc:,.  ...              Uptime: 13 hours and 11 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 4.86 4.39 4.09
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,10 +17,10 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 139 MiB / 2048 MiB
+                                          ;l   ..   RAM: 146 MiB / 2048 MiB
                                            .o       Disk: 1.1 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
-                                             .'     WAN IP: No Address
+                                             .'     WAN IP: 193.142.201.86
                                               .     
 [+] Storage:
 
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         17.4G   8.48M      0       0       0       0 
+         18.1G   9.10M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-          375M   5.40M      0       0       0       0 
+          400M   5.79M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 12 hours and 9 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 7.17 8.46 10.02
+       ..'''.            0Xxoc:,.  ...              Uptime: 13 hours and 8 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 8.68 7.77 8.86
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,7 +60,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 121 MiB / 2048 MiB
+                                          ;l   ..   RAM: 127 MiB / 2048 MiB
                                            .o       Disk: 3.0 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.13, fe80::42:aff:fe0b:d
                                              .'     WAN IP: 91.219.215.228
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         17.1G   8.55M      0       0       0       0 
+         17.8G   9.20M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-          374M   5.40M      0       0       0       0 
+          400M   5.79M      0       0       0       0 
 
 
 
