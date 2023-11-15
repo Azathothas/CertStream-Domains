@@ -218,6 +218,7 @@ bvs.edu.np
 call.ecea-s.easycare.edu.np
 careeracademy.edu.np
 careerkey.edu.np
+careers.mihs.edu.np
 cbm.edu.np
 cdcsit.edu.np
 cdg.tu.edu.np
@@ -1946,6 +1947,7 @@ www.bpmpi.edu.np
 www.bsamv.edu.np
 www.call.ecea-s.easycare.edu.np
 www.career.careeracademy.edu.np
+www.careers.mihs.edu.np
 www.cdphtu.edu.np
 www.cesar.org.np.icas.edu.np
 www.chaitanya.edu.np

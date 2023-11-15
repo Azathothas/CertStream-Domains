@@ -96,6 +96,7 @@ harionmun.gov.np
 health.kaligandakimunsyangja.gov.np
 hetaudamun.gov.np
 hydrology.gov.np
+idopanchthar.p1.gov.np
 ijajatpatra.bansgadhimun.gov.np
 ilammun.gov.np
 ilgprofile.gov.np
@@ -164,6 +165,8 @@ municipality.gov.np
 musikotmun.gov.np
 myanglungmun.gov.np
 nagarjunmun.gov.np
+naksapass.devchulimun.gov.np
+naksapass.golbazarmun.gov.np
 nitert.gov.np
 ntacall.nta.gov.np
 onlinesystem.doit.gov.np
