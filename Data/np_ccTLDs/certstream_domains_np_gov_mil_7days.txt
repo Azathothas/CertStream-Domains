@@ -198,6 +198,7 @@ sso.ndrrma.gov.np
 tanahun.akc.gov.np
 tangramvdc.gov.np
 tax.madhyabindumun.gov.np
+traccar.ambulance.mohp.gov.np
 trishulihospital.bagamati.gov.np
 urlabarimun.gov.np
 vacancy.asdp.gov.np

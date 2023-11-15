@@ -189,6 +189,7 @@ bhagyodaya.edu.np
 bhaleshwormavi.edu.np
 bhanumultiplecampus.edu.np
 bhanumultiplecampus.sarc.edu.np
+bheemschool.edu.np
 bhimodayasec.edu.np
 bhojprakash.edu.np
 bhrikutissdeudhakala.edu.np
@@ -815,6 +816,7 @@ erps.muodgshss.edu.np
 eschhauni.edu.np
 euroschool.edu.np
 euroschoolkathmandu.edu.np
+eva.edu.np
 events.bridgeeducation.edu.np
 everest.edu.np
 everestcollege.edu.np
@@ -940,6 +942,7 @@ ktmshikshyalaya.edu.np
 kucc.ku.edu.np
 kuglacier.edu.np
 kumaricollege.edu.np
+kusom.edu.np
 kusumakarschool.edu.np
 lajf.edu.np
 lbamnr.edu.np
@@ -1494,6 +1497,7 @@ svmess.edu.np
 swivt.edu.np
 sxs.edu.np
 tcioe.edu.np
+templates.hilarious.edu.np
 test.jmssg.edu.np
 test.vedascollege.edu.np
 testing.nsu.edu.np
@@ -2021,6 +2025,7 @@ www.erp.ran.edu.np
 www.eschhauni.edu.np
 www.euroschool.edu.np
 www.euroschoolkathmandu.edu.np
+www.eva.edu.np
 www.events.bridgeeducation.edu.np
 www.everest-academy.edu.np
 www.everest.edu.np
