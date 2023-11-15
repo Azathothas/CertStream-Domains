@@ -1251,6 +1251,7 @@ ncmc.edu.np
 ncsschitwan.edu.np
 ndmc.edu.np
 neighbourhoodschool.edu.np
+nepalentrepreneurshipforum.kingscollege.edu.np
 nepalgunjmodelacademy.edu.np
 nepalmavi.edu.np
 nepalnit.edu.np
@@ -2142,6 +2143,7 @@ www.nccc.edu.np
 www.ncmc.edu.np
 www.ncsschitwan.edu.np
 www.neighbourhoodschool.edu.np
+www.nepalentrepreneurshipforum.kingscollege.edu.np
 www.nepalgunjmodelacademy.edu.np
 www.nepalnit.edu.np
 www.newlumbini.edu.np
