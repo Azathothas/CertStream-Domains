@@ -97,6 +97,7 @@ mail.morningglory.edu.np
 mail.novainternationalcollege.edu.np
 mail.oldschool.edu.np
 mail.phoenixschool.edu.np
+mail.ramawapurss.edu.np
 mail.saraswatidamak.edu.np
 mail.snrmssbakuliya.edu.np
 mail.snrssolakhpur.edu.np
@@ -113,7 +114,9 @@ morningglory.edu.np.shopmnr.com
 myace.ace.edu.np
 nepalentrepreneurshipforum.kingscollege.edu.np
 nepalwide.edu.np
+newhorizoncollege.edu.np
 newkidshome.edu.np
+newlifeschool.edu.np
 nirctech.com.afpi.edu.np
 novainternationalcollege.edu.np
 oldschool.edu.np
@@ -124,9 +127,11 @@ pmc.tu.edu.np
 ponc.tu.edu.np
 producttest.cdhsc.edu.np
 pu.edu.np
+ramawapurss.edu.np
 result.kusoed.edu.np
 result.saraswatidamak.edu.np
 saraswatidamak.edu.np
+schoolarunodaya.edu.np
 sheratontrainingcenter.edu.np
 sids.baraacademy.edu.np
 skylightschool.edu.np
@@ -142,6 +147,7 @@ thewowdecors.afpi.edu.np
 translation.ilprl.ku.edu.np
 trijyoti.edu.np
 tta.saraswatidamak.edu.np
+uon.edu.np
 viaeducation.edu.np
 webdisk.allied.edu.np
 webdisk.bikramschoolbara.edu.np
@@ -207,6 +213,7 @@ www.oldschool.edu.np
 www.online.saraswatidamak.edu.np
 www.phoenixschool.edu.np
 www.pu.edu.np
+www.ramawapurss.edu.np
 www.result.saraswatidamak.edu.np
 www.saraswatidamak.edu.np
 www.sids.baraacademy.edu.np
