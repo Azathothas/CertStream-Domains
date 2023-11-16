@@ -2,6 +2,7 @@ acc.madhyabindumun.gov.np
 aglearn.p1.gov.np
 api-rms.ndrrma.gov.np
 apidc.gov.np
+apply.mcsipc.gov.np
 assembly.karnali.gov.np
 baglung.akc.gov.np
 bajrabarahihospital.bagamati.gov.np
