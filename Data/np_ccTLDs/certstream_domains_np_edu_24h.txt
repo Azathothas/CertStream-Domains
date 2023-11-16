@@ -12,6 +12,7 @@ birendraadarshamavi.edu.np
 bloomingbuds.edu.np
 buddhibikash.edu.np
 careers.mihs.edu.np
+churecampus.edu.np
 cihs.edu.np
 conference.cdztu.edu.np
 cpanel.allied.edu.np
@@ -82,6 +83,7 @@ mail.damaktechnical.edu.np
 mail.deepboarding.edu.np
 mail.eliteapprentice.edu.np
 mail.janjyotieducation.edu.np
+mail.mmconsultancy.edu.np
 mail.moderneducere.edu.np
 mail.morningglory.edu.np
 mail.novainternationalcollege.edu.np
@@ -112,6 +114,7 @@ pu.edu.np
 result.kusoed.edu.np
 result.saraswatidamak.edu.np
 saraswatidamak.edu.np
+sheratontrainingcenter.edu.np
 sids.baraacademy.edu.np
 skylightschool.edu.np
 snrmssbakuliya.baraacademy.edu.np
@@ -172,6 +175,7 @@ www.fbynepal.saraswatidamak.edu.np
 www.gauletas.com.icas.edu.np
 www.indralohani.baraacademy.edu.np
 www.janjyotieducation.edu.np
+www.mail.mmconsultancy.edu.np
 www.members.sukunass.edu.np
 www.mikhospitality.baraacademy.edu.np
 www.moderneducere.edu.np
