@@ -9,7 +9,6 @@ bara.csiop2.gov.np
 beldandimun.gov.np
 benimun.gov.np
 besishaharmun.gov.np
-bhimeshwor.gov.np
 bidurmun.gov.np
 biratnagarmun.gov.np
 birgunjmun.gov.np
@@ -29,7 +28,6 @@ chaurjaharimun.gov.np
 chautarasangachowkgadhimun.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
-cpcalendars.moir.gov.np
 crime.kaligandakimunsyangja.gov.np
 dahcbhaktapur.bagamati.gov.np
 dahcchitwan.bagamati.gov.np
@@ -72,7 +70,6 @@ ebps.butwalmun.gov.np
 ebps.itaharimun.gov.np
 ehirrs.kathmandu.gov.np
 ehrpmis.nra.gov.np
-elearning.ndrrma.gov.np
 eservice.madhyabindumun.gov.np
 esuggestions.kathmandu.gov.np
 eticket.bherihospital.gov.np
@@ -83,14 +80,12 @@ gauradahamun.gov.np
 gaurmun.gov.np
 gaushalamun.gov.np
 ghorahimun.gov.np
-godam.ndrrma.gov.np
 godawarimunkailali.gov.np
 godawarimunlalitpur.gov.np
 gokarneshwormun.gov.np
 golbazarmun.gov.np
 gorkhamun.gov.np
 gov.np.sium.co
-gpsvts.dotm.gov.np
 gulariyamun.gov.np
 gunaso.krishnapurmun.gov.np
 hanumannagarkankalinimun.gov.np
@@ -102,7 +97,6 @@ idopanchthar.p1.gov.np
 ijajatpatra.bansgadhimun.gov.np
 ilammun.gov.np
 ilgprofile.gov.np
-ilmis.dolos.gov.np
 inaruwamun.gov.np
 infobank.bagamati.gov.np
 inventory.kaligandakimunsyangja.gov.np
@@ -128,7 +122,6 @@ kirtipurmun.gov.np
 kohalpurmun.gov.np
 kolhabimun.gov.np
 koshi.bipadportal.gov.np
-koshi.gov.np
 krishnanagarmun.gov.np
 krishnapurmun.gov.np
 kshireshwornathmun.gov.np
@@ -138,7 +131,6 @@ lalbandimun.gov.np
 laliguransmun.gov.np
 lamahimun.gov.np
 lamkichuhamun.gov.np
-ldta.gov.np
 letangmun.gov.np
 lumbinisanskritikmun.gov.np
 madhuwanmun.gov.np
@@ -148,7 +140,6 @@ madimunchitwan.gov.np
 mahagadhimaimun.gov.np
 mahalaxmimun.gov.np
 mahottari.csiop2.gov.np
-mail.moir.gov.np
 malangwamun.gov.np
 mangalsenmun.gov.np
 manthalimun.gov.np
@@ -159,11 +150,9 @@ mirchaiyamun.gov.np
 mithilamun.gov.np
 mnch.mohp.gov.np
 moeap.p1.gov.np
-moen.gov.np
 moial.bagamati.gov.np
 moialdemo.bagamati.gov.np
 monitoring.hydrology.gov.np
-mopiud.karnali.gov.np
 mosd.p1.gov.np
 municipality.gov.np
 musikotmun.gov.np
@@ -171,7 +160,6 @@ myanglungmun.gov.np
 nagarjunmun.gov.np
 naksapass.devchulimun.gov.np
 naksapass.golbazarmun.gov.np
-nitert.gov.np
 ntacall.nta.gov.np
 onlinesystem.doit.gov.np
 onlineticketing.kathmandu.gov.np
@@ -189,7 +177,6 @@ ppsconline.lumbini.gov.np
 profile8.barahamun.gov.np
 provincialassembly.bagamati.gov.np
 psdph.dopm.gov.np
-pyc.bagamati.gov.np
 ramechhaphospital.bagamati.gov.np
 rautahat.csiop2.gov.np
 revenue.kaligandakimunsyangja.gov.np
@@ -206,11 +193,8 @@ tax.madhyabindumun.gov.np
 traccar.ambulance.mohp.gov.np
 trishulihospital.bagamati.gov.np
 urlabarimun.gov.np
-vacancy.asdp.gov.np
 vaccine.mohp.gov.np
 vhlseckavre.bagamati.gov.np
-vms.ndrrma.gov.np
-webmail.moir.gov.np
 wriddsunsari.p1.gov.np
 www.apidc.gov.np
 www.baglung.akc.gov.np
@@ -296,7 +280,6 @@ www.lalbandimun.gov.np
 www.laliguransmun.gov.np
 www.lamahimun.gov.np
 www.lamkichuhamun.gov.np
-www.ldta.gov.np
 www.letangmun.gov.np
 www.lumbinisanskritikmun.gov.np
 www.madhuwanmun.gov.np
@@ -314,9 +297,7 @@ www.melamchimun.gov.np
 www.mhealth.dopm.gov.np.keyinnovation.com.np
 www.mirchaiyamun.gov.np
 www.mithilamun.gov.np
-www.moen.gov.np
 www.moial.bagamati.gov.np
-www.moir.gov.np
 www.municipality.gov.np
 www.musikotmun.gov.np
 www.myanglungmun.gov.np
