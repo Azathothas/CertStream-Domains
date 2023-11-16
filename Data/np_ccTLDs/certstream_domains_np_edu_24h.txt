@@ -114,6 +114,7 @@ gaumukhi.edu.np
 gemsdang.edu.np
 gihm.edu.np
 grisha.edu.np
+hdccorporate.com.lmebs.edu.np
 ilprl.ku.edu.np
 indralohani.baraacademy.edu.np
 itolympiadnepal.jmssg.edu.np
@@ -150,6 +151,7 @@ mail.semi.edu.np
 mail.snrmssbakuliya.edu.np
 mail.snrssolakhpur.edu.np
 mail.sprjbs.edu.np
+mark.edu.np
 mds.edu.np
 members.sukunass.edu.np
 merge.edu.np
@@ -282,6 +284,7 @@ www.everest-academy.edu.np
 www.fbynepal.saraswatidamak.edu.np
 www.gaan.afpi.edu.np
 www.gauletas.com.icas.edu.np
+www.hdccorporate.com.lmebs.edu.np
 www.indralohani.baraacademy.edu.np
 www.itolympiadnepal.jmssg.edu.np
 www.janjyotieducation.edu.np
