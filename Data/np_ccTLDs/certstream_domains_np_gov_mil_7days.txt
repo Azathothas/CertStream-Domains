@@ -17,6 +17,7 @@ birtamodmun.gov.np
 budhanilkanthamun.gov.np
 business.kailarimun.gov.np
 butwalmun.gov.np
+career.csh.gov.np
 chainpurmun.gov.np
 chandannathmun.gov.np
 chandragirimun.gov.np
@@ -74,6 +75,7 @@ ehrpmis.nra.gov.np
 elearning.ndrrma.gov.np
 eservice.madhyabindumun.gov.np
 esuggestions.kathmandu.gov.np
+eticket.bherihospital.gov.np
 gadhimaimun.gov.np
 gaindakotmun.gov.np
 ganeshmancharnathmun.gov.np
@@ -158,6 +160,8 @@ mithilamun.gov.np
 mnch.mohp.gov.np
 moeap.p1.gov.np
 moen.gov.np
+moial.bagamati.gov.np
+moialdemo.bagamati.gov.np
 monitoring.hydrology.gov.np
 mopiud.karnali.gov.np
 mosd.p1.gov.np
@@ -175,6 +179,7 @@ oph.p2.gov.np
 otcc.dohs.gov.np
 p2.gov.np
 parsa.csiop2.gov.np
+pashusakha.siyarimun.gov.np
 pathology.hetaudamun.gov.np
 patrachar.bansgadhimun.gov.np
 pga.p2.gov.np
@@ -310,6 +315,7 @@ www.mhealth.dopm.gov.np.keyinnovation.com.np
 www.mirchaiyamun.gov.np
 www.mithilamun.gov.np
 www.moen.gov.np
+www.moial.bagamati.gov.np
 www.moir.gov.np
 www.municipality.gov.np
 www.musikotmun.gov.np
