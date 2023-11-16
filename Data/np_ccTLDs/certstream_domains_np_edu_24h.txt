@@ -8,6 +8,7 @@ autodiscover.morningglory.edu.np
 autodiscover.sprjbs.edu.np
 balmikischool.edu.np
 banshagopal.edu.np
+beadmission.pcampus.edu.np
 bikramschoolbara.baraacademy.edu.np
 bikramschoolbara.edu.np
 birendraadarshamavi.edu.np
@@ -71,6 +72,7 @@ deepboarding.edu.np
 dharanmodelschool.edu.np
 edu.np.domgrom.com
 eliteapprentice.edu.np
+entad.pcampus.edu.np
 entrance.bts.edu.np
 eva.edu.np
 everest-academy.edu.np
@@ -103,6 +105,8 @@ mds.edu.np
 members.sukunass.edu.np
 mikhospitality.baraacademy.edu.np
 mirrorinstitute.edu.np
+mis.ankuram.edu.np
+mis.pcampus.edu.np
 moderneducere.edu.np
 morningglory.edu.np
 morningglory.edu.np.shopmnr.com
@@ -110,6 +114,7 @@ myace.ace.edu.np
 nepalentrepreneurshipforum.kingscollege.edu.np
 nepalwide.edu.np
 newkidshome.edu.np
+nirctech.com.afpi.edu.np
 novainternationalcollege.edu.np
 oldschool.edu.np
 online.saraswatidamak.edu.np
@@ -133,6 +138,7 @@ sprjbs.edu.np
 sprjbs.edu.np.techiegurkhas.com
 successacademydhading.edu.np
 templates.hilarious.edu.np
+thewowdecors.afpi.edu.np
 translation.ilprl.ku.edu.np
 trijyoti.edu.np
 tta.saraswatidamak.edu.np
@@ -195,6 +201,7 @@ www.moderneducere.edu.np
 www.morningglory.edu.np
 www.morningglory.edu.np.shopmnr.com
 www.nepalentrepreneurshipforum.kingscollege.edu.np
+www.nirctech.com.afpi.edu.np
 www.novainternationalcollege.edu.np
 www.oldschool.edu.np
 www.online.saraswatidamak.edu.np
@@ -210,6 +217,7 @@ www.snrssolakhpur.baraacademy.edu.np
 www.snrssolakhpur.edu.np
 www.sprjbs.edu.np
 www.sprjbs.edu.np.techiegurkhas.com
+www.thewowdecors.afpi.edu.np
 www.trijyoti.edu.np
 www.tta.saraswatidamak.edu.np
 www.wp-site.professional.edu.np
