@@ -8,6 +8,7 @@ autodiscover.kalaintl.edu.np
 autodiscover.moderneducere.edu.np
 autodiscover.morningglory.edu.np
 autodiscover.sprjbs.edu.np
+baladarsha.edu.np
 balmikischool.edu.np
 banshagopal.edu.np
 beadmission.pcampus.edu.np
@@ -148,6 +149,7 @@ mail.snrssolakhpur.edu.np
 mail.sprjbs.edu.np
 mds.edu.np
 members.sukunass.edu.np
+merge.edu.np
 mikhospitality.baraacademy.edu.np
 mirrorinstitute.edu.np
 mis.ankuram.edu.np
@@ -201,6 +203,7 @@ sprjbs.edu.np
 sprjbs.edu.np.techiegurkhas.com
 successacademydhading.edu.np
 sudesha.edu.np
+sushmagodawari.edu.np
 sxs.edu.np
 templates.hilarious.edu.np
 thewowdecors.afpi.edu.np
