@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 1 day, 9 hours and 11 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 5.04 5.03 5.15
+       ..'''.            0Xxoc:,.  ...              Uptime: 1 day, 10 hours and 13 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 10.87 10.97 8.61
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,10 +17,10 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 138 MiB / 2048 MiB
+                                          ;l   ..   RAM: 102 MiB / 2048 MiB
                                            .o       Disk: 1.1 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
-                                             .'     WAN IP: 193.187.130.148
+                                             .'     WAN IP: 86.104.22.67
                                               .     
 [+] Storage:
 
@@ -29,7 +29,7 @@
 ├────────────┬───────┬───────┬───────┬────────┬────────┬──────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
 ├────────────┼───────┼───────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 16.0G │ 10.4G │  5.6G │  65.0% │ fuse.[ │ [encfs-ZjMMz │
+│ /sec       │ 16.0G │ 10.5G │  5.5G │  65.5% │ fuse.[ │ [encfs-ZjMMz │
 │            │       │       │       │        │ encfs- │ UwYzl]       │
 │            │       │       │       │        │ ZjMMzU │              │
 │            │       │       │       │        │ wYzl]  │              │
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         33.3G   22.0M      0       0       0       0 
+         34.0G   22.6M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-          989M   13.9M      0       0       0       0 
+         1.03G   14.3M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 1 day, 9 hours and 9 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 5.23 8.05 8.63
+       ..'''.            0Xxoc:,.  ...              Uptime: 1 day, 10 hours and 11 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 8.03 8.18 8.24
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,10 +60,10 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 117 MiB / 2048 MiB
+                                          ;l   ..   RAM: 79 MiB / 2048 MiB
                                            .o       Disk: 3.0 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.13, fe80::42:aff:fe0b:d
-                                             .'     WAN IP: 91.219.215.228
+                                             .'     WAN IP: 194.5.154.6
                                               .     
 [+] Storage:
 
@@ -72,7 +72,7 @@
 ├────────────┬───────┬───────┬───────┬────────┬────────┬──────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
 ├────────────┼───────┼───────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 16.0G │ 10.4G │  5.6G │  65.2% │ fuse.[ │ [encfs-ODlmN │
+│ /sec       │ 16.0G │ 10.5G │  5.5G │  65.7% │ fuse.[ │ [encfs-ODlmN │
 │            │       │       │       │        │ encfs- │ TJjMz]       │
 │            │       │       │       │        │ ODlmNT │              │
 │            │       │       │       │        │ JjMz]  │              │
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         32.9G   22.1M      0       0       0       0 
+         33.7G   22.8M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-          970M   13.7M      0       0       0       0 
+         1.01G   14.2M      0       0       0       0 
 
 
 
