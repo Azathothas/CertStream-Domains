@@ -29,6 +29,7 @@ churecampus.edu.np
 cihs.edu.np
 conference.cdztu.edu.np
 confignepal.com.icas.edu.np
+corpusdev.ilprl.ku.edu.np
 cpanel.allied.edu.np
 cpanel.bikramschoolbara.edu.np
 cpanel.birendraadarshamavi.edu.np
