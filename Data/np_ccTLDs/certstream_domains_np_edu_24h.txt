@@ -99,6 +99,7 @@ cpcontacts.sprjbs.edu.np
 damaktechnical.edu.np
 deepboarding.edu.np
 dharanmodelschool.edu.np
+dragonhotelnepal.com.gyaninstitute.edu.np
 edu.np.domgrom.com
 elimkids.edu.np
 eliteapprentice.edu.np
@@ -121,6 +122,7 @@ jssdeuripattishivnagar.edu.np
 jufal.gaumukhi.edu.np
 kaamley.com.afpi.edu.np
 kalaintl.edu.np
+kmcpokhara.edu.np
 mail.allied.edu.np
 mail.bikramschoolbara.edu.np
 mail.birendraadarshamavi.edu.np
@@ -271,6 +273,7 @@ www.conference.cdztu.edu.np
 www.confignepal.com.icas.edu.np
 www.damaktechnical.edu.np
 www.deepboarding.edu.np
+www.dragonhotelnepal.com.gyaninstitute.edu.np
 www.elimkids.edu.np
 www.eliteapprentice.edu.np
 www.entrance.bts.edu.np
@@ -284,6 +287,7 @@ www.itolympiadnepal.jmssg.edu.np
 www.janjyotieducation.edu.np
 www.kaamley.com.afpi.edu.np
 www.kalaintl.edu.np
+www.kmcpokhara.edu.np
 www.mail.mmconsultancy.edu.np
 www.members.sukunass.edu.np
 www.mikhospitality.baraacademy.edu.np

@@ -4,6 +4,7 @@ esuggestions.kathmandu.gov.np
 eticket.bherihospital.gov.np
 gov.np.domgrom.com
 idopanchthar.p1.gov.np
+mis.laliguransmun.gov.np
 naksapass.devchulimun.gov.np
 naksapass.harionmun.gov.np
 ntacall.nta.gov.np
