@@ -1,3 +1,4 @@
+aadhar.edu.np
 allied.baraacademy.edu.np
 allied.edu.np
 ames.ku.edu.np
@@ -30,6 +31,7 @@ cihs.edu.np
 conference.cdztu.edu.np
 confignepal.com.icas.edu.np
 corpusdev.ilprl.ku.edu.np
+cpanel.aadhar.edu.np
 cpanel.allied.edu.np
 cpanel.bikramschoolbara.edu.np
 cpanel.birendraadarshamavi.edu.np
@@ -52,6 +54,7 @@ cpanel.semi.edu.np
 cpanel.snrmssbakuliya.edu.np
 cpanel.snrssolakhpur.edu.np
 cpanel.sprjbs.edu.np
+cpcalendars.aadhar.edu.np
 cpcalendars.allied.edu.np
 cpcalendars.bikramschoolbara.edu.np
 cpcalendars.birendraadarshamavi.edu.np
@@ -74,6 +77,7 @@ cpcalendars.semi.edu.np
 cpcalendars.snrmssbakuliya.edu.np
 cpcalendars.snrssolakhpur.edu.np
 cpcalendars.sprjbs.edu.np
+cpcontacts.aadhar.edu.np
 cpcontacts.allied.edu.np
 cpcontacts.bikramschoolbara.edu.np
 cpcontacts.birendraadarshamavi.edu.np
@@ -124,6 +128,7 @@ jufal.gaumukhi.edu.np
 kaamley.com.afpi.edu.np
 kalaintl.edu.np
 kmcpokhara.edu.np
+mail.aadhar.edu.np
 mail.allied.edu.np
 mail.bikramschoolbara.edu.np
 mail.birendraadarshamavi.edu.np
@@ -217,6 +222,7 @@ trijyoti.edu.np
 tta.saraswatidamak.edu.np
 uon.edu.np
 viaeducation.edu.np
+webdisk.aadhar.edu.np
 webdisk.allied.edu.np
 webdisk.bikramschoolbara.edu.np
 webdisk.birendraadarshamavi.edu.np
@@ -239,6 +245,7 @@ webdisk.semi.edu.np
 webdisk.snrmssbakuliya.edu.np
 webdisk.snrssolakhpur.edu.np
 webdisk.sprjbs.edu.np
+webmail.aadhar.edu.np
 webmail.allied.edu.np
 webmail.bikramschoolbara.edu.np
 webmail.birendraadarshamavi.edu.np
@@ -262,6 +269,7 @@ webmail.snrmssbakuliya.edu.np
 webmail.snrssolakhpur.edu.np
 webmail.sprjbs.edu.np
 wp-site.professional.edu.np
+www.aadhar.edu.np
 www.allied.baraacademy.edu.np
 www.allied.edu.np
 www.banshagopal.edu.np

@@ -1,4 +1,5 @@
 2079.doed.gov.np
+bajrabarahihospital.bagamati.gov.np
 ehrpmis.nra.gov.np
 esuggestions.kathmandu.gov.np
 eticket.bherihospital.gov.np
@@ -13,6 +14,7 @@ pashusakha.siyarimun.gov.np
 pmis.nlsip.gov.np
 sahakari.sudurpashchim.gov.np
 sebon.gov.np
+soft.jhapamun.gov.np
 soillabgandaki.gov.np
 traccar.ambulance.mohp.gov.np
 www.sebon.gov.np
