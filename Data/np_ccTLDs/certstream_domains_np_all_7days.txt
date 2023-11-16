@@ -292,6 +292,7 @@ adminpanel.krity.com.np
 admintl.com.np
 admintool.elsevier.com.np.remotexs.co
 admission.ioepas.edu.np
+adobepremiere.beamconsultant.com.np
 adpad.com.np
 adrstravels.com.np
 ads.com.np
@@ -1573,6 +1574,7 @@ basantanalami.com.np
 basantpokharel.com.np
 bashudevsapkota.com.np
 basket.com.np
+basnco.com.np
 basnetbhimsen.com.np
 basnetriyon2002.com.np
 basudevimavdhangadhi.sajilosikcha.com.np
@@ -6410,6 +6412,7 @@ gautamhotel.com.np
 gautamnarayan.com.np
 gautamniraj.com.np
 gauthali.coop.np
+gbho.festnepal.com.np
 gbkhatri.com.np
 gbspl.com.np
 gbsuwarnapur.edu.np
@@ -6481,10 +6484,12 @@ git.git.git.git.support.rabesh.com.np
 git.git.git.prititumbapo.com.np
 git.git.git.sitemap.yashodakunwar.com.np
 git.git.git.sushantbabu.com.np
+git.git.gttc.edu.np
 git.git.pawanwaiba.com.np
 git.git.ranaraaz.com.np
 git.git.sugatsingh.com.np
 git.git.support.subodhkhatri.com.np
+git.gitlab.autodiscover.gttc.edu.np
 git.gitlab.gauravadhikari.com.np
 git.gitlab.git.git.git.com.npdev.i.domains.kred
 git.gitlab.git.suzeettwanabasu.com.np
@@ -6979,6 +6984,7 @@ illam.can.org.np
 ilprl.ku.edu.np
 imagenewsfm.com.np
 imandar.com.np
+imap.agyat.com.np
 imap.globalentertainments.sushanpsd.com.np
 imap.sitemaps.nischalpokharel.com.np
 imap.tinymedic.com.np
@@ -7032,6 +7038,7 @@ intern.kushallalshrestha.com.np
 internetsociety.org.np
 intrade.pmcnepal.com.np
 intrafoundation.org.np
+intranet.npfr.pl
 intranet.npwa.org
 inv.yetitech.com.np
 inventors.edu.np
@@ -7304,6 +7311,7 @@ jkehr.com.pradeepbelbase.com.np
 jkmc.com.np
 jkr.dolphin.com.np
 jkrreport.dolphin.com.np
+jkrs.com.np
 jmsservices.com.np
 jmtransport.com.np
 jnma.com.np
@@ -7320,6 +7328,7 @@ joshianup.com.np
 joshibharat.com.np
 joshibishal.com.np
 joshipur.prakashs.com.np
+journal.cosmoscollege.edu.np
 journal.mean.edu.np
 journals.elsevier.com.np.remotexs.co
 journey.asaurav.com.np
@@ -7716,6 +7725,7 @@ krispa.com.np.goinfosys.com.np
 kristina.com.np
 kritech.com.np
 kritichimariya.com.np
+kritimobile.com.np
 kritishneupane.com.np
 krpoudel.com.np
 ksapkota.com.np
@@ -8007,6 +8017,7 @@ mahakaliichampapurbelaka.sajilosikcha.com.np
 mahakalimavphedap.sajilosikcha.com.np
 mahalaxmimavrangeli.sajilosikcha.com.np
 mahalaxmimun.gov.np
+mahanadhikari.com.np
 mahankaneshworimavdhunibesi.sajilosikcha.com.np
 mahankhalmavmahankal.sajilosikcha.com.np
 maharajamavnepalganj.sajilosikcha.com.np
@@ -9418,6 +9429,7 @@ manishacharya01.com.np
 manishaluitel.com.np
 manishbaral.com.np
 manishchaulagain.com.np
+manishcrestha.com.np
 manishdas.com.np
 manishdhungana1.com.np
 manishdhungana1.com.np.dnstechnology.xyz
@@ -9599,6 +9611,7 @@ melabazaar.com.np
 melamchimun.gov.np
 members.miniyan.com.np
 members.sukunass.edu.np
+meme-war.com.ssbhattarai.com.np
 meme.com.np
 memo.com.np
 memorygame.sq18.com.np
@@ -10395,6 +10408,7 @@ oxfordsecondaryschool.edu.np
 oxygen.tukisoft.com.np
 ozds.com.np
 p2.gov.np
+paailasurgical.com.np
 paani.org.np
 pabasa.coop.np
 pabitrapangeni.com.np
@@ -11099,6 +11113,7 @@ ramlilakrishi.com.np
 rammavchhedagad.sajilosikcha.com.np
 rammavmatihani.sajilosikcha.com.np
 rammavnamobuddha.sajilosikcha.com.np
+ramnandmahara.com.np
 ramprasadpokhrel.com.np
 ramprasadrimal.com.np
 rampurcampus.edu.np
@@ -11426,6 +11441,7 @@ rupesh-chaulagain.com.np
 rupesh-khadka.com.np
 rupeshbadeshrestha.com.np
 rupeshbudhathoki.com.np
+rupeshl.com.np
 rupeshmagar.com.np
 rupi.com.np
 rupnarayanmavmakawanpurgadhi.sajilosikcha.com.np
@@ -12592,6 +12608,7 @@ sugamsubedi.com.np
 sugandhamanshakya.com.np
 sugatshrestha.com.np
 sujalthakuri.com.np
+sujan-lama.com.np
 sujan-poudel.com.np
 sujan-sharma.com.np
 sujan-subedi.com.np
@@ -15755,6 +15772,7 @@ www.adminpanel.cha.edu.np
 www.adminpanel.krity.com.np
 www.admintl.com.np
 www.admission.glenbudsschool.edu.np
+www.adobepremiere.beamconsultant.com.np
 www.adpad.com.np
 www.adrstravels.com.np
 www.ads.com.np
@@ -17059,6 +17077,7 @@ www.gaushamrakchanabhiyan.org.np
 www.gautambp.com.np
 www.gautamhotel.com.np
 www.gauthali.coop.np
+www.gbho.festnepal.com.np
 www.gbspl.com.np
 www.gbsuwarnapur.edu.np
 www.gbsuwarnapur.edu.np.baraacademy.edu.np
@@ -17587,6 +17606,7 @@ www.joomla.kushwahadipesh.com.np
 www.joshianup.com.np
 www.joshibharat.com.np
 www.joshipur.prakashs.com.np
+www.journal.cosmoscollege.edu.np
 www.journals.elsevier.com.np.remotexs.co
 www.joyeducation.com.np
 www.jsdrivingcenter.com.np.joshanthapa.com.np
@@ -17828,6 +17848,7 @@ www.krishnashrammavsuryodaya.sajilosikcha.com.np
 www.krispa.com.np
 www.krispa.com.np.goinfosys.com.np
 www.kritech.com.np
+www.kritimobile.com.np
 www.kritishpokharel.com.np
 www.kshireshwornathmun.gov.np
 www.kshitiza.com.np
@@ -18228,6 +18249,7 @@ www.melabazaar.com.np
 www.melamchimun.gov.np
 www.members.sukunass.edu.np
 www.membership.uninepal.org.np
+www.meme-war.com.ssbhattarai.com.np
 www.meme.com.np
 www.mendeley.com.np.remotexs.co
 www.mentors.com.np

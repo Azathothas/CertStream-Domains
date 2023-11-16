@@ -743,6 +743,8 @@ geniusschool.edu.np
 ghumtee.standardinstitute.edu.np
 gihe.edu.np
 gihm.edu.np
+git.git.gttc.edu.np
+git.gitlab.autodiscover.gttc.edu.np
 gitlab.dharan.adarsha.edu.np
 glaciercollege.edu.np
 glenbudsschool.edu.np
@@ -810,6 +812,7 @@ jantamavisoltee.edu.np
 jantamaviumjan.edu.np
 jantamaviumjan.edu.np.baraacademy.edu.np
 jillianchristoff.comhtwww.dreamemt.edu.np
+journal.cosmoscollege.edu.np
 journal.mean.edu.np
 jpss.edu.np
 jssdeuripattishivnagar.edu.np
@@ -1873,6 +1876,7 @@ www.janapriyapalpa.edu.np
 www.janatasecondaryschool.edu.np
 www.jantamaviumjan.edu.np
 www.jantamaviumjan.edu.np.baraacademy.edu.np
+www.journal.cosmoscollege.edu.np
 www.kakharapreschool.edu.np
 www.kalaintl.edu.np
 www.kalakunj.edu.np
