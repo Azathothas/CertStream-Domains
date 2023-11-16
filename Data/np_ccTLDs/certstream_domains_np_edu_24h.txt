@@ -1,14 +1,17 @@
 allied.baraacademy.edu.np
 allied.edu.np
+ames.ku.edu.np
 autodiscover.conference.cdztu.edu.np
 autodiscover.janjyotieducation.edu.np
 autodiscover.moderneducere.edu.np
 autodiscover.morningglory.edu.np
+autodiscover.sprjbs.edu.np
 balmikischool.edu.np
 banshagopal.edu.np
 bikramschoolbara.baraacademy.edu.np
 bikramschoolbara.edu.np
 birendraadarshamavi.edu.np
+blog.citycomputer.edu.np
 bloomingbuds.edu.np
 buddhibikash.edu.np
 careers.mihs.edu.np
@@ -30,6 +33,7 @@ cpanel.phoenixschool.edu.np
 cpanel.saraswatidamak.edu.np
 cpanel.snrmssbakuliya.edu.np
 cpanel.snrssolakhpur.edu.np
+cpanel.sprjbs.edu.np
 cpcalendars.allied.edu.np
 cpcalendars.bikramschoolbara.edu.np
 cpcalendars.birendraadarshamavi.edu.np
@@ -45,6 +49,7 @@ cpcalendars.phoenixschool.edu.np
 cpcalendars.saraswatidamak.edu.np
 cpcalendars.snrmssbakuliya.edu.np
 cpcalendars.snrssolakhpur.edu.np
+cpcalendars.sprjbs.edu.np
 cpcontacts.allied.edu.np
 cpcontacts.bikramschoolbara.edu.np
 cpcontacts.birendraadarshamavi.edu.np
@@ -60,6 +65,7 @@ cpcontacts.phoenixschool.edu.np
 cpcontacts.saraswatidamak.edu.np
 cpcontacts.snrmssbakuliya.edu.np
 cpcontacts.snrssolakhpur.edu.np
+cpcontacts.sprjbs.edu.np
 damaktechnical.edu.np
 deepboarding.edu.np
 dharanmodelschool.edu.np
@@ -92,6 +98,7 @@ mail.phoenixschool.edu.np
 mail.saraswatidamak.edu.np
 mail.snrmssbakuliya.edu.np
 mail.snrssolakhpur.edu.np
+mail.sprjbs.edu.np
 mds.edu.np
 members.sukunass.edu.np
 mikhospitality.baraacademy.edu.np
@@ -102,6 +109,7 @@ morningglory.edu.np.shopmnr.com
 myace.ace.edu.np
 nepalentrepreneurshipforum.kingscollege.edu.np
 nepalwide.edu.np
+newkidshome.edu.np
 novainternationalcollege.edu.np
 oldschool.edu.np
 online.saraswatidamak.edu.np
@@ -121,6 +129,8 @@ snrmssbakuliya.baraacademy.edu.np
 snrmssbakuliya.edu.np
 snrssolakhpur.baraacademy.edu.np
 snrssolakhpur.edu.np
+sprjbs.edu.np
+sprjbs.edu.np.techiegurkhas.com
 successacademydhading.edu.np
 templates.hilarious.edu.np
 translation.ilprl.ku.edu.np
@@ -142,6 +152,7 @@ webdisk.phoenixschool.edu.np
 webdisk.saraswatidamak.edu.np
 webdisk.snrmssbakuliya.edu.np
 webdisk.snrssolakhpur.edu.np
+webdisk.sprjbs.edu.np
 webmail.allied.edu.np
 webmail.bikramschoolbara.edu.np
 webmail.birendraadarshamavi.edu.np
@@ -157,6 +168,8 @@ webmail.phoenixschool.edu.np
 webmail.saraswatidamak.edu.np
 webmail.snrmssbakuliya.edu.np
 webmail.snrssolakhpur.edu.np
+webmail.sprjbs.edu.np
+wp-site.professional.edu.np
 www.allied.baraacademy.edu.np
 www.allied.edu.np
 www.banshagopal.edu.np
@@ -195,5 +208,8 @@ www.snrmssbakuliya.baraacademy.edu.np
 www.snrmssbakuliya.edu.np
 www.snrssolakhpur.baraacademy.edu.np
 www.snrssolakhpur.edu.np
+www.sprjbs.edu.np
+www.sprjbs.edu.np.techiegurkhas.com
 www.trijyoti.edu.np
 www.tta.saraswatidamak.edu.np
+www.wp-site.professional.edu.np
