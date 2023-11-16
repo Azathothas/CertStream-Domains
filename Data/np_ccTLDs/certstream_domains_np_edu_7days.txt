@@ -138,6 +138,7 @@ balmikischool.edu.np
 balpratibha.edu.np
 baluddhar.edu.np
 banecuadorfin.ec.easylink.edu.np
+baruncampus.edu.np
 baylor.edu.np
 beesintl.edu.np
 bess.edu.np
@@ -208,6 +209,7 @@ cpanel.amenity.edu.np
 cpanel.arena.edu.np
 cpanel.awarded.edu.np
 cpanel.baluddhar.edu.np
+cpanel.baruncampus.edu.np
 cpanel.baylor.edu.np
 cpanel.beesintl.edu.np
 cpanel.bess.edu.np
@@ -308,6 +310,7 @@ cpanel.salyantarcampus.edu.np
 cpanel.saraswatidamak.edu.np
 cpanel.sarc.edu.np
 cpanel.scsat.edu.np
+cpanel.semi.edu.np
 cpanel.shikshabikashschool.edu.np
 cpanel.shreehimalaya.edu.np
 cpanel.shsschool.edu.np
@@ -354,6 +357,7 @@ cpcalendars.amenity.edu.np
 cpcalendars.arena.edu.np
 cpcalendars.awarded.edu.np
 cpcalendars.baluddhar.edu.np
+cpcalendars.baruncampus.edu.np
 cpcalendars.baylor.edu.np
 cpcalendars.beesintl.edu.np
 cpcalendars.bess.edu.np
@@ -452,6 +456,7 @@ cpcalendars.salyantarcampus.edu.np
 cpcalendars.saraswatidamak.edu.np
 cpcalendars.sarc.edu.np
 cpcalendars.scsat.edu.np
+cpcalendars.semi.edu.np
 cpcalendars.shikshabikashschool.edu.np
 cpcalendars.shreehimalaya.edu.np
 cpcalendars.shsschool.edu.np
@@ -495,6 +500,7 @@ cpcontacts.amenity.edu.np
 cpcontacts.arena.edu.np
 cpcontacts.awarded.edu.np
 cpcontacts.baluddhar.edu.np
+cpcontacts.baruncampus.edu.np
 cpcontacts.baylor.edu.np
 cpcontacts.beesintl.edu.np
 cpcontacts.bess.edu.np
@@ -593,6 +599,7 @@ cpcontacts.salyantarcampus.edu.np
 cpcontacts.saraswatidamak.edu.np
 cpcontacts.sarc.edu.np
 cpcontacts.scsat.edu.np
+cpcontacts.semi.edu.np
 cpcontacts.shikshabikashschool.edu.np
 cpcontacts.shreehimalaya.edu.np
 cpcontacts.shsschool.edu.np
@@ -698,6 +705,7 @@ fbynepal.saraswatidamak.edu.np
 finediamond.edu.np
 foa.edu.np
 fomecd.edu.np
+ftp.himshikhar.edu.np
 ftp.ihm.edu.np
 ftp.ihmcollege.edu.np
 futurepathconsult.edu.np
@@ -735,6 +743,7 @@ hiccdrc.ku.edu.np
 hillbird.edu.np
 himalayacollege.edu.np
 himchulischool.edu.np
+himshikhar.edu.np
 hit.edu.np
 hitech.edu.np
 hotelbegnasbungalow.com.np.icas.edu.np
@@ -851,6 +860,7 @@ mail.arena.edu.np
 mail.awarded.edu.np
 mail.balmikischool.edu.np
 mail.baluddhar.edu.np
+mail.baruncampus.edu.np
 mail.baylor.edu.np
 mail.beesintl.edu.np
 mail.bess.edu.np
@@ -903,6 +913,7 @@ mail.gyanodyaschool.edu.np
 mail.heritage.edu.np
 mail.himalayacollege.edu.np
 mail.himchulischool.edu.np
+mail.himshikhar.edu.np
 mail.ihm.edu.np
 mail.ihmcollege.edu.np
 mail.iofhc.edu.np
@@ -981,6 +992,7 @@ mail.saradanamunaacademy.edu.np
 mail.saraswatidamak.edu.np
 mail.sarc.edu.np
 mail.scsat.edu.np
+mail.semi.edu.np
 mail.shikshabikashschool.edu.np
 mail.shreehimalaya.edu.np
 mail.shsschool.edu.np
@@ -1094,6 +1106,7 @@ norpartwem.ku.edu.np
 novel.edu.np
 npes.edu.np
 npsrautahat.edu.np
+npstanahun.edu.np
 ntbns.org.np.lakshya.edu.np
 office.nirvankaya.edu.np
 ojashwicollege.edu.np
@@ -1210,6 +1223,7 @@ school.united.edu.np
 schoolabm.edu.np
 schoolarunodaya.edu.np
 scsat.edu.np
+semi.edu.np
 server.ioepc.edu.np
 server.sunway.edu.np
 set2019.acem.edu.np
@@ -1351,6 +1365,7 @@ webdisk.amenity.edu.np
 webdisk.arena.edu.np
 webdisk.awarded.edu.np
 webdisk.baluddhar.edu.np
+webdisk.baruncampus.edu.np
 webdisk.baylor.edu.np
 webdisk.beesintl.edu.np
 webdisk.bess.edu.np
@@ -1449,6 +1464,7 @@ webdisk.salyantarcampus.edu.np
 webdisk.saraswatidamak.edu.np
 webdisk.sarc.edu.np
 webdisk.scsat.edu.np
+webdisk.semi.edu.np
 webdisk.shikshabikashschool.edu.np
 webdisk.shreehimalaya.edu.np
 webdisk.shsschool.edu.np
@@ -1495,6 +1511,7 @@ webmail.amenity.edu.np
 webmail.arena.edu.np
 webmail.awarded.edu.np
 webmail.baluddhar.edu.np
+webmail.baruncampus.edu.np
 webmail.baylor.edu.np
 webmail.beesintl.edu.np
 webmail.bess.edu.np
@@ -1609,6 +1626,7 @@ webmail.salyantarcampus.edu.np
 webmail.saraswatidamak.edu.np
 webmail.sarc.edu.np
 webmail.scsat.edu.np
+webmail.semi.edu.np
 webmail.shikshabikashschool.edu.np
 webmail.shreehimalaya.edu.np
 webmail.shsschool.edu.np
@@ -1680,6 +1698,7 @@ www.babyangel.edu.np
 www.balpratibha.edu.np
 www.baluddhar.edu.np
 www.banecuadorfin.ec.easylink.edu.np
+www.baruncampus.edu.np
 www.baylor.edu.np
 www.beesintl.edu.np
 www.bess.edu.np
@@ -1774,6 +1793,7 @@ www.heritage.edu.np
 www.hillbird.edu.np
 www.himalayacollege.edu.np
 www.himchulischool.edu.np
+www.himshikhar.edu.np
 www.hit.edu.np
 www.hotelbegnasbungalow.com.np.icas.edu.np
 www.hotelmik.baraacademy.edu.np
@@ -1943,6 +1963,7 @@ www.sarc.edu.np
 www.sbkssgorkha.edu.np
 www.school.united.edu.np
 www.scsat.edu.np
+www.semi.edu.np
 www.server.sunway.edu.np
 www.sharmafurniture.com.np.alpineschool.edu.np
 www.shikshabikashschool.edu.np

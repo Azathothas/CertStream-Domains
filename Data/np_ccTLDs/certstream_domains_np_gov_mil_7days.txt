@@ -1,4 +1,5 @@
 acc.madhyabindumun.gov.np
+aglearn.p1.gov.np
 api-rms.ndrrma.gov.np
 apidc.gov.np
 assembly.karnali.gov.np
@@ -70,6 +71,7 @@ ebps.butwalmun.gov.np
 ebps.itaharimun.gov.np
 ehirrs.kathmandu.gov.np
 ehrpmis.nra.gov.np
+elibrary.nast.gov.np
 eservice.madhyabindumun.gov.np
 esuggestions.kathmandu.gov.np
 eticket.bherihospital.gov.np
@@ -172,6 +174,8 @@ pathology.hetaudamun.gov.np
 patrachar.bansgadhimun.gov.np
 pga.p2.gov.np
 pis.krishnapurmun.gov.np
+piudhading.pmamp.gov.np
+piulamjung.pmamp.gov.np
 pollution.gov.np
 ppsconline.lumbini.gov.np
 profile8.barahamun.gov.np
@@ -196,6 +200,7 @@ urlabarimun.gov.np
 vaccine.mohp.gov.np
 vhlseckavre.bagamati.gov.np
 wriddsunsari.p1.gov.np
+www.aglearn.p1.gov.np
 www.apidc.gov.np
 www.baglung.akc.gov.np
 www.beldandimun.gov.np
