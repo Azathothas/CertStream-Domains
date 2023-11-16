@@ -146,6 +146,7 @@ bestconsultancy.edu.np
 bhadrakali.edu.np
 bhagyodaya.edu.np
 bhaleshwormavi.edu.np
+bhanujana.baraacademy.edu.np
 bhanumultiplecampus.edu.np
 bhanumultiplecampus.sarc.edu.np
 bheemschool.edu.np
@@ -1702,6 +1703,7 @@ www.baruncampus.edu.np
 www.baylor.edu.np
 www.beesintl.edu.np
 www.bess.edu.np
+www.bhanujana.baraacademy.edu.np
 www.bhanumultiplecampus.edu.np
 www.bhanumultiplecampus.sarc.edu.np
 www.bidhyasagarschool.edu.np
