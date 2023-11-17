@@ -15,6 +15,7 @@ elibrary.nast.gov.np
 eoffice.kathmandu.gov.np
 eservice.hib.gov.np
 eservice.kathmandu.gov.np
+hlrs.nphl.gov.np
 ims.mellekhmun.gov.np
 kathmandu.gov.np
 kdmismoitfe.karnali.gov.np
@@ -26,6 +27,7 @@ npc.gov.np
 pfco.gandaki.gov.np
 pollution.gov.np
 rev.kathmandu.gov.np
+slot.nddb.gov.np
 soft.jhapamun.gov.np
 swmosdmis.karnali.gov.np
 tax.kathmandu.gov.np
