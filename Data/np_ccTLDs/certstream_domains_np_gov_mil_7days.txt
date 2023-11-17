@@ -1,3 +1,4 @@
+2079.doed.gov.np
 acc.madhyabindumun.gov.np
 aglearn.p1.gov.np
 api-rms.ndrrma.gov.np
@@ -88,6 +89,7 @@ godawarimunlalitpur.gov.np
 gokarneshwormun.gov.np
 golbazarmun.gov.np
 gorkhamun.gov.np
+gov.np.domgrom.com
 gov.np.sium.co
 gulariyamun.gov.np
 gunaso.krishnapurmun.gov.np
@@ -150,6 +152,7 @@ mechinagarmun.gov.np
 melamchimun.gov.np
 mhealth.dopm.gov.np
 mirchaiyamun.gov.np
+mis.laliguransmun.gov.np
 mithilamun.gov.np
 mnch.mohp.gov.np
 moeap.p1.gov.np
@@ -163,6 +166,7 @@ myanglungmun.gov.np
 nagarjunmun.gov.np
 naksapass.devchulimun.gov.np
 naksapass.golbazarmun.gov.np
+naksapass.harionmun.gov.np
 ntacall.nta.gov.np
 onlinesystem.doit.gov.np
 onlineticketing.kathmandu.gov.np
@@ -177,6 +181,7 @@ pga.p2.gov.np
 pis.krishnapurmun.gov.np
 piudhading.pmamp.gov.np
 piulamjung.pmamp.gov.np
+pmis.nlsip.gov.np
 pollution.gov.np
 ppsconline.lumbini.gov.np
 profile8.barahamun.gov.np
@@ -185,12 +190,16 @@ psdph.dopm.gov.np
 ramechhaphospital.bagamati.gov.np
 rautahat.csiop2.gov.np
 revenue.kaligandakimunsyangja.gov.np
+sahakari.sudurpashchim.gov.np
 saptari.csiop2.gov.np
 sarlahi.csiop2.gov.np
 school.kaligandakimunsyangja.gov.np
+sebon.gov.np
 seedlabbhw.gov.np
 shramsansar.koshi.gov.np
 siraha.csiop2.gov.np
+soft.jhapamun.gov.np
+soillabgandaki.gov.np
 sso.ndrrma.gov.np
 tanahun.akc.gov.np
 tangramvdc.gov.np
@@ -312,6 +321,8 @@ www.oph.p2.gov.np
 www.p2.gov.np
 www.pathology.hetaudamun.gov.np
 www.psdph.dopm.gov.np.keyinnovation.com.np
+www.sebon.gov.np
 www.seedlabbhw.gov.np
 www.shramsansar.koshi.gov.np
+www.soillabgandaki.gov.np
 www.urlabarimun.gov.np
