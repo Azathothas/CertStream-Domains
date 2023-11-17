@@ -1,12 +1,16 @@
 admission.globaleye.edu.np
 centrumacademyconsultancy.edu.np
+fair2019.professional.edu.np
 gihm.edu.np
 globaleye.edu.np
 greensps.edu.np
 mail.globaleye.edu.np
 snsc.edu.np
+worldcup.professional.edu.np
 www.centrumacademyconsultancy.edu.np
+www.fair2019.professional.edu.np
 www.gihm.edu.np
 www.globaleye.edu.np
 www.greensps.edu.np
 www.snsc.edu.np
+www.worldcup.professional.edu.np
