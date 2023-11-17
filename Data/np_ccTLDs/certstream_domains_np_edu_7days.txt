@@ -777,6 +777,7 @@ gsstulsipur.edu.np
 gttc.edu.np
 gurukulca.edu.np
 gyaninstitute.edu.np
+gyanmandirschool.edu.np
 gyanodyaschool.edu.np
 hamroschoolofnursing.edu.np
 hdccorporate.com.lmebs.edu.np
@@ -867,6 +868,7 @@ kusom.edu.np
 kusumakarschool.edu.np
 kvc.edu.np
 lajf.edu.np
+laxmi.edu.np
 lbc.edu.np
 lbps.edu.np
 lbsrangeli.edu.np
@@ -1160,6 +1162,7 @@ ndmc.edu.np
 neighbourhoodschool.edu.np
 nepalentrepreneurshipforum.kingscollege.edu.np
 nepalnit.edu.np
+nepalstemalliance.edu.np
 nepalwide.edu.np
 new.platinumcollege.edu.np
 newerait.edu.np

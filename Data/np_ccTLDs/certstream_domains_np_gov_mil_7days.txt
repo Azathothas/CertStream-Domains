@@ -10,6 +10,7 @@ bara.csiop2.gov.np
 besishaharmun.gov.np
 career.csh.gov.np
 chaurjaharimun.gov.np
+cms.mellekhmun.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 crime.kaligandakimunsyangja.gov.np
@@ -40,6 +41,7 @@ ebps.butwalmun.gov.np
 ebps.itaharimun.gov.np
 ehrpmis.nra.gov.np
 elibrary.nast.gov.np
+eprofile.mellekhmun.gov.np
 eservice.madhyabindumun.gov.np
 esuggestions.kathmandu.gov.np
 eticket.bherihospital.gov.np
@@ -102,6 +104,7 @@ provincialassembly.bagamati.gov.np
 psdph.dopm.gov.np
 ramechhaphospital.bagamati.gov.np
 revenue.kaligandakimunsyangja.gov.np
+rims.mellekhmun.gov.np
 sahakari.sudurpashchim.gov.np
 school.kaligandakimunsyangja.gov.np
 sebon.gov.np
