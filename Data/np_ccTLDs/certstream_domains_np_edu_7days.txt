@@ -1281,6 +1281,7 @@ sambm.edu.np
 samc.edu.np
 samiha.edu.np
 sandhiacademy.edu.np
+sanjivanishikshasadan.edu.np
 sanopaila.edu.np
 saraswatidamak.edu.np
 saraswatimaviitahara.edu.np
@@ -1985,6 +1986,7 @@ www.mountmechi.baraacademy.edu.np
 www.mountmechi.edu.np
 www.mteverestschool.edu.np
 www.mydemo.cbm.edu.np
+www.naav.edu.np
 www.nagarjuna.edu.np
 www.nalc.edu.np
 www.naurangaeducation.edu.np
@@ -2063,6 +2065,7 @@ www.sambm.edu.np
 www.samc.edu.np
 www.samiha.edu.np
 www.sandhiacademy.edu.np
+www.sanjivanishikshasadan.edu.np
 www.saraswatidamak.edu.np
 www.sarc.edu.np
 www.sbkssgorkha.edu.np

@@ -115,6 +115,7 @@ traccar.ambulance.mohp.gov.np
 trishulihospital.bagamati.gov.np
 vaccine.mohp.gov.np
 vhlseckavre.bagamati.gov.np
+vrs.bagamati.gov.np
 wriddsunsari.p1.gov.np
 www.aglearn.p1.gov.np
 www.besishaharmun.gov.np
