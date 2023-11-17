@@ -1,5 +1,6 @@
 aadhar.edu.np
 admission.globaleye.edu.np
+admission.pcampus.edu.np
 aiclub.ku.edu.np
 app.sunway.edu.np
 arniko.edu.np
@@ -20,6 +21,7 @@ autodiscover.smile.edu.np
 autodiscover.tarunmavi.edu.np
 baruneshwarmavi.edu.np
 baruneshwarmavi.edu.np.inspela.com
+bhawani.edu.np
 centrumacademyconsultancy.edu.np
 cpanel.aadhar.edu.np
 cpanel.baruneshwarmavi.edu.np
@@ -31,6 +33,7 @@ cpanel.kunchipwakal.edu.np
 cpanel.miracle.edu.np
 cpanel.msschaturale.edu.np
 cpanel.mteverestschool.edu.np
+cpanel.newerainstitute.edu.np
 cpanel.paramctc.edu.np
 cpanel.pkss.edu.np
 cpanel.saraswatijitpur28.edu.np
@@ -48,6 +51,7 @@ cpcalendars.kunchipwakal.edu.np
 cpcalendars.miracle.edu.np
 cpcalendars.msschaturale.edu.np
 cpcalendars.mteverestschool.edu.np
+cpcalendars.newerainstitute.edu.np
 cpcalendars.paramctc.edu.np
 cpcalendars.pkss.edu.np
 cpcalendars.saraswatijitpur28.edu.np
@@ -65,6 +69,7 @@ cpcontacts.kunchipwakal.edu.np
 cpcontacts.miracle.edu.np
 cpcontacts.msschaturale.edu.np
 cpcontacts.mteverestschool.edu.np
+cpcontacts.newerainstitute.edu.np
 cpcontacts.paramctc.edu.np
 cpcontacts.pkss.edu.np
 cpcontacts.saraswatijitpur28.edu.np
@@ -92,6 +97,7 @@ jgrss.edu.np.inspela.com
 jorpatisecschool.edu.np
 jorpatisecschool.edu.np.inspela.com
 journal.cosmoscollege.edu.np
+keckist.edu.np
 kiranagmavi19.edu.np
 kiranagmavi19.edu.np.inspela.com
 kmcpokhara.edu.np
@@ -109,6 +115,7 @@ mail.kunchipwakal.edu.np
 mail.miracle.edu.np
 mail.msschaturale.edu.np
 mail.mteverestschool.edu.np
+mail.newerainstitute.edu.np
 mail.paramctc.edu.np
 mail.pkss.edu.np
 mail.saraswatijitpur28.edu.np
@@ -122,6 +129,7 @@ miracle.edu.np
 msschaturale.edu.np
 msschaturale.edu.np.inspela.com
 mteverestschool.edu.np
+newerainstitute.edu.np
 paramctc.edu.np
 pkss.edu.np
 pkss.edu.np.inspela.com
@@ -130,6 +138,7 @@ rmlab.ku.edu.np
 rpc.pahs.edu.np
 saraswatijitpur28.edu.np
 saraswatijitpur28.edu.np.inspela.com
+seac.edu.np
 seee.ku.edu.np
 shankhareshwormavi.edu.np
 shankhareshwormavi.edu.np.inspela.com
@@ -152,6 +161,7 @@ webdisk.kunchipwakal.edu.np
 webdisk.miracle.edu.np
 webdisk.msschaturale.edu.np
 webdisk.mteverestschool.edu.np
+webdisk.newerainstitute.edu.np
 webdisk.paramctc.edu.np
 webdisk.pkss.edu.np
 webdisk.saraswatijitpur28.edu.np
@@ -169,6 +179,7 @@ webmail.kunchipwakal.edu.np
 webmail.miracle.edu.np
 webmail.msschaturale.edu.np
 webmail.mteverestschool.edu.np
+webmail.newerainstitute.edu.np
 webmail.paramctc.edu.np
 webmail.pkss.edu.np
 webmail.saraswatijitpur28.edu.np
@@ -182,15 +193,21 @@ www.app.sunway.edu.np
 www.baruneshwarmavi.edu.np
 www.baruneshwarmavi.edu.np.inspela.com
 www.centrumacademyconsultancy.edu.np
+www.cesa.keckist.edu.np
 www.dragonhotelnepal.com.gyaninstitute.edu.np
+www.dristi.keckist.edu.np
 www.edufirm.ssha.edu.np
+www.electrical.keckist.edu.np
+www.epc.keckist.edu.np
 www.exam.mhss.edu.np
 www.fair2019.professional.edu.np
+www.fsc.keckist.edu.np
 www.geniusschool.edu.np
 www.gihm.edu.np
 www.globaleye.edu.np
 www.greensps.edu.np
 www.gttc.edu.np
+www.itclub.keckist.edu.np
 www.jgrss.edu.np
 www.jgrss.edu.np.inspela.com
 www.jorpatisecschool.edu.np
@@ -205,9 +222,12 @@ www.miracle.edu.np
 www.msschaturale.edu.np
 www.msschaturale.edu.np.inspela.com
 www.mteverestschool.edu.np
+www.newerainstitute.edu.np
+www.onlineform.keckist.edu.np
 www.paramctc.edu.np
 www.pkss.edu.np
 www.pkss.edu.np.inspela.com
+www.robotics.keckist.edu.np
 www.saraswatijitpur28.edu.np
 www.saraswatijitpur28.edu.np.inspela.com
 www.shankhareshwormavi.edu.np
