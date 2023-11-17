@@ -2,6 +2,7 @@ aadhar.edu.np
 abssmulpani.edu.np
 abssmulpani.edu.np.inspela.com
 activelearninglab.ku.edu.np
+admin.krishnapurisecondaryschool.edu.np
 admission.globaleye.edu.np
 admission.pcampus.edu.np
 ahs.edu.np
@@ -131,6 +132,8 @@ chandeshwariss.edu.np
 chandeshwariss.edu.np.inspela.com
 chandisstarakeshwor.edu.np
 chandisstarakeshwor.edu.np.inspela.com
+citycommunity.edu.np
+consultency.kasc.edu.np
 cpanel.aadhar.edu.np
 cpanel.abssmulpani.edu.np
 cpanel.ahs.edu.np
@@ -505,6 +508,7 @@ kiranagmavi19.edu.np
 kiranagmavi19.edu.np.inspela.com
 kist.edu.np
 kmcpokhara.edu.np
+krishnapurisecondaryschool.edu.np
 kunchipwakal.edu.np
 kunchipwakal.edu.np.inspela.com
 kundaladevi.edu.np
@@ -515,6 +519,7 @@ laxmimabijagatpur.edu.np.inspela.com
 laxmimavilanku.edu.np
 laxmimavilanku.edu.np.inspela.com
 learnside.edu.np
+magazine.globalacademy.edu.np
 mail.aadhar.edu.np
 mail.abssmulpani.edu.np
 mail.amarbasic.edu.np
@@ -563,6 +568,7 @@ mail.kamalamavi.edu.np
 mail.kasthamandapcollege.edu.np
 mail.kathtourism.edu.np
 mail.kiranagmavi19.edu.np
+mail.krishnapurisecondaryschool.edu.np
 mail.kunchipwakal.edu.np
 mail.kundaladevi.edu.np
 mail.laxmimabijagatpur.edu.np
@@ -878,6 +884,7 @@ webmail.kamalamavi.edu.np
 webmail.kasthamandapcollege.edu.np
 webmail.kathtourism.edu.np
 webmail.kiranagmavi19.edu.np
+webmail.krishnapurisecondaryschool.edu.np
 webmail.kunchipwakal.edu.np
 webmail.kundaladevi.edu.np
 webmail.laxmimabijagatpur.edu.np
@@ -970,6 +977,8 @@ www.chandeshwariss.edu.np
 www.chandeshwariss.edu.np.inspela.com
 www.chandisstarakeshwor.edu.np
 www.chandisstarakeshwor.edu.np.inspela.com
+www.citycommunity.edu.np
+www.consultency.kasc.edu.np
 www.crimsonhospital.com.cct.edu.np
 www.dragonhotelnepal.com.gyaninstitute.edu.np
 www.dreamlink.edu.np
@@ -1036,6 +1045,7 @@ www.kathtourism.edu.np
 www.kiranagmavi19.edu.np
 www.kiranagmavi19.edu.np.inspela.com
 www.kmcpokhara.edu.np
+www.krishnapurisecondaryschool.edu.np
 www.kunchipwakal.edu.np
 www.kunchipwakal.edu.np.inspela.com
 www.kundaladevi.edu.np
