@@ -83,11 +83,13 @@ monitoring.hydrology.gov.np
 naksapass.devchulimun.gov.np
 naksapass.golbazarmun.gov.np
 naksapass.harionmun.gov.np
+neis.gov.np
 ntacall.nta.gov.np
 onlinesystem.doit.gov.np
 onlineticketing.kathmandu.gov.np
 oph.p2.gov.np
 otcc.dohs.gov.np
+p1.gov.np
 p2.gov.np
 parsa.csiop2.gov.np
 pashusakha.siyarimun.gov.np
@@ -148,7 +150,9 @@ www.mhealth.dopm.gov.np.keyinnovation.com.np
 www.mirchaiyamun.gov.np
 www.mithilamun.gov.np
 www.moial.bagamati.gov.np
+www.neis.gov.np
 www.oph.p2.gov.np
+www.p1.gov.np
 www.p2.gov.np
 www.pathology.hetaudamun.gov.np
 www.psdph.dopm.gov.np.keyinnovation.com.np
