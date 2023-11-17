@@ -22,6 +22,7 @@ cpcontacts.miracle.edu.np
 cpcontacts.mteverestschool.edu.np
 cpcontacts.smile.edu.np
 dragonhotelnepal.com.gyaninstitute.edu.np
+edufirm.ssha.edu.np
 erp.tbs.edu.np
 fair2019.professional.edu.np
 geniusschool.edu.np
@@ -31,6 +32,7 @@ globaleye.edu.np
 greensps.edu.np
 journal.cosmoscollege.edu.np
 kmcpokhara.edu.np
+learnside.edu.np
 mail.aadhar.edu.np
 mail.globaleye.edu.np
 mail.miracle.edu.np
@@ -42,6 +44,7 @@ miracle.edu.np
 mteverestschool.edu.np
 smile.edu.np
 snsc.edu.np
+tthss.edu.np
 webdisk.aadhar.edu.np
 webdisk.geniusschool.edu.np
 webdisk.miracle.edu.np
@@ -57,6 +60,7 @@ www.aadhar.edu.np
 www.app.sunway.edu.np
 www.centrumacademyconsultancy.edu.np
 www.dragonhotelnepal.com.gyaninstitute.edu.np
+www.edufirm.ssha.edu.np
 www.exam.mhss.edu.np
 www.fair2019.professional.edu.np
 www.geniusschool.edu.np

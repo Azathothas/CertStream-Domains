@@ -1,8 +1,10 @@
+acc.madhyabindumun.gov.np
 assembly.lumbini.gov.np
 claimdoc.hib.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 covid19.nphl.gov.np
+ims.mellekhmun.gov.np
 mis.laliguransmun.gov.np
 nationalgeoportal.gov.np
 neqas.nphl.gov.np
