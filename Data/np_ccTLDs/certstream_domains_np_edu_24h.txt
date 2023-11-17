@@ -87,6 +87,7 @@ geniusschool.edu.np
 ges.ku.edu.np
 gihm.edu.np
 git.git.gttc.edu.np
+git.gitlab.inec.edu.np
 git.inec.edu.np
 globaleye.edu.np
 greensps.edu.np
@@ -134,6 +135,7 @@ paramctc.edu.np
 pkss.edu.np
 pkss.edu.np.inspela.com
 project2205lab.ku.edu.np
+regentschool.edu.np
 rmlab.ku.edu.np
 rpc.pahs.edu.np
 saraswatijitpur28.edu.np
@@ -146,6 +148,7 @@ siddhikaliss.edu.np
 siddhikaliss.edu.np.inspela.com
 smile.edu.np
 snsc.edu.np
+sukesharyshiksha.edu.np
 surung.ku.edu.np
 tarunmavi.edu.np
 tarunmavi.edu.np.inspela.com
