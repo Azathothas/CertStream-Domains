@@ -10,4 +10,5 @@ nationalgeoportal.gov.np
 neqas.nphl.gov.np
 pollution.gov.np
 soft.jhapamun.gov.np
+vrs.bagamati.gov.np
 www.nationalgeoportal.gov.np
