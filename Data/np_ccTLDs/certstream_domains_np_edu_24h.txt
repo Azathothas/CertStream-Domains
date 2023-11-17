@@ -461,8 +461,10 @@ globaleye.edu.np
 greensps.edu.np
 guhyeshworyss.edu.np
 guhyeshworyss.edu.np.inspela.com
+guideline.edu.np
 gyanmandirebs.edu.np
 himalayacollege.edu.np
+himaldarshan.edu.np
 indoorsclub.ku.edu.np
 indrayaniss.edu.np
 indrayaniss.edu.np.inspela.com
@@ -547,6 +549,7 @@ mail.ghichetusidum.edu.np
 mail.globaleye.edu.np
 mail.guhyeshworyss.edu.np
 mail.gyanmandirebs.edu.np
+mail.himaldarshan.edu.np
 mail.indrayaniss.edu.np
 mail.jalapass.edu.np
 mail.janajagritimelamchi.edu.np
@@ -645,6 +648,7 @@ nagarjunthulagaun.edu.np.inspela.com
 narayanividyamandir.edu.np
 narayanividyamandir.edu.np.inspela.com
 naweenshikshyasadan.edu.np
+nestmontessorichildrenshouse.edu.np
 newerainstitute.edu.np
 niagarafallsconsultancy.edu.np
 nijamatischool.edu.np
@@ -659,6 +663,7 @@ professionalcareer.edu.np
 project2205lab.ku.edu.np
 rastriyaramaniya.edu.np
 regentschool.edu.np
+register.pranjal.edu.np
 rmlab.ku.edu.np
 rms.khimtiprojectschool.edu.np
 rpc.pahs.edu.np
@@ -735,6 +740,7 @@ thulochaurss.edu.np.inspela.com
 tsa.edu.np
 tthss.edu.np
 uk.ghen.edu.np
+vac.edu.np
 viaeducation.edu.np
 webdisk.aadhar.edu.np
 webdisk.abssmulpani.edu.np
@@ -978,6 +984,7 @@ www.chandeshwariss.edu.np.inspela.com
 www.chandisstarakeshwor.edu.np
 www.chandisstarakeshwor.edu.np.inspela.com
 www.citycommunity.edu.np
+www.college.vac.edu.np
 www.consultency.kasc.edu.np
 www.crimsonhospital.com.cct.edu.np
 www.dragonhotelnepal.com.gyaninstitute.edu.np
@@ -987,6 +994,7 @@ www.dwarikadasss.edu.np
 www.dwarikadasss.edu.np.inspela.com
 www.edufirm.ssha.edu.np
 www.electrical.keckist.edu.np
+www.emis.vac.edu.np
 www.epc.keckist.edu.np
 www.exam.mhss.edu.np
 www.fair2019.professional.edu.np
@@ -1005,6 +1013,7 @@ www.gttc.edu.np
 www.guhyeshworyss.edu.np
 www.guhyeshworyss.edu.np.inspela.com
 www.gyanmandirebs.edu.np
+www.himaldarshan.edu.np
 www.indrayaniss.edu.np
 www.indrayaniss.edu.np.inspela.com
 www.itclub.keckist.edu.np
@@ -1083,7 +1092,10 @@ www.padmakanyaschool.edu.np.inspela.com
 www.paramctc.edu.np
 www.pkss.edu.np
 www.pkss.edu.np.inspela.com
+www.plustwo.vac.edu.np
 www.professionalcareer.edu.np
+www.register.pranjal.edu.np
+www.result.vac.edu.np
 www.robotics.keckist.edu.np
 www.saraswatijitpur28.edu.np
 www.saraswatijitpur28.edu.np.inspela.com
@@ -1095,6 +1107,7 @@ www.sarunodayamavi.edu.np
 www.sarunodayamavi.edu.np.inspela.com
 www.sarvashantiss.edu.np
 www.sarvashantiss.edu.np.inspela.com
+www.school.vac.edu.np
 www.schoolcdps.edu.np
 www.schoolcdps.edu.np.inspela.com
 www.schoolniranjanabelkot.edu.np
