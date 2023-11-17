@@ -127,6 +127,7 @@ bookings.ghen.edu.np
 bset.edu.np
 buddhamemorial.edu.np
 cct.edu.np
+cdjmc.edu.np
 centrumacademyconsultancy.edu.np
 chandeshwariss.edu.np
 chandeshwariss.edu.np.inspela.com
@@ -734,6 +735,7 @@ syauri.edu.np
 syauri.edu.np.inspela.com
 tarunmavi.edu.np
 tarunmavi.edu.np.inspela.com
+technicalpashupati.edu.np
 tedxkathmanduuniversity.ku.edu.np
 thulochaurss.edu.np
 thulochaurss.edu.np.inspela.com

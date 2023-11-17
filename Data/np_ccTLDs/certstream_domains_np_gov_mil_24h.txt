@@ -5,6 +5,10 @@ connect.hib.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 covid19.nphl.gov.np
+dmis.karnalifrtc.gov.np
+dmisbheridfo.karnali.gov.np
+dmisdicp.karnali.gov.np
+dmismoitfe.karnali.gov.np
 dtosalyan.gov.np
 ebps.kathmandu.gov.np
 elibrary.nast.gov.np
@@ -13,6 +17,7 @@ eservice.hib.gov.np
 eservice.kathmandu.gov.np
 ims.mellekhmun.gov.np
 kathmandu.gov.np
+kdmismoitfe.karnali.gov.np
 mis.laliguransmun.gov.np
 mw.bagamati.gov.np
 nationalgeoportal.gov.np
@@ -22,6 +27,7 @@ pfco.gandaki.gov.np
 pollution.gov.np
 rev.kathmandu.gov.np
 soft.jhapamun.gov.np
+swmosdmis.karnali.gov.np
 tax.kathmandu.gov.np
 tax.madhyabindumun.gov.np
 vrs.bagamati.gov.np
