@@ -34,6 +34,8 @@ dev.ndrrma.gov.np
 dhanusha.csiop2.gov.np
 dhm.gov.np
 dopm.gov.np.keyinnovation.com.np
+dtosalyan.gov.np
+e-sifarish.mellekhmun.gov.np
 ebps.butwalmun.gov.np
 ebps.itaharimun.gov.np
 ehrpmis.nra.gov.np
@@ -119,6 +121,7 @@ www.besishaharmun.gov.np
 www.chaurjaharimun.gov.np
 www.deumaimun.gov.np
 www.dhm.gov.np
+www.dtosalyan.gov.np
 www.gadhimaimun.gov.np
 www.gaindakotmun.gov.np
 www.gaurmun.gov.np
