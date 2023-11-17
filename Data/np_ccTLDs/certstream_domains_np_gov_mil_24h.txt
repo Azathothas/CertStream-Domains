@@ -25,6 +25,7 @@ soft.jhapamun.gov.np
 tax.kathmandu.gov.np
 tax.madhyabindumun.gov.np
 vrs.bagamati.gov.np
+vyansmun.gov.np
 www.dtosalyan.gov.np
 www.nationalgeoportal.gov.np
 www.npc.gov.np

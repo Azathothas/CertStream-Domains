@@ -123,6 +123,8 @@ bishnujyotiss.edu.np.inspela.com
 bmck.edu.np
 bookings.ghen.edu.np
 bset.edu.np
+buddhamemorial.edu.np
+cct.edu.np
 centrumacademyconsultancy.edu.np
 chandeshwariss.edu.np
 chandeshwariss.edu.np.inspela.com
@@ -144,6 +146,7 @@ cpanel.bhumesworiss.edu.np
 cpanel.bishnujyotiss.edu.np
 cpanel.bmck.edu.np
 cpanel.bset.edu.np
+cpanel.buddhamemorial.edu.np
 cpanel.chandeshwariss.edu.np
 cpanel.chandisstarakeshwor.edu.np
 cpanel.dreamlink.edu.np
@@ -243,6 +246,7 @@ cpcalendars.bhumesworiss.edu.np
 cpcalendars.bishnujyotiss.edu.np
 cpcalendars.bmck.edu.np
 cpcalendars.bset.edu.np
+cpcalendars.buddhamemorial.edu.np
 cpcalendars.chandeshwariss.edu.np
 cpcalendars.chandisstarakeshwor.edu.np
 cpcalendars.dreamlink.edu.np
@@ -342,6 +346,7 @@ cpcontacts.bhumesworiss.edu.np
 cpcontacts.bishnujyotiss.edu.np
 cpcontacts.bmck.edu.np
 cpcontacts.bset.edu.np
+cpcontacts.buddhamemorial.edu.np
 cpcontacts.chandeshwariss.edu.np
 cpcontacts.chandisstarakeshwor.edu.np
 cpcontacts.dreamlink.edu.np
@@ -425,6 +430,7 @@ cpcontacts.syauri.edu.np
 cpcontacts.tarunmavi.edu.np
 cpcontacts.thulochaurss.edu.np
 cpcontacts.yubassschool.edu.np
+crimsonhospital.com.cct.edu.np
 djps.edu.np
 dragonhotelnepal.com.gyaninstitute.edu.np
 dreamlink.edu.np
@@ -496,6 +502,7 @@ kathtourism.edu.np
 keckist.edu.np
 kiranagmavi19.edu.np
 kiranagmavi19.edu.np.inspela.com
+kist.edu.np
 kmcpokhara.edu.np
 kunchipwakal.edu.np
 kunchipwakal.edu.np.inspela.com
@@ -523,6 +530,7 @@ mail.bhumesworiss.edu.np
 mail.bishnujyotiss.edu.np
 mail.bmck.edu.np
 mail.bset.edu.np
+mail.buddhamemorial.edu.np
 mail.chandeshwariss.edu.np
 mail.chandisstarakeshwor.edu.np
 mail.dreamlink.edu.np
@@ -590,6 +598,7 @@ mail.shankhadevimajhimtar.edu.np
 mail.shankhareshwormavi.edu.np
 mail.sharadasecondaryschool.edu.np
 mail.sharadpurss.edu.np
+mail.shatakshee.edu.np
 mail.shikharmavi.edu.np
 mail.shiwalayass.edu.np
 mail.shreemavigauriganj8.edu.np
@@ -632,6 +641,7 @@ naweenshikshyasadan.edu.np
 newerainstitute.edu.np
 niagarafallsconsultancy.edu.np
 nijamatischool.edu.np
+nistbkt.edu.np
 padmakanyaschool.edu.np
 padmakanyaschool.edu.np.inspela.com
 paramctc.edu.np
@@ -664,6 +674,7 @@ scsstinpatan.edu.np
 scsstinpatan.edu.np.inspela.com
 seac.edu.np
 seee.ku.edu.np
+seishin.edu.np
 setidevisss.edu.np
 setidevisss.edu.np.inspela.com
 sganeshschool.edu.np
@@ -676,6 +687,7 @@ sharadasecondaryschool.edu.np
 sharadasecondaryschool.edu.np.inspela.com
 sharadpurss.edu.np
 sharadpurss.edu.np.inspela.com
+shatakshee.edu.np
 shikharmavi.edu.np
 shikharmavi.edu.np.inspela.com
 shiwalayass.edu.np
@@ -733,6 +745,7 @@ webdisk.bhumesworiss.edu.np
 webdisk.bishnujyotiss.edu.np
 webdisk.bmck.edu.np
 webdisk.bset.edu.np
+webdisk.buddhamemorial.edu.np
 webdisk.chandeshwariss.edu.np
 webdisk.chandisstarakeshwor.edu.np
 webdisk.dreamlink.edu.np
@@ -832,6 +845,7 @@ webmail.bhumesworiss.edu.np
 webmail.bishnujyotiss.edu.np
 webmail.bmck.edu.np
 webmail.bset.edu.np
+webmail.buddhamemorial.edu.np
 webmail.chandeshwariss.edu.np
 webmail.chandisstarakeshwor.edu.np
 webmail.dreamlink.edu.np
@@ -947,6 +961,7 @@ www.bishnujyotiss.edu.np
 www.bishnujyotiss.edu.np.inspela.com
 www.bmck.edu.np
 www.bset.edu.np
+www.buddhamemorial.edu.np
 www.centrumacademyconsultancy.edu.np
 www.cesa.keckist.edu.np
 www.chalani.djps.edu.np
@@ -954,6 +969,7 @@ www.chandeshwariss.edu.np
 www.chandeshwariss.edu.np.inspela.com
 www.chandisstarakeshwor.edu.np
 www.chandisstarakeshwor.edu.np.inspela.com
+www.crimsonhospital.com.cct.edu.np
 www.dragonhotelnepal.com.gyaninstitute.edu.np
 www.dreamlink.edu.np
 www.dristi.keckist.edu.np
@@ -1049,6 +1065,7 @@ www.naweenshikshyasadan.edu.np
 www.newerainstitute.edu.np
 www.niagarafallsconsultancy.edu.np
 www.nijamatischool.edu.np
+www.nistbkt.edu.np
 www.onlineform.keckist.edu.np
 www.padmakanyaschool.edu.np
 www.padmakanyaschool.edu.np.inspela.com
@@ -1085,6 +1102,7 @@ www.sharadasecondaryschool.edu.np
 www.sharadasecondaryschool.edu.np.inspela.com
 www.sharadpurss.edu.np
 www.sharadpurss.edu.np.inspela.com
+www.shatakshee.edu.np
 www.shikharmavi.edu.np
 www.shikharmavi.edu.np.inspela.com
 www.shiwalayass.edu.np
@@ -1110,6 +1128,7 @@ www.ssdss.edu.np.inspela.com
 www.ssss7.edu.np
 www.ssss7.edu.np.inspela.com
 www.startupconsultancy.edu.np
+www.studyinireland.seishin.edu.np
 www.sukesharyshiksha.edu.np
 www.surkedeuralimavi.edu.np
 www.surkedeuralimavi.edu.np.inspela.com
