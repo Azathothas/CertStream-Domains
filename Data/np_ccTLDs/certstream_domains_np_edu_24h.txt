@@ -51,6 +51,7 @@ autodiscover.kalidevijugal.edu.np
 autodiscover.kalikadeviss.edu.np
 autodiscover.kalikaschoolkakani.edu.np
 autodiscover.kamalamavi.edu.np
+autodiscover.kathtourism.edu.np
 autodiscover.kiranagmavi19.edu.np
 autodiscover.kunchipwakal.edu.np
 autodiscover.kundaladevi.edu.np
@@ -172,6 +173,7 @@ cpanel.kalikadeviss.edu.np
 cpanel.kalikaschoolkakani.edu.np
 cpanel.kamalamavi.edu.np
 cpanel.kasthamandapcollege.edu.np
+cpanel.kathtourism.edu.np
 cpanel.kiranagmavi19.edu.np
 cpanel.kunchipwakal.edu.np
 cpanel.kundaladevi.edu.np
@@ -270,6 +272,7 @@ cpcalendars.kalikadeviss.edu.np
 cpcalendars.kalikaschoolkakani.edu.np
 cpcalendars.kamalamavi.edu.np
 cpcalendars.kasthamandapcollege.edu.np
+cpcalendars.kathtourism.edu.np
 cpcalendars.kiranagmavi19.edu.np
 cpcalendars.kunchipwakal.edu.np
 cpcalendars.kundaladevi.edu.np
@@ -368,6 +371,7 @@ cpcontacts.kalikadeviss.edu.np
 cpcontacts.kalikaschoolkakani.edu.np
 cpcontacts.kamalamavi.edu.np
 cpcontacts.kasthamandapcollege.edu.np
+cpcontacts.kathtourism.edu.np
 cpcontacts.kiranagmavi19.edu.np
 cpcontacts.kunchipwakal.edu.np
 cpcontacts.kundaladevi.edu.np
@@ -488,6 +492,7 @@ kalikaschoolkakani.edu.np.inspela.com
 kamalamavi.edu.np
 kamalamavi.edu.np.inspela.com
 kasthamandapcollege.edu.np
+kathtourism.edu.np
 keckist.edu.np
 kiranagmavi19.edu.np
 kiranagmavi19.edu.np.inspela.com
@@ -547,6 +552,7 @@ mail.kalikadeviss.edu.np
 mail.kalikaschoolkakani.edu.np
 mail.kamalamavi.edu.np
 mail.kasthamandapcollege.edu.np
+mail.kathtourism.edu.np
 mail.kiranagmavi19.edu.np
 mail.kunchipwakal.edu.np
 mail.kundaladevi.edu.np
@@ -756,6 +762,7 @@ webdisk.kalikadeviss.edu.np
 webdisk.kalikaschoolkakani.edu.np
 webdisk.kamalamavi.edu.np
 webdisk.kasthamandapcollege.edu.np
+webdisk.kathtourism.edu.np
 webdisk.kiranagmavi19.edu.np
 webdisk.kunchipwakal.edu.np
 webdisk.kundaladevi.edu.np
@@ -854,6 +861,7 @@ webmail.kalikadeviss.edu.np
 webmail.kalikaschoolkakani.edu.np
 webmail.kamalamavi.edu.np
 webmail.kasthamandapcollege.edu.np
+webmail.kathtourism.edu.np
 webmail.kiranagmavi19.edu.np
 webmail.kunchipwakal.edu.np
 webmail.kundaladevi.edu.np
@@ -1007,6 +1015,7 @@ www.kalikaschoolkakani.edu.np.inspela.com
 www.kamalamavi.edu.np
 www.kamalamavi.edu.np.inspela.com
 www.kasthamandapcollege.edu.np
+www.kathtourism.edu.np
 www.kiranagmavi19.edu.np
 www.kiranagmavi19.edu.np.inspela.com
 www.kmcpokhara.edu.np
@@ -1115,5 +1124,6 @@ www.uk.ghen.edu.np
 www.worldcup.professional.edu.np
 www.yubassschool.edu.np
 www.yubassschool.edu.np.inspela.com
+yashodhara.edu.np
 yubassschool.edu.np
 yubassschool.edu.np.inspela.com
