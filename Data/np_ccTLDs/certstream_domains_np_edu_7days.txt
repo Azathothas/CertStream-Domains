@@ -867,6 +867,7 @@ kanchanjunga.edu.np
 kangoischool.edu.np
 kapancampus.edu.np
 kathmanduvidhyalaya.edu.np
+kbc.edu.np
 kdbc.edu.np
 kef.edu.np
 khwopa.edu.np
@@ -1297,6 +1298,7 @@ result.ncmc.edu.np
 result.salyankotsec.edu.np
 result.salyantarcampus.edu.np
 result.saraswatidamak.edu.np
+results.horizongbs.edu.np
 rippleeducation.edu.np
 riviera.edu.np
 rscdang.edu.np
@@ -2104,6 +2106,7 @@ www.result.ncmc.edu.np
 www.result.salyankotsec.edu.np
 www.result.salyantarcampus.edu.np
 www.result.saraswatidamak.edu.np
+www.results.horizongbs.edu.np
 www.results.milanschool.edu.np
 www.rippleeducation.edu.np
 www.riviera.edu.np
