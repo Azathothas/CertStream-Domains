@@ -2,9 +2,11 @@ admission.globaleye.edu.np
 centrumacademyconsultancy.edu.np
 gihm.edu.np
 globaleye.edu.np
+greensps.edu.np
 mail.globaleye.edu.np
 snsc.edu.np
 www.centrumacademyconsultancy.edu.np
 www.gihm.edu.np
 www.globaleye.edu.np
+www.greensps.edu.np
 www.snsc.edu.np
