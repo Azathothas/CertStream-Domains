@@ -3,6 +3,7 @@ acom.edu.np
 admin.krishnapurisecondaryschool.edu.np
 admission.npi.edu.np
 admission.pcampus.edu.np
+angels.edu.np
 apply.pec.edu.np
 autodiscover.bhuwaneshwariss.edu.np
 autodiscover.buddhapadma.edu.np
@@ -306,6 +307,7 @@ nepalstemalliance.edu.np
 nestmontessorichildrenshouse.edu.np
 newerainstitute.edu.np
 nijamatischool.edu.np
+nist.edu.np
 nistbkt.edu.np
 nplab.stanford.edu.nplab.su.domains
 olc.edu.np
@@ -319,6 +321,8 @@ project2205lab.ku.edu.np
 pusat.edu.np
 quickcareer.edu.np
 regentschool.edu.np
+register.pranjal.edu.np
+register.pranjal.edu.np.my-urls.com
 results.horizongbs.edu.np
 rmlab.ku.edu.np
 rubyrivansh.edu.np
@@ -339,6 +343,7 @@ shreegyanodayamavi.edu.np.inspela.com
 shreemavigauriganj8.edu.np
 shreemavigauriganj8.edu.np.inspela.com
 shreeramvaidiksanskritgurukulam.edu.np
+sindhuschool.edu.np
 sisnovate.chatbot.aimsbrt.edu.np
 sitamavi.edu.np
 sitamavi.edu.np.inspela.com
@@ -518,6 +523,8 @@ www.nplab.stanford.edu.nplab.su.domains
 www.pec.edu.np
 www.plustwo.vac.edu.np
 www.prabhat.edu.np
+www.register.pranjal.edu.np
+www.register.pranjal.edu.np.my-urls.com
 www.result.vac.edu.np
 www.results.horizongbs.edu.np
 www.sanjivanishikshasadan.edu.np

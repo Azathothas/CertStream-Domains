@@ -16,6 +16,8 @@ kdmismoitfe.karnali.gov.np
 koshi.gov.np
 neis.gov.np
 p1.gov.np
+presscouncilnepal.gov.np
+pressmuseum.presscouncilnepal.gov.np
 rims.mellekhmun.gov.np
 swmosdmis.karnali.gov.np
 tax.madhyabindumun.gov.np
@@ -23,3 +25,4 @@ vrs.bagamati.gov.np
 www.bhanubhaktazoologicalgarden.gov.np
 www.neis.gov.np
 www.p1.gov.np
+www.presscouncilnepal.gov.np
