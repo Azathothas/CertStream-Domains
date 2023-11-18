@@ -5,6 +5,7 @@ admin.swaraswatimavi.edu.np
 admission.npi.edu.np
 admission.pcampus.edu.np
 ahs.edu.np
+ajschool.edu.np
 angels.edu.np
 apply.pec.edu.np
 autoconfig.swaraswatimavi.edu.np
