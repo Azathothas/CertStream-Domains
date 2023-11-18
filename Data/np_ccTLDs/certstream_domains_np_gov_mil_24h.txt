@@ -3,6 +3,7 @@ cms.mellekhmun.gov.np
 e-sifarish.mellekhmun.gov.np
 ehrpmis.nra.gov.np
 eprofile.mellekhmun.gov.np
+health.udayapurgadhimun.gov.np
 jms.mellekhmun.gov.np
 koshi.gov.np
 neis.gov.np
