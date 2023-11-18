@@ -7,6 +7,7 @@ admission.pcampus.edu.np
 ahs.edu.np
 ajschool.edu.np
 angels.edu.np
+aonecoaching.edu.np
 apply.pec.edu.np
 autoconfig.swaraswatimavi.edu.np
 autodiscover.baluddhargagal.edu.np
@@ -254,6 +255,7 @@ entrance.tuiost.edu.np
 eplanet.edu.np
 eplanet.edu.np.yrtyre.com
 excelsior.edu.np
+galaxyeducation.edu.np
 galaxyhss.edu.np
 games.rjuuc.edu.np
 ganganagarschool.edu.np
@@ -734,7 +736,9 @@ www.technokatha.kingscollege.edu.np
 www.trinetrainternational.edu.np
 www.tsa.edu.np
 www.umc.edu.np
+www.xa.edu.np
 www.yubassschool.edu.np
 www.yubassschool.edu.np.inspela.com
+xa.edu.np
 yubassschool.edu.np
 yubassschool.edu.np.inspela.com
