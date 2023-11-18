@@ -4,6 +4,7 @@ admin.krishnapurisecondaryschool.edu.np
 admin.swaraswatimavi.edu.np
 admission.npi.edu.np
 admission.pcampus.edu.np
+aecg.edu.np
 ahs.edu.np
 ajschool.edu.np
 angels.edu.np
@@ -245,6 +246,7 @@ devibalsudhar.edu.np.inspela.com
 dhalaunmavi.edu.np
 dharmajyoti.edu.np
 dhmc.tu.edu.np
+dpschool.edu.np
 dpsdarchula.edu.np
 drive.ghen.edu.np
 dwarikadasss.edu.np
@@ -265,6 +267,7 @@ ges.ku.edu.np
 giec.edu.np
 git.git.git.gttc.edu.np
 git.gitlab.inec.edu.np
+globalchoice.edu.np
 globalmediapulse.kcc.edu.np
 gmcthrc.edu.np
 gramsewaschool.edu.np
@@ -602,6 +605,7 @@ webmail.yubassschool.edu.np
 www.acie.edu.np
 www.acom.edu.np
 www.admission.npi.edu.np
+www.aecg.edu.np
 www.angels.edu.np
 www.apply.pec.edu.np
 www.baluddhargagal.edu.np
@@ -724,6 +728,7 @@ www.ssdss.edu.np
 www.ssdss.edu.np.inspela.com
 www.staging.cctdharan.edu.np
 www.stlawrence.jmssg.edu.np
+www.students.dpschool.edu.np
 www.subhakamanaschool.edu.np
 www.sundharamabi.edu.np
 www.sundharamabi.edu.np.inspela.com
