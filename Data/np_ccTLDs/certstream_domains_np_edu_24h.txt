@@ -1,10 +1,12 @@
 acie.edu.np
 acom.edu.np
 admin.krishnapurisecondaryschool.edu.np
+admin.swaraswatimavi.edu.np
 admission.npi.edu.np
 admission.pcampus.edu.np
 angels.edu.np
 apply.pec.edu.np
+autoconfig.swaraswatimavi.edu.np
 autodiscover.bhuwaneshwariss.edu.np
 autodiscover.buddhapadma.edu.np
 autodiscover.chandikadeviss.edu.np
@@ -37,6 +39,7 @@ autodiscover.skdsschautara.edu.np
 autodiscover.ssdss.edu.np
 autodiscover.subhakamanaschool.edu.np
 autodiscover.sundharamabi.edu.np
+autodiscover.swaraswatimavi.edu.np
 autodiscover.syauri.edu.np
 autodiscover.trinetrainternational.edu.np
 bhanubrt.edu.np
@@ -48,6 +51,7 @@ bulletin.janapremmavi.edu.np
 chandikadeviss.edu.np
 chandikadeviss.edu.np.inspela.com
 cityacademybara.edu.np
+constellation.edu.np
 cpanel.acom.edu.np
 cpanel.bhuwaneshwariss.edu.np
 cpanel.buddhapadma.edu.np
@@ -288,6 +292,7 @@ mail.skdsschautara.edu.np
 mail.ssdss.edu.np
 mail.subhakamanaschool.edu.np
 mail.sundharamabi.edu.np
+mail.swaraswatimavi.edu.np
 mail.syauri.edu.np
 mail.trinetrainternational.edu.np
 malpiins.edu.np
@@ -343,6 +348,7 @@ shreegyanodayamavi.edu.np.inspela.com
 shreemavigauriganj8.edu.np
 shreemavigauriganj8.edu.np.inspela.com
 shreeramvaidiksanskritgurukulam.edu.np
+siddhimangal.edu.np
 sindhuschool.edu.np
 sisnovate.chatbot.aimsbrt.edu.np
 sitamavi.edu.np
@@ -358,6 +364,7 @@ subhakamanaschool.edu.np
 sukesharyshiksha.edu.np
 sundharamabi.edu.np
 sundharamabi.edu.np.inspela.com
+swaraswatimavi.edu.np
 syauri.edu.np
 syauri.edu.np.inspela.com
 talvesi.edu.np
@@ -456,6 +463,7 @@ webmail.skdsschautara.edu.np
 webmail.ssdss.edu.np
 webmail.subhakamanaschool.edu.np
 webmail.sundharamabi.edu.np
+webmail.swaraswatimavi.edu.np
 webmail.syauri.edu.np
 webmail.trinetrainternational.edu.np
 www.acie.edu.np
@@ -553,6 +561,7 @@ www.staging.cctdharan.edu.np
 www.subhakamanaschool.edu.np
 www.sundharamabi.edu.np
 www.sundharamabi.edu.np.inspela.com
+www.swaraswatimavi.edu.np
 www.syauri.edu.np
 www.syauri.edu.np.inspela.com
 www.technokatha.kingscollege.edu.np
