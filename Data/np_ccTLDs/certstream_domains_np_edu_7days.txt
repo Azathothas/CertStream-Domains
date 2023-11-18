@@ -1186,6 +1186,7 @@ hrms.unitedschool.united.edu.np
 hrms.universal.united.edu.np
 hubintl.edu.np
 ices.edu.np
+ichm.edu.np
 ihm.edu.np
 ihmcollege.edu.np
 ilprl.ku.edu.np
