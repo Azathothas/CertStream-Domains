@@ -196,9 +196,11 @@ dhmc.tu.edu.np
 drive.ghen.edu.np
 dwarikadasss.edu.np
 dwarikadasss.edu.np.inspela.com
+email.orchidcollege.edu.np
 entrance.tuiost.edu.np
 eplanet.edu.np
 eplanet.edu.np.yrtyre.com
+excelsior.edu.np
 galaxyhss.edu.np
 games.rjuuc.edu.np
 gcei.edu.np
@@ -319,6 +321,7 @@ nepalstemalliance.edu.np
 nestmontessorichildrenshouse.edu.np
 newerainstitute.edu.np
 nijamatischool.edu.np
+nissus.edu.np
 nist.edu.np
 nistbkt.edu.np
 nplab.stanford.edu.nplab.su.domains
@@ -338,6 +341,7 @@ register.pranjal.edu.np.my-urls.com
 results.horizongbs.edu.np
 rmlab.ku.edu.np
 rubyrivansh.edu.np
+sagarmathaschoolmirchaiya.edu.np
 sahidsmriti.edu.np
 sanjivanishikshasadan.edu.np
 schoolniranjanabelkot.edu.np
@@ -366,6 +370,7 @@ snschool.edu.np
 solblog.ku.edu.np
 ssdss.edu.np
 ssdss.edu.np.inspela.com
+sssm.edu.np
 staging.cctdharan.edu.np
 steppingschool.edu.np
 subhakamanaschool.edu.np
@@ -492,9 +497,11 @@ www.devibalsudhar.edu.np
 www.devibalsudhar.edu.np.inspela.com
 www.dwarikadasss.edu.np
 www.dwarikadasss.edu.np.inspela.com
+www.email.orchidcollege.edu.np
 www.emis.vac.edu.np
 www.entrance.tuiost.edu.np
 www.eplanet.edu.np.yrtyre.com
+www.excelsior.edu.np
 www.galaxyhss.edu.np
 www.gmcthrc.edu.np
 www.gramsewaschool.edu.np
@@ -545,6 +552,7 @@ www.register.pranjal.edu.np
 www.register.pranjal.edu.np.my-urls.com
 www.result.vac.edu.np
 www.results.horizongbs.edu.np
+www.sagarmathaschoolmirchaiya.edu.np
 www.sanjivanishikshasadan.edu.np
 www.school.vac.edu.np
 www.schoolniranjanabelkot.edu.np
