@@ -31,6 +31,7 @@ autodiscover.sundharamabi.edu.np
 autodiscover.syauri.edu.np
 bhanubrt.edu.np
 bheemschool.edu.np
+bulletin.janapremmavi.edu.np
 chandikadeviss.edu.np
 chandikadeviss.edu.np.inspela.com
 cityacademybara.edu.np
@@ -185,6 +186,7 @@ kins.edu.np
 kvc.edu.np
 laxmi.edu.np
 learnside.edu.np
+like.edu.np
 mahakaleshwori.edu.np
 mahakaleshwori.edu.np.inspela.com
 mail.acom.edu.np
@@ -265,6 +267,7 @@ skdsschautara.edu.np.inspela.com
 ssdss.edu.np
 ssdss.edu.np.inspela.com
 staging.cctdharan.edu.np
+steppingschool.edu.np
 sukesharyshiksha.edu.np
 sundharamabi.edu.np
 sundharamabi.edu.np.inspela.com
@@ -345,6 +348,7 @@ webmail.sundharamabi.edu.np
 webmail.syauri.edu.np
 www.acom.edu.np
 www.admission.npi.edu.np
+www.bulletin.janapremmavi.edu.np
 www.chandikadeviss.edu.np
 www.chandikadeviss.edu.np.inspela.com
 www.devibalsudhar.edu.np
