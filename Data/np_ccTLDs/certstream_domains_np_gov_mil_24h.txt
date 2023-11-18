@@ -16,6 +16,7 @@ kdmismoitfe.karnali.gov.np
 koshi.gov.np
 neis.gov.np
 p1.gov.np
+pphl.p1.gov.np
 presscouncilnepal.gov.np
 pressmuseum.presscouncilnepal.gov.np
 rims.mellekhmun.gov.np
