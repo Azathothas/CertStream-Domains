@@ -11,6 +11,8 @@ dmismoitfe.karnali.gov.np
 e-sifarish.mellekhmun.gov.np
 ehrpmis.nra.gov.np
 eprofile.mellekhmun.gov.np
+erfd.gov.np
+ffep.gov.np
 health.udayapurgadhimun.gov.np
 jms.mellekhmun.gov.np
 kdmismoitfe.karnali.gov.np
@@ -25,6 +27,8 @@ swmosdmis.karnali.gov.np
 tax.madhyabindumun.gov.np
 vrs.bagamati.gov.np
 www.bhanubhaktazoologicalgarden.gov.np
+www.erfd.gov.np
+www.ffep.gov.np
 www.neis.gov.np
 www.p1.gov.np
 www.presscouncilnepal.gov.np
