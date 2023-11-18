@@ -285,6 +285,7 @@ bset.edu.np
 btlkalikacampus.edu.np
 buddhamemorial.edu.np
 buddhibikash.edu.np
+budhinandacampus.edu.np
 call.ecea-s.easycare.edu.np
 camberwell.edu.np
 careerhub.edu.np
@@ -1640,6 +1641,7 @@ milton.edu.np
 miracle.edu.np
 miracleeducation.edu.np
 mirrorinstitute.edu.np
+mis.acmt.edu.np
 mis.ankuram.edu.np
 mis.pcampus.edu.np
 mistarjetascencosud.login.easylink.edu.np
@@ -2814,6 +2816,7 @@ www.midvalley.edu.np
 www.mikhospitality.baraacademy.edu.np
 www.milton.edu.np
 www.miracle.edu.np
+www.mis.acmt.edu.np
 www.mistarjetascencosud.login.easylink.edu.np
 www.mmconsultancy.edu.np
 www.moderneducere.edu.np
