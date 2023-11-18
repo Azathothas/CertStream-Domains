@@ -1,5 +1,6 @@
 2079.doed.gov.np
 acc.madhyabindumun.gov.np
+admin.nationalgeoportal.gov.np
 aglearn.p1.gov.np
 api-rms.ndrrma.gov.np
 apply.mcsipc.gov.np
@@ -66,6 +67,7 @@ naksapass.golbazarmun.gov.np
 naksapass.harionmun.gov.np
 nationalgeoportal.gov.np
 neis.gov.np
+nepal.gov.np
 neqas.nphl.gov.np
 npc.gov.np
 ntacall.nta.gov.np
@@ -93,6 +95,7 @@ rims.mellekhmun.gov.np
 sahakari.sudurpashchim.gov.np
 school.kaligandakimunsyangja.gov.np
 sebon.gov.np
+seedlab.koshi.gov.np
 slot.nddb.gov.np
 soft.jhapamun.gov.np
 soillabgandaki.gov.np
