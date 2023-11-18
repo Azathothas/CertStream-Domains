@@ -180,6 +180,7 @@ kalidevi.edu.np
 kalidevi.edu.np.inspela.com
 kas.edu.np
 kbc.edu.np
+kedarmavi.edu.np
 kins.edu.np
 kvc.edu.np
 laxmi.edu.np
@@ -235,6 +236,7 @@ nepalstemalliance.edu.np
 newerainstitute.edu.np
 nijamatischool.edu.np
 nistbkt.edu.np
+olc.edu.np
 ppmn.edu.np
 prabhat.edu.np
 prakasheducation.edu.np
