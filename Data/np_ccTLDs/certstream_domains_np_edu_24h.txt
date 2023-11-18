@@ -225,6 +225,7 @@ idp.ku.edu.np
 indoorsclub.ku.edu.np
 indrayaniss.edu.np
 indrayaniss.edu.np.inspela.com
+intellect.edu.np
 iost.tu.edu.np
 jalapass.edu.np
 jalapass.edu.np.inspela.com
@@ -373,6 +374,7 @@ ssdss.edu.np.inspela.com
 sssm.edu.np
 staging.cctdharan.edu.np
 steppingschool.edu.np
+stlawrence.jmssg.edu.np
 subhakamanaschool.edu.np
 sukesharyshiksha.edu.np
 sundharamabi.edu.np
@@ -511,6 +513,7 @@ www.heraldintlcollege.edu.np
 www.houston.edu.np
 www.indrayaniss.edu.np
 www.indrayaniss.edu.np.inspela.com
+www.intellect.edu.np
 www.jalapass.edu.np
 www.jalapass.edu.np.inspela.com
 www.janakalyangalchhi.edu.np
@@ -577,6 +580,7 @@ www.sp.snschool.edu.np
 www.ssdss.edu.np
 www.ssdss.edu.np.inspela.com
 www.staging.cctdharan.edu.np
+www.stlawrence.jmssg.edu.np
 www.subhakamanaschool.edu.np
 www.sundharamabi.edu.np
 www.sundharamabi.edu.np.inspela.com
