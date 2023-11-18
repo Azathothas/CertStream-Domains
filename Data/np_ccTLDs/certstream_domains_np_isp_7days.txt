@@ -1,13 +1,6 @@
-aptly.svcs.wlink.com.np
-apts.svcs.wlink.com.np
-atvbackend.nettv.com.np
 bknd.cgnet.com.np
 demo1.cgnet.com.np
 dristicam.nettv.com.np
 himalayatv.nettv.com.np
-kpi.nettv.com.np
 pctl.cgnet.com.np
-radldap.svcs.wlink.com.np
-svcs.wlink.com.np
-swag.svcs.wlink.com.np
 wlink.nettv.com.np
