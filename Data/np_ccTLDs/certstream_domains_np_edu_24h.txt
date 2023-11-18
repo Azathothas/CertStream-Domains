@@ -105,6 +105,7 @@ cpanel.nabajyotibahiramavi.edu.np
 cpanel.nagarjunthulagaun.edu.np
 cpanel.narayanividyamandir.edu.np
 cpanel.newerainstitute.edu.np
+cpanel.newstarenglishschool.edu.np
 cpanel.nijamatischool.edu.np
 cpanel.prabhat.edu.np
 cpanel.quantum.edu.np
@@ -161,6 +162,7 @@ cpcalendars.nabajyotibahiramavi.edu.np
 cpcalendars.nagarjunthulagaun.edu.np
 cpcalendars.narayanividyamandir.edu.np
 cpcalendars.newerainstitute.edu.np
+cpcalendars.newstarenglishschool.edu.np
 cpcalendars.nijamatischool.edu.np
 cpcalendars.prabhat.edu.np
 cpcalendars.quantum.edu.np
@@ -216,6 +218,7 @@ cpcontacts.nabajyotibahiramavi.edu.np
 cpcontacts.nagarjunthulagaun.edu.np
 cpcontacts.narayanividyamandir.edu.np
 cpcontacts.newerainstitute.edu.np
+cpcontacts.newstarenglishschool.edu.np
 cpcontacts.nijamatischool.edu.np
 cpcontacts.prabhat.edu.np
 cpcontacts.quantum.edu.np
@@ -323,6 +326,7 @@ mail.acom.edu.np
 mail.angels.edu.np
 mail.baluddhargagal.edu.np
 mail.bhuwaneshwariss.edu.np
+mail.bstcollege.edu.np
 mail.buddhapadma.edu.np
 mail.careercounselling.edu.np
 mail.chandikadeviss.edu.np
@@ -357,6 +361,7 @@ mail.nabajyotibahiramavi.edu.np
 mail.nagarjunthulagaun.edu.np
 mail.narayanividyamandir.edu.np
 mail.newerainstitute.edu.np
+mail.newstarenglishschool.edu.np
 mail.nijamatischool.edu.np
 mail.prabhat.edu.np
 mail.quantum.edu.np
@@ -404,6 +409,7 @@ nchm.edu.np
 nepalstemalliance.edu.np
 nestmontessorichildrenshouse.edu.np
 newerainstitute.edu.np
+newstarenglishschool.edu.np
 nhms.edu.np
 nijamatischool.edu.np
 nissus.edu.np
@@ -521,6 +527,7 @@ webdisk.nabajyotibahiramavi.edu.np
 webdisk.nagarjunthulagaun.edu.np
 webdisk.narayanividyamandir.edu.np
 webdisk.newerainstitute.edu.np
+webdisk.newstarenglishschool.edu.np
 webdisk.nijamatischool.edu.np
 webdisk.prabhat.edu.np
 webdisk.quantum.edu.np
@@ -579,6 +586,7 @@ webmail.nabajyotibahiramavi.edu.np
 webmail.nagarjunthulagaun.edu.np
 webmail.narayanividyamandir.edu.np
 webmail.newerainstitute.edu.np
+webmail.newstarenglishschool.edu.np
 webmail.nijamatischool.edu.np
 webmail.prabhat.edu.np
 webmail.quantum.edu.np
@@ -681,6 +689,7 @@ www.nagarjunthulagaun.edu.np.inspela.com
 www.narayanividyamandir.edu.np
 www.narayanividyamandir.edu.np.inspela.com
 www.newerainstitute.edu.np
+www.newstarenglishschool.edu.np
 www.nijamatischool.edu.np
 www.nistbkt.edu.np
 www.nplab.stanford.edu.nplab.su.domains
