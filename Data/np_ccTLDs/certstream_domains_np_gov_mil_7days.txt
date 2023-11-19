@@ -58,6 +58,8 @@ kakarvitta.npponepal.gov.np
 kathmandu.gov.np
 kdmismoitfe.karnali.gov.np
 koshi.gov.np
+lalitpur.akc.gov.np
+mil.np.getstat.site
 mis.laliguransmun.gov.np
 mnch.mohp.gov.np
 moial.bagamati.gov.np
@@ -87,6 +89,7 @@ piulamjung.pmamp.gov.np
 pmis.nlsip.gov.np
 pollution.gov.np
 pphl.p1.gov.np
+ppms.karnali.gov.np
 ppsconline.lumbini.gov.np
 presscouncilnepal.gov.np
 pressmuseum.presscouncilnepal.gov.np
@@ -120,6 +123,7 @@ www.erfd.gov.np
 www.ffep.gov.np
 www.hydrology.gov.np
 www.kakarvitta.npponepal.gov.np
+www.lalitpur.akc.gov.np
 www.madhyabindumun.gov.np
 www.moial.bagamati.gov.np
 www.nationalgeoportal.gov.np

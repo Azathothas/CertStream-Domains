@@ -8,6 +8,7 @@ acie.edu.np
 acom.edu.np
 activelearninglab.ku.edu.np
 adhikaripradeep.com.np.dreamland.edu.np
+adinathschool.edu.np
 admin.ekatappacampus.edu.np
 admin.kangoischool.edu.np
 admin.krishnapurisecondaryschool.edu.np
@@ -229,6 +230,7 @@ autodiscover.zenithstudy.edu.np
 avenue.edu.np
 axisschool.edu.np
 babyangel.edu.np
+bachelor.trinity.edu.np
 badribishalss.edu.np
 badribishalss.edu.np.inspela.com
 baladarsha.edu.np
@@ -274,6 +276,7 @@ bloomingbuds.edu.np
 blueberry.edu.np
 bluebridge.edu.np
 bmck.edu.np
+bnc.tu.edu.np
 bookings.ghen.edu.np
 bpmpi.edu.np
 brightacademy.edu.np
@@ -299,6 +302,7 @@ cdjmc.edu.np
 cdn.blog.kavyaacademy.edu.np
 cdphtu.edu.np
 cds.edu.np
+cdz.tu.edu.np
 centrumacademyconsultancy.edu.np
 cesar.org.np.icas.edu.np
 chandeshwariss.edu.np
@@ -314,6 +318,7 @@ cihs.edu.np
 cisat.edu.np
 cityacademybara.edu.np
 citycommunity.edu.np
+cms.janapriyadashera.edu.np
 college.angels.edu.np
 college.cpbs.edu.np
 conference.cdztu.edu.np
@@ -392,6 +397,7 @@ cpanel.globalvillage.edu.np
 cpanel.gracemontessori.edu.np
 cpanel.gramsewaschool.edu.np
 cpanel.gsstulsipur.edu.np
+cpanel.gttc.edu.np
 cpanel.guhyeshworyss.edu.np
 cpanel.gurukulbaylor.edu.np
 cpanel.gurukulca.edu.np
@@ -403,6 +409,7 @@ cpanel.himchulischool.edu.np
 cpanel.houston.edu.np
 cpanel.hubintl.edu.np
 cpanel.indrayaniss.edu.np
+cpanel.iofpc.edu.np
 cpanel.iol.edu.np
 cpanel.iwamuracollege.edu.np
 cpanel.jalapass.edu.np
@@ -430,6 +437,7 @@ cpanel.kalidevijugal.edu.np
 cpanel.kalikadeviss.edu.np
 cpanel.kalikaschoolkakani.edu.np
 cpanel.kamalamavi.edu.np
+cpanel.kangaroo.edu.np
 cpanel.kapancampus.edu.np
 cpanel.kas.edu.np
 cpanel.kasthamandapcollege.edu.np
@@ -473,6 +481,7 @@ cpanel.nijamatischool.edu.np
 cpanel.nmess.edu.np
 cpanel.novainternationalcollege.edu.np
 cpanel.oldschool.edu.np
+cpanel.omes.edu.np
 cpanel.optimusglobal.edu.np
 cpanel.outlook.edu.np
 cpanel.oxfordsecondaryschool.edu.np
@@ -503,6 +512,7 @@ cpanel.schoolcdps.edu.np
 cpanel.schoolniranjanabelkot.edu.np
 cpanel.scsstinpatan.edu.np
 cpanel.sdss.edu.np
+cpanel.segacomputer.edu.np
 cpanel.semi.edu.np
 cpanel.setidevisss.edu.np
 cpanel.sganeshschool.edu.np
@@ -519,6 +529,7 @@ cpanel.shreehimalaya.edu.np
 cpanel.shreemavigauriganj8.edu.np
 cpanel.shreeramvsgurukulam.edu.np
 cpanel.shreesharadamavi.edu.np
+cpanel.shristigyan.edu.np
 cpanel.shsschool.edu.np
 cpanel.siddhikaliss.edu.np
 cpanel.sirutarss.edu.np
@@ -553,9 +564,12 @@ cpanel.thenestpreschool.edu.np
 cpanel.thulochaurss.edu.np
 cpanel.tpnl.edu.np
 cpanel.trinetrainternational.edu.np
+cpanel.tufoe.edu.np
 cpanel.umc.edu.np
 cpanel.unitedtechnicalcollege.edu.np
 cpanel.urbana.edu.np
+cpanel.virinchicollege.edu.np
+cpanel.vsn.edu.np
 cpanel.whitegravity.edu.np
 cpanel.wisdomacademy.edu.np
 cpanel.yubassschool.edu.np
@@ -668,6 +682,7 @@ cpcalendars.kalidevijugal.edu.np
 cpcalendars.kalikadeviss.edu.np
 cpcalendars.kalikaschoolkakani.edu.np
 cpcalendars.kamalamavi.edu.np
+cpcalendars.kangaroo.edu.np
 cpcalendars.kapancampus.edu.np
 cpcalendars.kas.edu.np
 cpcalendars.kasthamandapcollege.edu.np
@@ -710,6 +725,7 @@ cpcalendars.nijamatischool.edu.np
 cpcalendars.nmess.edu.np
 cpcalendars.novainternationalcollege.edu.np
 cpcalendars.oldschool.edu.np
+cpcalendars.omes.edu.np
 cpcalendars.optimusglobal.edu.np
 cpcalendars.outlook.edu.np
 cpcalendars.oxfordsecondaryschool.edu.np
@@ -740,6 +756,7 @@ cpcalendars.schoolcdps.edu.np
 cpcalendars.schoolniranjanabelkot.edu.np
 cpcalendars.scsstinpatan.edu.np
 cpcalendars.sdss.edu.np
+cpcalendars.segacomputer.edu.np
 cpcalendars.semi.edu.np
 cpcalendars.setidevisss.edu.np
 cpcalendars.sganeshschool.edu.np
@@ -756,6 +773,7 @@ cpcalendars.shreehimalaya.edu.np
 cpcalendars.shreemavigauriganj8.edu.np
 cpcalendars.shreeramvsgurukulam.edu.np
 cpcalendars.shreesharadamavi.edu.np
+cpcalendars.shristigyan.edu.np
 cpcalendars.shsschool.edu.np
 cpcalendars.siddhikaliss.edu.np
 cpcalendars.sirutarss.edu.np
@@ -790,8 +808,11 @@ cpcalendars.thenestpreschool.edu.np
 cpcalendars.thulochaurss.edu.np
 cpcalendars.tpnl.edu.np
 cpcalendars.trinetrainternational.edu.np
+cpcalendars.tufoe.edu.np
 cpcalendars.umc.edu.np
 cpcalendars.unitedtechnicalcollege.edu.np
+cpcalendars.virinchicollege.edu.np
+cpcalendars.vsn.edu.np
 cpcalendars.whitegravity.edu.np
 cpcalendars.wisdomacademy.edu.np
 cpcalendars.yubassschool.edu.np
@@ -902,6 +923,7 @@ cpcontacts.kalidevijugal.edu.np
 cpcontacts.kalikadeviss.edu.np
 cpcontacts.kalikaschoolkakani.edu.np
 cpcontacts.kamalamavi.edu.np
+cpcontacts.kangaroo.edu.np
 cpcontacts.kapancampus.edu.np
 cpcontacts.kas.edu.np
 cpcontacts.kasthamandapcollege.edu.np
@@ -944,6 +966,7 @@ cpcontacts.nijamatischool.edu.np
 cpcontacts.nmess.edu.np
 cpcontacts.novainternationalcollege.edu.np
 cpcontacts.oldschool.edu.np
+cpcontacts.omes.edu.np
 cpcontacts.optimusglobal.edu.np
 cpcontacts.outlook.edu.np
 cpcontacts.oxfordsecondaryschool.edu.np
@@ -974,6 +997,7 @@ cpcontacts.schoolcdps.edu.np
 cpcontacts.schoolniranjanabelkot.edu.np
 cpcontacts.scsstinpatan.edu.np
 cpcontacts.sdss.edu.np
+cpcontacts.segacomputer.edu.np
 cpcontacts.semi.edu.np
 cpcontacts.setidevisss.edu.np
 cpcontacts.sganeshschool.edu.np
@@ -990,6 +1014,7 @@ cpcontacts.shreehimalaya.edu.np
 cpcontacts.shreemavigauriganj8.edu.np
 cpcontacts.shreeramvsgurukulam.edu.np
 cpcontacts.shreesharadamavi.edu.np
+cpcontacts.shristigyan.edu.np
 cpcontacts.shsschool.edu.np
 cpcontacts.siddhikaliss.edu.np
 cpcontacts.sirutarss.edu.np
@@ -1024,14 +1049,18 @@ cpcontacts.thenestpreschool.edu.np
 cpcontacts.thulochaurss.edu.np
 cpcontacts.tpnl.edu.np
 cpcontacts.trinetrainternational.edu.np
+cpcontacts.tufoe.edu.np
 cpcontacts.umc.edu.np
 cpcontacts.unitedtechnicalcollege.edu.np
+cpcontacts.virinchicollege.edu.np
+cpcontacts.vsn.edu.np
 cpcontacts.whitegravity.edu.np
 cpcontacts.wisdomacademy.edu.np
 cpcontacts.yubassschool.edu.np
 cpcontacts.zenithstudy.edu.np
 crimsoneducation.edu.np
 crimsonhospital.com.cct.edu.np
+crm.professional.edu.np
 cup.gpu.edu.np
 cvmschool.edu.np
 damaktechnical.edu.np
@@ -1044,10 +1073,12 @@ demo.spa.edu.np
 detaileducation.edu.np
 devibalsudhar.edu.np
 devibalsudhar.edu.np.inspela.com
+devisecondaryschool.edu.np
 dhalaunmavi.edu.np
 dharanmodelschool.edu.np
 dharmajyoti.edu.np
 dhmc.tu.edu.np
+diamondeducationfoundation.edu.np
 djps.edu.np
 donaldhome.edu.np
 dpschool.edu.np
@@ -1071,6 +1102,7 @@ edu.npo-enel.ru
 edufirm.ssha.edu.np
 edutechnepal.edu.np
 ekatappacampus.edu.np
+elearning.nsu.edu.np
 elimkids.edu.np
 eliteapprentice.edu.np
 email.orchidcollege.edu.np
@@ -1080,6 +1112,7 @@ emis.mumicd.edu.np
 emis.muodgsedu.edu.np
 emis.muodgshss.edu.np
 emis.pinnaclecollege.edu.np
+emis.pmcpokhara.edu.np
 energizenepal.ku.edu.np
 entad.pcampus.edu.np
 entrance.bts.edu.np
@@ -1129,12 +1162,14 @@ genesis.edu.np
 geniusnepal.hcoe.edu.np
 geniusschool.edu.np
 ges.ku.edu.np
+getguidelines.edu.np
 ghichetusidum.edu.np
 ghichetusidum.edu.np.inspela.com
 ghumtee.standardinstitute.edu.np
 giec.edu.np
 gihe.edu.np
 gihm.edu.np
+git.git.autodiscover.gttc.edu.np
 git.git.git.gttc.edu.np
 git.git.gttc.edu.np
 git.git.kti.edu.np
@@ -1204,6 +1239,7 @@ indreshworcampus.edu.np
 inspireeducation.edu.np
 intellect.edu.np
 inventors.edu.np
+iofpc.edu.np
 iol.edu.np
 iost.tu.edu.np
 irongate.edu.np
@@ -1226,6 +1262,7 @@ jantacampus.edu.np
 jantamavisoltee.edu.np
 jantamaviumjan.edu.np
 jantamaviumjan.edu.np.baraacademy.edu.np
+japansewa.edu.np
 jayaboarding.edu.np
 jec.edu.np
 jgrss.edu.np
@@ -1265,6 +1302,7 @@ kalikaschoolkakani.edu.np.inspela.com
 kamalamavi.edu.np
 kamalamavi.edu.np.inspela.com
 kanchanjunga.edu.np
+kangaroo.edu.np
 kangoischool.edu.np
 kapancampus.edu.np
 kas.edu.np
@@ -1424,6 +1462,7 @@ mail.himshikhar.edu.np
 mail.houston.edu.np
 mail.hubintl.edu.np
 mail.indrayaniss.edu.np
+mail.iofpc.edu.np
 mail.iol.edu.np
 mail.iwamuracollege.edu.np
 mail.jalapass.edu.np
@@ -1452,6 +1491,7 @@ mail.kalidevijugal.edu.np
 mail.kalikadeviss.edu.np
 mail.kalikaschoolkakani.edu.np
 mail.kamalamavi.edu.np
+mail.kangaroo.edu.np
 mail.kangoischool.edu.np
 mail.kapancampus.edu.np
 mail.kas.edu.np
@@ -1506,6 +1546,7 @@ mail.old.nbkspjhapa.edu.np
 mail.old.shreebiramarsinghss.edu.np
 mail.old.sitaramschool.edu.np
 mail.oldschool.edu.np
+mail.omes.edu.np
 mail.optimusglobal.edu.np
 mail.outlook.edu.np
 mail.oxfordsecondaryschool.edu.np
@@ -1542,6 +1583,7 @@ mail.schoolcdps.edu.np
 mail.schoolniranjanabelkot.edu.np
 mail.scsstinpatan.edu.np
 mail.sdss.edu.np
+mail.segacomputer.edu.np
 mail.sei.edu.np
 mail.semi.edu.np
 mail.setidevisss.edu.np
@@ -1560,6 +1602,7 @@ mail.shreehimalaya.edu.np
 mail.shreemavigauriganj8.edu.np
 mail.shreeramvsgurukulam.edu.np
 mail.shreesharadamavi.edu.np
+mail.shristigyan.edu.np
 mail.shsschool.edu.np
 mail.siddhikaliss.edu.np
 mail.sirutarss.edu.np
@@ -1598,14 +1641,18 @@ mail.times.edu.np
 mail.tpnl.edu.np
 mail.trinetrainternational.edu.np
 mail.tuexam.edu.np
+mail.tufoe.edu.np
 mail.umc.edu.np
 mail.unitedtechnicalcollege.edu.np
 mail.urbana.edu.np
+mail.virinchicollege.edu.np
+mail.vsn.edu.np
 mail.whitegravity.edu.np
 mail.wisdomacademy.edu.np
 mail.yubassschool.edu.np
 mail.zenithstudy.edu.np
 mail01.moncompte.f.appsuite.default.folder.umc.edu.np
+maitrischool.edu.np
 maivalleyschool.edu.np
 majestic.edu.np
 malpiins.edu.np
@@ -1722,6 +1769,8 @@ old.shreebiramarsinghss.edu.np
 old.sitaramschool.edu.np
 old.thamescollege.edu.np
 oldschool.edu.np
+omes.baraacademy.edu.np
+omes.edu.np
 online.arnikofoundation.edu.np
 online.saraswatidamak.edu.np
 optimusglobal.edu.np
@@ -1758,6 +1807,7 @@ prajnasadan.edu.np
 prakasheducation.edu.np
 prarambha.edu.np
 pratixamontessori.edu.np
+premier.majesticmarketing.edu.np
 producttest.cdhsc.edu.np
 professionalcareer.edu.np
 project2205lab.ku.edu.np
@@ -1781,6 +1831,7 @@ regentschool.edu.np
 register.pranjal.edu.np
 register.pranjal.edu.np.my-urls.com
 registration.musom.edu.np
+rehdon.edu.np
 render.edu.np
 result.kusoed.edu.np
 result.ncmc.edu.np
@@ -1831,6 +1882,7 @@ sdss.edu.np
 sdss.edu.np.inspela.com
 seac.edu.np
 seee.ku.edu.np
+segacomputer.edu.np
 sei.edu.np
 seishin.edu.np
 semi.edu.np
@@ -1873,6 +1925,7 @@ shreeramvsgurukulam.edu.np
 shreeramvsgurukulam.edu.np.inspela.com
 shreesetidevi.edu.np
 shreesharadamavi.edu.np
+shristigyan.edu.np
 shsschool.edu.np
 shubhangi.edu.np
 shuvakamanaebs.edu.np
@@ -1965,6 +2018,7 @@ tedxkathmanduuniversity.ku.edu.np
 tejganga.edu.np
 templates.hilarious.edu.np
 tersd2022.kusoed.edu.np
+test.jyotischool.edu.np
 test.vedascollege.edu.np
 testing.nsu.edu.np
 texasintl.edu.np
@@ -1995,6 +2049,7 @@ tthss.edu.np
 tucds.edu.np
 tuconvocation.tuexam.edu.np
 tuexam.edu.np
+tufoe.edu.np
 uc.edu.np
 udayamavi.edu.np
 uebs.edu.np
@@ -2007,6 +2062,8 @@ urbana.edu.np
 vac.edu.np
 viaeducation.edu.np
 victoriaconsultancy.edu.np
+virinchicollege.edu.np
+vsn.edu.np
 webdisk.aadhar.edu.np
 webdisk.abssmulpani.edu.np
 webdisk.aceolevel.edu.np
@@ -2114,6 +2171,7 @@ webdisk.kalidevijugal.edu.np
 webdisk.kalikadeviss.edu.np
 webdisk.kalikaschoolkakani.edu.np
 webdisk.kamalamavi.edu.np
+webdisk.kangaroo.edu.np
 webdisk.kapancampus.edu.np
 webdisk.kas.edu.np
 webdisk.kasthamandapcollege.edu.np
@@ -2154,6 +2212,7 @@ webdisk.nijamatischool.edu.np
 webdisk.nmess.edu.np
 webdisk.novainternationalcollege.edu.np
 webdisk.oldschool.edu.np
+webdisk.omes.edu.np
 webdisk.optimusglobal.edu.np
 webdisk.outlook.edu.np
 webdisk.oxfordsecondaryschool.edu.np
@@ -2184,6 +2243,7 @@ webdisk.schoolcdps.edu.np
 webdisk.schoolniranjanabelkot.edu.np
 webdisk.scsstinpatan.edu.np
 webdisk.sdss.edu.np
+webdisk.segacomputer.edu.np
 webdisk.semi.edu.np
 webdisk.setidevisss.edu.np
 webdisk.sganeshschool.edu.np
@@ -2200,6 +2260,7 @@ webdisk.shreehimalaya.edu.np
 webdisk.shreemavigauriganj8.edu.np
 webdisk.shreeramvsgurukulam.edu.np
 webdisk.shreesharadamavi.edu.np
+webdisk.shristigyan.edu.np
 webdisk.shsschool.edu.np
 webdisk.siddhikaliss.edu.np
 webdisk.sirutarss.edu.np
@@ -2234,9 +2295,12 @@ webdisk.thenestpreschool.edu.np
 webdisk.thulochaurss.edu.np
 webdisk.tpnl.edu.np
 webdisk.trinetrainternational.edu.np
+webdisk.tufoe.edu.np
 webdisk.umc.edu.np
 webdisk.unitedtechnicalcollege.edu.np
 webdisk.urbana.edu.np
+webdisk.virinchicollege.edu.np
+webdisk.vsn.edu.np
 webdisk.whitegravity.edu.np
 webdisk.wisdomacademy.edu.np
 webdisk.yubassschool.edu.np
@@ -2324,6 +2388,7 @@ webmail.heritage.edu.np
 webmail.himchulischool.edu.np
 webmail.hubintl.edu.np
 webmail.indrayaniss.edu.np
+webmail.iofpc.edu.np
 webmail.iol.edu.np
 webmail.iwamuracollege.edu.np
 webmail.jalapass.edu.np
@@ -2351,6 +2416,7 @@ webmail.kalidevijugal.edu.np
 webmail.kalikadeviss.edu.np
 webmail.kalikaschoolkakani.edu.np
 webmail.kamalamavi.edu.np
+webmail.kangaroo.edu.np
 webmail.kangoischool.edu.np
 webmail.kapancampus.edu.np
 webmail.kas.edu.np
@@ -2403,6 +2469,7 @@ webmail.old.nbkspjhapa.edu.np
 webmail.old.shreebiramarsinghss.edu.np
 webmail.old.sitaramschool.edu.np
 webmail.oldschool.edu.np
+webmail.omes.edu.np
 webmail.optimusglobal.edu.np
 webmail.outlook.edu.np
 webmail.oxfordsecondaryschool.edu.np
@@ -2433,6 +2500,7 @@ webmail.schoolcdps.edu.np
 webmail.schoolniranjanabelkot.edu.np
 webmail.scsstinpatan.edu.np
 webmail.sdss.edu.np
+webmail.segacomputer.edu.np
 webmail.semi.edu.np
 webmail.setidevisss.edu.np
 webmail.sganeshschool.edu.np
@@ -2449,6 +2517,7 @@ webmail.shreehimalaya.edu.np
 webmail.shreemavigauriganj8.edu.np
 webmail.shreeramvsgurukulam.edu.np
 webmail.shreesharadamavi.edu.np
+webmail.shristigyan.edu.np
 webmail.shsschool.edu.np
 webmail.siddhikaliss.edu.np
 webmail.sirutarss.edu.np
@@ -2484,8 +2553,11 @@ webmail.thenestpreschool.edu.np
 webmail.thulochaurss.edu.np
 webmail.tpnl.edu.np
 webmail.trinetrainternational.edu.np
+webmail.tufoe.edu.np
 webmail.umc.edu.np
 webmail.urbana.edu.np
+webmail.virinchicollege.edu.np
+webmail.vsn.edu.np
 webmail.whitegravity.edu.np
 webmail.wisdomacademy.edu.np
 webmail.yubassschool.edu.np
@@ -2495,6 +2567,7 @@ whm.bmck.edu.np
 whm.ktmshikshyalaya.edu.np
 whm.successacademydhading.edu.np
 whm.wisdomacademy.edu.np
+wifas.edu.np
 wisdomacademy.edu.np
 worldcup.professional.edu.np
 wp-site.professional.edu.np
@@ -2545,6 +2618,7 @@ www.bess.edu.np
 www.bhanujana.baraacademy.edu.np
 www.bhanumavi.edu.np
 www.bhanumavi.edu.np.inspela.com
+www.bharati.edu.np
 www.bhimnagarschool.edu.np
 www.bhimnagarschool.edu.np.inspela.com
 www.bhumesworiss.edu.np
@@ -2584,6 +2658,7 @@ www.chandisstarakeshwor.edu.np.inspela.com
 www.chandrodayamabi.edu.np
 www.cisat.edu.np
 www.citycommunity.edu.np
+www.cms.janapriyadashera.edu.np
 www.college.cpbs.edu.np
 www.college.koshistjames.edu.np
 www.college.vac.edu.np
@@ -2603,6 +2678,7 @@ www.demo.millsberry.edu.np
 www.demo.spa.edu.np
 www.devibalsudhar.edu.np
 www.devibalsudhar.edu.np.inspela.com
+www.diamondeducationfoundation.edu.np
 www.donaldhome.edu.np
 www.dragonhotelnepal.com.gyaninstitute.edu.np
 www.dreamland.edu.np
@@ -2616,6 +2692,7 @@ www.ecec.edu.np
 www.edensacademy.edu.np
 www.edufirm.ssha.edu.np
 www.ekatappacampus.edu.np
+www.elearning.nsu.edu.np
 www.electrical.keckist.edu.np
 www.elimkids.edu.np
 www.eliteapprentice.edu.np
@@ -2623,6 +2700,7 @@ www.email.cbm.edu.np
 www.email.dpsdarchula.edu.np
 www.email.orchidcollege.edu.np
 www.emis.koshistjames.edu.np
+www.emis.pmcpokhara.edu.np
 www.emis.vac.edu.np
 www.enroll.laf.edu.np
 www.entrance.bts.edu.np
@@ -2698,6 +2776,7 @@ www.indralohani.baraacademy.edu.np
 www.indrayaniss.edu.np
 www.indrayaniss.edu.np.inspela.com
 www.intellect.edu.np
+www.iofpc.edu.np
 www.iol.edu.np
 www.ishm.edu.np
 www.itclub.keckist.edu.np
@@ -2746,6 +2825,7 @@ www.kalikaschoolkakani.edu.np
 www.kalikaschoolkakani.edu.np.inspela.com
 www.kamalamavi.edu.np
 www.kamalamavi.edu.np.inspela.com
+www.kangaroo.edu.np
 www.kangoischool.edu.np
 www.kapancampus.edu.np
 www.kas.edu.np
@@ -2791,6 +2871,7 @@ www.mail.careercounselling.edu.np
 www.mail.cbm.edu.np
 www.mail.mmconsultancy.edu.np
 www.mail01.moncompte.f.appsuite.default.folder.umc.edu.np
+www.maitrischool.edu.np
 www.maivalleyschool.edu.np
 www.majestic.edu.np
 www.malpiins.edu.np
@@ -2862,6 +2943,8 @@ www.old.shreebiramarsinghss.edu.np
 www.old.sitaramschool.edu.np
 www.old.thamescollege.edu.np
 www.oldschool.edu.np
+www.omes.baraacademy.edu.np
+www.omes.edu.np
 www.online.saraswatidamak.edu.np
 www.onlineform.keckist.edu.np
 www.optimusglobal.edu.np
@@ -2888,6 +2971,7 @@ www.prajnasadan.edu.np
 www.prakasheducation.edu.np
 www.prarambha.edu.np
 www.pratixamontessori.edu.np
+www.premier.majesticmarketing.edu.np
 www.professionalcareer.edu.np
 www.pu.edu.np
 www.publicschool.edu.np
@@ -2898,6 +2982,7 @@ www.ramawapurss.edu.np
 www.register.pranjal.edu.np
 www.register.pranjal.edu.np.my-urls.com
 www.render.edu.np
+www.result.kusoed.edu.np
 www.result.ncmc.edu.np
 www.result.salyantarcampus.edu.np
 www.result.saraswatidamak.edu.np
@@ -2933,6 +3018,7 @@ www.scsstinpatan.edu.np
 www.scsstinpatan.edu.np.inspela.com
 www.sdss.edu.np
 www.sdss.edu.np.inspela.com
+www.segacomputer.edu.np
 www.sei.edu.np
 www.semi.edu.np
 www.server.sunway.edu.np
@@ -2967,6 +3053,7 @@ www.shreemavigauriganj8.edu.np.inspela.com
 www.shreeramvsgurukulam.edu.np
 www.shreeramvsgurukulam.edu.np.inspela.com
 www.shreesharadamavi.edu.np
+www.shristigyan.edu.np
 www.shsschool.edu.np
 www.siddhikaliss.edu.np
 www.siddhikaliss.edu.np.inspela.com
@@ -3051,12 +3138,15 @@ www.tsa.edu.np
 www.tta.saraswatidamak.edu.np
 www.tuconvocation.tuexam.edu.np
 www.tuexam.edu.np
+www.tufoe.edu.np
 www.uebs.edu.np
 www.uk.ghen.edu.np
 www.umc.edu.np
 www.united.edu.np
 www.unitedtechnicalcollege.edu.np
 www.urbana.edu.np
+www.virinchicollege.edu.np
+www.vsn.edu.np
 www.whitegravity.edu.np
 www.wisdomacademy.edu.np
 www.worldcup.professional.edu.np
