@@ -4,6 +4,7 @@ admin.ishm.edu.np
 ahs.edu.np
 amityeducation.edu.np
 aonecoaching.edu.np
+api.admin.hiis.edu.np
 api.thamescollege.edu.np
 arniko.edu.np
 autodiscover.gtg.edu.np
@@ -25,7 +26,9 @@ cpanel.bathm.edu.np
 cpanel.brave.edu.np
 cpanel.col.edu.np
 cpanel.gtg.edu.np
+cpanel.happyhome.edu.np
 cpanel.iglobal.edu.np
+cpanel.kantipurschool.edu.np
 cpanel.les.edu.np
 cpanel.mentors.edu.np
 cpanel.mrbacademy.edu.np
@@ -42,7 +45,9 @@ cpcalendars.bathm.edu.np
 cpcalendars.brave.edu.np
 cpcalendars.col.edu.np
 cpcalendars.gtg.edu.np
+cpcalendars.happyhome.edu.np
 cpcalendars.iglobal.edu.np
+cpcalendars.kantipurschool.edu.np
 cpcalendars.les.edu.np
 cpcalendars.mentors.edu.np
 cpcalendars.mrbacademy.edu.np
@@ -59,7 +64,9 @@ cpcontacts.bathm.edu.np
 cpcontacts.brave.edu.np
 cpcontacts.col.edu.np
 cpcontacts.gtg.edu.np
+cpcontacts.happyhome.edu.np
 cpcontacts.iglobal.edu.np
+cpcontacts.kantipurschool.edu.np
 cpcontacts.les.edu.np
 cpcontacts.mentors.edu.np
 cpcontacts.mrbacademy.edu.np
@@ -73,6 +80,7 @@ cpcontacts.wisdomacademy.edu.np
 cpcontacts.ydmc.edu.np
 ctc.edu.np
 ctc.edu.np.cct.edu.np
+dev.hiis.edu.np
 dpschool.edu.np
 eelms-ces.ioe.edu.np
 emis.pmcpokhara.edu.np
@@ -86,6 +94,7 @@ git.git.git.gttc.edu.np
 globalchoice.edu.np
 gmctulsipur.edu.np
 gtg.edu.np
+happyhome.edu.np
 hcoe.edu.np
 hitech.edu.np
 hotelmacau.com.np.icas.edu.np
@@ -93,10 +102,13 @@ idp.ku.edu.np
 iglobal.edu.np
 ishm.edu.np
 janajyotimavi.edu.np
+kantipurschool.edu.np
 keckist.edu.np
 laf.edu.np
 les.edu.np
 like.edu.np
+littleangelsparasi.edu.np
+littlestarlahan.edu.np
 lms.ecec.edu.np
 lna.jmssg.edu.np
 loksewaonlineexam.edu.np
@@ -108,7 +120,9 @@ mail.brave.edu.np
 mail.bstcollege.edu.np
 mail.col.edu.np
 mail.gtg.edu.np
+mail.happyhome.edu.np
 mail.iglobal.edu.np
+mail.kantipurschool.edu.np
 mail.les.edu.np
 mail.mentors.edu.np
 mail.mrbacademy.edu.np
@@ -133,6 +147,7 @@ mrmcampus.edu.np
 mrmcampus.mrmcollege.edu.np
 msiddhartha.edu.np
 naav.edu.np
+name.edu.np
 nationalinfotechcollege.edu.np
 ncit.edu.np
 ngmc.edu.np
@@ -142,6 +157,7 @@ omes.edu.np
 onlineevents.kingscollege.edu.np
 pragyakunja.edu.np
 premier.majesticmarketing.edu.np
+pusoe.edu.np
 rst.kasthamandapcollege.edu.np
 saipal.edu.np
 sbdss.edu.np
@@ -163,12 +179,15 @@ tejganga.edu.np
 templates.rjuuc.edu.np
 tucdp.edu.np
 uebs.edu.np
+viaeducation.edu.np
 webdisk.ahs.edu.np
 webdisk.bathm.edu.np
 webdisk.brave.edu.np
 webdisk.col.edu.np
 webdisk.gtg.edu.np
+webdisk.happyhome.edu.np
 webdisk.iglobal.edu.np
+webdisk.kantipurschool.edu.np
 webdisk.les.edu.np
 webdisk.mentors.edu.np
 webdisk.mrbacademy.edu.np
@@ -185,7 +204,9 @@ webmail.bathm.edu.np
 webmail.brave.edu.np
 webmail.col.edu.np
 webmail.gtg.edu.np
+webmail.happyhome.edu.np
 webmail.iglobal.edu.np
+webmail.kantipurschool.edu.np
 webmail.les.edu.np
 webmail.mentors.edu.np
 webmail.mrbacademy.edu.np
@@ -204,6 +225,7 @@ wisdomacademy.edu.np
 worldlight.edu.np
 www.abhayananda.edu.np
 www.admin.ishm.edu.np
+www.api.admin.hiis.edu.np
 www.api.thamescollege.edu.np
 www.arniko.edu.np
 www.bathm.edu.np
@@ -211,12 +233,14 @@ www.brave.edu.np
 www.canteen.divyagyan.edu.np
 www.col.edu.np
 www.ctc.edu.np.cct.edu.np
+www.dev.hiis.edu.np
 www.emis.pmcpokhara.edu.np
 www.enroll.laf.edu.np
 www.entrance.tufoe.edu.np
 www.excelsior.edu.np
 www.gtg.edu.np
 www.gyankunjaschool.edu.np
+www.happyhome.edu.np
 www.hcoe.hcoe.edu.np
 www.hex.hcoe.edu.np
 www.hitech.edu.np
@@ -224,8 +248,10 @@ www.hotelmacau.com.np.icas.edu.np
 www.iglobal.edu.np
 www.ishm.edu.np
 www.kalikapower.hcoe.edu.np
+www.kantipurschool.edu.np
 www.kjassociates.hcoe.edu.np
 www.les.edu.np
+www.littlestarlahan.edu.np
 www.lms.ecec.edu.np
 www.lna.jmssg.edu.np
 www.lumbiniadarsha.edu.np
@@ -234,6 +260,7 @@ www.mis.kingscollege.edu.np
 www.mrbacademy.edu.np
 www.mrmcampus.mrmcollege.edu.np
 www.msiddhartha.edu.np
+www.name.edu.np
 www.nationalinfotechcollege.edu.np
 www.nepalsdgforum.hcoe.edu.np
 www.nexgen.hcoe.edu.np
