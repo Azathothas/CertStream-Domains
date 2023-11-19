@@ -298,6 +298,7 @@ cdes.tu.edu.np
 cdjmc.edu.np
 cdn.blog.kavyaacademy.edu.np
 cdphtu.edu.np
+cds.edu.np
 centrumacademyconsultancy.edu.np
 cesar.org.np.icas.edu.np
 chandeshwariss.edu.np
@@ -1884,6 +1885,7 @@ sijalacademy.edu.np
 sindhuschool.edu.np
 sirutarss.edu.np
 sirutarss.edu.np.inspela.com
+sis.kingscollege.edu.np
 sisnovate.chatbot.aimsbrt.edu.np
 sitamavi.edu.np
 sitamavi.edu.np.inspela.com
@@ -2972,6 +2974,7 @@ www.sids.baraacademy.edu.np
 www.sijalacademy.edu.np
 www.sirutarss.edu.np
 www.sirutarss.edu.np.inspela.com
+www.sis.kingscollege.edu.np
 www.sisnovate.chatbot.aimsbrt.edu.np
 www.sitamavi.edu.np
 www.sitamavi.edu.np.inspela.com

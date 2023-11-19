@@ -1,6 +1,7 @@
 2079.doed.gov.np
 acc.madhyabindumun.gov.np
 admin.nationalgeoportal.gov.np
+adrcsyangja.gandaki.gov.np
 aglearn.p1.gov.np
 api-rms.ndrrma.gov.np
 apply.mcsipc.gov.np
