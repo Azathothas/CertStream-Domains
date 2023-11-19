@@ -6,10 +6,12 @@ arniko.edu.np
 autodiscover.gtg.edu.np
 autodiscover.iglobal.edu.np
 autodiscover.ssebschool.edu.np
+brave.edu.np
 budhinandacampus.edu.np
 ces.ioe.edu.np
 cityacademybara.edu.np
 col.edu.np
+cpanel.brave.edu.np
 cpanel.col.edu.np
 cpanel.gtg.edu.np
 cpanel.iglobal.edu.np
@@ -21,6 +23,7 @@ cpanel.ssebschool.edu.np
 cpanel.successacademydhading.edu.np
 cpanel.wisdomacademy.edu.np
 cpanel.ydmc.edu.np
+cpcalendars.brave.edu.np
 cpcalendars.col.edu.np
 cpcalendars.gtg.edu.np
 cpcalendars.iglobal.edu.np
@@ -32,6 +35,7 @@ cpcalendars.ssebschool.edu.np
 cpcalendars.successacademydhading.edu.np
 cpcalendars.wisdomacademy.edu.np
 cpcalendars.ydmc.edu.np
+cpcontacts.brave.edu.np
 cpcontacts.col.edu.np
 cpcontacts.gtg.edu.np
 cpcontacts.iglobal.edu.np
@@ -59,6 +63,7 @@ like.edu.np
 loksewaonlineexam.edu.np
 lumbiniadarsha.edu.np
 mail.balmikischool.edu.np
+mail.brave.edu.np
 mail.col.edu.np
 mail.gtg.edu.np
 mail.iglobal.edu.np
@@ -85,6 +90,7 @@ nhms.edu.np
 omes.baraacademy.edu.np
 omes.edu.np
 onlineevents.kingscollege.edu.np
+rst.kasthamandapcollege.edu.np
 saipal.edu.np
 sbdss.edu.np
 shantinikunjschool.edu.np
@@ -97,10 +103,12 @@ ssebschool.edu.np
 stlawrence.jmssg.edu.np
 successacademydhading.edu.np
 successacademydhading.edu.np.joogletech.com
+system.talvesi.edu.np
 techparva.ices.edu.np
 tejganga.edu.np
 templates.rjuuc.edu.np
 uebs.edu.np
+webdisk.brave.edu.np
 webdisk.col.edu.np
 webdisk.gtg.edu.np
 webdisk.iglobal.edu.np
@@ -112,6 +120,7 @@ webdisk.ssebschool.edu.np
 webdisk.successacademydhading.edu.np
 webdisk.wisdomacademy.edu.np
 webdisk.ydmc.edu.np
+webmail.brave.edu.np
 webmail.col.edu.np
 webmail.gtg.edu.np
 webmail.iglobal.edu.np
@@ -130,6 +139,7 @@ wisdomacademy.edu.np
 www.abhayananda.edu.np
 www.admin.ishm.edu.np
 www.arniko.edu.np
+www.brave.edu.np
 www.col.edu.np
 www.emis.pmcpokhara.edu.np
 www.entrance.tufoe.edu.np
@@ -147,6 +157,7 @@ www.nationalinfotechcollege.edu.np
 www.omes.baraacademy.edu.np
 www.omes.edu.np
 www.onlineevents.kingscollege.edu.np
+www.rst.kasthamandapcollege.edu.np
 www.shantinikunjschool.edu.np
 www.shivamainali.ssebschool.edu.np
 www.shreesharadamavi.edu.np
