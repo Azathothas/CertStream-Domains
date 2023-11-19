@@ -55,19 +55,23 @@ gtg.edu.np
 hotelmacau.com.np.icas.edu.np
 iglobal.edu.np
 ishm.edu.np
+like.edu.np
 loksewaonlineexam.edu.np
+lumbiniadarsha.edu.np
 mail.balmikischool.edu.np
 mail.col.edu.np
 mail.gtg.edu.np
 mail.iglobal.edu.np
 mail.mrbacademy.edu.np
 mail.nationalinfotechcollege.edu.np
+mail.nilkanthamultiplecampus.edu.np
 mail.omes.edu.np
 mail.shishuwaricampus.edu.np
 mail.shreesharadamavi.edu.np
 mail.snsc.edu.np
 mail.ssebschool.edu.np
 mail.successacademydhading.edu.np
+mail.weekids.edu.np
 mail.wisdomacademy.edu.np
 mail.ydmc.edu.np
 mav.edu.np
@@ -119,6 +123,7 @@ webmail.ssebschool.edu.np
 webmail.successacademydhading.edu.np
 webmail.wisdomacademy.edu.np
 webmail.ydmc.edu.np
+weekids.edu.np
 whm.successacademydhading.edu.np
 whm.wisdomacademy.edu.np
 wisdomacademy.edu.np
@@ -134,6 +139,7 @@ www.gyankunjaschool.edu.np
 www.hotelmacau.com.np.icas.edu.np
 www.iglobal.edu.np
 www.ishm.edu.np
+www.lumbiniadarsha.edu.np
 www.mis.kingscollege.edu.np
 www.mrbacademy.edu.np
 www.mrmcampus.mrmcollege.edu.np
@@ -151,6 +157,7 @@ www.students.dpschool.edu.np
 www.successacademydhading.edu.np
 www.successacademydhading.edu.np.joogletech.com
 www.uebs.edu.np
+www.weekids.edu.np
 www.wisdomacademy.edu.np
 www.ydmc.edu.np
 ydmc.edu.np
