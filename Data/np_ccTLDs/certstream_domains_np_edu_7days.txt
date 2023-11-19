@@ -1193,6 +1193,7 @@ indoorsclub.ku.edu.np
 indralohani.baraacademy.edu.np
 indrayaniss.edu.np
 indrayaniss.edu.np.inspela.com
+indreshworcampus.edu.np
 inspireeducation.edu.np
 intellect.edu.np
 inventors.edu.np
@@ -1263,6 +1264,7 @@ kas.edu.np
 kasthamandapcollege.edu.np
 kathmanduvidhyalaya.edu.np
 kathtourism.edu.np
+kawasoti.edu.np
 kbc.edu.np
 keckist.edu.np
 kedarmavi.edu.np
@@ -1292,6 +1294,7 @@ kusom.edu.np
 kusumakarschool.edu.np
 kvc.edu.np
 laf.edu.np
+laligurashenglishschool.edu.np
 lamatolamavi.edu.np
 laxmi.edu.np
 laxmimabijagatpur.edu.np
@@ -2753,6 +2756,7 @@ www.kundaladevi.edu.np
 www.kundaladevi.edu.np.inspela.com
 www.kusumakarschool.edu.np
 www.kvc.edu.np
+www.laligurashenglishschool.edu.np
 www.laxmimabijagatpur.edu.np
 www.laxmimabijagatpur.edu.np.inspela.com
 www.laxmimavilanku.edu.np
