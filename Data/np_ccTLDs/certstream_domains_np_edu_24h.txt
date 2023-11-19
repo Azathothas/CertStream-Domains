@@ -126,6 +126,7 @@ mrbacademy.edu.np
 mrmcampus.edu.np
 mrmcampus.mrmcollege.edu.np
 msiddhartha.edu.np
+naav.edu.np
 nationalinfotechcollege.edu.np
 ncit.edu.np
 ngmc.edu.np
@@ -144,6 +145,7 @@ shreesharadamavi.edu.np
 sindhuschool.edu.np
 smcbafal.edu.np
 snmb.edu.np
+snsc.edu.np
 spiralgalaxy.edu.np
 ssebschool.edu.np
 stlawrence.jmssg.edu.np
