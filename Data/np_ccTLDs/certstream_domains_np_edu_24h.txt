@@ -40,6 +40,7 @@ cpanel.gtg.edu.np
 cpanel.happyhome.edu.np
 cpanel.iglobal.edu.np
 cpanel.kalinag.edu.np
+cpanel.kangaroo.edu.np
 cpanel.kangarookids.edu.np
 cpanel.kantipurschool.edu.np
 cpanel.les.edu.np
@@ -50,6 +51,7 @@ cpanel.nationalinfotechcollege.edu.np
 cpanel.navinmavi.edu.np
 cpanel.omes.edu.np
 cpanel.pragyakunja.edu.np
+cpanel.segacomputer.edu.np
 cpanel.shreesharadamavi.edu.np
 cpanel.ssebschool.edu.np
 cpanel.successacademydhading.edu.np
@@ -67,6 +69,7 @@ cpcalendars.gtg.edu.np
 cpcalendars.happyhome.edu.np
 cpcalendars.iglobal.edu.np
 cpcalendars.kalinag.edu.np
+cpcalendars.kangaroo.edu.np
 cpcalendars.kangarookids.edu.np
 cpcalendars.kantipurschool.edu.np
 cpcalendars.les.edu.np
@@ -77,6 +80,7 @@ cpcalendars.nationalinfotechcollege.edu.np
 cpcalendars.navinmavi.edu.np
 cpcalendars.omes.edu.np
 cpcalendars.pragyakunja.edu.np
+cpcalendars.segacomputer.edu.np
 cpcalendars.shreesharadamavi.edu.np
 cpcalendars.ssebschool.edu.np
 cpcalendars.successacademydhading.edu.np
@@ -94,6 +98,7 @@ cpcontacts.gtg.edu.np
 cpcontacts.happyhome.edu.np
 cpcontacts.iglobal.edu.np
 cpcontacts.kalinag.edu.np
+cpcontacts.kangaroo.edu.np
 cpcontacts.kangarookids.edu.np
 cpcontacts.kantipurschool.edu.np
 cpcontacts.les.edu.np
@@ -104,6 +109,7 @@ cpcontacts.nationalinfotechcollege.edu.np
 cpcontacts.navinmavi.edu.np
 cpcontacts.omes.edu.np
 cpcontacts.pragyakunja.edu.np
+cpcontacts.segacomputer.edu.np
 cpcontacts.shreesharadamavi.edu.np
 cpcontacts.ssebschool.edu.np
 cpcontacts.successacademydhading.edu.np
@@ -124,6 +130,7 @@ galaxyeducation.edu.np
 ganganagarschool.edu.np
 gbbs.edu.np
 getguidelines.edu.np
+git.git.autodiscover.gttc.edu.np
 git.git.git.gttc.edu.np
 globalchoice.edu.np
 gmctulsipur.edu.np
@@ -139,6 +146,7 @@ ishm.edu.np
 janajyotimavi.edu.np
 japansewa.edu.np
 kalinag.edu.np
+kangaroo.edu.np
 kangarookids.edu.np
 kantipurschool.edu.np
 kavresthalimavi.edu.np
@@ -166,6 +174,7 @@ mail.gtg.edu.np
 mail.happyhome.edu.np
 mail.iglobal.edu.np
 mail.kalinag.edu.np
+mail.kangaroo.edu.np
 mail.kangarookids.edu.np
 mail.kantipurschool.edu.np
 mail.les.edu.np
@@ -179,6 +188,7 @@ mail.nilkanthamultiplecampus.edu.np
 mail.omes.edu.np
 mail.pragyakunja.edu.np
 mail.saradanamunaacademy.edu.np
+mail.segacomputer.edu.np
 mail.shishuwaricampus.edu.np
 mail.shreesharadamavi.edu.np
 mail.snsc.edu.np
@@ -214,10 +224,12 @@ pragyakunja.edu.np
 premier.majesticmarketing.edu.np
 printable.rjuuc.edu.np
 pusoe.edu.np
+result.kusoed.edu.np
 rst.kasthamandapcollege.edu.np
 sadashyasewa.beershebaschool.edu.np
 saipal.edu.np
 sbdss.edu.np
+segacomputer.edu.np
 shantinikunjschool.edu.np
 shivamainali.ssebschool.edu.np
 shreesharadamavi.edu.np
@@ -236,6 +248,7 @@ system.talvesi.edu.np
 techparva.ices.edu.np
 tejganga.edu.np
 templates.rjuuc.edu.np
+test.jyotischool.edu.np
 timesschool.edu.np
 tribenisadan.edu.np
 triyogatmak.beershebaschool.edu.np
@@ -254,6 +267,7 @@ webdisk.gtg.edu.np
 webdisk.happyhome.edu.np
 webdisk.iglobal.edu.np
 webdisk.kalinag.edu.np
+webdisk.kangaroo.edu.np
 webdisk.kangarookids.edu.np
 webdisk.kantipurschool.edu.np
 webdisk.les.edu.np
@@ -264,6 +278,7 @@ webdisk.nationalinfotechcollege.edu.np
 webdisk.navinmavi.edu.np
 webdisk.omes.edu.np
 webdisk.pragyakunja.edu.np
+webdisk.segacomputer.edu.np
 webdisk.shreesharadamavi.edu.np
 webdisk.ssebschool.edu.np
 webdisk.successacademydhading.edu.np
@@ -281,6 +296,7 @@ webmail.gtg.edu.np
 webmail.happyhome.edu.np
 webmail.iglobal.edu.np
 webmail.kalinag.edu.np
+webmail.kangaroo.edu.np
 webmail.kangarookids.edu.np
 webmail.kantipurschool.edu.np
 webmail.les.edu.np
@@ -291,6 +307,7 @@ webmail.nationalinfotechcollege.edu.np
 webmail.navinmavi.edu.np
 webmail.omes.edu.np
 webmail.pragyakunja.edu.np
+webmail.segacomputer.edu.np
 webmail.shreesharadamavi.edu.np
 webmail.ssebschool.edu.np
 webmail.successacademydhading.edu.np
@@ -336,6 +353,7 @@ www.iglobal.edu.np
 www.ishm.edu.np
 www.kalikapower.hcoe.edu.np
 www.kalinag.edu.np
+www.kangaroo.edu.np
 www.kangarookids.edu.np
 www.kantipurschool.edu.np
 www.kjassociates.hcoe.edu.np
@@ -365,8 +383,10 @@ www.phoenixsolutions.hcoe.edu.np
 www.pragyakunja.edu.np
 www.premier.majesticmarketing.edu.np
 www.pusob.edu.np
+www.result.kusoed.edu.np
 www.rst.kasthamandapcollege.edu.np
 www.sadashyasewa.beershebaschool.edu.np
+www.segacomputer.edu.np
 www.shantinikunjschool.edu.np
 www.shivamainali.ssebschool.edu.np
 www.shreesharadamavi.edu.np
