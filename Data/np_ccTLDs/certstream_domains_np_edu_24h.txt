@@ -1,4 +1,5 @@
 abhayananda.edu.np
+activeacademycollege.edu.np
 admin.ishm.edu.np
 ahs.edu.np
 amityeducation.edu.np
@@ -9,6 +10,7 @@ autodiscover.gtg.edu.np
 autodiscover.iglobal.edu.np
 autodiscover.pragyakunja.edu.np
 autodiscover.ssebschool.edu.np
+bathm.edu.np
 bnc.tu.edu.np
 brave.edu.np
 budhinandacampus.edu.np
@@ -19,6 +21,7 @@ ces.ioe.edu.np
 cityacademybara.edu.np
 col.edu.np
 cpanel.ahs.edu.np
+cpanel.bathm.edu.np
 cpanel.brave.edu.np
 cpanel.col.edu.np
 cpanel.gtg.edu.np
@@ -35,6 +38,7 @@ cpanel.successacademydhading.edu.np
 cpanel.wisdomacademy.edu.np
 cpanel.ydmc.edu.np
 cpcalendars.ahs.edu.np
+cpcalendars.bathm.edu.np
 cpcalendars.brave.edu.np
 cpcalendars.col.edu.np
 cpcalendars.gtg.edu.np
@@ -51,6 +55,7 @@ cpcalendars.successacademydhading.edu.np
 cpcalendars.wisdomacademy.edu.np
 cpcalendars.ydmc.edu.np
 cpcontacts.ahs.edu.np
+cpcontacts.bathm.edu.np
 cpcontacts.brave.edu.np
 cpcontacts.col.edu.np
 cpcontacts.gtg.edu.np
@@ -98,6 +103,7 @@ loksewaonlineexam.edu.np
 lumbiniadarsha.edu.np
 lychee.edu.np
 mail.balmikischool.edu.np
+mail.bathm.edu.np
 mail.brave.edu.np
 mail.bstcollege.edu.np
 mail.col.edu.np
@@ -155,8 +161,10 @@ system.talvesi.edu.np
 techparva.ices.edu.np
 tejganga.edu.np
 templates.rjuuc.edu.np
+tucdp.edu.np
 uebs.edu.np
 webdisk.ahs.edu.np
+webdisk.bathm.edu.np
 webdisk.brave.edu.np
 webdisk.col.edu.np
 webdisk.gtg.edu.np
@@ -173,6 +181,7 @@ webdisk.successacademydhading.edu.np
 webdisk.wisdomacademy.edu.np
 webdisk.ydmc.edu.np
 webmail.ahs.edu.np
+webmail.bathm.edu.np
 webmail.brave.edu.np
 webmail.col.edu.np
 webmail.gtg.edu.np
@@ -197,6 +206,7 @@ www.abhayananda.edu.np
 www.admin.ishm.edu.np
 www.api.thamescollege.edu.np
 www.arniko.edu.np
+www.bathm.edu.np
 www.brave.edu.np
 www.canteen.divyagyan.edu.np
 www.col.edu.np
