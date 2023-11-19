@@ -30,6 +30,7 @@ aecg.edu.np
 ahs.edu.np
 aiclub.ku.edu.np
 ajschool.edu.np
+alevel.trinity.edu.np
 aliteqintl.edu.np
 allied.baraacademy.edu.np
 allied.edu.np
@@ -168,6 +169,7 @@ autodiscover.padmakanyaschool.edu.np
 autodiscover.paramctc.edu.np
 autodiscover.pioneerconsult.edu.np
 autodiscover.pkss.edu.np
+autodiscover.pragyakunja.edu.np
 autodiscover.prarambha.edu.np
 autodiscover.quantum.edu.np
 autodiscover.render.edu.np
@@ -286,6 +288,7 @@ budhinandacampus.edu.np
 bulletin.janapremmavi.edu.np
 call.ecea-s.easycare.edu.np
 camberwell.edu.np
+camellia.edu.np
 careerhub.edu.np
 careers.mihs.edu.np
 carekathmandu.edu.np
@@ -480,6 +483,7 @@ cpanel.pkss.edu.np
 cpanel.pmcparasi.edu.np
 cpanel.pokharagpi.edu.np
 cpanel.prabhat.edu.np
+cpanel.pragyakunja.edu.np
 cpanel.prajnasadan.edu.np
 cpanel.pratixamontessori.edu.np
 cpanel.publicschool.edu.np
@@ -716,6 +720,7 @@ cpcalendars.pkss.edu.np
 cpcalendars.pmcparasi.edu.np
 cpcalendars.pokharagpi.edu.np
 cpcalendars.prabhat.edu.np
+cpcalendars.pragyakunja.edu.np
 cpcalendars.prajnasadan.edu.np
 cpcalendars.pratixamontessori.edu.np
 cpcalendars.publicschool.edu.np
@@ -949,6 +954,7 @@ cpcontacts.pkss.edu.np
 cpcontacts.pmcparasi.edu.np
 cpcontacts.pokharagpi.edu.np
 cpcontacts.prabhat.edu.np
+cpcontacts.pragyakunja.edu.np
 cpcontacts.prajnasadan.edu.np
 cpcontacts.pratixamontessori.edu.np
 cpcontacts.publicschool.edu.np
@@ -1510,6 +1516,7 @@ mail.pkss.edu.np
 mail.pmcparasi.edu.np
 mail.pokharagpi.edu.np
 mail.prabhat.edu.np
+mail.pragyakunja.edu.np
 mail.prajnasadan.edu.np
 mail.prarambha.edu.np
 mail.pratixamontessori.edu.np
@@ -1622,6 +1629,7 @@ mic.edu.np
 midvalley.edu.np
 mikhospitality.baraacademy.edu.np
 milanschool.edu.np
+milestonecollegest.edu.np
 miracle.edu.np
 miracleeducation.edu.np
 mirrorinstitute.edu.np
@@ -1743,6 +1751,7 @@ ponc.tu.edu.np
 ppmn.edu.np
 prabhat.edu.np
 pragatisheelschool.edu.np
+pragyakunja.edu.np
 prajnasadan.baraacademy.edu.np
 prajnasadan.edu.np
 prakasheducation.edu.np
@@ -2154,6 +2163,7 @@ webdisk.pkss.edu.np
 webdisk.pmcparasi.edu.np
 webdisk.pokharagpi.edu.np
 webdisk.prabhat.edu.np
+webdisk.pragyakunja.edu.np
 webdisk.prajnasadan.edu.np
 webdisk.pratixamontessori.edu.np
 webdisk.publicschool.edu.np
@@ -2402,6 +2412,7 @@ webmail.pkss.edu.np
 webmail.pmcparasi.edu.np
 webmail.pokharagpi.edu.np
 webmail.prabhat.edu.np
+webmail.pragyakunja.edu.np
 webmail.prajnasadan.edu.np
 webmail.prarambha.edu.np
 webmail.pratixamontessori.edu.np
@@ -2869,6 +2880,7 @@ www.plustwo.vac.edu.np
 www.pmcparasi.edu.np
 www.pokharagpi.edu.np
 www.prabhat.edu.np
+www.pragyakunja.edu.np
 www.prajnasadan.baraacademy.edu.np
 www.prajnasadan.edu.np
 www.prakasheducation.edu.np
