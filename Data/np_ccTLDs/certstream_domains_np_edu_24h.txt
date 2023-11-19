@@ -66,6 +66,8 @@ cpcontacts.ssebschool.edu.np
 cpcontacts.successacademydhading.edu.np
 cpcontacts.wisdomacademy.edu.np
 cpcontacts.ydmc.edu.np
+ctc.edu.np
+ctc.edu.np.cct.edu.np
 dpschool.edu.np
 eelms-ces.ioe.edu.np
 emis.pmcpokhara.edu.np
@@ -126,6 +128,7 @@ mrmcampus.mrmcollege.edu.np
 msiddhartha.edu.np
 nationalinfotechcollege.edu.np
 ncit.edu.np
+ngmc.edu.np
 nhms.edu.np
 omes.baraacademy.edu.np
 omes.edu.np
@@ -195,6 +198,7 @@ www.arniko.edu.np
 www.brave.edu.np
 www.canteen.divyagyan.edu.np
 www.col.edu.np
+www.ctc.edu.np.cct.edu.np
 www.emis.pmcpokhara.edu.np
 www.enroll.laf.edu.np
 www.entrance.tufoe.edu.np
