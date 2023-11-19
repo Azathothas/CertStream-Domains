@@ -4,10 +4,8 @@ admin.nationalgeoportal.gov.np
 aglearn.p1.gov.np
 api-rms.ndrrma.gov.np
 apply.mcsipc.gov.np
-assembly.karnali.gov.np
 assembly.lumbini.gov.np
 bajrabarahihospital.bagamati.gov.np
-balaju.kathmandu.gov.np
 bhanubhaktazoologicalgarden.gov.np
 career.csh.gov.np
 chitwannationalpark.gov.np
@@ -18,13 +16,8 @@ copomis.gov.np
 copomis.mocpa.gov.np
 covid19.nphl.gov.np
 crime.kaligandakimunsyangja.gov.np
-dahcbhaktapur.bagamati.gov.np
-dahckavrepalanchowk.bagamati.gov.np
 dahclalitpur.bagamati.gov.np
-dahcmakawanpur.bagamati.gov.np
-dahcsindhuli.bagamati.gov.np
 daq.hydrology.gov.np
-data.biratnagarmun.gov.np
 dev.bipadportal.gov.np
 dev.ndrrma.gov.np
 dhm.gov.np
@@ -56,7 +49,6 @@ hlrs.nphl.gov.np
 hydrology.gov.np
 idopanchthar.p1.gov.np
 ijajatpatra.bansgadhimun.gov.np
-ilgprofile.gov.np
 ims.mellekhmun.gov.np
 inventory.kaligandakimunsyangja.gov.np
 jms.mellekhmun.gov.np
@@ -80,7 +72,6 @@ neqas.nphl.gov.np
 npc.gov.np
 ntacall.nta.gov.np
 onlinesystem.doit.gov.np
-onlineticketing.kathmandu.gov.np
 oph.p2.gov.np
 otcc.dohs.gov.np
 p1.gov.np
@@ -97,7 +88,6 @@ pphl.p1.gov.np
 ppsconline.lumbini.gov.np
 presscouncilnepal.gov.np
 pressmuseum.presscouncilnepal.gov.np
-profile8.barahamun.gov.np
 provincialassembly.bagamati.gov.np
 ramechhaphospital.bagamati.gov.np
 rev.kathmandu.gov.np
@@ -118,10 +108,8 @@ tax.madhyabindumun.gov.np
 traccar.ambulance.mohp.gov.np
 trishulihospital.bagamati.gov.np
 vaccine.mohp.gov.np
-vhlseckavre.bagamati.gov.np
 vrs.bagamati.gov.np
 vyansmun.gov.np
-wriddsunsari.p1.gov.np
 www.aglearn.p1.gov.np
 www.bhanubhaktazoologicalgarden.gov.np
 www.dhm.gov.np
