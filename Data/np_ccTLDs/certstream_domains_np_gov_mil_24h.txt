@@ -1,9 +1,12 @@
+admin.nationalgeoportal.gov.np
+adrcsyangja.gandaki.gov.np
 bajrabarahihospital.bagamati.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 dmisdfoskt.karnali.gov.np
 erfd.gov.np
 hellocm.sudurpashchim.gov.np
+mil.np.getstat.site
 ntacall.nta.gov.np
 pollution.gov.np
 swr.gov.np
