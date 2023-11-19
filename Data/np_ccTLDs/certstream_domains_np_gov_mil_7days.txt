@@ -42,6 +42,7 @@ eticket.bherihospital.gov.np
 ffep.gov.np
 gov.np.domgrom.com
 gunaso.krishnapurmun.gov.np
+gunaso.raptisonarimun.gov.np
 health.kaligandakimunsyangja.gov.np
 health.udayapurgadhimun.gov.np
 hellocm.sudurpashchim.gov.np

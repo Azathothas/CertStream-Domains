@@ -1314,6 +1314,7 @@ lms.ncmc.edu.np
 lms.tripurasec.edu.np
 localhost.www.brightstarpublicschool.edu.np
 login.acc.edu.np
+lumbiniadarsha.edu.np
 lvc.edu.np
 m.acc.edu.np
 magazine.globalacademy.edu.np
@@ -1624,6 +1625,7 @@ mirrorinstitute.edu.np
 mis.acmt.edu.np
 mis.ankuram.edu.np
 mis.pcampus.edu.np
+mist.edu.np
 mistarjetascencosud.login.easylink.edu.np
 mmconsultancy.edu.np
 moderneducere.edu.np
@@ -2764,6 +2766,7 @@ www.lms.bhimodayasec.edu.np
 www.lms.ecec.edu.np
 www.lms.ncmc.edu.np
 www.lms.tripurasec.edu.np
+www.lumbiniadarsha.edu.np
 www.lvc.edu.np
 www.mahakaleshwori.edu.np
 www.mahakaleshwori.edu.np.inspela.com
