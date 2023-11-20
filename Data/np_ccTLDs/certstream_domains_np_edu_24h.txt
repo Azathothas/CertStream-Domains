@@ -50,9 +50,12 @@ nioe.edu.np
 old.devkotaeducation.edu.np
 paramountacademy.edu.np
 phd.lbu.edu.np
+phpmyadmin.cpanel.gttc.edu.np
 sangutemavi.edu.np
+set.acem.edu.np
 snjes.edu.np
 snsc.edu.np
+static.cpanel.gttc.edu.np
 takshashilaschool.edu.np
 timesschool.edu.np
 tribhuvan.edu.np
