@@ -52,6 +52,7 @@ mail.sangutemavi.edu.np
 mail.viza.edu.np
 mentornepal.edu.np
 nandanbasicschool.edu.np
+neb.sxc.edu.np
 nic.edu.np
 nioe.edu.np
 old.devkotaeducation.edu.np
@@ -86,6 +87,7 @@ www.basicschoolchiyabari.edu.np.easyaccessnp.com
 www.basicschoolnainpur.edu.np.easyaccessnp.com
 www.bharati.edu.np
 www.ctc.edu.np.cct.edu.np
+www.dharmajyoti.edu.np
 www.educationpark.edu.np
 www.galaxyhtschool.edu.np
 www.gemsgroup.edu.np
