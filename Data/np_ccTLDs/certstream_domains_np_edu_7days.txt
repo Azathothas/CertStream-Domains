@@ -229,6 +229,8 @@ belahiyaschool.edu.np.devashishpathak.com.np
 belbari.edu.np
 bengkateshwarmavi.edu.np
 bengkateshwarmavi.edu.np.inspela.com
+benihorizon.edu.np
+benihorizon.edu.np.yem.com.np
 bess.edu.np
 bhanubrt.edu.np
 bhanujana.baraacademy.edu.np
@@ -326,6 +328,7 @@ cpanel.bathm.edu.np
 cpanel.belahiyaschool.edu.np
 cpanel.belbari.edu.np
 cpanel.bengkateshwarmavi.edu.np
+cpanel.benihorizon.edu.np
 cpanel.bess.edu.np
 cpanel.bhanumavi.edu.np
 cpanel.bhimnagarschool.edu.np
@@ -378,6 +381,7 @@ cpanel.gttc.edu.np
 cpanel.guhyeshworyss.edu.np
 cpanel.gurukulbaylor.edu.np
 cpanel.gurukulca.edu.np
+cpanel.gurukulpathshala.edu.np
 cpanel.gyanmandirebs.edu.np
 cpanel.hamroschoolofnursing.edu.np
 cpanel.happyhome.edu.np
@@ -499,6 +503,7 @@ cpanel.sharadpurss.edu.np
 cpanel.shikharmavi.edu.np
 cpanel.shikshabikashschool.edu.np
 cpanel.shiwalayass.edu.np
+cpanel.shreebirendramavi.edu.np
 cpanel.shreedeuraliss.edu.np
 cpanel.shreegyanodayamavi.edu.np
 cpanel.shreemavigauriganj8.edu.np
@@ -565,6 +570,7 @@ cpcalendars.bathm.edu.np
 cpcalendars.belahiyaschool.edu.np
 cpcalendars.belbari.edu.np
 cpcalendars.bengkateshwarmavi.edu.np
+cpcalendars.benihorizon.edu.np
 cpcalendars.bess.edu.np
 cpcalendars.bhanumavi.edu.np
 cpcalendars.bhimnagarschool.edu.np
@@ -614,6 +620,7 @@ cpcalendars.gtg.edu.np
 cpcalendars.guhyeshworyss.edu.np
 cpcalendars.gurukulbaylor.edu.np
 cpcalendars.gurukulca.edu.np
+cpcalendars.gurukulpathshala.edu.np
 cpcalendars.gyanmandirebs.edu.np
 cpcalendars.hamroschoolofnursing.edu.np
 cpcalendars.happyhome.edu.np
@@ -733,6 +740,7 @@ cpcalendars.sharadpurss.edu.np
 cpcalendars.shikharmavi.edu.np
 cpcalendars.shikshabikashschool.edu.np
 cpcalendars.shiwalayass.edu.np
+cpcalendars.shreebirendramavi.edu.np
 cpcalendars.shreedeuraliss.edu.np
 cpcalendars.shreegyanodayamavi.edu.np
 cpcalendars.shreemavigauriganj8.edu.np
@@ -797,6 +805,7 @@ cpcontacts.bathm.edu.np
 cpcontacts.belahiyaschool.edu.np
 cpcontacts.belbari.edu.np
 cpcontacts.bengkateshwarmavi.edu.np
+cpcontacts.benihorizon.edu.np
 cpcontacts.bess.edu.np
 cpcontacts.bhanumavi.edu.np
 cpcontacts.bhimnagarschool.edu.np
@@ -845,6 +854,7 @@ cpcontacts.gtg.edu.np
 cpcontacts.guhyeshworyss.edu.np
 cpcontacts.gurukulbaylor.edu.np
 cpcontacts.gurukulca.edu.np
+cpcontacts.gurukulpathshala.edu.np
 cpcontacts.gyanmandirebs.edu.np
 cpcontacts.hamroschoolofnursing.edu.np
 cpcontacts.happyhome.edu.np
@@ -964,6 +974,7 @@ cpcontacts.sharadpurss.edu.np
 cpcontacts.shikharmavi.edu.np
 cpcontacts.shikshabikashschool.edu.np
 cpcontacts.shiwalayass.edu.np
+cpcontacts.shreebirendramavi.edu.np
 cpcontacts.shreedeuraliss.edu.np
 cpcontacts.shreegyanodayamavi.edu.np
 cpcontacts.shreemavigauriganj8.edu.np
@@ -1151,6 +1162,7 @@ guhyeshworyss.edu.np.inspela.com
 guideline.edu.np
 gurukulbaylor.edu.np
 gurukulca.edu.np
+gurukulpathshala.edu.np
 gyanmandirebs.edu.np
 gyanmandirschool.edu.np
 halfnepal.beershebaschool.edu.np
@@ -1337,6 +1349,7 @@ mail.bathm.edu.np
 mail.belahiyaschool.edu.np
 mail.belbari.edu.np
 mail.bengkateshwarmavi.edu.np
+mail.benihorizon.edu.np
 mail.bess.edu.np
 mail.bhanumavi.edu.np
 mail.bhimnagarschool.edu.np
@@ -1394,6 +1407,7 @@ mail.gtg.edu.np
 mail.guhyeshworyss.edu.np
 mail.gurukulbaylor.edu.np
 mail.gurukulca.edu.np
+mail.gurukulpathshala.edu.np
 mail.gyanmandirebs.edu.np
 mail.hamroschoolofnursing.edu.np
 mail.happyhome.edu.np
@@ -1544,6 +1558,7 @@ mail.shikharmavi.edu.np
 mail.shikshabikashschool.edu.np
 mail.shishuwaricampus.edu.np
 mail.shiwalayass.edu.np
+mail.shreebirendramavi.edu.np
 mail.shreedeuraliss.edu.np
 mail.shreegyanodayamavi.edu.np
 mail.shreemavigauriganj8.edu.np
@@ -1860,6 +1875,7 @@ shiwadaha.edu.np
 shiwalayass.edu.np
 shiwalayass.edu.np.inspela.com
 shop.ran.edu.np
+shreebirendramavi.edu.np
 shreedeuraliss.edu.np
 shreedeuraliss.edu.np.inspela.com
 shreegyanodayamavi.edu.np
@@ -2031,6 +2047,7 @@ webdisk.bathm.edu.np
 webdisk.belahiyaschool.edu.np
 webdisk.belbari.edu.np
 webdisk.bengkateshwarmavi.edu.np
+webdisk.benihorizon.edu.np
 webdisk.bess.edu.np
 webdisk.bhanumavi.edu.np
 webdisk.bhimnagarschool.edu.np
@@ -2080,6 +2097,7 @@ webdisk.gtg.edu.np
 webdisk.guhyeshworyss.edu.np
 webdisk.gurukulbaylor.edu.np
 webdisk.gurukulca.edu.np
+webdisk.gurukulpathshala.edu.np
 webdisk.gyanmandirebs.edu.np
 webdisk.hamroschoolofnursing.edu.np
 webdisk.happyhome.edu.np
@@ -2198,6 +2216,7 @@ webdisk.sharadpurss.edu.np
 webdisk.shikharmavi.edu.np
 webdisk.shikshabikashschool.edu.np
 webdisk.shiwalayass.edu.np
+webdisk.shreebirendramavi.edu.np
 webdisk.shreedeuraliss.edu.np
 webdisk.shreegyanodayamavi.edu.np
 webdisk.shreemavigauriganj8.edu.np
@@ -2264,6 +2283,7 @@ webmail.bathm.edu.np
 webmail.belahiyaschool.edu.np
 webmail.belbari.edu.np
 webmail.bengkateshwarmavi.edu.np
+webmail.benihorizon.edu.np
 webmail.bess.edu.np
 webmail.bhanumavi.edu.np
 webmail.bhimnagarschool.edu.np
@@ -2315,6 +2335,7 @@ webmail.gtg.edu.np
 webmail.guhyeshworyss.edu.np
 webmail.gurukulbaylor.edu.np
 webmail.gurukulca.edu.np
+webmail.gurukulpathshala.edu.np
 webmail.gyanmandirebs.edu.np
 webmail.hamroschoolofnursing.edu.np
 webmail.happyhome.edu.np
@@ -2443,6 +2464,7 @@ webmail.sharadpurss.edu.np
 webmail.shikharmavi.edu.np
 webmail.shikshabikashschool.edu.np
 webmail.shiwalayass.edu.np
+webmail.shreebirendramavi.edu.np
 webmail.shreedeuraliss.edu.np
 webmail.shreegyanodayamavi.edu.np
 webmail.shreemavigauriganj8.edu.np
@@ -2550,6 +2572,8 @@ www.belahiyaschool.edu.np.devashishpathak.com.np
 www.belbari.edu.np
 www.bengkateshwarmavi.edu.np
 www.bengkateshwarmavi.edu.np.inspela.com
+www.benihorizon.edu.np
+www.benihorizon.edu.np.yem.com.np
 www.bess.edu.np
 www.bhanujana.baraacademy.edu.np
 www.bhanumavi.edu.np
@@ -2688,6 +2712,7 @@ www.guhyeshworyss.edu.np
 www.guhyeshworyss.edu.np.inspela.com
 www.gurukulbaylor.edu.np
 www.gurukulca.edu.np
+www.gurukulpathshala.edu.np
 www.gyankunjaschool.edu.np
 www.gyanmandirebs.edu.np
 www.halfnepal.beershebaschool.edu.np
@@ -2982,6 +3007,7 @@ www.shivamainali.ssebschool.edu.np
 www.shiwalayass.edu.np
 www.shiwalayass.edu.np.inspela.com
 www.shop.ran.edu.np
+www.shreebirendramavi.edu.np
 www.shreedeuraliss.edu.np
 www.shreedeuraliss.edu.np.inspela.com
 www.shreegyanodayamavi.edu.np
