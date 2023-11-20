@@ -19,12 +19,8 @@ copomis.gov.np
 copomis.mocpa.gov.np
 covid19.nphl.gov.np
 crime.kaligandakimunsyangja.gov.np
-dahclalitpur.bagamati.gov.np
-daq.hydrology.gov.np
 dev.bipadportal.gov.np
-dev.ndrrma.gov.np
 dforukumwest.karnali.gov.np
-dhm.gov.np
 dmis.karnalifrtc.gov.np
 dmisbheridfo.karnali.gov.np
 dmisdfoskt.karnali.gov.np
@@ -32,7 +28,6 @@ dmisdicp.karnali.gov.np
 dmismoitfe.karnali.gov.np
 dtosalyan.gov.np
 e-sifarish.mellekhmun.gov.np
-ebps.itaharimun.gov.np
 ebps.kathmandu.gov.np
 ehrpmis.nra.gov.np
 ejalas.suryabinayakmun.gov.np
@@ -54,9 +49,7 @@ health.kaligandakimunsyangja.gov.np
 health.udayapurgadhimun.gov.np
 hellocm.sudurpashchim.gov.np
 hlrs.nphl.gov.np
-hydrology.gov.np
 idopanchthar.p1.gov.np
-ijajatpatra.bansgadhimun.gov.np
 ijalas.kathmandu.gov.np
 ims.mellekhmun.gov.np
 inventory.kaligandakimunsyangja.gov.np
@@ -71,7 +64,6 @@ mis.laliguransmun.gov.np
 mnch.mohp.gov.np
 moial.bagamati.gov.np
 moialdemo.bagamati.gov.np
-monitoring.hydrology.gov.np
 mw.bagamati.gov.np
 naksapass.devchulimun.gov.np
 naksapass.golbazarmun.gov.np
@@ -82,15 +74,12 @@ nepal.gov.np
 neqas.nphl.gov.np
 npc.gov.np
 ntacall.nta.gov.np
-onlinesystem.doit.gov.np
 oph.p2.gov.np
 otcc.dohs.gov.np
 p1.gov.np
 p2.gov.np
 pashusakha.siyarimun.gov.np
 pfco.gandaki.gov.np
-pga.p2.gov.np
-pis.krishnapurmun.gov.np
 piudhading.pmamp.gov.np
 piulamjung.pmamp.gov.np
 pmis.nlsip.gov.np
@@ -100,7 +89,6 @@ ppms.karnali.gov.np
 ppsconline.lumbini.gov.np
 presscouncilnepal.gov.np
 pressmuseum.presscouncilnepal.gov.np
-provincialassembly.bagamati.gov.np
 ramechhaphospital.bagamati.gov.np
 rev.kathmandu.gov.np
 revenue.kaligandakimunsyangja.gov.np
@@ -127,11 +115,9 @@ vyansmun.gov.np
 www.aglearn.p1.gov.np
 www.assembly.sudurpashchim.gov.np.kalukunda.com.np
 www.bhanubhaktazoologicalgarden.gov.np
-www.dhm.gov.np
 www.dtosalyan.gov.np
 www.erfd.gov.np
 www.ffep.gov.np
-www.hydrology.gov.np
 www.kakarvitta.npponepal.gov.np
 www.lalitpur.akc.gov.np
 www.madhyabindumun.gov.np
