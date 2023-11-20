@@ -12,6 +12,7 @@ adhyetainternational.com.np
 admin-jyotish.pos.org.np
 admin.old.devkotaeducation.edu.np
 advancebreastclinic.com.np
+adwaitrijal.com.np
 aekpohonpidoli.net.np86studio.com
 ajayabajracharya.name.np
 ajaykarki.com.np
@@ -25,6 +26,8 @@ anikesh.com.np
 anilbhatta.com.np
 anishbudhathoki.com.np
 anishvarshrestha.com.np
+anitchaudhary.com.np
+anitradinghouse.com.np
 ankitbhusal.com.np
 anpfa.com.nareshp.com.np
 anuzshakya.com.np
@@ -32,6 +35,7 @@ aonebuilders.com.np
 api.bizbazar.com.np
 app.dbghale.com.np
 app.raben.com.np
+aprocode.com.np
 arimapackaging.com.np
 armanahamed.com.np
 arogin.thikeniraj.com.np
@@ -40,6 +44,7 @@ ashisshrestha.com.np
 ashok-poudel.com.np
 asianbusiness.com.np
 asmod.com.np
+asyan.com.np
 atcnepal.com.np
 att.com.np
 autoconfig.old.devkotaeducation.edu.np
@@ -82,11 +87,13 @@ bhojanbhumi.com.np
 bhotekukurkennel.com.np
 bhundipuran.com.np
 bikashagrawal.com.np
+billing.sbit.com.np
 bimalgautam.com.np
 bishwajyoti.edu.np
 bitgarage.com.np
 bivekthapa.com.np
 bline.webhouse.com.np
+blog.ekrajghimire.com.np
 blog.safal-poudel.com.np
 blog.umangadhakal.com.np
 bonus.ashok-chand.com.np
@@ -94,7 +101,9 @@ bonus.paurakheecooperative.org.np
 bpregmi.com.np
 broadlinkconsultancy.com.np
 buildinnovation.com.np
+c8i.com.np
 cacti.fiberworld.net.np
+caldrongraphics.com.np
 callandgetnepal.com.np
 cbsah.com.np
 cdms.org.np
@@ -103,9 +112,11 @@ chetanmalla.com.np
 chirayuoli.com.np
 chiyapan.com.np
 classickitchen.com.np
+clintdemo.samratbaral.com.np
 cloud.sushilpoudel.com.np
 cmsn.org.np
 codenemesis.com.np
+com.np.asyantech.com.np
 com.np.walkershive.com
 computers.enproc.org.np
 coop.np.getstat.site
@@ -135,6 +146,7 @@ cpanel.fnbsbbagmati.org.np
 cpanel.gabion.com.np
 cpanel.galaxyhtschool.edu.np
 cpanel.gbtelecom.com.np
+cpanel.gemsgroup.edu.np
 cpanel.geo3dmodelling.com.np
 cpanel.goldenratio.com.np
 cpanel.goldentriangle.com.np
@@ -152,6 +164,7 @@ cpanel.mfan.org.np
 cpanel.morningstar.coop.np
 cpanel.nareshp.com.np
 cpanel.nepalwidemovies.com.np
+cpanel.niraulaconstruction.com.np
 cpanel.ntaf.org.np
 cpanel.pokharanewsnetwork.com.np
 cpanel.prabhudham.org.np
@@ -204,6 +217,7 @@ cpcalendars.fnbsbbagmati.org.np
 cpcalendars.gabion.com.np
 cpcalendars.galaxyhtschool.edu.np
 cpcalendars.gbtelecom.com.np
+cpcalendars.gemsgroup.edu.np
 cpcalendars.geo3dmodelling.com.np
 cpcalendars.goldenratio.com.np
 cpcalendars.goldentriangle.com.np
@@ -218,6 +232,7 @@ cpcalendars.manjarirestroandmotel.com.np
 cpcalendars.mfan.org.np
 cpcalendars.morningstar.coop.np
 cpcalendars.nareshp.com.np
+cpcalendars.niraulaconstruction.com.np
 cpcalendars.ntaf.org.np
 cpcalendars.pokharanewsnetwork.com.np
 cpcalendars.prabhudham.org.np
@@ -271,6 +286,7 @@ cpcontacts.fnbsbbagmati.org.np
 cpcontacts.gabion.com.np
 cpcontacts.galaxyhtschool.edu.np
 cpcontacts.gbtelecom.com.np
+cpcontacts.gemsgroup.edu.np
 cpcontacts.geo3dmodelling.com.np
 cpcontacts.goldenratio.com.np
 cpcontacts.goldentriangle.com.np
@@ -285,6 +301,7 @@ cpcontacts.manjarirestroandmotel.com.np
 cpcontacts.mfan.org.np
 cpcontacts.morningstar.coop.np
 cpcontacts.nareshp.com.np
+cpcontacts.niraulaconstruction.com.np
 cpcontacts.ntaf.org.np
 cpcontacts.pokharanewsnetwork.com.np
 cpcontacts.prabhudham.org.np
@@ -370,6 +387,7 @@ emech.com.np
 eoffice.brightbusiness.com.np
 erpplus.ridamdecoration.com.np
 esaugat.karnali.gov.np
+everesttradelink.com.np
 exam.enlightacademy.edu.np
 excel.edu.np
 expressmyagdihotel.com.np
@@ -390,10 +408,14 @@ gandakidental.tsn.com.np
 gawww.jeevankunwar.com.np
 gbtelecom.com.np
 gbtelecom.docotech.com.np
+gemsgroup.edu.np
 geo3dmodelling.com.np
 ggs.sushantp.com.np
+gia.edu.np
 giriamrit.com.np
 git.git.com.npdev.i.domains.kred
+git.git.dev.sthakamal.com.np
+git.git.git.git.sitemap.yashodakunwar.com.np
 git.git.git.sureshkrmahato.com.np
 git.git.sureshkrmahato.com.np
 gitlab.prashantpuri.com.np
@@ -422,6 +444,7 @@ happywheels.com.np
 harikundanmahato.com.np
 harinagarmun.gov.np
 hariroka.info.np
+healthcarenepal.com.np
 helpinghandshospital.org.np
 hetaudagreencity.com.np
 himalayandreams.com.np
@@ -433,7 +456,9 @@ hotelyaktail.com.np
 hotnspicy.com.np
 hr.eattendance.com.np
 hrm.incubetechnologies.com.np
+hulaspersonal.codeinnepal.com.np
 idealsocietynepal.org.np
+imagefm.com.np
 imap.www.www.zwfmwftd.sonamtamang.com.np
 indratrade.com.np
 info.npgroup.net
@@ -448,6 +473,7 @@ jobs.bizbazar.com.np
 joshisushil.com.np
 jupyter.atitkharel.com.np
 kabirbuddhacharya.com.np
+kaditya97.com.np
 kamalbinayakcinemas.com.np
 kantipurschool.webhouse.com.np
 kawasoti.edu.np
@@ -458,10 +484,12 @@ khanalcomplexhotel.com.np
 khanalhotel.com.np
 khanalsisam.com.np
 khelkudmandu.com.retro.com.np
+kishankc.com.np
 klastic.webhouse.com.np
 kourtiercourier.com.np
 krishna011.com.np
 kshitijadhikari.com.np
+ksmt.edu.np
 kushalupreti.com.np
 laligurashenglishschool.edu.np
 lamichhanebibek.com.np
@@ -502,6 +530,7 @@ mail.fnbsbbagmati.org.np
 mail.gabion.com.np
 mail.galaxyhtschool.edu.np
 mail.gbtelecom.com.np
+mail.gemsgroup.edu.np
 mail.geo3dmodelling.com.np
 mail.goldenratio.com.np
 mail.goldentriangle.com.np
@@ -522,6 +551,7 @@ mail.mgh.com.np
 mail.morningstar.coop.np
 mail.nareshp.com.np
 mail.newaphalcha.com.np
+mail.niraulaconstruction.com.np
 mail.ntaf.org.np
 mail.old.devkotaeducation.edu.np
 mail.pokharanewsnetwork.com.np
@@ -553,6 +583,7 @@ mail.viza.edu.np
 mail.yacnepal.org.np
 mail.yoyoply.com.np
 maitreyapathshala.org.np
+manijmaharjan.com.np
 manjarirestroandmotel.com.np
 manojbelbase.com.np
 manushilbs.com.np
@@ -577,10 +608,12 @@ morningstar.coop.np
 morningstar.pujandhakal.info.np
 mukesh.info.np
 nandanbasicschool.edu.np
+narayanbogati.com.np
 nareshp.com.np
 narodnipokretsrbije.com.nps.org.rs
 nawalpur.akc.gov.np
 nb.terracecafe.com.np
+ndrdcnepal.org.np
 neer.com.np
 neeti.com.np
 nepalaastuk.com.np
@@ -602,6 +635,7 @@ nhhdpersonal.codeinnepal.com.np
 nic.edu.np
 nioe.edu.np
 niranjanr.com.np
+niraulaconstruction.com.np
 nishantrajpandey.com.np
 nk.webhouse.com.np
 nmbbank.com.np
@@ -634,6 +668,7 @@ patrakaritabikashsamaj.org.np
 patrakaritabikashsamaj.org.np.jiwanparajuli.com.np
 pbasnet.com.np
 pdftool.santosh-subedi.com.np
+penn.org.np
 phd.lbu.edu.np
 phpmyadmin.cpanel.gttc.edu.np
 planning.pokharamun.gov.np
@@ -760,6 +795,7 @@ subhashsharma.com.np
 sujan1919.com.np
 sujandhakal.info.np
 sujandhakal.pujandhakal.info.np
+sulav-parajuli.com.np
 sunitashahi.com.np.parcellnepal.com
 sunitshrestha.com.np
 superlaghubitta.docotech.com.np
@@ -768,6 +804,7 @@ supernepal.org.np
 support.iteen.org.np
 support.sushantp.com.np
 surajdhami.com.np
+surenrana.com.np
 sushankattel.com.np
 susmitasah.com.np
 susmitasah.com.np.thebusinessterms.com
@@ -801,6 +838,7 @@ tsn.com.np
 udgar.com.np
 udit.webhouse.com.np
 udnfnepal.org.np
+ugwcscan1487d02dc14871741907750212a1f2ca.opb.com.np
 upakardhakal.com.np
 upashakpaushake123.com.np
 v3.foodmood.com.np
@@ -840,6 +878,7 @@ webdisk.fnbsbbagmati.org.np
 webdisk.gabion.com.np
 webdisk.galaxyhtschool.edu.np
 webdisk.gbtelecom.com.np
+webdisk.gemsgroup.edu.np
 webdisk.geo3dmodelling.com.np
 webdisk.goldenratio.com.np
 webdisk.goldentriangle.com.np
@@ -854,6 +893,7 @@ webdisk.manjarirestroandmotel.com.np
 webdisk.mfan.org.np
 webdisk.morningstar.coop.np
 webdisk.nareshp.com.np
+webdisk.niraulaconstruction.com.np
 webdisk.ntaf.org.np
 webdisk.pokharanewsnetwork.com.np
 webdisk.prabhudham.org.np
@@ -906,6 +946,7 @@ webmail.fnbsbbagmati.org.np
 webmail.gabion.com.np
 webmail.galaxyhtschool.edu.np
 webmail.gbtelecom.com.np
+webmail.gemsgroup.edu.np
 webmail.geo3dmodelling.com.np
 webmail.goldenratio.com.np
 webmail.goldentriangle.com.np
@@ -919,6 +960,7 @@ webmail.manjarirestroandmotel.com.np
 webmail.mfan.org.np
 webmail.morningstar.coop.np
 webmail.nareshp.com.np
+webmail.niraulaconstruction.com.np
 webmail.ntaf.org.np
 webmail.old.devkotaeducation.edu.np
 webmail.pokharanewsnetwork.com.np
@@ -970,6 +1012,7 @@ www.alsamatraders.com.np
 www.alsamatraders.pujandhakal.info.np
 www.anandakm.com.np
 www.anikesh.com.np
+www.anitchaudhary.com.np.asyantech.com.np
 www.ankitbhusal.com.np
 www.anpfa.com.nareshp.com.np
 www.aonebuilders.com.np
@@ -977,6 +1020,7 @@ www.app.dbghale.com.np
 www.arimapackaging.com.np
 www.arogin.thikeniraj.com.np
 www.ashisshrestha.com.np
+www.asyan.com.np.asyantech.com.np
 www.backspace.com.np
 www.backtonature.com.np
 www.bagmatilions.org.np
@@ -986,6 +1030,7 @@ www.bharati.edu.np
 www.bhotekukurkennel.com.np
 www.bijanbabushrestha.com.np
 www.bikashagrawal.com.np
+www.billing.sbit.com.np
 www.bline.webhouse.com.np
 www.blog.maitreyapathshala.org.np
 www.blog.safal-poudel.com.np
@@ -997,6 +1042,7 @@ www.callandgetnepal.com.np
 www.cdms.org.np
 www.ch.alignstech.com.np
 www.chandragiriyatayat.com.np
+www.clintdemo.samratbaral.com.np
 www.cms.alignstech.com.np
 www.cmsebid.alignstech.com.np
 www.cmskms.alignstech.com.np
@@ -1046,8 +1092,10 @@ www.galaxyhtschool.edu.np
 www.gandakidental.tsn.com.np
 www.gbtelecom.com.np
 www.gbtelecom.docotech.com.np
+www.gemsgroup.edu.np
 www.geo3dmodelling.com.np
 www.ggs.sushantp.com.np
+www.git.git.git.support.nawarajpoudel.com.np
 www.git.git.support.sarozkhanal.com.np
 www.gitlab.git.sakarbajimaya.com.np
 www.goldenratio.com.np
@@ -1067,6 +1115,7 @@ www.holyspirit.edu.np
 www.hosmodel.alignstech.com.np
 www.hotelpanchadhura.com.np
 www.hrm.incubetechnologies.com.np
+www.hulaspersonal.codeinnepal.com.np
 www.inven.alignstech.com.np
 www.ip.alternative.com.np
 www.irdsnepal.org.np
@@ -1114,6 +1163,7 @@ www.newaphalcha.com.np
 www.newsite.yacnepal.org.np
 www.niraj.info.np
 www.niranjanr.com.np
+www.niraulaconstruction.com.np
 www.nishwetbox.com.np
 www.nk.webhouse.com.np
 www.nmtl.adhikarisubash1.com.np
@@ -1139,6 +1189,7 @@ www.pravinkhatri.com.np
 www.presidency.bitflux.com.np
 www.project.tekchankhatri.com.np
 www.pujanpokharel.com.np
+www.radhikafoundation.org.np
 www.reddit.saurav.com.np
 www.register.asapent.com.np
 www.rhest.org.np
@@ -1233,6 +1284,7 @@ www.yourruggallery.galaincha.com.np
 www.zooom.sujan1919.com.np
 www1.bowlessecurity.com.np
 xavier.terracecafe.com.np
+xyz.dipeshmurmu.com.np
 yacnepal.org.np
 yodha.com.np
 yourruggallery.galaincha.com.np
