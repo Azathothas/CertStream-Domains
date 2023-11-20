@@ -1,3 +1,6 @@
+admin.old.devkotaeducation.edu.np
+autoconfig.old.devkotaeducation.edu.np
+autodiscover.old.devkotaeducation.edu.np
 basicschoolchiyabari.edu.np
 basicschoolnainpur.edu.np
 ctc.edu.np
@@ -7,14 +10,18 @@ exam.enlightacademy.edu.np
 excel.edu.np
 janabikash.edu.np
 janataschoolsantanagar.edu.np
+mail.old.devkotaeducation.edu.np
 nandanbasicschool.edu.np
+old.devkotaeducation.edu.np
 phd.lbu.edu.np
 snsc.edu.np
 tribhuvan.edu.np
 web.citwrc.edu.np
+webmail.old.devkotaeducation.edu.np
 www.basicschoolchiyabari.edu.np.easyaccessnp.com
 www.basicschoolnainpur.edu.np.easyaccessnp.com
 www.ctc.edu.np.cct.edu.np
 www.janataschoolsantanagar.edu.np.easyaccessnp.com
 www.nandanbasicschool.edu.np.easyaccessnp.com
+www.old.devkotaeducation.edu.np
 www.phd.lbu.edu.np
