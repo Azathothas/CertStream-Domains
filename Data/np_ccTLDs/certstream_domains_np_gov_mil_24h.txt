@@ -3,6 +3,7 @@ harinagarmun.gov.np
 nawalpur.akc.gov.np
 planning.pokharamun.gov.np
 test.pokharamun.gov.np
+ward28.lmc.gov.np
 wssdodadeldhura.gov.np
 www.harinagarmun.gov.np
 www.wssdodadeldhura.gov.np

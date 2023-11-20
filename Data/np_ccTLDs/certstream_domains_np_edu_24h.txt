@@ -23,9 +23,11 @@ drive.ghen.edu.np
 edu.np.easyaccessnp.com
 exam.enlightacademy.edu.np
 excel.edu.np
+faqs.bradford.edu.np
 galaxyhtschool.edu.np
 janabikash.edu.np
 janataschoolsantanagar.edu.np
+jimavi.edu.np
 kawasoti.edu.np
 laligurashenglishschool.edu.np
 mail.aceschool.edu.np
@@ -46,6 +48,7 @@ snsc.edu.np
 takshashilaschool.edu.np
 timesschool.edu.np
 tribhuvan.edu.np
+vhmavi.edu.np
 viza.edu.np
 web.citwrc.edu.np
 webdisk.galaxyhtschool.edu.np
@@ -71,4 +74,5 @@ www.sangutemavi.edu.np
 www.snjes.edu.np
 www.takshashilaschool.edu.np
 www.timesschool.edu.np
+www.vhmavi.edu.np
 www.viza.edu.np
