@@ -1,5 +1,7 @@
+edcdbudget.gov.np
 esaugat.karnali.gov.np
 harinagarmun.gov.np
+moial.karnali.gov.np
 nawalpur.akc.gov.np
 planning.pokharamun.gov.np
 test.pokharamun.gov.np
