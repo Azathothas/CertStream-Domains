@@ -6,6 +6,7 @@ autodiscover.old.devkotaeducation.edu.np
 balmikilincoln.edu.np
 basicschoolchiyabari.edu.np
 basicschoolnainpur.edu.np
+bishwajyoti.edu.np
 cpanel.galaxyhtschool.edu.np
 cpanel.gttc.edu.np
 cpanel.sangutemavi.edu.np
@@ -18,12 +19,15 @@ cpcontacts.sangutemavi.edu.np
 cpcontacts.viza.edu.np
 ctc.edu.np
 ctc.edu.np.cct.edu.np
+drive.ghen.edu.np
 edu.np.easyaccessnp.com
 exam.enlightacademy.edu.np
 excel.edu.np
 galaxyhtschool.edu.np
 janabikash.edu.np
 janataschoolsantanagar.edu.np
+kawasoti.edu.np
+laligurashenglishschool.edu.np
 mail.aceschool.edu.np
 mail.galaxyhtschool.edu.np
 mail.mentornepal.edu.np
@@ -58,6 +62,7 @@ www.bharati.edu.np
 www.ctc.edu.np.cct.edu.np
 www.galaxyhtschool.edu.np
 www.janataschoolsantanagar.edu.np.easyaccessnp.com
+www.laligurashenglishschool.edu.np
 www.mentornepal.edu.np
 www.nandanbasicschool.edu.np.easyaccessnp.com
 www.old.devkotaeducation.edu.np
