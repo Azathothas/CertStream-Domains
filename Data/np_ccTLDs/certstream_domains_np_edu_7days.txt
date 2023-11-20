@@ -535,6 +535,7 @@ cpanel.tpnl.edu.np
 cpanel.tribenisadan.edu.np
 cpanel.trinetrainternational.edu.np
 cpanel.tufoe.edu.np
+cpanel.tyoudamavi.edu.np
 cpanel.umc.edu.np
 cpanel.urbana.edu.np
 cpanel.virinchicollege.edu.np
@@ -767,6 +768,7 @@ cpcalendars.tpnl.edu.np
 cpcalendars.tribenisadan.edu.np
 cpcalendars.trinetrainternational.edu.np
 cpcalendars.tufoe.edu.np
+cpcalendars.tyoudamavi.edu.np
 cpcalendars.umc.edu.np
 cpcalendars.virinchicollege.edu.np
 cpcalendars.vsn.edu.np
@@ -996,6 +998,7 @@ cpcontacts.tpnl.edu.np
 cpcontacts.tribenisadan.edu.np
 cpcontacts.trinetrainternational.edu.np
 cpcontacts.tufoe.edu.np
+cpcontacts.tyoudamavi.edu.np
 cpcontacts.umc.edu.np
 cpcontacts.virinchicollege.edu.np
 cpcontacts.vsn.edu.np
@@ -1160,11 +1163,13 @@ himaldarshan.edu.np
 himshikhar.edu.np
 hitech.edu.np
 hma.edu.np
+hmesbs.edu.np
 holychild.edu.np
 hotelmacau.com.np.icas.edu.np
 hotelmik.baraacademy.edu.np
 houston.edu.np
 hpba.edu.np
+hthm.edu.np
 hubintl.edu.np
 ices.edu.np
 ichm.edu.np
@@ -1573,6 +1578,7 @@ mail.tpnl.edu.np
 mail.tribenisadan.edu.np
 mail.trinetrainternational.edu.np
 mail.tufoe.edu.np
+mail.tyoudamavi.edu.np
 mail.umc.edu.np
 mail.urbana.edu.np
 mail.virinchicollege.edu.np
@@ -1605,6 +1611,7 @@ members.sukunass.edu.np
 mentornepal.edu.np
 mentors.edu.np
 merge.edu.np
+meritintl.edu.np
 mgassociates.edu.np
 mhss.edu.np
 mic.edu.np
@@ -1981,6 +1988,7 @@ tthss.edu.np
 tucdp.edu.np
 tuconvocation.tuexam.edu.np
 tufoe.edu.np
+tyoudamavi.edu.np
 uc.edu.np
 udayamavi.edu.np
 uebs.edu.np
@@ -2216,6 +2224,7 @@ webdisk.tpnl.edu.np
 webdisk.tribenisadan.edu.np
 webdisk.trinetrainternational.edu.np
 webdisk.tufoe.edu.np
+webdisk.tyoudamavi.edu.np
 webdisk.umc.edu.np
 webdisk.urbana.edu.np
 webdisk.virinchicollege.edu.np
@@ -2460,6 +2469,7 @@ webmail.tpnl.edu.np
 webmail.tribenisadan.edu.np
 webmail.trinetrainternational.edu.np
 webmail.tufoe.edu.np
+webmail.tyoudamavi.edu.np
 webmail.umc.edu.np
 webmail.urbana.edu.np
 webmail.virinchicollege.edu.np
@@ -2603,6 +2613,7 @@ www.dudilabhati.edu.np
 www.dwarikadasss.edu.np
 www.dwarikadasss.edu.np.inspela.com
 www.ecec.edu.np
+www.eclass.hmesbs.edu.np
 www.edensacademy.edu.np
 www.edufirm.ssha.edu.np
 www.elearning.nsu.edu.np
@@ -3045,6 +3056,7 @@ www.tsa.edu.np
 www.tta.saraswatidamak.edu.np
 www.tuconvocation.tuexam.edu.np
 www.tufoe.edu.np
+www.tyoudamavi.edu.np
 www.uebs.edu.np
 www.uk.ghen.edu.np
 www.umc.edu.np

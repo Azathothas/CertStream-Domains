@@ -5,6 +5,7 @@ adrcsyangja.gandaki.gov.np
 aglearn.p1.gov.np
 api-rms.ndrrma.gov.np
 apply.mcsipc.gov.np
+apps.sunilsmritimun.gov.np
 assembly.lumbini.gov.np
 assembly.sudurpashchim.gov.np
 assembly.sudurpashchim.gov.np.kalukunda.com.np
@@ -51,6 +52,7 @@ hellocm.sudurpashchim.gov.np
 hlrs.nphl.gov.np
 idopanchthar.p1.gov.np
 ijalas.kathmandu.gov.np
+ilam.akc.gov.np
 ims.mellekhmun.gov.np
 inventory.kaligandakimunsyangja.gov.np
 jms.mellekhmun.gov.np
@@ -118,6 +120,7 @@ www.bhanubhaktazoologicalgarden.gov.np
 www.dtosalyan.gov.np
 www.erfd.gov.np
 www.ffep.gov.np
+www.ilam.akc.gov.np
 www.kakarvitta.npponepal.gov.np
 www.lalitpur.akc.gov.np
 www.madhyabindumun.gov.np
