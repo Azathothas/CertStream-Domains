@@ -534,6 +534,7 @@ cpanel.thulochaurss.edu.np
 cpanel.tpnl.edu.np
 cpanel.tribenisadan.edu.np
 cpanel.trinetrainternational.edu.np
+cpanel.tsoknyigechakschool.edu.np
 cpanel.tufoe.edu.np
 cpanel.tyoudamavi.edu.np
 cpanel.umc.edu.np
@@ -767,6 +768,7 @@ cpcalendars.thulochaurss.edu.np
 cpcalendars.tpnl.edu.np
 cpcalendars.tribenisadan.edu.np
 cpcalendars.trinetrainternational.edu.np
+cpcalendars.tsoknyigechakschool.edu.np
 cpcalendars.tufoe.edu.np
 cpcalendars.tyoudamavi.edu.np
 cpcalendars.umc.edu.np
@@ -997,6 +999,7 @@ cpcontacts.thulochaurss.edu.np
 cpcontacts.tpnl.edu.np
 cpcontacts.tribenisadan.edu.np
 cpcontacts.trinetrainternational.edu.np
+cpcontacts.tsoknyigechakschool.edu.np
 cpcontacts.tufoe.edu.np
 cpcontacts.tyoudamavi.edu.np
 cpcontacts.umc.edu.np
@@ -1184,6 +1187,7 @@ indrayaniss.edu.np.inspela.com
 indreshworcampus.edu.np
 intellect.edu.np
 inventors.edu.np
+iof.tu.edu.np
 iofpc.edu.np
 iost.tu.edu.np
 irongate.edu.np
@@ -1578,6 +1582,7 @@ mail.times.edu.np
 mail.tpnl.edu.np
 mail.tribenisadan.edu.np
 mail.trinetrainternational.edu.np
+mail.tsoknyigechakschool.edu.np
 mail.tufoe.edu.np
 mail.tyoudamavi.edu.np
 mail.umc.edu.np
@@ -1597,6 +1602,7 @@ maivalleyschool.edu.np
 malpiins.edu.np
 manzoku.edu.np
 mark.edu.np
+marketing.bradford.edu.np
 marksheet.jdjmv.edu.np
 mav.edu.np
 maviindrapuri.edu.np
@@ -1631,6 +1637,7 @@ mist.edu.np
 mistarjetascencosud.login.easylink.edu.np
 mmconsultancy.edu.np
 moderneducere.edu.np
+modernnepalschool.edu.np
 mohanamavi.edu.np
 mohanamavi.edu.np.inspela.com
 mohanss.edu.np
@@ -1981,6 +1988,7 @@ tripureshworss.edu.np
 trivenimavisimrutu.edu.np
 triyogatmak.beershebaschool.edu.np
 tsa.edu.np
+tsoknyigechakschool.edu.np
 tssbelatari.edu.np
 tstec.edu.np
 tta.saraswatidamak.edu.np
@@ -1993,6 +2001,7 @@ tyoudamavi.edu.np
 uc.edu.np
 udayamavi.edu.np
 uebs.edu.np
+ugc.smstu.edu.np
 uk.ghen.edu.np
 umc.edu.np
 united.edu.np
@@ -2224,6 +2233,7 @@ webdisk.thulochaurss.edu.np
 webdisk.tpnl.edu.np
 webdisk.tribenisadan.edu.np
 webdisk.trinetrainternational.edu.np
+webdisk.tsoknyigechakschool.edu.np
 webdisk.tufoe.edu.np
 webdisk.tyoudamavi.edu.np
 webdisk.umc.edu.np
@@ -2469,6 +2479,7 @@ webmail.thulochaurss.edu.np
 webmail.tpnl.edu.np
 webmail.tribenisadan.edu.np
 webmail.trinetrainternational.edu.np
+webmail.tsoknyigechakschool.edu.np
 webmail.tufoe.edu.np
 webmail.tyoudamavi.edu.np
 webmail.umc.edu.np
@@ -2816,6 +2827,7 @@ www.mis.kingscollege.edu.np
 www.mistarjetascencosud.login.easylink.edu.np
 www.mmconsultancy.edu.np
 www.moderneducere.edu.np
+www.modernnepalschool.edu.np
 www.mohanamavi.edu.np
 www.mohanamavi.edu.np.inspela.com
 www.mohanss.edu.np
@@ -3055,11 +3067,13 @@ www.trijyoti.edu.np
 www.trinetrainternational.edu.np
 www.triyogatmak.beershebaschool.edu.np
 www.tsa.edu.np
+www.tsoknyigechakschool.edu.np
 www.tta.saraswatidamak.edu.np
 www.tuconvocation.tuexam.edu.np
 www.tufoe.edu.np
 www.tyoudamavi.edu.np
 www.uebs.edu.np
+www.ugc.smstu.edu.np
 www.uk.ghen.edu.np
 www.umc.edu.np
 www.united.edu.np
