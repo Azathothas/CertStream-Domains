@@ -48,6 +48,7 @@ nandanbasicschool.edu.np
 nic.edu.np
 nioe.edu.np
 old.devkotaeducation.edu.np
+paramountacademy.edu.np
 phd.lbu.edu.np
 sangutemavi.edu.np
 snjes.edu.np
@@ -67,6 +68,7 @@ webmail.galaxyhtschool.edu.np
 webmail.old.devkotaeducation.edu.np
 webmail.sangutemavi.edu.np
 webmail.viza.edu.np
+wifas.edu.np
 www.aceschool.edu.np
 www.basicschoolchiyabari.edu.np.easyaccessnp.com
 www.basicschoolnainpur.edu.np.easyaccessnp.com
@@ -74,6 +76,7 @@ www.bharati.edu.np
 www.ctc.edu.np.cct.edu.np
 www.educationpark.edu.np
 www.galaxyhtschool.edu.np
+www.holyspirit.edu.np
 www.janataschoolsantanagar.edu.np.easyaccessnp.com
 www.laligurashenglishschool.edu.np
 www.mentornepal.edu.np
@@ -81,6 +84,7 @@ www.nandanbasicschool.edu.np.easyaccessnp.com
 www.old.devkotaeducation.edu.np
 www.phd.lbu.edu.np
 www.sangutemavi.edu.np
+www.shrc.edu.np
 www.snjes.edu.np
 www.takshashilaschool.edu.np
 www.timesschool.edu.np
