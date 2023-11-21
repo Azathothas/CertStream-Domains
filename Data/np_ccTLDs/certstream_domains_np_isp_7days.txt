@@ -1,8 +1,3 @@
-bknd.cgnet.com.np
-demo1.cgnet.com.np
-dristicam.nettv.com.np
-himalayatv.nettv.com.np
-pctl.cgnet.com.np
 stage-shop.worldlink.com.np
 vianet.com.np
 viatv.com.np

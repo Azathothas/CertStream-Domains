@@ -1,5 +1,6 @@
 3ams.edu.np
 achhamcampus.edu.np
+acti.edu.np
 admin.kmclibrary.edu.np
 admin.old.maasaraswati.edu.np
 aimsbrt.edu.np
@@ -10,6 +11,7 @@ angels.edu.np
 annapurnasecondaryschool.edu.np
 attendance.cctdharan.edu.np
 autoconfig.old.maasaraswati.edu.np
+autodiscover.acti.edu.np
 autodiscover.cityeducation.edu.np
 autodiscover.dikshantpathshala.edu.np
 autodiscover.fwuexam.edu.np
@@ -30,6 +32,7 @@ cdmathtu.edu.np
 cityeducation.edu.np
 cityeducationconsultancy.edu.np
 college.angels.edu.np
+cpanel.acti.edu.np
 cpanel.annapurnasecondaryschool.edu.np
 cpanel.cityeducation.edu.np
 cpanel.dikshantpathshala.edu.np
@@ -44,9 +47,11 @@ cpanel.npschool.edu.np
 cpanel.peaceful.edu.np
 cpanel.pipaldandaaavi.edu.np
 cpanel.sagarmathaschool.edu.np
+cpanel.sos.edu.np
 cpanel.ssmcchitwan.edu.np
 cpanel.sypres.edu.np
 cpanel.tyoudamavi.edu.np
+cpcalendars.acti.edu.np
 cpcalendars.annapurnasecondaryschool.edu.np
 cpcalendars.cityeducation.edu.np
 cpcalendars.dikshantpathshala.edu.np
@@ -64,6 +69,7 @@ cpcalendars.sagarmathaschool.edu.np
 cpcalendars.ssmcchitwan.edu.np
 cpcalendars.sypres.edu.np
 cpcalendars.tyoudamavi.edu.np
+cpcontacts.acti.edu.np
 cpcontacts.annapurnasecondaryschool.edu.np
 cpcontacts.cityeducation.edu.np
 cpcontacts.dikshantpathshala.edu.np
@@ -83,11 +89,13 @@ cpcontacts.sypres.edu.np
 cpcontacts.tyoudamavi.edu.np
 dahoo.edu.np
 dev.neec.edu.np
+devtest.cbm.edu.np
 digitaltechnosoft.nrmv.edu.np
 dikshantpathshala.edu.np
 dikshantpathshala.nrmv.edu.np
 divyajyoti.edu.np
 dmc.edu.np
+durgalaxmi.edu.np
 erp.sxc.edu.np
 fr.what.website.mmamcbba.edu.np
 fwuexam.edu.np
@@ -109,11 +117,15 @@ kic.edu.np
 kistmedicalcollege.edu.np
 kmccollege.edu.np
 kmclibrary.edu.np
+kmctlw.edu.np
 kopilavalleyschool.edu.np
 krishna.edu.np
 kuhs.edu.np
+kurc.ku.edu.np
+lineacademy.edu.np
 login.what.website.mmamcbba.edu.np
 magapauwamavi.edu.np
+mail.acti.edu.np
 mail.angels.edu.np
 mail.annapurnasecondaryschool.edu.np
 mail.cityeducation.edu.np
@@ -134,6 +146,7 @@ mail.old.maasaraswati.edu.np
 mail.peaceful.edu.np
 mail.pipaldandaaavi.edu.np
 mail.sagarmathaschool.edu.np
+mail.sos.edu.np
 mail.ssmcchitwan.edu.np
 mail.sypres.edu.np
 mail.tyoudamavi.edu.np
@@ -154,12 +167,14 @@ npschool.edu.np
 nse.edu.np
 old.maasaraswati.edu.np
 onlineapplication.kusoed.edu.np
+parijattech.edu.np
 parkview.edu.np
 parrohamc.edu.np
 peaceful.edu.np
 phpmyadmin.cpanel.gttc.edu.np
 pipaldandaaavi.edu.np
 prithwischool.edu.np
+pusom.edu.np
 rahs.edu.np
 rainadevi.edu.np
 remote.what.website.mmamcbba.edu.np
@@ -191,6 +206,7 @@ ugc.smstu.edu.np
 unnatischool.edu.np
 viaeducation.edu.np
 wbsubdomain.a.bb.ccc.dddd.mmamcbba.edu.np
+webdisk.acti.edu.np
 webdisk.annapurnasecondaryschool.edu.np
 webdisk.cityeducation.edu.np
 webdisk.dikshantpathshala.edu.np
@@ -208,6 +224,7 @@ webdisk.sagarmathaschool.edu.np
 webdisk.ssmcchitwan.edu.np
 webdisk.sypres.edu.np
 webdisk.tyoudamavi.edu.np
+webmail.acti.edu.np
 webmail.annapurnasecondaryschool.edu.np
 webmail.cityeducation.edu.np
 webmail.dikshantpathshala.edu.np
@@ -225,11 +242,13 @@ webmail.old.maasaraswati.edu.np
 webmail.peaceful.edu.np
 webmail.pipaldandaaavi.edu.np
 webmail.sagarmathaschool.edu.np
+webmail.sos.edu.np
 webmail.ssmcchitwan.edu.np
 webmail.sypres.edu.np
 webmail.tyoudamavi.edu.np
 webmail.what.website.mmamcbba.edu.np
 welhamscollege.edu.np
+www.acti.edu.np
 www.alumni.ksl.edu.np
 www.anaj.gia.edu.np
 www.angels.edu.np
@@ -240,12 +259,14 @@ www.bishnuhari.cdmathtu.edu.np
 www.cityeducation.edu.np
 www.cityeducationconsultancy.edu.np
 www.cpanel.gttc.edu.np
+www.devtest.cbm.edu.np
 www.dhamalatn.cdmathtu.edu.np
 www.digitaltechnosoft.nrmv.edu.np
 www.dikshantpathshala.edu.np
 www.dikshantpathshala.nrmv.edu.np
 www.divyajyoti.edu.np
 www.durgajkc.cdmathtu.edu.np
+www.emis.kmctlw.edu.np
 www.emis.parrohamc.edu.np
 www.fwuexam.edu.np
 www.gemsgroup.edu.np
@@ -255,6 +276,7 @@ www.kahs.edu.np
 www.kedarnath.cdmathtu.edu.np
 www.kmclibrary.edu.np
 www.kopilavalleyschool.edu.np
+www.lineacademy.edu.np
 www.magapauwamavi.edu.np
 www.mark.edu.np
 www.member.sukunass.edu.np
@@ -283,6 +305,7 @@ www.sisnovate.aimsbrt.edu.np
 www.smcsurkhet.edu.np
 www.sms.indrenicollege.edu.np
 www.solidarityinternationalacademy.edu.np
+www.sos.edu.np
 www.ssmcchitwan.edu.np
 www.student.aimsbrt.edu.np
 www.tyoudamavi.edu.np
