@@ -9,11 +9,13 @@ autodiscover.nirvankaya.edu.np
 autodiscover.npschool.edu.np
 autodiscover.old.maasaraswati.edu.np
 autodiscover.sypres.edu.np
+avn.edu.np
 baljagatebs.edu.np
 bibhuti.edu.np
 bit.edu.np
 bmafc.edu.np
 bookings.ghen.edu.np
+brainstorm.edu.np
 cdmathtu.edu.np
 cpanel.annapurnasecondaryschool.edu.np
 cpanel.gemsgroup.edu.np
@@ -54,8 +56,10 @@ fr.what.website.mmamcbba.edu.np
 gemsgroup.edu.np
 ghssmajuwa.edu.np
 gitlab.ncit.edu.np
+gjav.edu.np
 home.what.website.mmamcbba.edu.np
 hthm.edu.np
+iemss.edu.np
 janatahsschool.edu.np
 jugalnawagurukul.edu.np
 kic.edu.np
@@ -146,6 +150,7 @@ www.kmclibrary.edu.np
 www.kopilavalleyschool.edu.np
 www.mentornepal.edu.np
 www.narayan.cdmathtu.edu.np
+www.nca.edu.np
 www.nirvankaya.edu.np
 www.npschool.edu.np
 www.old.maasaraswati.edu.np
