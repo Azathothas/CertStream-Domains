@@ -269,6 +269,7 @@ cdz.tu.edu.np
 centrumacademyconsultancy.edu.np
 ces.ioe.edu.np
 cesar.org.np.icas.edu.np
+chamunda.qas.edu.np
 chandeshwariss.edu.np
 chandeshwariss.edu.np.inspela.com
 chandeswarischool.edu.np
@@ -1096,6 +1097,7 @@ ges.ku.edu.np
 getguidelines.edu.np
 ghichetusidum.edu.np
 ghichetusidum.edu.np.inspela.com
+ghssmajuwa.edu.np
 gia.edu.np
 giec.edu.np
 gihe.edu.np
@@ -1184,6 +1186,7 @@ janajyotimavi.edu.np
 janakalyangalchhi.edu.np
 janapriyapalpa.edu.np
 janatadhan.edu.np
+janatahsschool.edu.np
 janatanamuna.edu.np
 janataschoolsantanagar.edu.np
 janjyotieducation.edu.np
@@ -1254,6 +1257,7 @@ koshistjames.edu.np
 krishnamavi.edu.np
 krishnapurisecondaryschool.edu.np
 ksmt.edu.np
+ku.edu.np
 kunchipwakal.edu.np
 kunchipwakal.edu.np.inspela.com
 kundaladevi.edu.np
@@ -1279,6 +1283,7 @@ littlestarlahan.edu.np
 lms.ecec.edu.np
 lms.ncmc.edu.np
 lna.jmssg.edu.np
+login.what.website.mmamcbba.edu.np
 lokpriyaschool.edu.np
 loksewaonlineexam.edu.np
 lumbiniadarsha.edu.np
@@ -1669,6 +1674,7 @@ nist.edu.np
 nistbkt.edu.np
 nlc.tu.edu.np
 nmvm.edu.np
+nobelcollege.edu.np
 nora.afpi.edu.np
 notredameschool.edu.np
 novainternationalcollege.edu.np
@@ -1726,6 +1732,7 @@ pu.edu.np
 publicschool.edu.np
 publicschool.edu.np.tumamcarefoundation.org.np
 purc.tu.edu.np
+purnakalash.edu.np
 pusat.edu.np
 pusoe.edu.np
 pusom.edu.np
@@ -1942,6 +1949,7 @@ trinetrainternational.edu.np
 tripuraschool.edu.np
 triyogatmak.beershebaschool.edu.np
 tsa.edu.np
+tsc.edu.np
 tsoknyigechakschool.edu.np
 tssbelatari.edu.np
 tta.saraswatidamak.edu.np
@@ -2528,6 +2536,7 @@ www.centrumacademyconsultancy.edu.np
 www.cesa.keckist.edu.np
 www.cesar.org.np.icas.edu.np
 www.chalani.djps.edu.np
+www.chamunda.qas.edu.np
 www.chandeshwariss.edu.np
 www.chandeshwariss.edu.np.inspela.com
 www.chandikadeviss.edu.np

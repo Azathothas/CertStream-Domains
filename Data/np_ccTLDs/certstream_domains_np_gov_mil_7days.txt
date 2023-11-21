@@ -20,6 +20,7 @@ copomis.gov.np
 copomis.mocpa.gov.np
 covid19.nphl.gov.np
 dang.akc.gov.np
+dfodangghorahi.lumbini.gov.np
 dforukumwest.karnali.gov.np
 dmis.karnalifrtc.gov.np
 dmisbheridfo.karnali.gov.np
@@ -96,6 +97,7 @@ seedlab.koshi.gov.np
 slot.nddb.gov.np
 soft.jhapamun.gov.np
 soillabgandaki.gov.np
+standinglist.nta.gov.np
 store.tokhamun.gov.np
 swmosdmis.karnali.gov.np
 swr.gov.np
