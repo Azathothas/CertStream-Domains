@@ -102,6 +102,7 @@ tax.madhyabindumun.gov.np
 test.pokharamun.gov.np
 traccar.ambulance.mohp.gov.np
 vhlsecnuwakot.bagamati.gov.np
+vlpokhara.gov.np
 vrs.bagamati.gov.np
 vstbutwal.gov.np
 vyansmun.gov.np
@@ -126,5 +127,6 @@ www.presscouncilnepal.gov.np
 www.sebon.gov.np
 www.soillabgandaki.gov.np
 www.swr.gov.np
+www.vlpokhara.gov.np
 www.vstbutwal.gov.np
 www.wssdodadeldhura.gov.np
