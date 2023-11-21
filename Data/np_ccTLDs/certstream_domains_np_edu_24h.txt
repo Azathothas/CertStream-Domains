@@ -11,6 +11,7 @@ annapurnasecondaryschool.edu.np
 attendance.cctdharan.edu.np
 autoconfig.old.maasaraswati.edu.np
 autodiscover.cityeducation.edu.np
+autodiscover.dikshantpathshala.edu.np
 autodiscover.fwuexam.edu.np
 autodiscover.nepalgunjcollege.edu.np
 autodiscover.nirvankaya.edu.np
@@ -31,6 +32,7 @@ cityeducationconsultancy.edu.np
 college.angels.edu.np
 cpanel.annapurnasecondaryschool.edu.np
 cpanel.cityeducation.edu.np
+cpanel.dikshantpathshala.edu.np
 cpanel.fwuexam.edu.np
 cpanel.gemsgroup.edu.np
 cpanel.magapauwamavi.edu.np
@@ -47,6 +49,7 @@ cpanel.sypres.edu.np
 cpanel.tyoudamavi.edu.np
 cpcalendars.annapurnasecondaryschool.edu.np
 cpcalendars.cityeducation.edu.np
+cpcalendars.dikshantpathshala.edu.np
 cpcalendars.fwuexam.edu.np
 cpcalendars.gemsgroup.edu.np
 cpcalendars.magapauwamavi.edu.np
@@ -63,6 +66,7 @@ cpcalendars.sypres.edu.np
 cpcalendars.tyoudamavi.edu.np
 cpcontacts.annapurnasecondaryschool.edu.np
 cpcontacts.cityeducation.edu.np
+cpcontacts.dikshantpathshala.edu.np
 cpcontacts.fwuexam.edu.np
 cpcontacts.gemsgroup.edu.np
 cpcontacts.magapauwamavi.edu.np
@@ -79,6 +83,9 @@ cpcontacts.sypres.edu.np
 cpcontacts.tyoudamavi.edu.np
 dahoo.edu.np
 dev.neec.edu.np
+digitaltechnosoft.nrmv.edu.np
+dikshantpathshala.edu.np
+dikshantpathshala.nrmv.edu.np
 divyajyoti.edu.np
 dmc.edu.np
 erp.sxc.edu.np
@@ -111,6 +118,7 @@ mail.angels.edu.np
 mail.annapurnasecondaryschool.edu.np
 mail.cityeducation.edu.np
 mail.cityeducationconsultancy.edu.np
+mail.dikshantpathshala.edu.np
 mail.fwuexam.edu.np
 mail.gemsgroup.edu.np
 mail.kistmcth.edu.np
@@ -174,15 +182,18 @@ solidarityinternationalacademy.edu.np
 sos.edu.np
 ssmcchitwan.edu.np
 static.remote.what.website.mmamcbba.edu.np
+synergy.edu.np
 sypres.edu.np
 tsc.edu.np
 tvs.edu.np
 tyoudamavi.edu.np
 ugc.smstu.edu.np
+unnatischool.edu.np
 viaeducation.edu.np
 wbsubdomain.a.bb.ccc.dddd.mmamcbba.edu.np
 webdisk.annapurnasecondaryschool.edu.np
 webdisk.cityeducation.edu.np
+webdisk.dikshantpathshala.edu.np
 webdisk.fwuexam.edu.np
 webdisk.gemsgroup.edu.np
 webdisk.magapauwamavi.edu.np
@@ -199,6 +210,7 @@ webdisk.sypres.edu.np
 webdisk.tyoudamavi.edu.np
 webmail.annapurnasecondaryschool.edu.np
 webmail.cityeducation.edu.np
+webmail.dikshantpathshala.edu.np
 webmail.fwuexam.edu.np
 webmail.gemsgroup.edu.np
 webmail.kic.edu.np
@@ -229,6 +241,9 @@ www.cityeducation.edu.np
 www.cityeducationconsultancy.edu.np
 www.cpanel.gttc.edu.np
 www.dhamalatn.cdmathtu.edu.np
+www.digitaltechnosoft.nrmv.edu.np
+www.dikshantpathshala.edu.np
+www.dikshantpathshala.nrmv.edu.np
 www.divyajyoti.edu.np
 www.durgajkc.cdmathtu.edu.np
 www.emis.parrohamc.edu.np
@@ -260,6 +275,7 @@ www.resume.sapkotapragati.com.np.icas.edu.np
 www.rishavacharya.annapurnasecondaryschool.edu.np
 www.sagarmathaschool.edu.np
 www.school.annapurna.edu.np
+www.schoolarunodaya.edu.np
 www.schoolsaraswati.edu.np
 www.shop.what.website.mmamcbba.edu.np
 www.shreeram.cdmathtu.edu.np

@@ -17,5 +17,7 @@ pfddmis.karnali.gov.np
 plfbcprc.gov.np
 sifarish.biratnagarmun.gov.np
 swmosdmis.karnali.gov.np
+vlpokhara.gov.np
 www.madhyabindumun.gov.np
 www.plfbcprc.gov.np
+www.vlpokhara.gov.np
