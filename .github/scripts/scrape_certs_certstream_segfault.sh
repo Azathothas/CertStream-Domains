@@ -60,7 +60,8 @@ export GITHUB_TOKEN="$CERTSTREAM_REPO_TOKEN"
 #Setup Repo
 # echo $HOME --> /sec/root
 if [ ! -d "/sec/root/CertStream-Domains" ]; then
-      pushd "$HOME" && git clone "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@github.com/Azathothas/CertStream-Domains.git"
+    #https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
+      pushd "$HOME" && git clone --filter="blob:none" "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@github.com/Azathothas/CertStream-Domains.git"
       cd "./CertStream-Domains" && CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd 
 else
       pushd "$HOME/CertStream-Domains" ; git fetch origin && git reset --hard origin/main ; git checkout HEAD -- ; git pull origin main
