@@ -42,6 +42,7 @@ eservice.kathmandu.gov.np
 esuggestions.kathmandu.gov.np
 eticket.bherihospital.gov.np
 ffep.gov.np
+gioms.gov.np
 gov.np.domgrom.com
 gunaso.raptisonarimun.gov.np
 harinagarmun.gov.np
@@ -89,6 +90,7 @@ pressmuseum.presscouncilnepal.gov.np
 rev.kathmandu.gov.np
 rims.mellekhmun.gov.np
 sahakari.sudurpashchim.gov.np
+sarlahi.pmamp.gov.np
 sebon.gov.np
 seedlab.koshi.gov.np
 slot.nddb.gov.np
@@ -101,6 +103,7 @@ tax.kathmandu.gov.np
 tax.madhyabindumun.gov.np
 test.pokharamun.gov.np
 traccar.ambulance.mohp.gov.np
+vcdc.gov.np
 vhlsecnuwakot.bagamati.gov.np
 vlpokhara.gov.np
 vrs.bagamati.gov.np
@@ -114,6 +117,7 @@ www.bhanubhaktazoologicalgarden.gov.np
 www.dtosalyan.gov.np
 www.erfd.gov.np
 www.ffep.gov.np
+www.gioms.gov.np
 www.harinagarmun.gov.np
 www.ilam.akc.gov.np
 www.lalitpur.akc.gov.np
@@ -127,6 +131,7 @@ www.presscouncilnepal.gov.np
 www.sebon.gov.np
 www.soillabgandaki.gov.np
 www.swr.gov.np
+www.vcdc.gov.np
 www.vlpokhara.gov.np
 www.vstbutwal.gov.np
 www.wssdodadeldhura.gov.np
