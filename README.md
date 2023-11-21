@@ -24,12 +24,12 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +50923810
+[+] New/ReNewed SSL Certs (ALL): +51462916
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +18995
-[+] New/ReNewed SSL Certs (Edu): +3050
+[+] New/ReNewed SSL Certs (ALL): +19140
+[+] New/ReNewed SSL Certs (Edu): +3059
 [+] New/ReNewed SSL Certs (Gov|Mil): +139
 [+] New/ReNewed SSL Certs (ISPs): +4
 

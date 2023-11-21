@@ -244,6 +244,7 @@ bmck.edu.np
 bnc.tu.edu.np
 bookings.ghen.edu.np
 brahmayanimavi.edu.np
+brainstorm.edu.np
 brave.edu.np
 brightacademy.edu.np
 brightland.edu.np
@@ -1008,6 +1009,7 @@ delight.edu.np
 demo.kasenimavi.edu.np
 detaileducation.edu.np
 dev.hiis.edu.np
+dev.neec.edu.np
 devibalsudhar.edu.np
 devibalsudhar.edu.np.inspela.com
 devisecondaryschool.edu.np
@@ -1151,6 +1153,7 @@ hitech.edu.np
 hma.edu.np
 hmesbs.edu.np
 holychild.edu.np
+home.what.website.mmamcbba.edu.np
 hotelmacau.com.np.icas.edu.np
 hotelmik.baraacademy.edu.np
 houston.edu.np
@@ -1292,6 +1295,7 @@ lyncdiscoverinternal.nilkanthamultiplecampus.edu.np
 magazine.globalacademy.edu.np
 mahakaleshwori.edu.np
 mahakaleshwori.edu.np.inspela.com
+mahakalicampus.edu.np
 mail.aadhar.edu.np
 mail.abssmulpani.edu.np
 mail.aceschool.edu.np
@@ -1421,6 +1425,7 @@ mail.kasthamandapcollege.edu.np
 mail.kathtourism.edu.np
 mail.kiranagmavi19.edu.np
 mail.kirtipurschool.edu.np
+mail.kistmcth.edu.np
 mail.krishnapurisecondaryschool.edu.np
 mail.kunchipwakal.edu.np
 mail.kundaladevi.edu.np
@@ -1739,6 +1744,7 @@ pusom.edu.np
 quantum.edu.np
 quickcareer.edu.np
 race.edu.np
+rainadevi.edu.np
 rainbowpreschool.edu.np
 ramawapurss.edu.np
 rastriyaramaniya.edu.np
@@ -1748,6 +1754,7 @@ regentschool.edu.np
 register.pranjal.edu.np
 register.pranjal.edu.np.my-urls.com
 rehdon.edu.np
+remote.what.website.mmamcbba.edu.np
 result.kusoed.edu.np
 result.ncmc.edu.np
 result.saraswatidamak.edu.np
@@ -2444,6 +2451,7 @@ webmail.urbana.edu.np
 webmail.virinchicollege.edu.np
 webmail.viza.edu.np
 webmail.vsn.edu.np
+webmail.what.website.mmamcbba.edu.np
 webmail.wisdomacademy.edu.np
 webmail.ydmc.edu.np
 webmail.yubassschool.edu.np
@@ -2798,6 +2806,7 @@ www.mteverestschool.edu.np
 www.naav.edu.np
 www.nabajyotibahiramavi.edu.np
 www.nabajyotibahiramavi.edu.np.inspela.com
+www.nabin.edu.np
 www.nagarjunthulagaun.edu.np
 www.nagarjunthulagaun.edu.np.inspela.com
 www.name.edu.np
