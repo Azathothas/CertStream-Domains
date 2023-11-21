@@ -7,6 +7,7 @@ autodiscover.nirvankaya.edu.np
 autodiscover.npschool.edu.np
 autodiscover.old.maasaraswati.edu.np
 autodiscover.sypres.edu.np
+baljagatebs.edu.np
 bibhuti.edu.np
 cdmathtu.edu.np
 cpanel.annapurnasecondaryschool.edu.np
@@ -37,8 +38,10 @@ jugalnawagurukul.edu.np
 kic.edu.np
 kmclibrary.edu.np
 kuhs.edu.np
+login.what.website.mmamcbba.edu.np
 mail.annapurnasecondaryschool.edu.np
 mail.gemsgroup.edu.np
+mail.kistmcth.edu.np
 mail.kmclibrary.edu.np
 mail.nirvankaya.edu.np
 mail.npschool.edu.np
@@ -55,6 +58,7 @@ rishavacharya.annapurnasecondaryschool.edu.np
 shop.what.website.mmamcbba.edu.np
 smcsurkhet.edu.np
 sypres.edu.np
+tsc.edu.np
 tvs.edu.np
 viaeducation.edu.np
 webdisk.annapurnasecondaryschool.edu.np
@@ -91,6 +95,7 @@ www.onlineapplication.kusoed.edu.np
 www.peaceful.edu.np
 www.ramchandra.cdmathtu.edu.np
 www.rishavacharya.annapurnasecondaryschool.edu.np
+www.shop.what.website.mmamcbba.edu.np
 www.shreeram.cdmathtu.edu.np
 www.smcsurkhet.edu.np
 www.urmila.cdmathtu.edu.np
