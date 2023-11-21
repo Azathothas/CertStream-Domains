@@ -112,6 +112,7 @@ mail.sypres.edu.np
 mail.tyoudamavi.edu.np
 mark.edu.np
 meetings.ghen.edu.np
+member.sukunass.edu.np
 mentornepal.edu.np
 milkywayschool.edu.np
 mwufom.edu.np
@@ -149,6 +150,7 @@ smc.edu.np
 smcsurkhet.edu.np
 sms.indrenicollege.edu.np
 solidarityinternationalacademy.edu.np
+sos.edu.np
 ssmcchitwan.edu.np
 static.remote.what.website.mmamcbba.edu.np
 sypres.edu.np
@@ -157,6 +159,7 @@ tvs.edu.np
 tyoudamavi.edu.np
 ugc.smstu.edu.np
 viaeducation.edu.np
+wbsubdomain.a.bb.ccc.dddd.mmamcbba.edu.np
 webdisk.annapurnasecondaryschool.edu.np
 webdisk.gemsgroup.edu.np
 webdisk.magapauwamavi.edu.np
@@ -209,6 +212,7 @@ www.kmclibrary.edu.np
 www.kopilavalleyschool.edu.np
 www.magapauwamavi.edu.np
 www.mark.edu.np
+www.member.sukunass.edu.np
 www.mentornepal.edu.np
 www.namsalingmavi.edu.np
 www.narayan.cdmathtu.edu.np
@@ -224,6 +228,7 @@ www.ramchandra.cdmathtu.edu.np
 www.rishavacharya.annapurnasecondaryschool.edu.np
 www.sagarmathaschool.edu.np
 www.school.annapurna.edu.np
+www.schoolsaraswati.edu.np
 www.shop.what.website.mmamcbba.edu.np
 www.shreeram.cdmathtu.edu.np
 www.sisnovate.aimsbrt.edu.np
