@@ -1,5 +1,6 @@
 akcsaptari.p2.gov.np
 data.kuklpid.gov.np
+dfodangghorahi.lumbini.gov.np
 dmis.karnalifrtc.gov.np
 dmisbheridfo.karnali.gov.np
 dmisdfoskt.karnali.gov.np
@@ -8,7 +9,9 @@ dmismoitfe.karnali.gov.np
 ehrpmis.nra.gov.np
 esaugat.karnali.gov.np
 kdmismoitfe.karnali.gov.np
+madhyabindumun.gov.np
 pfddmis.karnali.gov.np
 plfbcprc.gov.np
 swmosdmis.karnali.gov.np
+www.madhyabindumun.gov.np
 www.plfbcprc.gov.np
