@@ -61,6 +61,8 @@ home.what.website.mmamcbba.edu.np
 hthm.edu.np
 iemss.edu.np
 janatahsschool.edu.np
+jta.edu.np
+jta.edu.np.nenomedia.com
 jugalnawagurukul.edu.np
 kic.edu.np
 kistmedicalcollege.edu.np
@@ -86,6 +88,7 @@ mail.tyoudamavi.edu.np
 meetings.ghen.edu.np
 mentornepal.edu.np
 mwufom.edu.np
+nca.edu.np
 nic.edu.np
 nirvankaya.edu.np
 npschool.edu.np
@@ -102,6 +105,7 @@ sagarmathaschool.edu.np
 saraswatinamuna.edu.np
 school.annapurna.edu.np
 shop.what.website.mmamcbba.edu.np
+siddharthacampus.edu.np
 smcsurkhet.edu.np
 solidarityinternationalacademy.edu.np
 static.remote.what.website.mmamcbba.edu.np
@@ -135,6 +139,7 @@ webmail.sagarmathaschool.edu.np
 webmail.sypres.edu.np
 webmail.tyoudamavi.edu.np
 webmail.what.website.mmamcbba.edu.np
+welhamscollege.edu.np
 www.annapurnasecondaryschool.edu.np
 www.attendance.cctdharan.edu.np
 www.bibhuti.edu.np
@@ -145,6 +150,7 @@ www.divyajyoti.edu.np
 www.durgajkc.cdmathtu.edu.np
 www.gemsgroup.edu.np
 www.holyspirit.edu.np
+www.jta.edu.np.nenomedia.com
 www.kedarnath.cdmathtu.edu.np
 www.kmclibrary.edu.np
 www.kopilavalleyschool.edu.np
@@ -170,3 +176,4 @@ www.student.aimsbrt.edu.np
 www.tyoudamavi.edu.np
 www.ugc.smstu.edu.np
 www.urmila.cdmathtu.edu.np
+www.welhamscollege.edu.np
