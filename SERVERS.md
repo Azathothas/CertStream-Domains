@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 33 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 4.06 4.16 4.12
+       ..'''.            0Xxoc:,.  ...              Uptime: 1 hour and 34 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 28.05 21.44 15.6
   .                   OMo           ':do.           Processes: 13
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         33.5M   4.96k      0       0       0       0 
+         34.1M   9.48k      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         1.07M   8.20k      0       0       0       0 
+         2.85M   20.7k      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 32 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 1.49 1.25 1.32
+       ..'''.            0Xxoc:,.  ...              Uptime: 1 hour and 33 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 1.43 1.61 1.57
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,29 +60,29 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 67 MiB / 2048 MiB
+                                          ;l   ..   RAM: 132 MiB / 2048 MiB
                                            .o       Disk: 3.0 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
-                                             .'     WAN IP: 91.219.215.228
+                                             .'     WAN IP: 193.203.12.139
                                               .     
 [+] Storage:
 
-╭──────────────────────────────────────────────────────────────────────╮
-│ 1 fuse device                                                        │
-├────────────┬───────┬────────┬───────┬────────┬────────┬──────────────┤
-│ MOUNTED ON │  SIZE │   USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
-├────────────┼───────┼────────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 12.0G │ 175.4M │ 11.8G │   1.4% │ fuse.[ │ [encfs-ODlmN │
-│            │       │        │       │        │ encfs- │ TJjMz]       │
-│            │       │        │       │        │ ODlmNT │              │
-│            │       │        │       │        │ JjMz]  │              │
-╰────────────┴───────┴────────┴───────┴────────┴────────┴──────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ 1 fuse device                                                      │
+├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
+│ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
+├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
+│ /sec       │ 12.0G │ 3.2G │  8.8G │  26.9% │ fuse.[ │ [encfs-ODlmN │
+│            │       │      │       │        │ encfs- │ TJjMz]       │
+│            │       │      │       │        │ ODlmNT │              │
+│            │       │      │       │        │ JjMz]  │              │
+╰────────────┴───────┴──────┴───────┴────────┴────────┴──────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         36.2M   26.2k      0       0       0       0 
+         1.66G    254k      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         11.3M   28.8k      0       0       0       0 
+         40.3M    194k      0       0       0       0 
 
 
 

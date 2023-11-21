@@ -20,9 +20,11 @@ cpcontacts.gemsgroup.edu.np
 cpcontacts.nirvankaya.edu.np
 cpcontacts.peaceful.edu.np
 erp.sxc.edu.np
+fr.what.website.mmamcbba.edu.np
 gemsgroup.edu.np
 gitlab.ncit.edu.np
 jugalnawagurukul.edu.np
+kic.edu.np
 kmclibrary.edu.np
 kuhs.edu.np
 mail.annapurnasecondaryschool.edu.np
@@ -33,10 +35,12 @@ mail.old.maasaraswati.edu.np
 mail.peaceful.edu.np
 nirvankaya.edu.np
 old.maasaraswati.edu.np
+onlineapplication.kusoed.edu.np
 peaceful.edu.np
 phpmyadmin.cpanel.gttc.edu.np
 rishavacharya.annapurnasecondaryschool.edu.np
 smcsurkhet.edu.np
+tvs.edu.np
 viaeducation.edu.np
 webdisk.annapurnasecondaryschool.edu.np
 webdisk.gemsgroup.edu.np
@@ -44,6 +48,7 @@ webdisk.nirvankaya.edu.np
 webdisk.peaceful.edu.np
 webmail.annapurnasecondaryschool.edu.np
 webmail.gemsgroup.edu.np
+webmail.kic.edu.np
 webmail.kmclibrary.edu.np
 webmail.nirvankaya.edu.np
 webmail.old.maasaraswati.edu.np
@@ -62,6 +67,7 @@ www.kmclibrary.edu.np
 www.narayan.cdmathtu.edu.np
 www.nirvankaya.edu.np
 www.old.maasaraswati.edu.np
+www.onlineapplication.kusoed.edu.np
 www.peaceful.edu.np
 www.ramchandra.cdmathtu.edu.np
 www.rishavacharya.annapurnasecondaryschool.edu.np
