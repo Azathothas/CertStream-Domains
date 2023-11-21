@@ -275,6 +275,7 @@ chandikadeviss.edu.np
 chandikadeviss.edu.np.inspela.com
 chandisstarakeshwor.edu.np
 chandisstarakeshwor.edu.np.inspela.com
+chautarirestaurant.com.np.greenwind.edu.np
 churecampus.edu.np
 cihs.edu.np
 cityacademybara.edu.np
@@ -492,6 +493,7 @@ cpanel.sitamavi.edu.np
 cpanel.skdsschautara.edu.np
 cpanel.smavithori.edu.np
 cpanel.smile.edu.np
+cpanel.smileconsultancy.edu.np
 cpanel.snrmssbakuliya.edu.np
 cpanel.snrnss.edu.np
 cpanel.snrssolakhpur.edu.np
@@ -723,6 +725,7 @@ cpcalendars.sitamavi.edu.np
 cpcalendars.skdsschautara.edu.np
 cpcalendars.smavithori.edu.np
 cpcalendars.smile.edu.np
+cpcalendars.smileconsultancy.edu.np
 cpcalendars.snrmssbakuliya.edu.np
 cpcalendars.snrnss.edu.np
 cpcalendars.snrssolakhpur.edu.np
@@ -952,6 +955,7 @@ cpcontacts.sitamavi.edu.np
 cpcontacts.skdsschautara.edu.np
 cpcontacts.smavithori.edu.np
 cpcontacts.smile.edu.np
+cpcontacts.smileconsultancy.edu.np
 cpcontacts.snrmssbakuliya.edu.np
 cpcontacts.snrnss.edu.np
 cpcontacts.snrssolakhpur.edu.np
@@ -1506,6 +1510,7 @@ mail.sitamavi.edu.np
 mail.skdsschautara.edu.np
 mail.smavithori.edu.np
 mail.smile.edu.np
+mail.smileconsultancy.edu.np
 mail.snrmssbakuliya.edu.np
 mail.snrnss.edu.np
 mail.snrssolakhpur.edu.np
@@ -1838,6 +1843,7 @@ smavithori.baraacademy.edu.np
 smavithori.edu.np
 smcbafal.edu.np
 smile.edu.np
+smileconsultancy.edu.np
 snjes.edu.np
 snmb.edu.np
 snrmssbakuliya.baraacademy.edu.np
@@ -2140,6 +2146,7 @@ webdisk.sitamavi.edu.np
 webdisk.skdsschautara.edu.np
 webdisk.smavithori.edu.np
 webdisk.smile.edu.np
+webdisk.smileconsultancy.edu.np
 webdisk.snrmssbakuliya.edu.np
 webdisk.snrnss.edu.np
 webdisk.snrssolakhpur.edu.np
@@ -2376,6 +2383,7 @@ webmail.sitamavi.edu.np
 webmail.skdsschautara.edu.np
 webmail.smavithori.edu.np
 webmail.smile.edu.np
+webmail.smileconsultancy.edu.np
 webmail.snrmssbakuliya.edu.np
 webmail.snrnss.edu.np
 webmail.snrssolakhpur.edu.np
@@ -2505,6 +2513,7 @@ www.chandikadeviss.edu.np
 www.chandikadeviss.edu.np.inspela.com
 www.chandisstarakeshwor.edu.np
 www.chandisstarakeshwor.edu.np.inspela.com
+www.chautarirestaurant.com.np.greenwind.edu.np
 www.citycommunity.edu.np
 www.cityeducation.edu.np
 www.cityeducationconsultancy.edu.np
@@ -2914,6 +2923,7 @@ www.smartschool.shreeshabdachintan.edu.np
 www.smavithori.baraacademy.edu.np
 www.smavithori.edu.np
 www.smile.edu.np
+www.smileconsultancy.edu.np
 www.snjes.edu.np
 www.snrmssbakuliya.baraacademy.edu.np
 www.snrmssbakuliya.edu.np
