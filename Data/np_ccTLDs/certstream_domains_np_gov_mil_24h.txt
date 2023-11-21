@@ -1,4 +1,5 @@
 akcsaptari.p2.gov.np
+api-rms.ndrrma.gov.np
 data.kuklpid.gov.np
 dfodangghorahi.lumbini.gov.np
 dmis.karnalifrtc.gov.np

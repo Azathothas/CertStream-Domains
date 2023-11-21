@@ -1,7 +1,9 @@
 3ams.edu.np
+achhamcampus.edu.np
 admin.kmclibrary.edu.np
 admin.old.maasaraswati.edu.np
 aimsbrt.edu.np
+amityglobal.edu.np
 annapurnasecondaryschool.edu.np
 attendance.cctdharan.edu.np
 autoconfig.old.maasaraswati.edu.np
@@ -87,7 +89,9 @@ mail.sypres.edu.np
 mail.tyoudamavi.edu.np
 meetings.ghen.edu.np
 mentornepal.edu.np
+milkywayschool.edu.np
 mwufom.edu.np
+myagdicampus.edu.np
 nca.edu.np
 nic.edu.np
 nirvankaya.edu.np
