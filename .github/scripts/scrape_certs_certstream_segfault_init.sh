@@ -96,12 +96,19 @@ fi
 #EOF
 set +x
 #----------------------------------------------------------------------------#
-#fetch Script
-eget "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/scrape_certs_certstream_segfault.sh" --to "$HOME/bin/scrape_certs_certstream_segfault" && chmod +xwr "$HOME/bin/scrape_certs_certstream_segfault"
-
 #Run Script
  echo -e "\n[+] Starting CertStream in Infinite Loop"
-  nohup sh -c 'while :; do bash $HOME/bin/scrape_certs_certstream_segfault && sleep 05; done' > /dev/null 2>&1 &
+  #nohup sh -c 'while :; do bash $HOME/bin/scrape_certs_certstream_segfault && sleep 05; done' > /dev/null 2>&1 &
+  while true
+   do
+     #fetch Script
+      eget "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/scrape_certs_certstream_segfault.sh" --to "$HOME/bin/scrape_certs_certstream_segfault" && chmod +xwr "$HOME/bin/scrape_certs_certstream_segfault"
+     #Run
+     bash "$HOME/bin/scrape_certs_certstream_segfault"
+     #Sleep
+     sleep 05
+   #Repeat
+   done     
 # if pgrep --full "certstream" > /dev/null; then
 #   echo -e "\n[+] CertStream already Running"
 #   ps aux | grep -i "certstream"
