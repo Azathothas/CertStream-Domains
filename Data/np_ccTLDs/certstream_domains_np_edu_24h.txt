@@ -4,6 +4,7 @@ aceschool.edu.np
 admin.easycare.edu.np
 admin.kccs.edu.np
 ahs.edu.np
+aiaschool.edu.np
 amcdhangadhi.edu.np
 anaj.gia.edu.np
 ath.tu.edu.np
@@ -167,6 +168,7 @@ mirmeeschool.edu.np
 mmcn.edu.np
 mmcn.edu.np.danpheitsolution.com
 nabin.edu.np
+nawapravatschool.edu.np
 nlvschool.edu.np
 omegacollege.edu.np
 omegacollege.edu.np.jmssg.edu.np
@@ -196,6 +198,9 @@ sukunass.edu.np
 sxc.edu.np
 test.citwrc.edu.np
 tma.edu.np
+tribhuwansec.edu.np
+tridev.edu.np
+trissa.edu.np
 trivenimavi.edu.np
 ugcgis.edu.np
 viaeducation.edu.np
