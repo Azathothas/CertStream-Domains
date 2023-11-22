@@ -1,1 +1,5 @@
 speedtestktm.ntc.net.np
+subisu.net.np.admin-mcas-df.ms
+subisu.net.np.admin-mcas.ms
+subisu.net.np.mcas-df.ms
+subisu.net.np.mcas.ms
