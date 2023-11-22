@@ -1,4 +1,7 @@
+admin.ims.mellekhmun.gov.np
 eservice.itaharimun.gov.np
+gov.np.getstat.site
+gov.np.webstatdata.com
 jeetpursimaramun.gov.np
 msystem.bagamati.gov.np
 mw.bagamati.gov.np
