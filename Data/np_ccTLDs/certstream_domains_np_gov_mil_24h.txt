@@ -17,6 +17,7 @@ gov.np.webstatdata.com
 jeetpursimaramun.gov.np
 msystem.bagamati.gov.np
 mw.bagamati.gov.np
+naksapass-api.dhunibeshimun.gov.np
 nfdin.gov.np
 ntacall.nta.gov.np
 pfca.gov.np
