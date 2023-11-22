@@ -1,2 +1,7 @@
+eservice.itaharimun.gov.np
+jeetpursimaramun.gov.np
+msystem.bagamati.gov.np
+mw.bagamati.gov.np
 pollution.gov.np
 tmis.bagamati.gov.np
+www.jeetpursimaramun.gov.np
