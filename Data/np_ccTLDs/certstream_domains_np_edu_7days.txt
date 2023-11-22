@@ -1610,6 +1610,7 @@ mail.skdsschautara.edu.np
 mail.skinternational.edu.np
 mail.smile.edu.np
 mail.smileconsultancy.edu.np
+mail.smnepal.edu.np
 mail.snrmssbakuliya.edu.np
 mail.snrnss.edu.np
 mail.snrssolakhpur.edu.np
@@ -1959,6 +1960,7 @@ smcbafal.edu.np
 smcsurkhet.edu.np
 smile.edu.np
 smileconsultancy.edu.np
+smnepal.edu.np
 sms.indrenicollege.edu.np
 snjes.edu.np
 snmb.edu.np
@@ -3114,6 +3116,7 @@ www.smartschool.shreeshabdachintan.edu.np
 www.smcsurkhet.edu.np
 www.smile.edu.np
 www.smileconsultancy.edu.np
+www.smnepal.edu.np
 www.sms.indrenicollege.edu.np
 www.snjes.edu.np
 www.snrmssbakuliya.baraacademy.edu.np
