@@ -3,6 +3,7 @@ acc.madhyabindumun.gov.np
 admin.nationalgeoportal.gov.np
 adrcsyangja.gandaki.gov.np
 aglearn.p1.gov.np
+akcsaptari.p2.gov.np
 api-rms.ndrrma.gov.np
 apply.mcsipc.gov.np
 apps.sunilsmritimun.gov.np
@@ -20,6 +21,7 @@ copomis.gov.np
 copomis.mocpa.gov.np
 covid19.nphl.gov.np
 dang.akc.gov.np
+data.kuklpid.gov.np
 dfodangghorahi.lumbini.gov.np
 dforukumwest.karnali.gov.np
 dmis.karnalifrtc.gov.np
@@ -59,6 +61,7 @@ kathmandu.gov.np
 kdmismoitfe.karnali.gov.np
 koshi.gov.np
 lalitpur.akc.gov.np
+madhyabindumun.gov.np
 mil.np.getstat.site
 mis.laliguransmun.gov.np
 moial.bagamati.gov.np
@@ -79,9 +82,11 @@ otcc.dohs.gov.np
 p1.gov.np
 pashusakha.siyarimun.gov.np
 pfco.gandaki.gov.np
+pfddmis.karnali.gov.np
 piudhading.pmamp.gov.np
 piulamjung.pmamp.gov.np
 planning.pokharamun.gov.np
+plfbcprc.gov.np
 pmis.nlsip.gov.np
 pollution.gov.np
 pphl.p1.gov.np
@@ -94,6 +99,7 @@ sahakari.sudurpashchim.gov.np
 sarlahi.pmamp.gov.np
 sebon.gov.np
 seedlab.koshi.gov.np
+sifarish.biratnagarmun.gov.np
 slot.nddb.gov.np
 soft.jhapamun.gov.np
 soillabgandaki.gov.np
@@ -123,12 +129,14 @@ www.gioms.gov.np
 www.harinagarmun.gov.np
 www.ilam.akc.gov.np
 www.lalitpur.akc.gov.np
+www.madhyabindumun.gov.np
 www.moial.bagamati.gov.np
 www.nationalgeoportal.gov.np
 www.neis.gov.np
 www.npc.gov.np
 www.p1.gov.np
 www.pfco.gandaki.gov.np
+www.plfbcprc.gov.np
 www.presscouncilnepal.gov.np
 www.sebon.gov.np
 www.soillabgandaki.gov.np
