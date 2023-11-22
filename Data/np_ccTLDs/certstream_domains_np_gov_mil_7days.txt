@@ -40,12 +40,15 @@ eprofile.mellekhmun.gov.np
 erfd.gov.np
 esaugat.karnali.gov.np
 eservice.hib.gov.np
+eservice.itaharimun.gov.np
 eservice.kathmandu.gov.np
 esuggestions.kathmandu.gov.np
 eticket.bherihospital.gov.np
 ffep.gov.np
 gioms.gov.np
 gov.np.domgrom.com
+gov.np.getstat.site
+gov.np.webstatdata.com
 gunaso.raptisonarimun.gov.np
 harinagarmun.gov.np
 health.udayapurgadhimun.gov.np
