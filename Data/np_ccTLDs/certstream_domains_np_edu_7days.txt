@@ -1102,6 +1102,7 @@ edu.npo-enel.ru
 educationpark.edu.np
 edufirm.ssha.edu.np
 eelms-ces.ioe.edu.np
+elearning.gloriaschool.edu.np
 elearning.nsu.edu.np
 elimkids.edu.np
 eliteapprentice.edu.np
@@ -1885,6 +1886,7 @@ schoolcdps.edu.np
 schoolcdps.edu.np.inspela.com
 schoolniranjanabelkot.edu.np
 schoolniranjanabelkot.edu.np.inspela.com
+schoolsaraswati.edu.np
 scsstinpatan.edu.np
 scsstinpatan.edu.np.inspela.com
 sdss.edu.np
