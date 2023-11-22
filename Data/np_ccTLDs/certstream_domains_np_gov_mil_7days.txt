@@ -12,7 +12,6 @@ assembly.sudurpashchim.gov.np
 assembly.sudurpashchim.gov.np.kalukunda.com.np
 bajrabarahihospital.bagamati.gov.np
 bhanubhaktazoologicalgarden.gov.np
-career.csh.gov.np
 chitwannationalpark.gov.np
 claimdoc.hib.gov.np
 cms.mellekhmun.gov.np
@@ -64,9 +63,7 @@ lalitpur.akc.gov.np
 madhyabindumun.gov.np
 mil.np.getstat.site
 mis.laliguransmun.gov.np
-moial.bagamati.gov.np
 moial.karnali.gov.np
-moialdemo.bagamati.gov.np
 mw.bagamati.gov.np
 naksapass.devchulimun.gov.np
 naksapass.golbazarmun.gov.np
@@ -130,7 +127,6 @@ www.harinagarmun.gov.np
 www.ilam.akc.gov.np
 www.lalitpur.akc.gov.np
 www.madhyabindumun.gov.np
-www.moial.bagamati.gov.np
 www.nationalgeoportal.gov.np
 www.neis.gov.np
 www.npc.gov.np

@@ -12,6 +12,7 @@ autodiscover.bbc.edu.np
 autodiscover.bgmsm.edu.np
 autodiscover.dikshantpathshala.edu.np
 autodiscover.ihit.edu.np
+autodiscover.janatasecondaryschool.edu.np
 autodiscover.jmssg.edu.np
 autodiscover.kaspam.edu.np
 autodiscover.kutumba.edu.np
@@ -42,6 +43,7 @@ cpanel.chanakya.edu.np
 cpanel.crossborderconsultants.edu.np
 cpanel.dikshantpathshala.edu.np
 cpanel.ihit.edu.np
+cpanel.janatasecondaryschool.edu.np
 cpanel.jmssg.edu.np
 cpanel.kaspam.edu.np
 cpanel.kutumba.edu.np
@@ -68,6 +70,7 @@ cpcalendars.chanakya.edu.np
 cpcalendars.crossborderconsultants.edu.np
 cpcalendars.dikshantpathshala.edu.np
 cpcalendars.ihit.edu.np
+cpcalendars.janatasecondaryschool.edu.np
 cpcalendars.jmssg.edu.np
 cpcalendars.kaspam.edu.np
 cpcalendars.kutumba.edu.np
@@ -93,6 +96,7 @@ cpcontacts.chanakya.edu.np
 cpcontacts.crossborderconsultants.edu.np
 cpcontacts.dikshantpathshala.edu.np
 cpcontacts.ihit.edu.np
+cpcontacts.janatasecondaryschool.edu.np
 cpcontacts.jmssg.edu.np
 cpcontacts.kaspam.edu.np
 cpcontacts.kutumba.edu.np
@@ -132,6 +136,7 @@ info.davidrajanmemorialschool.edu.np
 iom.tu.edu.np
 janahitschool.edu.np
 janajyotilalbandi.edu.np
+janatasecondaryschool.edu.np
 jmmc.edu.np
 jmssg.edu.np
 jsltrainingcenter.edu.np
@@ -153,6 +158,7 @@ mail.chanakya.edu.np
 mail.crossborderconsultants.edu.np
 mail.dikshantpathshala.edu.np
 mail.ihit.edu.np
+mail.janatasecondaryschool.edu.np
 mail.jmssg.edu.np
 mail.jsltrainingcenter.edu.np
 mail.kaspam.edu.np
@@ -237,6 +243,7 @@ webdisk.chanakya.edu.np
 webdisk.crossborderconsultants.edu.np
 webdisk.dikshantpathshala.edu.np
 webdisk.ihit.edu.np
+webdisk.janatasecondaryschool.edu.np
 webdisk.jmssg.edu.np
 webdisk.kaspam.edu.np
 webdisk.kutumba.edu.np
@@ -262,6 +269,7 @@ webmail.chanakya.edu.np
 webmail.crossborderconsultants.edu.np
 webmail.dikshantpathshala.edu.np
 webmail.ihit.edu.np
+webmail.janatasecondaryschool.edu.np
 webmail.jmssg.edu.np
 webmail.kaspam.edu.np
 webmail.kutumba.edu.np
@@ -306,6 +314,7 @@ www.ihit.edu.np
 www.ihit.edu.np.ith.com.np
 www.info.davidrajanmemorialschool.edu.np
 www.janahitschool.edu.np
+www.janatasecondaryschool.edu.np
 www.jmssg.edu.np
 www.jsltrainingcenter.edu.np
 www.kaspam.edu.np
