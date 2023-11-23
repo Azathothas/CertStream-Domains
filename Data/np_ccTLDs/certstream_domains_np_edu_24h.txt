@@ -19,9 +19,11 @@ elearning.gloriaschool.edu.np
 iom.tu.edu.np
 kathmandueuroschool.edu.np
 kmcdoe.edu.np
+kusoed.edu.np
 mail.dullavschool.edu.np
 mail.elearn.kafcol.edu.np
 mail.kmcdoe.edu.np
+mail.kusoed.edu.np
 mail.sbs.edu.np
 mail.smnepal.edu.np
 mrjlschool.edu.np
@@ -49,6 +51,7 @@ www.dullavschool.edu.np
 www.elearn.kafcol.edu.np
 www.kathmandueuroschool.edu.np
 www.kmcdoe.edu.np
+www.kusoed.edu.np
 www.mrjlschool.edu.np
 www.nawajagritischool.edu.np
 www.nedf.edu.np
