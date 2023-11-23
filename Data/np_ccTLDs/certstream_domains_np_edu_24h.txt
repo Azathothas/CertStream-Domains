@@ -3,6 +3,7 @@ achieverscareer.edu.np
 admin.old.mahendraratnaschool.edu.np
 amc.edu.np
 api.deukhurimultiplecampus.edu.np
+app.accelerateacademy.edu.np
 atulsmritividhyala.edu.np
 autoconfig.old.mahendraratnaschool.edu.np
 autodiscover.mesbkt.edu.np
@@ -20,6 +21,7 @@ cpanel.dullavschool.edu.np
 cpanel.elearn.kafcol.edu.np
 cpanel.iea.edu.np
 cpanel.kantipuracademy.edu.np
+cpanel.kantipurinternational.edu.np
 cpanel.kmcdoe.edu.np
 cpanel.mesbkt.edu.np
 cpanel.mulberry.edu.np
@@ -34,6 +36,7 @@ cpcalendars.dullavschool.edu.np
 cpcalendars.elearn.kafcol.edu.np
 cpcalendars.iea.edu.np
 cpcalendars.kantipuracademy.edu.np
+cpcalendars.kantipurinternational.edu.np
 cpcalendars.kmcdoe.edu.np
 cpcalendars.mesbkt.edu.np
 cpcalendars.mulberry.edu.np
@@ -47,6 +50,7 @@ cpcontacts.dullavschool.edu.np
 cpcontacts.elearn.kafcol.edu.np
 cpcontacts.iea.edu.np
 cpcontacts.kantipuracademy.edu.np
+cpcontacts.kantipurinternational.edu.np
 cpcontacts.kmcdoe.edu.np
 cpcontacts.mesbkt.edu.np
 cpcontacts.mulberry.edu.np
@@ -70,7 +74,9 @@ elearn.kafcol.edu.np
 elearning.gloriaschool.edu.np
 gaasc.edu.np
 geneliberty.edu.np
+gipt.edu.np
 gloriaschool.edu.np
+gnjdv.edu.np
 godawarividyamandir.edu.np
 guidemandu.baraacademy.edu.np
 iea.edu.np
@@ -80,13 +86,16 @@ iom.tu.edu.np
 jibika.edu.np
 kantipuracademy.edu.np
 kantipuracademy.edu.np.jmssg.edu.np
+kantipurinternational.edu.np
 kathmandueuroschool.edu.np
 kmcdoe.edu.np
 kusoed.edu.np
+mahadevhss.edu.np
 mail.dullavschool.edu.np
 mail.elearn.kafcol.edu.np
 mail.iea.edu.np
 mail.kantipuracademy.edu.np
+mail.kantipurinternational.edu.np
 mail.kmcdoe.edu.np
 mail.kusoed.edu.np
 mail.mesbkt.edu.np
@@ -105,6 +114,7 @@ mesbkt.edu.np
 mgssbs.edu.np
 mrjlschool.edu.np
 mulberry.edu.np
+nawagyanbhumischool.edu.np
 nawajagritischool.edu.np
 nedf.edu.np
 nema.edu.np
@@ -140,6 +150,7 @@ webdisk.dullavschool.edu.np
 webdisk.elearn.kafcol.edu.np
 webdisk.iea.edu.np
 webdisk.kantipuracademy.edu.np
+webdisk.kantipurinternational.edu.np
 webdisk.kmcdoe.edu.np
 webdisk.mesbkt.edu.np
 webdisk.mulberry.edu.np
@@ -154,6 +165,7 @@ webmail.dullavschool.edu.np
 webmail.elearn.kafcol.edu.np
 webmail.iea.edu.np
 webmail.kantipuracademy.edu.np
+webmail.kantipurinternational.edu.np
 webmail.kmcdoe.edu.np
 webmail.mesbkt.edu.np
 webmail.mulberry.edu.np
@@ -170,6 +182,7 @@ www.accelerateacademy.edu.np
 www.account.jibika.edu.np
 www.achieverscareer.edu.np
 www.admin.amc.edu.np
+www.app.accelerateacademy.edu.np
 www.codepointnepal.annapurnasecondaryschool.edu.np
 www.coh.edu.np
 www.demo.eplanetnepal.edu.np
@@ -180,11 +193,13 @@ www.dullavschool.edu.np
 www.eims2021.schoolofit.edu.np
 www.elearn.kafcol.edu.np
 www.gloriaschool.edu.np
+www.gnjdv.edu.np
 www.guidemandu.baraacademy.edu.np
 www.iea.edu.np
 www.iea.icas.edu.np
 www.kantipuracademy.edu.np
 www.kantipuracademy.edu.np.jmssg.edu.np
+www.kantipurinternational.edu.np
 www.kathmandueuroschool.edu.np
 www.kdsspyutar.edu.np
 www.kmcdoe.edu.np
