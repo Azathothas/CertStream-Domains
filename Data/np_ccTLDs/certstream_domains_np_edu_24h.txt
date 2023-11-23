@@ -72,6 +72,7 @@ edu.np.getstat.site
 eims2021.schoolofit.edu.np
 elearn.kafcol.edu.np
 elearning.gloriaschool.edu.np
+fulbarimontessori.edu.np
 gaasc.edu.np
 geneliberty.edu.np
 gipt.edu.np
@@ -109,6 +110,7 @@ mail.sembs.edu.np
 mail.smnepal.edu.np
 mail.somtu.edu.np
 mail.venus.edu.np
+maviratudevisthan.edu.np
 mbox.gloriaschool.edu.np
 mesbkt.edu.np
 mgssbs.edu.np
@@ -192,6 +194,7 @@ www.dhulikhelhigh.edu.np
 www.dullavschool.edu.np
 www.eims2021.schoolofit.edu.np
 www.elearn.kafcol.edu.np
+www.fulbarimontessori.edu.np
 www.gloriaschool.edu.np
 www.gnjdv.edu.np
 www.guidemandu.baraacademy.edu.np
