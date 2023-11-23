@@ -1,4 +1,3 @@
-2079.doed.gov.np
 acc.madhyabindumun.gov.np
 admin.ims.mellekhmun.gov.np
 admin.nationalgeoportal.gov.np
@@ -53,13 +52,10 @@ esaugat.karnali.gov.np
 eservice.hib.gov.np
 eservice.itaharimun.gov.np
 eservice.kathmandu.gov.np
-esuggestions.kathmandu.gov.np
-eticket.bherihospital.gov.np
 ffep.gov.np
 frtc.gandaki.gov.np
 gioms.gov.np
 gov.np.clearwebstats.com
-gov.np.domgrom.com
 gov.np.getstat.site
 gov.np.webstatdata.com
 gunaso.raptisonarimun.gov.np
@@ -67,7 +63,6 @@ harinagarmun.gov.np
 health.udayapurgadhimun.gov.np
 hellocm.sudurpashchim.gov.np
 hlrs.nphl.gov.np
-idopanchthar.p1.gov.np
 ijalas.kathmandu.gov.np
 ilam.akc.gov.np
 ims.mellekhmun.gov.np
@@ -84,9 +79,6 @@ moial.karnali.gov.np
 msystem.bagamati.gov.np
 mw.bagamati.gov.np
 naksapass-api.dhunibeshimun.gov.np
-naksapass.devchulimun.gov.np
-naksapass.golbazarmun.gov.np
-naksapass.harionmun.gov.np
 nationalgeoportal.gov.np
 nawalpur.akc.gov.np
 neis.gov.np
@@ -95,9 +87,7 @@ neqas.nphl.gov.np
 nfdin.gov.np
 npc.gov.np
 ntacall.nta.gov.np
-otcc.dohs.gov.np
 p1.gov.np
-pashusakha.siyarimun.gov.np
 pfca.gov.np
 pfco.gandaki.gov.np
 pfddmis.karnali.gov.np
@@ -105,7 +95,6 @@ piudhading.pmamp.gov.np
 piulamjung.pmamp.gov.np
 planning.pokharamun.gov.np
 plfbcprc.gov.np
-pmis.nlsip.gov.np
 pollution.gov.np
 pphl.p1.gov.np
 ppms.karnali.gov.np
@@ -113,14 +102,11 @@ presscouncilnepal.gov.np
 pressmuseum.presscouncilnepal.gov.np
 rev.kathmandu.gov.np
 rims.mellekhmun.gov.np
-sahakari.sudurpashchim.gov.np
 sarlahi.pmamp.gov.np
-sebon.gov.np
 seedlab.koshi.gov.np
 sifarish.biratnagarmun.gov.np
 slot.nddb.gov.np
 soft.jhapamun.gov.np
-soillabgandaki.gov.np
 standinglist.nta.gov.np
 store.tokhamun.gov.np
 swmosdmis.karnali.gov.np
@@ -129,7 +115,6 @@ tax.kathmandu.gov.np
 tax.madhyabindumun.gov.np
 test.pokharamun.gov.np
 tmis.bagamati.gov.np
-traccar.ambulance.mohp.gov.np
 vcdc.gov.np
 vhlsecnuwakot.bagamati.gov.np
 vlpokhara.gov.np
@@ -168,8 +153,6 @@ www.pfca.gov.np
 www.pfco.gandaki.gov.np
 www.plfbcprc.gov.np
 www.presscouncilnepal.gov.np
-www.sebon.gov.np
-www.soillabgandaki.gov.np
 www.swr.gov.np
 www.vcdc.gov.np
 www.vlpokhara.gov.np

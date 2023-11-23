@@ -109,10 +109,12 @@ edu.np.clearwebstats.com
 edu.np.getstat.site
 eims2021.schoolofit.edu.np
 elearn.kafcol.edu.np
+elearning.gate.edu.np
 elearning.gloriaschool.edu.np
 fluorescent.edu.np
 fulbarimontessori.edu.np
 gaasc.edu.np
+gate.edu.np
 geneliberty.edu.np
 gipt.edu.np
 gloriaschool.edu.np
@@ -183,6 +185,7 @@ old.mahendraratnaschool.edu.np
 paramountintl.edu.np
 pentagon.edu.np
 pentagon.edu.np.jmssg.edu.np
+phulchokischool.edu.np
 ratnarajyamavi.edu.np
 redcap.preranacollege.edu.np
 registration.skybridgeacademy.edu.np
