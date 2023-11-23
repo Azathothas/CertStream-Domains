@@ -26,6 +26,8 @@ cpanel.mulberry.edu.np
 cpanel.nit.edu.np
 cpanel.pentagon.edu.np
 cpanel.sbs.edu.np
+cpanel.sda.edu.np
+cpanel.sembs.edu.np
 cpanel.somtu.edu.np
 cpanel.venus.edu.np
 cpcalendars.dullavschool.edu.np
@@ -38,6 +40,8 @@ cpcalendars.mulberry.edu.np
 cpcalendars.nit.edu.np
 cpcalendars.pentagon.edu.np
 cpcalendars.sbs.edu.np
+cpcalendars.sda.edu.np
+cpcalendars.sembs.edu.np
 cpcalendars.venus.edu.np
 cpcontacts.dullavschool.edu.np
 cpcontacts.elearn.kafcol.edu.np
@@ -49,6 +53,8 @@ cpcontacts.mulberry.edu.np
 cpcontacts.nit.edu.np
 cpcontacts.pentagon.edu.np
 cpcontacts.sbs.edu.np
+cpcontacts.sda.edu.np
+cpcontacts.sembs.edu.np
 cpcontacts.somtu.edu.np
 cpcontacts.venus.edu.np
 demo.everestacademybanepa.edu.np
@@ -65,11 +71,13 @@ elearning.gloriaschool.edu.np
 gaasc.edu.np
 geneliberty.edu.np
 gloriaschool.edu.np
+godawarividyamandir.edu.np
 guidemandu.baraacademy.edu.np
 iea.edu.np
 iea.icas.edu.np
 iims.edu.np
 iom.tu.edu.np
+jibika.edu.np
 kantipuracademy.edu.np
 kantipuracademy.edu.np.jmssg.edu.np
 kathmandueuroschool.edu.np
@@ -87,6 +95,8 @@ mail.nit.edu.np
 mail.old.mahendraratnaschool.edu.np
 mail.pentagon.edu.np
 mail.sbs.edu.np
+mail.sda.edu.np
+mail.sembs.edu.np
 mail.smnepal.edu.np
 mail.somtu.edu.np
 mail.venus.edu.np
@@ -110,6 +120,8 @@ registration.skybridgeacademy.edu.np
 rnn.com.np.janabikasmavi.edu.np
 sajiya.sssttm.edu.np
 sbs.edu.np
+sda.edu.np
+sembs.edu.np
 seraphims.edu.np
 server.ioepc.edu.np
 shmtn.edu.np
@@ -134,6 +146,8 @@ webdisk.mulberry.edu.np
 webdisk.nit.edu.np
 webdisk.pentagon.edu.np
 webdisk.sbs.edu.np
+webdisk.sda.edu.np
+webdisk.sembs.edu.np
 webdisk.somtu.edu.np
 webdisk.venus.edu.np
 webmail.dullavschool.edu.np
@@ -147,8 +161,13 @@ webmail.nit.edu.np
 webmail.old.mahendraratnaschool.edu.np
 webmail.pentagon.edu.np
 webmail.sbs.edu.np
+webmail.sda.edu.np
+webmail.sembs.edu.np
 webmail.venus.edu.np
+whm.sda.edu.np
+whm.sembs.edu.np
 www.accelerateacademy.edu.np
+www.account.jibika.edu.np
 www.achieverscareer.edu.np
 www.admin.amc.edu.np
 www.codepointnepal.annapurnasecondaryschool.edu.np
@@ -185,6 +204,8 @@ www.redcap.preranacollege.edu.np
 www.registration.skybridgeacademy.edu.np
 www.rnn.com.np.janabikasmavi.edu.np
 www.sbs.edu.np
+www.sda.edu.np
+www.sembs.edu.np
 www.shmtn.edu.np.thenextrends.com
 www.smnepal.edu.np
 www.spspokhara.edu.np
