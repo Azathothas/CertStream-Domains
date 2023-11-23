@@ -16,6 +16,7 @@ chitwannationalpark.gov.np
 claimdoc.hib.gov.np
 cms.mellekhmun.gov.np
 connect.hib.gov.np
+contact-dir.heoc.mohp.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 covid19.nphl.gov.np
@@ -63,6 +64,7 @@ gunaso.raptisonarimun.gov.np
 harinagarmun.gov.np
 health.udayapurgadhimun.gov.np
 hellocm.sudurpashchim.gov.np
+heoc.mohp.gov.np
 hlrs.nphl.gov.np
 ijalas.kathmandu.gov.np
 ilam.akc.gov.np
