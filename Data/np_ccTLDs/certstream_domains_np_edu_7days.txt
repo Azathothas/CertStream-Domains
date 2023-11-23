@@ -474,6 +474,7 @@ cpanel.nepalgunjcollege.edu.np
 cpanel.newerainstitute.edu.np
 cpanel.newstarenglishschool.edu.np
 cpanel.niagarafallsconsultancy.edu.np
+cpanel.nibc.edu.np
 cpanel.nijamatischool.edu.np
 cpanel.nirvankaya.edu.np
 cpanel.nlvschool.edu.np
@@ -484,6 +485,7 @@ cpanel.opaleducation.edu.np
 cpanel.padmakanyaschool.edu.np
 cpanel.paramctc.edu.np
 cpanel.peaceful.edu.np
+cpanel.pentagon.edu.np
 cpanel.pipaldandaaavi.edu.np
 cpanel.pkss.edu.np
 cpanel.prabhat.edu.np
@@ -717,6 +719,7 @@ cpcalendars.nepalgunjcollege.edu.np
 cpcalendars.newerainstitute.edu.np
 cpcalendars.newstarenglishschool.edu.np
 cpcalendars.niagarafallsconsultancy.edu.np
+cpcalendars.nibc.edu.np
 cpcalendars.nijamatischool.edu.np
 cpcalendars.nirvankaya.edu.np
 cpcalendars.nlvschool.edu.np
@@ -727,6 +730,7 @@ cpcalendars.opaleducation.edu.np
 cpcalendars.padmakanyaschool.edu.np
 cpcalendars.paramctc.edu.np
 cpcalendars.peaceful.edu.np
+cpcalendars.pentagon.edu.np
 cpcalendars.pipaldandaaavi.edu.np
 cpcalendars.pkss.edu.np
 cpcalendars.prabhat.edu.np
@@ -957,6 +961,7 @@ cpcontacts.nepalgunjcollege.edu.np
 cpcontacts.newerainstitute.edu.np
 cpcontacts.newstarenglishschool.edu.np
 cpcontacts.niagarafallsconsultancy.edu.np
+cpcontacts.nibc.edu.np
 cpcontacts.nijamatischool.edu.np
 cpcontacts.nirvankaya.edu.np
 cpcontacts.nlvschool.edu.np
@@ -967,6 +972,7 @@ cpcontacts.opaleducation.edu.np
 cpcontacts.padmakanyaschool.edu.np
 cpcontacts.paramctc.edu.np
 cpcontacts.peaceful.edu.np
+cpcontacts.pentagon.edu.np
 cpcontacts.pipaldandaaavi.edu.np
 cpcontacts.pkss.edu.np
 cpcontacts.prabhat.edu.np
@@ -1137,6 +1143,7 @@ garjangdhungamavi.edu.np
 garjangdhungamavi.edu.np.inspela.com
 gate.edu.np
 gaumukhi.edu.np
+gautamschool.edu.np
 gbbs.edu.np
 gcei.edu.np
 gemsgroup.edu.np
@@ -1537,6 +1544,7 @@ mail.newkidshome.edu.np
 mail.newstarenglishschool.edu.np
 mail.ngmc.edu.np
 mail.niagarafallsconsultancy.edu.np
+mail.nibc.edu.np
 mail.nijamatischool.edu.np
 mail.nilkanthamultiplecampus.edu.np
 mail.nirvankaya.edu.np
@@ -1551,6 +1559,7 @@ mail.opaleducation.edu.np
 mail.padmakanyaschool.edu.np
 mail.paramctc.edu.np
 mail.peaceful.edu.np
+mail.pentagon.edu.np
 mail.pipaldandaaavi.edu.np
 mail.pkss.edu.np
 mail.prabhat.edu.np
@@ -1740,6 +1749,7 @@ newstarenglishschool.edu.np
 ngmc.edu.np
 nhms.edu.np
 niagarafallsconsultancy.edu.np
+nibc.edu.np
 nic.edu.np
 nightingale.edu.np
 nijamatischool.edu.np
@@ -1784,6 +1794,8 @@ pasangcollege.edu.np
 peaceful.edu.np
 peaceland.edu.np
 pec.edu.np
+pentagon.edu.np
+pentagon.edu.np.jmssg.edu.np
 phd.lbu.edu.np
 phpmyadmin.cpanel.gttc.edu.np
 phulchokischool.edu.np
@@ -2019,6 +2031,7 @@ templates.rjuuc.edu.np
 tersd2022.kusoed.edu.np
 test.citwrc.edu.np
 test.jyotischool.edu.np
+test.nibc.edu.np
 thewhitemountainschool.edu.np
 thulochaurss.edu.np
 thulochaurss.edu.np.inspela.com
@@ -2212,6 +2225,7 @@ webdisk.nepalgunjcollege.edu.np
 webdisk.newerainstitute.edu.np
 webdisk.newstarenglishschool.edu.np
 webdisk.niagarafallsconsultancy.edu.np
+webdisk.nibc.edu.np
 webdisk.nijamatischool.edu.np
 webdisk.nirvankaya.edu.np
 webdisk.nlvschool.edu.np
@@ -2222,6 +2236,7 @@ webdisk.opaleducation.edu.np
 webdisk.padmakanyaschool.edu.np
 webdisk.paramctc.edu.np
 webdisk.peaceful.edu.np
+webdisk.pentagon.edu.np
 webdisk.pipaldandaaavi.edu.np
 webdisk.pkss.edu.np
 webdisk.prabhat.edu.np
@@ -2458,6 +2473,7 @@ webmail.nepalgunjcollege.edu.np
 webmail.newerainstitute.edu.np
 webmail.newstarenglishschool.edu.np
 webmail.niagarafallsconsultancy.edu.np
+webmail.nibc.edu.np
 webmail.nijamatischool.edu.np
 webmail.nirvankaya.edu.np
 webmail.nlvschool.edu.np
@@ -2471,6 +2487,7 @@ webmail.opaleducation.edu.np
 webmail.padmakanyaschool.edu.np
 webmail.paramctc.edu.np
 webmail.peaceful.edu.np
+webmail.pentagon.edu.np
 webmail.pipaldandaaavi.edu.np
 webmail.pkss.edu.np
 webmail.prabhat.edu.np
@@ -2747,6 +2764,7 @@ www.galaxyhtschool.edu.np
 www.garjangdhungamavi.edu.np
 www.garjangdhungamavi.edu.np.inspela.com
 www.gaubombastamavi.edu.np
+www.gautamschool.edu.np
 www.gemsgroup.edu.np
 www.geniusnepal.hcoe.edu.np
 www.geniusschool.edu.np
@@ -2956,6 +2974,7 @@ www.newkidshome.edu.np
 www.newstarenglishschool.edu.np
 www.nexgen.hcoe.edu.np
 www.niagarafallsconsultancy.edu.np
+www.nibc.edu.np
 www.nightingale.edu.np
 www.nijamatischool.edu.np
 www.nirvankaya.edu.np
@@ -2983,6 +3002,8 @@ www.pasangcollege.edu.np
 www.pbf.snschool.edu.np
 www.peaceful.edu.np
 www.pec.edu.np
+www.pentagon.edu.np
+www.pentagon.edu.np.jmssg.edu.np
 www.phd.lbu.edu.np
 www.phoenixsolutions.hcoe.edu.np
 www.pipaldandaaavi.edu.np
@@ -3155,6 +3176,7 @@ www.tarunmavi.edu.np.inspela.com
 www.technokatha.kingscollege.edu.np
 www.tersd2018.kusoed.edu.np
 www.tersd2022.kusoed.edu.np
+www.test.nibc.edu.np
 www.thulochaurss.edu.np
 www.thulochaurss.edu.np.inspela.com
 www.times.edu.np
