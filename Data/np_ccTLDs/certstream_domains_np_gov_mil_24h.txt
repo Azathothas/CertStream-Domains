@@ -1,4 +1,5 @@
 admin.ims.mellekhmun.gov.np
+emonitoring.sudurpashchim.gov.np
 gov.np.clearwebstats.com
 gov.np.getstat.site
 gov.np.webstatdata.com
