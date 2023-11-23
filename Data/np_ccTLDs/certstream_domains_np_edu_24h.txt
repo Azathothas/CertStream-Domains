@@ -25,12 +25,14 @@ bravointernational.edu.np
 bscom.edu.np
 canvasbasantaritus.edu.np
 chiba.edu.np
+cle.edu.np
 codepointnepal.annapurnasecondaryschool.edu.np
 coh.edu.np
 collegeofmanagement.kasthamandapcollege.edu.np
 comcafe-developers.khimtiprojectschool.edu.np
 cpanel.ahs.edu.np
 cpanel.biratmedicalcollege.edu.np
+cpanel.cle.edu.np
 cpanel.dullavschool.edu.np
 cpanel.elearn.kafcol.edu.np
 cpanel.iea.edu.np
@@ -53,6 +55,7 @@ cpanel.somtu.edu.np
 cpanel.venus.edu.np
 cpcalendars.ahs.edu.np
 cpcalendars.biratmedicalcollege.edu.np
+cpcalendars.cle.edu.np
 cpcalendars.dullavschool.edu.np
 cpcalendars.elearn.kafcol.edu.np
 cpcalendars.iea.edu.np
@@ -74,6 +77,7 @@ cpcalendars.skyglobal.edu.np
 cpcalendars.venus.edu.np
 cpcontacts.ahs.edu.np
 cpcontacts.biratmedicalcollege.edu.np
+cpcontacts.cle.edu.np
 cpcontacts.dullavschool.edu.np
 cpcontacts.elearn.kafcol.edu.np
 cpcontacts.iea.edu.np
@@ -121,6 +125,7 @@ iea.edu.np
 iea.icas.edu.np
 iims.edu.np
 iom.tu.edu.np
+jalbirevc.edu.np
 jibika.edu.np
 kantipuracademy.edu.np
 kantipuracademy.edu.np.jmssg.edu.np
@@ -132,6 +137,7 @@ lccrc.edu.np
 maalikaschool.edu.np
 mahadevhss.edu.np
 mail.biratmedicalcollege.edu.np
+mail.cle.edu.np
 mail.dullavschool.edu.np
 mail.elearn.kafcol.edu.np
 mail.iea.edu.np
@@ -146,6 +152,7 @@ mail.mesbkt.edu.np
 mail.mulberry.edu.np
 mail.namuna.edu.np
 mail.nit.edu.np
+mail.norviceducations.edu.np
 mail.old.mahendraratnaschool.edu.np
 mail.pentagon.edu.np
 mail.sbs.edu.np
@@ -199,6 +206,7 @@ smc.edu.np
 smnepal.edu.np
 somtu.edu.np
 spspokhara.edu.np
+studypark.edu.np
 tps.edu.np
 trissa.edu.np
 ttl.ku.edu.np
@@ -207,6 +215,7 @@ venus.edu.np
 venus.edu.np.jmssg.edu.np
 webdisk.ahs.edu.np
 webdisk.biratmedicalcollege.edu.np
+webdisk.cle.edu.np
 webdisk.dullavschool.edu.np
 webdisk.elearn.kafcol.edu.np
 webdisk.iea.edu.np
@@ -230,6 +239,7 @@ webdisk.somtu.edu.np
 webdisk.venus.edu.np
 webmail.ahs.edu.np
 webmail.biratmedicalcollege.edu.np
+webmail.cle.edu.np
 webmail.dullavschool.edu.np
 webmail.elearn.kafcol.edu.np
 webmail.iea.edu.np
@@ -258,6 +268,7 @@ www.achieverscareer.edu.np
 www.admin.amc.edu.np
 www.app.accelerateacademy.edu.np
 www.biratmedicalcollege.edu.np
+www.cle.edu.np
 www.codepointnepal.annapurnasecondaryschool.edu.np
 www.coh.edu.np
 www.collegeofmanagement.kasthamandapcollege.edu.np
@@ -294,6 +305,7 @@ www.nawajagritischool.edu.np
 www.nedf.edu.np
 www.nightingale.edu.np
 www.nit.edu.np
+www.norviceducations.edu.np
 www.nrasg.edu.np
 www.old.mahendraratnaschool.edu.np
 www.pentagon.edu.np
@@ -313,6 +325,7 @@ www.slc.rec.edu.np
 www.smc.edu.np
 www.smnepal.edu.np
 www.spspokhara.edu.np
+www.studypark.edu.np
 www.tersd2018.kusoed.edu.np
 www.transform.kusoed.edu.np
 www.venus.edu.np
