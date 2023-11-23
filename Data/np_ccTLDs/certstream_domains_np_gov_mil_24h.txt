@@ -3,6 +3,8 @@ api-rms.ndrrma.gov.np
 bbbp.madhesh.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+csionawalpur.gov.np
+dfomustang.gov.np
 dodharachadanimun.gov.np
 dudhaulimun.gov.np
 ebps.budhanilkanthamun.gov.np
@@ -22,6 +24,8 @@ pmis.nra.gov.np
 rtsti.gandaki.gov.np
 sbcpco.dudbc.gov.np
 tmis.bagamati.gov.np
+www.csionawalpur.gov.np
+www.dfomustang.gov.np
 www.dodharachadanimun.gov.np
 www.dudhaulimun.gov.np
 www.jayaprithvimun.gov.np

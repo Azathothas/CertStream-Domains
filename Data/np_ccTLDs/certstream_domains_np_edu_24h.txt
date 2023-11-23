@@ -21,6 +21,7 @@ bscom.edu.np
 chiba.edu.np
 codepointnepal.annapurnasecondaryschool.edu.np
 coh.edu.np
+collegeofmanagement.kasthamandapcollege.edu.np
 comcafe-developers.khimtiprojectschool.edu.np
 cpanel.ahs.edu.np
 cpanel.dullavschool.edu.np
@@ -92,6 +93,7 @@ gipt.edu.np
 gloriaschool.edu.np
 gnjdv.edu.np
 godawarividyamandir.edu.np
+greenpheasant.edu.np
 guidemandu.baraacademy.edu.np
 iea.edu.np
 iea.icas.edu.np
@@ -211,6 +213,7 @@ www.admin.amc.edu.np
 www.app.accelerateacademy.edu.np
 www.codepointnepal.annapurnasecondaryschool.edu.np
 www.coh.edu.np
+www.collegeofmanagement.kasthamandapcollege.edu.np
 www.demo.eplanetnepal.edu.np
 www.demo.everestacademybanepa.edu.np
 www.deukhurimultiplecampus.edu.np
