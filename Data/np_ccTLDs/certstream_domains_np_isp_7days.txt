@@ -1,5 +1,10 @@
 chatbot.ntc.net.np
 pg.ncell.axiata.com
+speedtestktm.ntc.net.np
 stage-shop.worldlink.com.np
+subisu.net.np.admin-mcas-df.ms
+subisu.net.np.admin-mcas.ms
+subisu.net.np.mcas-df.ms
+subisu.net.np.mcas.ms
 vianet.com.np
 viatv.com.np
