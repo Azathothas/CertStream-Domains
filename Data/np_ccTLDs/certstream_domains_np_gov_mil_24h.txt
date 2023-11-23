@@ -3,6 +3,7 @@ api-rms.ndrrma.gov.np
 bbbp.madhesh.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+dodharachadanimun.gov.np
 dudhaulimun.gov.np
 ebps.budhanilkanthamun.gov.np
 emonitoring.sudurpashchim.gov.np
@@ -19,6 +20,7 @@ municipality.gov.np
 ntacall.nta.gov.np
 pmis.nra.gov.np
 rtsti.gandaki.gov.np
+www.dodharachadanimun.gov.np
 www.dudhaulimun.gov.np
 www.jayaprithvimun.gov.np
 www.jirimun.gov.np
