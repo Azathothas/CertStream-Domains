@@ -1,6 +1,7 @@
 accelerateacademy.edu.np
 achieverscareer.edu.np
 admin.old.mahendraratnaschool.edu.np
+ahs.edu.np
 amc.edu.np
 api.deukhurimultiplecampus.edu.np
 app.accelerateacademy.edu.np
@@ -10,13 +11,18 @@ autodiscover.mesbkt.edu.np
 autodiscover.mulberry.edu.np
 autodiscover.old.mahendraratnaschool.edu.np
 autodiscover.sbs.edu.np
+autodiscover.skyglobal.edu.np
+baltara.edu.np
 bhagawatissdhikuradebha.edu.np
 bigupolytech.edu.np
 bijeshworischool.edu.np
 bravointernational.edu.np
+bscom.edu.np
 chiba.edu.np
 codepointnepal.annapurnasecondaryschool.edu.np
 coh.edu.np
+comcafe-developers.khimtiprojectschool.edu.np
+cpanel.ahs.edu.np
 cpanel.dullavschool.edu.np
 cpanel.elearn.kafcol.edu.np
 cpanel.iea.edu.np
@@ -30,8 +36,10 @@ cpanel.pentagon.edu.np
 cpanel.sbs.edu.np
 cpanel.sda.edu.np
 cpanel.sembs.edu.np
+cpanel.skyglobal.edu.np
 cpanel.somtu.edu.np
 cpanel.venus.edu.np
+cpcalendars.ahs.edu.np
 cpcalendars.dullavschool.edu.np
 cpcalendars.elearn.kafcol.edu.np
 cpcalendars.iea.edu.np
@@ -45,7 +53,9 @@ cpcalendars.pentagon.edu.np
 cpcalendars.sbs.edu.np
 cpcalendars.sda.edu.np
 cpcalendars.sembs.edu.np
+cpcalendars.skyglobal.edu.np
 cpcalendars.venus.edu.np
+cpcontacts.ahs.edu.np
 cpcontacts.dullavschool.edu.np
 cpcontacts.elearn.kafcol.edu.np
 cpcontacts.iea.edu.np
@@ -59,9 +69,11 @@ cpcontacts.pentagon.edu.np
 cpcontacts.sbs.edu.np
 cpcontacts.sda.edu.np
 cpcontacts.sembs.edu.np
+cpcontacts.skyglobal.edu.np
 cpcontacts.somtu.edu.np
 cpcontacts.venus.edu.np
 demo.everestacademybanepa.edu.np
+deukhurimultiplecampus.edu.np
 devdahamedicalcollege.edu.np
 dhulikhelhigh.edu.np
 divyagyan.edu.np
@@ -72,6 +84,7 @@ edu.np.getstat.site
 eims2021.schoolofit.edu.np
 elearn.kafcol.edu.np
 elearning.gloriaschool.edu.np
+fluorescent.edu.np
 fulbarimontessori.edu.np
 gaasc.edu.np
 geneliberty.edu.np
@@ -91,6 +104,7 @@ kantipurinternational.edu.np
 kathmandueuroschool.edu.np
 kmcdoe.edu.np
 kusoed.edu.np
+maalikaschool.edu.np
 mahadevhss.edu.np
 mail.dullavschool.edu.np
 mail.elearn.kafcol.edu.np
@@ -99,6 +113,7 @@ mail.kantipuracademy.edu.np
 mail.kantipurinternational.edu.np
 mail.kmcdoe.edu.np
 mail.kusoed.edu.np
+mail.maalikaschool.edu.np
 mail.mesbkt.edu.np
 mail.mulberry.edu.np
 mail.nit.edu.np
@@ -107,6 +122,7 @@ mail.pentagon.edu.np
 mail.sbs.edu.np
 mail.sda.edu.np
 mail.sembs.edu.np
+mail.skyglobal.edu.np
 mail.smnepal.edu.np
 mail.somtu.edu.np
 mail.venus.edu.np
@@ -122,6 +138,7 @@ nedf.edu.np
 nema.edu.np
 nightingale.edu.np
 nit.edu.np
+norviceducations.edu.np
 old.mahendraratnaschool.edu.np
 paramountintl.edu.np
 pentagon.edu.np
@@ -131,14 +148,17 @@ redcap.preranacollege.edu.np
 registration.skybridgeacademy.edu.np
 rnn.com.np.janabikasmavi.edu.np
 sajiya.sssttm.edu.np
+sakuranepal.edu.np
 sbs.edu.np
 sda.edu.np
 sembs.edu.np
 seraphims.edu.np
 server.ioepc.edu.np
+shaktimavi.edu.np
 shmtn.edu.np
 shmtn.edu.np.thenextrends.com
 site.smc.edu.np
+skyglobal.edu.np
 smnepal.edu.np
 somtu.edu.np
 spspokhara.edu.np
@@ -148,6 +168,7 @@ ttl.ku.edu.np
 universityschool.edu.np
 venus.edu.np
 venus.edu.np.jmssg.edu.np
+webdisk.ahs.edu.np
 webdisk.dullavschool.edu.np
 webdisk.elearn.kafcol.edu.np
 webdisk.iea.edu.np
@@ -161,8 +182,10 @@ webdisk.pentagon.edu.np
 webdisk.sbs.edu.np
 webdisk.sda.edu.np
 webdisk.sembs.edu.np
+webdisk.skyglobal.edu.np
 webdisk.somtu.edu.np
 webdisk.venus.edu.np
+webmail.ahs.edu.np
 webmail.dullavschool.edu.np
 webmail.elearn.kafcol.edu.np
 webmail.iea.edu.np
@@ -177,6 +200,7 @@ webmail.pentagon.edu.np
 webmail.sbs.edu.np
 webmail.sda.edu.np
 webmail.sembs.edu.np
+webmail.skyglobal.edu.np
 webmail.venus.edu.np
 whm.sda.edu.np
 whm.sembs.edu.np
@@ -189,11 +213,13 @@ www.codepointnepal.annapurnasecondaryschool.edu.np
 www.coh.edu.np
 www.demo.eplanetnepal.edu.np
 www.demo.everestacademybanepa.edu.np
+www.deukhurimultiplecampus.edu.np
 www.devdahamedicalcollege.edu.np
 www.dhulikhelhigh.edu.np
 www.dullavschool.edu.np
 www.eims2021.schoolofit.edu.np
 www.elearn.kafcol.edu.np
+www.fluorescent.edu.np
 www.fulbarimontessori.edu.np
 www.gloriaschool.edu.np
 www.gnjdv.edu.np
@@ -207,6 +233,7 @@ www.kathmandueuroschool.edu.np
 www.kdsspyutar.edu.np
 www.kmcdoe.edu.np
 www.kusoed.edu.np
+www.maalikaschool.edu.np
 www.mesbkt.edu.np
 www.mrjlschool.edu.np
 www.mulberry.edu.np
@@ -214,6 +241,7 @@ www.nawajagritischool.edu.np
 www.nedf.edu.np
 www.nightingale.edu.np
 www.nit.edu.np
+www.nrasg.edu.np
 www.old.mahendraratnaschool.edu.np
 www.pentagon.edu.np
 www.pentagon.edu.np.jmssg.edu.np
@@ -225,6 +253,7 @@ www.sbs.edu.np
 www.sda.edu.np
 www.sembs.edu.np
 www.shmtn.edu.np.thenextrends.com
+www.skyglobal.edu.np
 www.smnepal.edu.np
 www.spspokhara.edu.np
 www.tersd2018.kusoed.edu.np
