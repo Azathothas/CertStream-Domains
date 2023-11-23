@@ -21,6 +21,7 @@ mis.nic.gov.np
 municipality.gov.np
 ntacall.nta.gov.np
 pmis.nra.gov.np
+reconstruction.ndrrma.gov.np
 rtsti.gandaki.gov.np
 sbcpco.dudbc.gov.np
 tmis.bagamati.gov.np
