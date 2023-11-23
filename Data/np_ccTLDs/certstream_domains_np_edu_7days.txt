@@ -5,6 +5,7 @@ abssmulpani.edu.np
 abssmulpani.edu.np.inspela.com
 academyprarambha.edu.np
 acas.edu.np
+accelerateacademy.edu.np
 aceglobal.edu.np
 aceschool.edu.np
 achhamcampus.edu.np
@@ -241,6 +242,7 @@ benihorizon.edu.np
 benihorizon.edu.np.yem.com.np
 bgmsm.edu.np
 bgmsm.edu.np.jmssg.edu.np
+bhagawatissdhikuradebha.edu.np
 bhanubrt.edu.np
 bhanujana.baraacademy.edu.np
 bhanumavi.edu.np
@@ -428,6 +430,7 @@ cpanel.kiranagmavi19.edu.np
 cpanel.kirtipurschool.edu.np
 cpanel.kmcdoe.edu.np
 cpanel.kmi.edu.np
+cpanel.knpi.edu.np
 cpanel.kunchipwakal.edu.np
 cpanel.kundaladevi.edu.np
 cpanel.kutumba.edu.np
@@ -669,6 +672,7 @@ cpcalendars.kiranagmavi19.edu.np
 cpcalendars.kirtipurschool.edu.np
 cpcalendars.kmcdoe.edu.np
 cpcalendars.kmi.edu.np
+cpcalendars.knpi.edu.np
 cpcalendars.kunchipwakal.edu.np
 cpcalendars.kundaladevi.edu.np
 cpcalendars.kutumba.edu.np
@@ -907,6 +911,7 @@ cpcontacts.kiranagmavi19.edu.np
 cpcontacts.kirtipurschool.edu.np
 cpcontacts.kmcdoe.edu.np
 cpcontacts.kmi.edu.np
+cpcontacts.knpi.edu.np
 cpcontacts.kunchipwakal.edu.np
 cpcontacts.kundaladevi.edu.np
 cpcontacts.kutumba.edu.np
@@ -1083,6 +1088,7 @@ educationpark.edu.np
 edufirm.ssha.edu.np
 eelms-ces.ioe.edu.np
 elearn.kafcol.edu.np
+elearning.gate.edu.np
 elearning.gloriaschool.edu.np
 elearning.nsu.edu.np
 email.orchidcollege.edu.np
@@ -1115,6 +1121,7 @@ games.rjuuc.edu.np
 ganganagarschool.edu.np
 garjangdhungamavi.edu.np
 garjangdhungamavi.edu.np.inspela.com
+gate.edu.np
 gaumukhi.edu.np
 gbbs.edu.np
 gcei.edu.np
@@ -1157,6 +1164,7 @@ gtg.edu.np
 guhyeshworyss.edu.np
 guhyeshworyss.edu.np.inspela.com
 guideline.edu.np
+guidemandu.baraacademy.edu.np
 gurukulbaylor.edu.np
 gurukulca.edu.np
 gurukulpathshala.edu.np
@@ -1288,6 +1296,7 @@ kmclibrary.edu.np
 kmcpokhara.edu.np
 kmctlw.edu.np
 kmi.edu.np
+knpi.edu.np
 kopilavalleyschool.edu.np
 koshistjames.edu.np
 krishna.edu.np
@@ -1301,6 +1310,7 @@ kunchipwakal.edu.np.inspela.com
 kundaladevi.edu.np
 kundaladevi.edu.np.inspela.com
 kurc.ku.edu.np
+kusoed.edu.np
 kutumba.edu.np
 kutumba.jmssg.edu.np
 kvc.edu.np
@@ -1439,6 +1449,7 @@ mail.jorpatisecschool.edu.np
 mail.jorpatiss.edu.np
 mail.jsglobal.edu.np
 mail.jsltrainingcenter.edu.np
+mail.jubilantcollege.edu.np
 mail.jugeshwarmavi.edu.np
 mail.kaadresearch.edu.np
 mail.kageshworighorthali.edu.np
@@ -1463,6 +1474,7 @@ mail.kistmcth.edu.np
 mail.kmcdoe.edu.np
 mail.kmclibrary.edu.np
 mail.kmi.edu.np
+mail.knpi.edu.np
 mail.krishnapurisecondaryschool.edu.np
 mail.kunchipwakal.edu.np
 mail.kundaladevi.edu.np
@@ -1475,6 +1487,7 @@ mail.lna.edu.np
 mail.lokpriyaschool.edu.np
 mail.magapauwamavi.edu.np
 mail.mahakaleshwori.edu.np
+mail.manakamanara.edu.np
 mail.mangalcampus.edu.np
 mail.manipalpokhara.edu.np
 mail.mark.edu.np
@@ -1619,6 +1632,7 @@ mail.yubassschool.edu.np
 maitrischool.edu.np
 malpiins.edu.np
 mamc.tu.edu.np
+manakamanara.edu.np
 mangalcampus.edu.np
 manipalpokhara.edu.np
 mark.edu.np
@@ -1641,6 +1655,7 @@ meritintl.edu.np
 merittechnical.edu.np
 merrylandcollege.edu.np
 mgassociates.edu.np
+mgssbs.edu.np
 mhss.edu.np
 mic.edu.np
 migrationschool.edu.np
@@ -1740,22 +1755,27 @@ padmakanyaschool.edu.np
 padmakanyaschool.edu.np.inspela.com
 paramctc.edu.np
 paramountacademy.edu.np
+parbatischool.edu.np
 parijattech.edu.np
 parkview.edu.np
 parrohamc.edu.np
+pasangcollege.edu.np
 peaceful.edu.np
 peaceland.edu.np
 pec.edu.np
 phd.lbu.edu.np
 phpmyadmin.cpanel.gttc.edu.np
+phulchokischool.edu.np
 pindeshwar.edu.np
 pipaldandaaavi.edu.np
 pkschool.edu.np
 pkss.edu.np
 pkss.edu.np.inspela.com
+plustwo.achsnepal.edu.np
 ppmn.edu.np
 prabhat.edu.np
 pragyakunja.edu.np
+pragyanam.edu.np
 prajitaacademy.edu.np
 prakasheducation.edu.np
 premier.majesticmarketing.edu.np
@@ -2129,6 +2149,7 @@ webdisk.kiranagmavi19.edu.np
 webdisk.kirtipurschool.edu.np
 webdisk.kmcdoe.edu.np
 webdisk.kmi.edu.np
+webdisk.knpi.edu.np
 webdisk.kunchipwakal.edu.np
 webdisk.kundaladevi.edu.np
 webdisk.kutumba.edu.np
@@ -2370,6 +2391,7 @@ webmail.kirtipurschool.edu.np
 webmail.kmcdoe.edu.np
 webmail.kmclibrary.edu.np
 webmail.kmi.edu.np
+webmail.knpi.edu.np
 webmail.krishnapurisecondaryschool.edu.np
 webmail.kunchipwakal.edu.np
 webmail.kundaladevi.edu.np
@@ -2519,6 +2541,7 @@ www.abhayananda.edu.np
 www.abssmulpani.edu.np
 www.abssmulpani.edu.np.inspela.com
 www.acas.edu.np
+www.accelerateacademy.edu.np
 www.aceschool.edu.np
 www.acie.edu.np
 www.acom.edu.np
@@ -2636,6 +2659,7 @@ www.ctc.edu.np.cct.edu.np
 www.davidrajanmemorialschool.edu.np
 www.delight.edu.np
 www.demo.crossborderconsultants.edu.np
+www.demo.eplanetnepal.edu.np
 www.demo.kasenimavi.edu.np
 www.dev.hiis.edu.np
 www.devibalsudhar.edu.np
@@ -2706,6 +2730,7 @@ www.gtg.edu.np
 www.gttc.edu.np
 www.guhyeshworyss.edu.np
 www.guhyeshworyss.edu.np.inspela.com
+www.guidemandu.baraacademy.edu.np
 www.gurukulbaylor.edu.np
 www.gurukulca.edu.np
 www.gurukulpathshala.edu.np
@@ -2803,6 +2828,7 @@ www.kmcdoe.edu.np
 www.kmclibrary.edu.np
 www.kmcpokhara.edu.np
 www.kmi.edu.np
+www.knpi.edu.np
 www.kopilavalleyschool.edu.np
 www.koshi.koshistjames.edu.np
 www.krishnapurisecondaryschool.edu.np
@@ -2834,6 +2860,7 @@ www.mahakaleshwori.edu.np.inspela.com
 www.mail.careercounselling.edu.np
 www.maitrischool.edu.np
 www.malpiins.edu.np
+www.manakamanara.edu.np
 www.mangalcampus.edu.np
 www.manipalpokhara.edu.np
 www.mark.edu.np
@@ -2915,6 +2942,7 @@ www.opaleducation.edu.np
 www.padmakanyaschool.edu.np
 www.padmakanyaschool.edu.np.inspela.com
 www.paramctc.edu.np
+www.pasangcollege.edu.np
 www.pbf.snschool.edu.np
 www.peaceful.edu.np
 www.pec.edu.np
@@ -3085,12 +3113,14 @@ www.takshashilaschool.edu.np
 www.tarunmavi.edu.np
 www.tarunmavi.edu.np.inspela.com
 www.technokatha.kingscollege.edu.np
+www.tersd2018.kusoed.edu.np
 www.tersd2022.kusoed.edu.np
 www.thulochaurss.edu.np
 www.thulochaurss.edu.np.inspela.com
 www.times.edu.np
 www.timesschool.edu.np
 www.tma.edu.np
+www.transform.kusoed.edu.np
 www.tribenisadan.edu.np
 www.tribhubanjanata.edu.np
 www.trinetrainternational.edu.np

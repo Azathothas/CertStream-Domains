@@ -38,6 +38,7 @@ dmismoitfe.karnali.gov.np
 dscodadeldhura.gov.np
 dscomyagdi.gov.np
 dtosalyan.gov.np
+dudhaulimun.gov.np
 e-sifarish.mellekhmun.gov.np
 ebps.kathmandu.gov.np
 edcdbudget.gov.np
@@ -72,11 +73,16 @@ kathmandu.gov.np
 kdmismoitfe.karnali.gov.np
 koshi.gov.np
 lalitpur.akc.gov.np
+lalitpurmun.gov.np
+lmc.gov.np
 madhyabindumun.gov.np
+madhyanepalmun.gov.np
 mil.np.getstat.site
 mis.laliguransmun.gov.np
+mis.nic.gov.np
 moial.karnali.gov.np
 msystem.bagamati.gov.np
+municipality.gov.np
 mw.bagamati.gov.np
 naksapass-api.dhunibeshimun.gov.np
 nationalgeoportal.gov.np
@@ -87,6 +93,7 @@ neqas.nphl.gov.np
 nfdin.gov.np
 npc.gov.np
 ntacall.nta.gov.np
+ofmis.gov.np
 p1.gov.np
 pfca.gov.np
 pfco.gandaki.gov.np
@@ -135,6 +142,7 @@ www.dfotanahun.gov.np
 www.dscodadeldhura.gov.np
 www.dscomyagdi.gov.np
 www.dtosalyan.gov.np
+www.dudhaulimun.gov.np
 www.erfd.gov.np
 www.ffep.gov.np
 www.frtc.gandaki.gov.np
@@ -143,11 +151,16 @@ www.harinagarmun.gov.np
 www.ilam.akc.gov.np
 www.jeetpursimaramun.gov.np
 www.lalitpur.akc.gov.np
+www.lalitpurmun.gov.np
+www.lmc.gov.np
 www.madhyabindumun.gov.np
+www.madhyanepalmun.gov.np
+www.municipality.gov.np
 www.nationalgeoportal.gov.np
 www.neis.gov.np
 www.nfdin.gov.np
 www.npc.gov.np
+www.ofmis.gov.np
 www.p1.gov.np
 www.pfca.gov.np
 www.pfco.gandaki.gov.np
