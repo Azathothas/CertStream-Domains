@@ -1,4 +1,8 @@
 admin.ims.mellekhmun.gov.np
+api-rms.ndrrma.gov.np
+bbbp.madhesh.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
 emonitoring.sudurpashchim.gov.np
 gov.np.clearwebstats.com
 gov.np.getstat.site
