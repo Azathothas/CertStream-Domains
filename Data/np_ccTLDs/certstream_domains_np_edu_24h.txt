@@ -42,6 +42,7 @@ autodiscover.sundariss.edu.np
 autodiscover.tejbinayakss.edu.np
 baseeducation.edu.np
 baseeducation.edu.np.nepalbuddistpeacesociety.org
+bharati.edu.np
 bharatpurischool.edu.np
 bhimeshwarschool.edu.np
 biratmedicalcollege.edu.np
@@ -186,6 +187,7 @@ cpcontacts.trainerjames.edu.np
 dbhawanishankar.edu.np
 dbhawanishankar.edu.np.inspela.com
 demo.esamemorial.edu.np
+dpschool.edu.np
 ece.emergecomputer.edu.np
 edigitalnepal.edu.np
 elearning.ltu.edu.np
@@ -207,6 +209,7 @@ gsniketan.edu.np
 gyandeepcollege.edu.np.sims.com.np
 hims.edu.np
 hles.edu.np
+idealschool.edu.np
 iesmac.com.jmssg.edu.np
 janajagritithakre.edu.np
 janajagritithakre.edu.np.inspela.com
@@ -220,7 +223,9 @@ jibika.edu.np
 jjssnibuwatar.edu.np
 jjssnibuwatar.edu.np.inspela.com
 journal.khwopacollege.edu.np
+jyotikunja.edu.np
 kathmandumodelschool.edu.np
+kavrecampus.edu.np
 kba.edu.np
 kmcschool.edu.np
 kundeshworss.edu.np
@@ -229,7 +234,9 @@ kutidanda.edu.np
 kutidanda.edu.np.inspela.com
 lccrc.edu.np
 lhtc.edu.np
+login.ssps.edu.np
 m.aipa.edu.np
+m.ssps.edu.np
 mahendraadarsha.edu.np
 mail.baseeducation.edu.np
 mail.biratmedicalcollege.edu.np
@@ -339,6 +346,7 @@ slc.rec.edu.np
 sugata.edu.np
 sundariss.edu.np
 sundariss.edu.np.inspela.com
+system.nou.edu.np
 t1.edigitalnepal.edu.np
 t2.edigitalnepal.edu.np
 t3.edigitalnepal.edu.np
@@ -456,6 +464,7 @@ www.chhatramani.satyanarayanschool.edu.np
 www.dbhawanishankar.edu.np
 www.dbhawanishankar.edu.np.inspela.com
 www.demo.esamemorial.edu.np
+www.dpsdata.dpschool.edu.np
 www.ece.emergecomputer.edu.np
 www.edigitalnepal.edu.np
 www.esamemorial.edu.np
@@ -465,6 +474,7 @@ www.gces.edu.np
 www.gsniketan.edu.np
 www.gyandeepcollege.edu.np.sims.com.np
 www.hles.edu.np
+www.idealschool.edu.np
 www.iesmac.com.jmssg.edu.np
 www.janajagritithakre.edu.np
 www.janajagritithakre.edu.np.inspela.com
@@ -532,6 +542,7 @@ www.shreesharadass.edu.np
 www.shreesharadass.edu.np.inspela.com
 www.shubhakamana.edu.np
 www.slc.rec.edu.np
+www.smartschool.dpschool.edu.np
 www.sundariss.edu.np
 www.sundariss.edu.np.inspela.com
 www.taalpaarihotel.com.np.gyaninstitute.edu.np
@@ -544,3 +555,4 @@ www.testdomain.npi.edu.np
 www.trainerjames.edu.np
 www.uniquemedicalcollege.edu.np
 www.writeonai.com.satyanarayanschool.edu.np
+www1.ssps.edu.np
