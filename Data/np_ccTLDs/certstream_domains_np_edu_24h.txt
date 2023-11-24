@@ -2,6 +2,7 @@ admin.gsniketan.edu.np
 admin.hles.edu.np
 admin.old.prajitaacademy.edu.np
 admin.pascalschool.edu.np
+admin.ssps.edu.np
 ahs.edu.np
 amc.edu.np
 app.accelerateacademy.edu.np
@@ -223,6 +224,7 @@ jibika.edu.np
 jjssnibuwatar.edu.np
 jjssnibuwatar.edu.np.inspela.com
 journal.khwopacollege.edu.np
+jugal.edu.np
 jyotikunja.edu.np
 kathmandumodelschool.edu.np
 kavrecampus.edu.np
@@ -295,6 +297,7 @@ mrigankamainali.com.np.ssebschool.edu.np
 nasacademy.edu.np
 nawagyanbhumischool.edu.np
 nema.edu.np
+nepalmontessori.edu.np
 nepalyubakss.edu.np
 nepalyubakss.edu.np.inspela.com
 nibc.edu.np
@@ -505,6 +508,7 @@ www.mavishashinagar.edu.np.inspela.com
 www.modernstudies.edu.np
 www.mrigankamainali.com.np.ssebschool.edu.np
 www.nasacademy.edu.np
+www.nepalmontessori.edu.np
 www.nepalyubakss.edu.np
 www.nepalyubakss.edu.np.inspela.com
 www.nibc.edu.np
