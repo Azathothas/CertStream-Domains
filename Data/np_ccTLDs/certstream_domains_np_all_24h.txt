@@ -148,6 +148,7 @@ autodiscover.mansingdharma.edu.np
 autodiscover.mavishashinagar.edu.np
 autodiscover.mrigankamainali.com.np
 autodiscover.muannepal.org.np
+autodiscover.nacu.com.np
 autodiscover.nagarjunshrestha.com.np
 autodiscover.nepalyubakss.edu.np
 autodiscover.newseducation.com.np
@@ -242,6 +243,7 @@ bipinpaul.com.np
 biplavsitaula.com.np
 birajregmi.com.np
 biratmedicalcollege.edu.np
+birbaltm.com.np
 bishalsapkota.com.np
 bishawmishra.com.np
 bishwakiran.com.np
@@ -451,6 +453,7 @@ cpanel.mjr.com.np
 cpanel.modernstudies.edu.np
 cpanel.mrigankamainali.com.np
 cpanel.munni.com.np
+cpanel.nacu.com.np
 cpanel.nagarjunshrestha.com.np
 cpanel.nasacademy.edu.np
 cpanel.naturevisit.com.np
@@ -625,6 +628,7 @@ cpcalendars.meci.com.np
 cpcalendars.modernstudies.edu.np
 cpcalendars.mrigankamainali.com.np
 cpcalendars.munni.com.np
+cpcalendars.nacu.com.np
 cpcalendars.nagarjunshrestha.com.np
 cpcalendars.nasacademy.edu.np
 cpcalendars.naturevisit.com.np
@@ -799,6 +803,7 @@ cpcontacts.meci.com.np
 cpcontacts.modernstudies.edu.np
 cpcontacts.mrigankamainali.com.np
 cpcontacts.munni.com.np
+cpcontacts.nacu.com.np
 cpcontacts.nagarjunshrestha.com.np
 cpcontacts.nasacademy.edu.np
 cpcontacts.naturevisit.com.np
@@ -1257,8 +1262,10 @@ kaamkaaz.com.np
 kaflekamal.com.np
 kala.com.np
 kalashinfosys.com.np
+kamalapokharel.com.np
 kamalayouthnetwork.org.np
 kamalthapa1.com.np
+kanchan-lamichhane.com.np
 kanchanjha.com.np
 kanchhidolmahyolmo.com.np
 karanprasadchaudhary.com.np
@@ -1293,6 +1300,8 @@ kokudoeducation.com.np
 kokudoeducation.com.np.gbns.com.np
 kprasad.com.np
 kprasad.com.np.nareshsah.com.np
+krishanakumaryadav.com.np
+krishanakumaryadav.com.np.topuniversal.com.np
 krishivan.com.np
 krishnachandra.com.np
 krishnagaihre.com.np
@@ -1456,6 +1465,7 @@ mail.modernstudies.edu.np
 mail.mrigankamainali.com.np
 mail.muannepal.org.np
 mail.munni.com.np
+mail.nacu.com.np
 mail.nagarjunshrestha.com.np
 mail.nasacademy.edu.np
 mail.naturevisit.com.np
@@ -1605,6 +1615,7 @@ minabiswakarma.com.np
 mis.bnks.edu.np
 mis.kantipurmanagement.com.np
 mithunkunwar.com.np
+mjt.com.np
 mmchetauda.edu.np
 modernstudies.edu.np
 mohanrawat.com.np
@@ -1626,6 +1637,8 @@ myip.kushaltimalsina.com.np
 mysql.webdisk.coexistence.com.np
 nabalrai.com.np
 nabinkhair.com.np
+nacu.com.np
+nafij.org.np
 nagarjunshrestha.com.np
 nahkul-neupane.com.np
 naksapass.chandrapurmun.gov.np
@@ -1925,6 +1938,7 @@ services.sujan1919.com.np
 shahisabina.com.np
 shahpawan.com.np
 shaktimavi.edu.np
+shakyarohan.com.np
 shangrilagroup.com.np
 shanjana.com.np
 shankarsubedi.com.np
@@ -2228,6 +2242,7 @@ webdisk.meci.com.np
 webdisk.modernstudies.edu.np
 webdisk.mrigankamainali.com.np
 webdisk.munni.com.np
+webdisk.nacu.com.np
 webdisk.nagarjunshrestha.com.np
 webdisk.nasacademy.edu.np
 webdisk.naturevisit.com.np
@@ -2411,6 +2426,7 @@ webmail.modernstudies.edu.np
 webmail.motorheadnepal.com.np
 webmail.mrigankamainali.com.np
 webmail.munni.com.np
+webmail.nacu.com.np
 webmail.nagarjunshrestha.com.np
 webmail.nasacademy.edu.np
 webmail.naturevisit.com.np
@@ -2787,6 +2803,7 @@ www.kokudoeducation.com.np.gbns.com.np
 www.kpk.com.np
 www.kprasad.com.np
 www.kprasad.com.np.nareshsah.com.np
+www.krishanakumaryadav.com.np.topuniversal.com.np
 www.krishnakhati.com.np
 www.kritagya.net.np
 www.kritanadhikari.kushaltimalsina.com.np
@@ -2856,6 +2873,7 @@ www.munni.com.np.chaudharykshitij.com.np
 www.myip.kushaltimalsina.com.np
 www.mystic-nepal.manoj-bhattarai.com.np
 www.nabalrai.com.np
+www.nacu.com.np
 www.nagarjunshrestha.com.np
 www.namankhabar.amritpanta.com.np
 www.name.kushaltimalsina.com.np
