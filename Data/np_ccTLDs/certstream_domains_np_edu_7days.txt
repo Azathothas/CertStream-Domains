@@ -45,6 +45,7 @@ anaj.gia.edu.np
 angels.edu.np
 annapurnasecondaryschool.edu.np
 aonecoaching.edu.np
+apexmalangwa.edu.np
 api.admin.hiis.edu.np
 api.deukhurimultiplecampus.edu.np
 api.local.exam.staging.mu.edu.np
@@ -941,6 +942,7 @@ eplanet.edu.np
 eplanet.edu.np.yrtyre.com
 erp.sxc.edu.np
 exam.enlightacademy.edu.np
+exam.thewestminstercollege.edu.np
 excel.edu.np
 excelsior.edu.np
 faqs.bradford.edu.np
@@ -1674,6 +1676,7 @@ siddhimangal.edu.np
 sidharthacampus.edu.np
 signupeducation.edu.np
 sindhuschool.edu.np
+sirubhurtel.gyaninstitute.edu.np
 sis.kingscollege.edu.np
 sisnovate.chatbot.aimsbrt.edu.np
 sitamavi.edu.np
@@ -2257,6 +2260,7 @@ www.analytical-engine-tech.keckist.edu.np
 www.analytical-engine.keckist.edu.np
 www.angels.edu.np
 www.annapurnasecondaryschool.edu.np
+www.apexmalangwa.edu.np
 www.api.admin.hiis.edu.np
 www.api.thamescollege.edu.np
 www.app.accelerateacademy.edu.np
@@ -2677,6 +2681,7 @@ www.shreesharadass.edu.np
 www.shreesharadass.edu.np.inspela.com
 www.shristigyan.edu.np
 www.shubhashreecollege.edu.np
+www.sirubhurtel.gyaninstitute.edu.np
 www.sis.kingscollege.edu.np
 www.sisnovate.aimsbrt.edu.np
 www.sisnovate.chatbot.aimsbrt.edu.np
