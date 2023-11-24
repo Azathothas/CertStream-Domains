@@ -37,6 +37,7 @@ autodiscover.shreesharadasecondary.edu.np
 autodiscover.shreesharadass.edu.np
 autodiscover.sundariss.edu.np
 autodiscover.tejbinayakss.edu.np
+baseeducation.edu.np.nepalbuddistpeacesociety.org
 bharatpurischool.edu.np
 bhimeshwarschool.edu.np
 biratmedicalcollege.edu.np
@@ -46,6 +47,7 @@ boudhamodeschool.edu.np
 broadway.edu.np
 bss8.edu.np
 bss8.edu.np.inspela.com
+campionacademy.edu.np
 canvasbasantaritus.edu.np
 cdhsc.edu.np
 com.satyanarayanschool.edu.np
@@ -258,6 +260,7 @@ mansingdharma.edu.np.inspela.com
 mavishashinagar.edu.np
 mavishashinagar.edu.np.inspela.com
 mis.bnks.edu.np
+mmchetauda.edu.np
 modernstudies.edu.np
 mrigankamainali.com.np.ssebschool.edu.np
 nasacademy.edu.np
@@ -407,11 +410,13 @@ www.account.jibika.edu.np
 www.admin.amc.edu.np
 www.admin.pascalschool.edu.np
 www.app.accelerateacademy.edu.np
+www.baseeducation.edu.np.nepalbuddistpeacesociety.org
 www.biratmedicalcollege.edu.np
 www.bnks.edu.np
 www.broadway.edu.np
 www.bss8.edu.np
 www.bss8.edu.np.inspela.com
+www.campionacademy.edu.np
 www.cdhsc.edu.np
 www.chhatramani.satyanarayanschool.edu.np
 www.dbhawanishankar.edu.np
@@ -437,6 +442,7 @@ www.jdss.edu.np
 www.jdss.edu.np.inspela.com
 www.jjssnibuwatar.edu.np
 www.jjssnibuwatar.edu.np.inspela.com
+www.jyotimandalmavi.edu.np
 www.kathmandumodelschool.edu.np
 www.kba.edu.np
 www.kundeshworss.edu.np
