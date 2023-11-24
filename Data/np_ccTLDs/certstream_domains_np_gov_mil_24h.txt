@@ -2,3 +2,4 @@ contact-dir.heoc.mohp.gov.np
 heoc.mohp.gov.np
 ntacall.nta.gov.np
 sbcpco.dudbc.gov.np
+ward10.lmc.gov.np
