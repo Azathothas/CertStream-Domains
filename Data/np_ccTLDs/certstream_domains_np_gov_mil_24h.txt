@@ -1,6 +1,7 @@
 contact-dir.heoc.mohp.gov.np
 ehrpmis.nra.gov.np
 heoc.mohp.gov.np
+naksapass.chandrapurmun.gov.np
 ntacall.nta.gov.np
 reconstruction.ndrrma.gov.np
 sbcpco.dudbc.gov.np
