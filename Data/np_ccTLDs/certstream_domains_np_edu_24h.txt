@@ -1,7 +1,10 @@
+admin.gsniketan.edu.np
 amc.edu.np
 app.accelerateacademy.edu.np
+autoconfig.gsniketan.edu.np
 autodiscover.bss8.edu.np
 autodiscover.dbhawanishankar.edu.np
+autodiscover.gsniketan.edu.np
 autodiscover.janajyotiss.edu.np
 autodiscover.janatamavikhaniyakharka.edu.np
 autodiscover.jjssnibuwatar.edu.np
@@ -115,6 +118,7 @@ gautamschoolbrj.edu.np
 git.git.inec.edu.np
 gloryeduservices.edu.np
 godawarividyamandir.edu.np
+gsniketan.edu.np
 gyandeepcollege.edu.np.sims.com.np
 hims.edu.np
 iesmac.com.jmssg.edu.np
@@ -135,6 +139,7 @@ mail.bss8.edu.np
 mail.dbhawanishankar.edu.np
 mail.esamemorial.edu.np
 mail.gautamschoolbrj.edu.np
+mail.gsniketan.edu.np
 mail.janajyotiss.edu.np
 mail.janatamavikhaniyakharka.edu.np
 mail.jjssnibuwatar.edu.np
@@ -166,6 +171,8 @@ nibc.edu.np
 norviceducations.edu.np
 okhreniss.edu.np
 okhreniss.edu.np.inspela.com
+pasangcollege.edu.np
+phulchokischool.edu.np
 prabhatsecondaryschool.edu.np
 prabhatsecondaryschool.edu.np.inspela.com
 rampurmavi.edu.np
@@ -221,6 +228,7 @@ webmail.bss8.edu.np
 webmail.dbhawanishankar.edu.np
 webmail.esamemorial.edu.np
 webmail.gautamschoolbrj.edu.np
+webmail.gsniketan.edu.np
 webmail.janajyotiss.edu.np
 webmail.janatamavikhaniyakharka.edu.np
 webmail.jjssnibuwatar.edu.np
@@ -256,6 +264,7 @@ www.ece.emergecomputer.edu.np
 www.esamemorial.edu.np
 www.gautamschool.edu.np
 www.gautamschoolbrj.edu.np
+www.gsniketan.edu.np
 www.gyandeepcollege.edu.np.sims.com.np
 www.iesmac.com.jmssg.edu.np
 www.janajyotiss.edu.np
@@ -277,6 +286,7 @@ www.nibc.edu.np
 www.notelibrarynepal.com.satyanarayanschool.edu.np
 www.okhreniss.edu.np
 www.okhreniss.edu.np.inspela.com
+www.pasangcollege.edu.np
 www.prabhatsecondaryschool.edu.np
 www.prabhatsecondaryschool.edu.np.inspela.com
 www.rampurmavi.edu.np
