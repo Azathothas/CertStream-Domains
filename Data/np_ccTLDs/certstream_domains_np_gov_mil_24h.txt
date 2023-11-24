@@ -1,4 +1,6 @@
 contact-dir.heoc.mohp.gov.np
+dfomustang.gov.np
+diccp.gandaki.gov.np
 ehrpmis.nra.gov.np
 heoc.mohp.gov.np
 naksapass.chandrapurmun.gov.np
@@ -7,3 +9,5 @@ pollution.gov.np
 reconstruction.ndrrma.gov.np
 sbcpco.dudbc.gov.np
 ward10.lmc.gov.np
+www.csionawalpur.gov.np
+www.dfomustang.gov.np

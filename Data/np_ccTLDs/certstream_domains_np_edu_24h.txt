@@ -2,6 +2,7 @@ admin.gsniketan.edu.np
 admin.hles.edu.np
 admin.old.prajitaacademy.edu.np
 admin.pascalschool.edu.np
+ahs.edu.np
 amc.edu.np
 app.accelerateacademy.edu.np
 autoconfig.gsniketan.edu.np
@@ -16,6 +17,7 @@ autodiscover.janajyotiss.edu.np
 autodiscover.janatamavikhaniyakharka.edu.np
 autodiscover.jdss.edu.np
 autodiscover.jjssnibuwatar.edu.np
+autodiscover.kmcschool.edu.np
 autodiscover.kundeshworss.edu.np
 autodiscover.kutidanda.edu.np
 autodiscover.lccrc.edu.np
@@ -24,6 +26,7 @@ autodiscover.mavishashinagar.edu.np
 autodiscover.nepalyubakss.edu.np
 autodiscover.okhreniss.edu.np
 autodiscover.old.prajitaacademy.edu.np
+autodiscover.phdcentre.edu.np
 autodiscover.prabhatsecondaryschool.edu.np
 autodiscover.rampurmavi.edu.np
 autodiscover.sahidss.edu.np
@@ -37,6 +40,7 @@ autodiscover.shreesharadasecondary.edu.np
 autodiscover.shreesharadass.edu.np
 autodiscover.sundariss.edu.np
 autodiscover.tejbinayakss.edu.np
+baseeducation.edu.np
 baseeducation.edu.np.nepalbuddistpeacesociety.org
 bharatpurischool.edu.np
 bhimeshwarschool.edu.np
@@ -52,6 +56,8 @@ canvasbasantaritus.edu.np
 cdhsc.edu.np
 com.satyanarayanschool.edu.np
 conference.ioe.edu.np
+cpanel.ahs.edu.np
+cpanel.baseeducation.edu.np
 cpanel.biratmedicalcollege.edu.np
 cpanel.bss8.edu.np
 cpanel.dbhawanishankar.edu.np
@@ -63,6 +69,7 @@ cpanel.janatamavikhaniyakharka.edu.np
 cpanel.jdss.edu.np
 cpanel.jjssnibuwatar.edu.np
 cpanel.kba.edu.np
+cpanel.kmcschool.edu.np
 cpanel.kundeshworss.edu.np
 cpanel.kutidanda.edu.np
 cpanel.lccrc.edu.np
@@ -74,6 +81,7 @@ cpanel.nasacademy.edu.np
 cpanel.nepalyubakss.edu.np
 cpanel.nibc.edu.np
 cpanel.okhreniss.edu.np
+cpanel.phdcentre.edu.np
 cpanel.prabhatsecondaryschool.edu.np
 cpanel.professional.edu.np
 cpanel.rampurmavi.edu.np
@@ -90,6 +98,8 @@ cpanel.shreesharadass.edu.np
 cpanel.sundariss.edu.np
 cpanel.tejbinayakss.edu.np
 cpanel.trainerjames.edu.np
+cpcalendars.ahs.edu.np
+cpcalendars.baseeducation.edu.np
 cpcalendars.biratmedicalcollege.edu.np
 cpcalendars.bss8.edu.np
 cpcalendars.dbhawanishankar.edu.np
@@ -101,6 +111,7 @@ cpcalendars.janatamavikhaniyakharka.edu.np
 cpcalendars.jdss.edu.np
 cpcalendars.jjssnibuwatar.edu.np
 cpcalendars.kba.edu.np
+cpcalendars.kmcschool.edu.np
 cpcalendars.kundeshworss.edu.np
 cpcalendars.kutidanda.edu.np
 cpcalendars.lccrc.edu.np
@@ -112,6 +123,7 @@ cpcalendars.nasacademy.edu.np
 cpcalendars.nepalyubakss.edu.np
 cpcalendars.nibc.edu.np
 cpcalendars.okhreniss.edu.np
+cpcalendars.phdcentre.edu.np
 cpcalendars.prabhatsecondaryschool.edu.np
 cpcalendars.professional.edu.np
 cpcalendars.rampurmavi.edu.np
@@ -128,6 +140,8 @@ cpcalendars.shreesharadass.edu.np
 cpcalendars.sundariss.edu.np
 cpcalendars.tejbinayakss.edu.np
 cpcalendars.trainerjames.edu.np
+cpcontacts.ahs.edu.np
+cpcontacts.baseeducation.edu.np
 cpcontacts.biratmedicalcollege.edu.np
 cpcontacts.bss8.edu.np
 cpcontacts.dbhawanishankar.edu.np
@@ -139,6 +153,7 @@ cpcontacts.janatamavikhaniyakharka.edu.np
 cpcontacts.jdss.edu.np
 cpcontacts.jjssnibuwatar.edu.np
 cpcontacts.kba.edu.np
+cpcontacts.kmcschool.edu.np
 cpcontacts.kundeshworss.edu.np
 cpcontacts.kutidanda.edu.np
 cpcontacts.lccrc.edu.np
@@ -150,6 +165,7 @@ cpcontacts.nasacademy.edu.np
 cpcontacts.nepalyubakss.edu.np
 cpcontacts.nibc.edu.np
 cpcontacts.okhreniss.edu.np
+cpcontacts.phdcentre.edu.np
 cpcontacts.prabhatsecondaryschool.edu.np
 cpcontacts.professional.edu.np
 cpcontacts.rampurmavi.edu.np
@@ -182,6 +198,7 @@ galaxyhumanresource.edu.np
 gautamschool.edu.np
 gautamschoolbrj.edu.np
 gces.edu.np
+gipt.edu.np
 git.git.inec.edu.np
 gloryeduservices.edu.np
 godawarividyamandir.edu.np
@@ -204,6 +221,7 @@ jjssnibuwatar.edu.np.inspela.com
 journal.khwopacollege.edu.np
 kathmandumodelschool.edu.np
 kba.edu.np
+kmcschool.edu.np
 kundeshworss.edu.np
 kundeshworss.edu.np.inspela.com
 kutidanda.edu.np
@@ -212,6 +230,7 @@ lccrc.edu.np
 lhtc.edu.np
 m.aipa.edu.np
 mahendraadarsha.edu.np
+mail.baseeducation.edu.np
 mail.biratmedicalcollege.edu.np
 mail.bss8.edu.np
 mail.dbhawanishankar.edu.np
@@ -225,6 +244,7 @@ mail.jdss.edu.np
 mail.jjssnibuwatar.edu.np
 mail.jubilantcollege.edu.np
 mail.kba.edu.np
+mail.kmcschool.edu.np
 mail.kundeshworss.edu.np
 mail.kutidanda.edu.np
 mail.lccrc.edu.np
@@ -237,6 +257,7 @@ mail.nepalyubakss.edu.np
 mail.nibc.edu.np
 mail.okhreniss.edu.np
 mail.old.prajitaacademy.edu.np
+mail.phdcentre.edu.np
 mail.prabhatsecondaryschool.edu.np
 mail.professional.edu.np
 mail.rampurmavi.edu.np
@@ -277,6 +298,7 @@ okhreniss.edu.np.inspela.com
 old.prajitaacademy.edu.np
 parbatischool.edu.np
 pasangcollege.edu.np
+phdcentre.edu.np
 phulchokischool.edu.np
 plustwo.achsnepal.edu.np
 portfolio.edigitalnepal.edu.np
@@ -313,6 +335,7 @@ shreesharadass.edu.np
 shreesharadass.edu.np.inspela.com
 shubhakamana.edu.np
 slc.rec.edu.np
+sugata.edu.np
 sundariss.edu.np
 sundariss.edu.np.inspela.com
 t1.edigitalnepal.edu.np
@@ -320,6 +343,7 @@ t2.edigitalnepal.edu.np
 t3.edigitalnepal.edu.np
 t4.edigitalnepal.edu.np
 taalpaarihotel.com.np.gyaninstitute.edu.np
+takshashilaschool.edu.np
 tejbinayakss.edu.np
 tejbinayakss.edu.np.inspela.com
 test.nibc.edu.np
@@ -327,6 +351,8 @@ test.yaxis.edu.np
 testdomain.npi.edu.np
 trainerjames.edu.np
 uniquemedicalcollege.edu.np
+webdisk.ahs.edu.np
+webdisk.baseeducation.edu.np
 webdisk.biratmedicalcollege.edu.np
 webdisk.bss8.edu.np
 webdisk.dbhawanishankar.edu.np
@@ -338,6 +364,7 @@ webdisk.janatamavikhaniyakharka.edu.np
 webdisk.jdss.edu.np
 webdisk.jjssnibuwatar.edu.np
 webdisk.kba.edu.np
+webdisk.kmcschool.edu.np
 webdisk.kundeshworss.edu.np
 webdisk.kutidanda.edu.np
 webdisk.lccrc.edu.np
@@ -349,6 +376,7 @@ webdisk.nasacademy.edu.np
 webdisk.nepalyubakss.edu.np
 webdisk.nibc.edu.np
 webdisk.okhreniss.edu.np
+webdisk.phdcentre.edu.np
 webdisk.prabhatsecondaryschool.edu.np
 webdisk.professional.edu.np
 webdisk.rampurmavi.edu.np
@@ -365,6 +393,8 @@ webdisk.shreesharadass.edu.np
 webdisk.sundariss.edu.np
 webdisk.tejbinayakss.edu.np
 webdisk.trainerjames.edu.np
+webmail.ahs.edu.np
+webmail.baseeducation.edu.np
 webmail.biratmedicalcollege.edu.np
 webmail.bss8.edu.np
 webmail.dbhawanishankar.edu.np
@@ -378,6 +408,7 @@ webmail.janatamavikhaniyakharka.edu.np
 webmail.jdss.edu.np
 webmail.jjssnibuwatar.edu.np
 webmail.kba.edu.np
+webmail.kmcschool.edu.np
 webmail.kundeshworss.edu.np
 webmail.kutidanda.edu.np
 webmail.lccrc.edu.np
@@ -390,6 +421,7 @@ webmail.nepalyubakss.edu.np
 webmail.nibc.edu.np
 webmail.okhreniss.edu.np
 webmail.old.prajitaacademy.edu.np
+webmail.phdcentre.edu.np
 webmail.prabhatsecondaryschool.edu.np
 webmail.professional.edu.np
 webmail.rampurmavi.edu.np
@@ -410,6 +442,7 @@ www.account.jibika.edu.np
 www.admin.amc.edu.np
 www.admin.pascalschool.edu.np
 www.app.accelerateacademy.edu.np
+www.baseeducation.edu.np
 www.baseeducation.edu.np.nepalbuddistpeacesociety.org
 www.biratmedicalcollege.edu.np
 www.bnks.edu.np
@@ -445,6 +478,7 @@ www.jjssnibuwatar.edu.np.inspela.com
 www.jyotimandalmavi.edu.np
 www.kathmandumodelschool.edu.np
 www.kba.edu.np
+www.kmcschool.edu.np
 www.kundeshworss.edu.np
 www.kundeshworss.edu.np.inspela.com
 www.kutidanda.edu.np
@@ -468,6 +502,7 @@ www.okhreniss.edu.np
 www.okhreniss.edu.np.inspela.com
 www.old.prajitaacademy.edu.np
 www.pasangcollege.edu.np
+www.phdcentre.edu.np
 www.prabhatsecondaryschool.edu.np
 www.prabhatsecondaryschool.edu.np.inspela.com
 www.rampurmavi.edu.np
