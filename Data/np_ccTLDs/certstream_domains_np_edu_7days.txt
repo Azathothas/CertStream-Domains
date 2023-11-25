@@ -297,6 +297,7 @@ cpanel.kantipurinternational.edu.np
 cpanel.kantipurschool.edu.np
 cpanel.kaspam.edu.np
 cpanel.kba.edu.np
+cpanel.kingscollege.edu.np
 cpanel.kirtipurschool.edu.np
 cpanel.kmcdoe.edu.np
 cpanel.kmcschool.edu.np
@@ -361,6 +362,7 @@ cpanel.sarwajyoti.edu.np
 cpanel.sbgss.edu.np
 cpanel.sbs.edu.np
 cpanel.sbssranipauwa.edu.np
+cpanel.scibs.edu.np
 cpanel.scss.edu.np
 cpanel.sda.edu.np
 cpanel.segacomputer.edu.np
@@ -471,6 +473,7 @@ cpcalendars.kantipurinternational.edu.np
 cpcalendars.kantipurschool.edu.np
 cpcalendars.kaspam.edu.np
 cpcalendars.kba.edu.np
+cpcalendars.kingscollege.edu.np
 cpcalendars.kirtipurschool.edu.np
 cpcalendars.kmcdoe.edu.np
 cpcalendars.kmcschool.edu.np
@@ -533,6 +536,7 @@ cpcalendars.saraswatidailekh.edu.np
 cpcalendars.sbgss.edu.np
 cpcalendars.sbs.edu.np
 cpcalendars.sbssranipauwa.edu.np
+cpcalendars.scibs.edu.np
 cpcalendars.scss.edu.np
 cpcalendars.sda.edu.np
 cpcalendars.segacomputer.edu.np
@@ -641,6 +645,7 @@ cpcontacts.kantipurinternational.edu.np
 cpcontacts.kantipurschool.edu.np
 cpcontacts.kaspam.edu.np
 cpcontacts.kba.edu.np
+cpcontacts.kingscollege.edu.np
 cpcontacts.kirtipurschool.edu.np
 cpcontacts.kmcdoe.edu.np
 cpcontacts.kmcschool.edu.np
@@ -703,6 +708,7 @@ cpcontacts.saraswatidailekh.edu.np
 cpcontacts.sbgss.edu.np
 cpcontacts.sbs.edu.np
 cpcontacts.sbssranipauwa.edu.np
+cpcontacts.scibs.edu.np
 cpcontacts.scss.edu.np
 cpcontacts.sda.edu.np
 cpcontacts.segacomputer.edu.np
@@ -816,6 +822,7 @@ faqs.bradford.edu.np
 fip.afu.edu.np
 florida.edu.np
 fluorescent.edu.np
+forms.ghen.edu.np
 forward.cmc.edu.np
 fr.what.website.mmamcbba.edu.np
 fulbarimontessori.edu.np
@@ -949,6 +956,7 @@ kba.edu.np
 kccs.edu.np
 keckist.edu.np
 kic.edu.np
+kingscollege.edu.np
 kirtipurschool.edu.np
 kistmedicalcollege.edu.np
 kmccollege.edu.np
@@ -992,6 +1000,7 @@ login.ssps.edu.np
 login.what.website.mmamcbba.edu.np
 lokpriyaschool.edu.np
 loksewaonlineexam.edu.np
+lovelyhillsresidency.gyaninstitute.edu.np
 lss.edu.np
 lumbiniadarsha.edu.np
 lychee.edu.np
@@ -1077,6 +1086,7 @@ mail.kantipurinternational.edu.np
 mail.kantipurschool.edu.np
 mail.kaspam.edu.np
 mail.kba.edu.np
+mail.kingscollege.edu.np
 mail.kirtipurschool.edu.np
 mail.kistmcth.edu.np
 mail.kmcdoe.edu.np
@@ -1091,6 +1101,7 @@ mail.kutumba.edu.np
 mail.laboratoryschoolnepal.edu.np
 mail.lccrc.edu.np
 mail.les.edu.np
+mail.lfss.edu.np
 mail.lhtc.edu.np
 mail.lna.edu.np
 mail.lokpriyaschool.edu.np
@@ -1160,6 +1171,7 @@ mail.satyanarayanschool.edu.np
 mail.sbgss.edu.np
 mail.sbs.edu.np
 mail.sbssranipauwa.edu.np
+mail.scibs.edu.np
 mail.scss.edu.np
 mail.sda.edu.np
 mail.segacomputer.edu.np
@@ -1415,6 +1427,7 @@ sbssranipauwa.edu.np.inspela.com
 school.angels.edu.np
 school.annapurna.edu.np
 schoolsaraswati.edu.np
+scibs.edu.np
 scss.edu.np
 scss.edu.np.inspela.com
 sda.edu.np
@@ -1638,6 +1651,7 @@ webdisk.kantipurinternational.edu.np
 webdisk.kantipurschool.edu.np
 webdisk.kaspam.edu.np
 webdisk.kba.edu.np
+webdisk.kingscollege.edu.np
 webdisk.kirtipurschool.edu.np
 webdisk.kmcdoe.edu.np
 webdisk.kmcschool.edu.np
@@ -1700,6 +1714,7 @@ webdisk.saraswatidailekh.edu.np
 webdisk.sbgss.edu.np
 webdisk.sbs.edu.np
 webdisk.sbssranipauwa.edu.np
+webdisk.scibs.edu.np
 webdisk.scss.edu.np
 webdisk.sda.edu.np
 webdisk.segacomputer.edu.np
@@ -1814,6 +1829,7 @@ webmail.kantipurschool.edu.np
 webmail.kaspam.edu.np
 webmail.kba.edu.np
 webmail.kic.edu.np
+webmail.kingscollege.edu.np
 webmail.kirtipurschool.edu.np
 webmail.kmcdoe.edu.np
 webmail.kmclibrary.edu.np
@@ -1882,6 +1898,7 @@ webmail.saraswatidailekh.edu.np
 webmail.sbgss.edu.np
 webmail.sbs.edu.np
 webmail.sbssranipauwa.edu.np
+webmail.scibs.edu.np
 webmail.scss.edu.np
 webmail.sda.edu.np
 webmail.segacomputer.edu.np
@@ -2145,6 +2162,7 @@ www.kba.edu.np
 www.kccs.edu.np
 www.kdsspyutar.edu.np
 www.kedarnath.cdmathtu.edu.np
+www.kingscollege.edu.np
 www.kirtipurschool.edu.np
 www.kjassociates.hcoe.edu.np
 www.kmcdoe.edu.np
@@ -2174,6 +2192,7 @@ www.lna.edu.np
 www.lna.jmssg.edu.np
 www.login.ssps.edu.np
 www.lokpriyaschool.edu.np
+www.lovelyhillsresidency.gyaninstitute.edu.np
 www.lumbiniadarsha.edu.np
 www.m.aipa.edu.np
 www.m.ssps.edu.np
@@ -2313,6 +2332,7 @@ www.school.annapurna.edu.np
 www.school.vac.edu.np
 www.schoolarunodaya.edu.np
 www.schoolsaraswati.edu.np
+www.scibs.edu.np
 www.scss.edu.np
 www.scss.edu.np.inspela.com
 www.sda.edu.np
