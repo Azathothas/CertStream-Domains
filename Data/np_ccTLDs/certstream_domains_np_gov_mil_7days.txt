@@ -54,6 +54,7 @@ hellocm.sudurpashchim.gov.np
 heoc.mohp.gov.np
 home.phidimmun.gov.np
 ijalas.kathmandu.gov.np
+ijalas.phidimmun.gov.np
 ilam.akc.gov.np
 jayaprithvimun.gov.np
 jeetpursimaramun.gov.np

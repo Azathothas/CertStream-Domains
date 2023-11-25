@@ -1,6 +1,7 @@
 api.ncell.axiata.com
 chatbot.ntc.net.np
 classic.com.np
+isp.nettv.com.np
 log.ntc.net.np
 monitor.ntc.net.np
 nas1.classic.com.np
