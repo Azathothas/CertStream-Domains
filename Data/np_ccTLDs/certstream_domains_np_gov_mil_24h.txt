@@ -12,6 +12,7 @@ ebps.dharan.gov.np
 home.phidimmun.gov.np
 mdvip.gov.np
 moyas.bagamati.gov.np
+naksapass.chandrapurmun.gov.np
 ocmcm.bagamati.gov.np
 ocs.bagamati.gov.np
 ocs.p3.gov.np
