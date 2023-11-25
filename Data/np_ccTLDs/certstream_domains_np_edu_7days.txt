@@ -32,6 +32,7 @@ aimsbrt.edu.np
 ajschool.edu.np
 alevel.trinity.edu.np
 alumni.ksl.edu.np
+alumni.ssebschool.edu.np
 amc.edu.np
 amcdhangadhi.edu.np
 amityeducation.edu.np
@@ -142,6 +143,7 @@ avn.edu.np
 bachelor.trinity.edu.np
 baljagatebs.edu.np
 balkumarisecondaryschool.edu.np
+balmandirschool.edu.np
 balmikilincoln.edu.np
 baltara.edu.np
 baseeducation.edu.np
@@ -784,6 +786,7 @@ eastpolecollege.edu.np
 ece.emergecomputer.edu.np
 ecec.edu.np
 edigitalnepal.edu.np
+editor.stellar.edu.np
 edu.np.clearwebstats.com
 edu.np.easyaccessnp.com
 edu.np.getstat.site
@@ -813,6 +816,7 @@ faqs.bradford.edu.np
 fip.afu.edu.np
 florida.edu.np
 fluorescent.edu.np
+forward.cmc.edu.np
 fr.what.website.mmamcbba.edu.np
 fulbarimontessori.edu.np
 fwuexam.edu.np
@@ -972,6 +976,7 @@ laboratoryschoolnepal.edu.np
 laf.edu.np
 laligurashenglishschool.edu.np
 lccrc.edu.np
+learners.edu.np
 les.edu.np
 lhtc.edu.np
 like.edu.np
@@ -1004,6 +1009,7 @@ mail.acti.edu.np
 mail.angels.edu.np
 mail.annapurnasecondaryschool.edu.np
 mail.balkumarisecondaryschool.edu.np
+mail.balmandirschool.edu.np
 mail.balmikischool.edu.np
 mail.baseeducation.edu.np
 mail.bathm.edu.np
@@ -1950,6 +1956,7 @@ www.admin.ssps.edu.np
 www.admission.excelcollege.edu.np
 www.aecg.edu.np
 www.alumni.ksl.edu.np
+www.alumni.ssebschool.edu.np
 www.anaj.gia.edu.np
 www.analytical-engine-com.keckist.edu.np
 www.analytical-engine-org.keckist.edu.np
@@ -1964,6 +1971,7 @@ www.app.accelerateacademy.edu.np
 www.arniko.edu.np
 www.attendance.cctdharan.edu.np
 www.balkumarisecondaryschool.edu.np
+www.balmandirschool.edu.np
 www.baseeducation.edu.np
 www.baseeducation.edu.np.nepalbuddistpeacesociety.org
 www.basicschoolchiyabari.edu.np.easyaccessnp.com
