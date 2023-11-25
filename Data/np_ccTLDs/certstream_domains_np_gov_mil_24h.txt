@@ -10,8 +10,14 @@ diccp.gandaki.gov.np
 ebps.dharan.gov.np
 home.phidimmun.gov.np
 mdvip.gov.np
+moyas.bagamati.gov.np
+ocmcm.bagamati.gov.np
+ocs.bagamati.gov.np
+ocs.p3.gov.np
+oldmoial.bagamati.gov.np
 pds.phidimmun.gov.np
 pollution.gov.np
+pppc.bagamati.gov.np
 profiling.phidimmun.gov.np
 sifaris.phidimmun.gov.np
 soil.narc.gov.np
@@ -19,3 +25,4 @@ wadapatra.phidimmun.gov.np
 www.csionawalpur.gov.np
 www.dfomustang.gov.np
 www.mdvip.gov.np
+www.ocmcm.bagamati.gov.np
