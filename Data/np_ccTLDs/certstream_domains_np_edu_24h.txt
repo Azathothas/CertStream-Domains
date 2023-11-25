@@ -67,6 +67,7 @@ local.exam.staging.mu.edu.np
 lovelyhome.edu.np.projectincube.com
 m.ssps.edu.np
 mail.arjunhighschool.edu.np
+mail.careercounselling.edu.np
 mail.eagerbridge.edu.np
 mail.gsniketan.edu.np
 mail.gyanbahumukhicampus.edu.np

@@ -4,6 +4,7 @@ api-rms.ndrrma.gov.np
 bajrabarahihospital.bagamati.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+csionawalpur.gov.np
 darta-chalani.mellekhmun.gov.np
 dfomustang.gov.np
 diccp.gandaki.gov.np
