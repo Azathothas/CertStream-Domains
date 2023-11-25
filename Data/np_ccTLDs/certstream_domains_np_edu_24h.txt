@@ -4,6 +4,7 @@ admin.gsniketan.edu.np
 admin.hles.edu.np
 admin.old.shanischaremultiplecampus.edu.np
 admin.stpaulsenglishschool.edu.np
+aecg.edu.np
 alumni.ssebschool.edu.np
 apexmalangwa.edu.np
 api.local.exam.staging.mu.edu.np
@@ -21,6 +22,7 @@ blog.gha.edu.np
 boudhaschool.edu.np
 boudhaschool.edu.np.walkershive.com
 campionacademy.edu.np
+clover.edu.np
 cpanel.arjunhighschool.edu.np
 cpanel.eagerbridge.edu.np
 cpanel.gyanbahumukhicampus.edu.np
@@ -62,6 +64,7 @@ gyanbatika.edu.np
 happyboarding.edu.np
 hillsidesample.edu.np
 hles.edu.np
+inquiry.kcc.edu.np
 jdss.edu.np
 jdss.edu.np.inspela.com
 jssk.edu.np
@@ -124,6 +127,7 @@ shreekulschool.edu.np
 shreeramcharitra.edu.np
 siddhapailaschool.edu.np
 smartschool.nationalidol.edu.np
+sms.babyangel.edu.np
 srijanshil.edu.np
 ssdbss.edu.np
 stpaulsenglishschool.edu.np
@@ -163,6 +167,7 @@ webmail.ssdbss.edu.np
 webmail.stpaulsenglishschool.edu.np
 webmail.surkhetdeuti.edu.np
 webmail.tivs.edu.np
+www.aecg.edu.np
 www.alumni.ssebschool.edu.np
 www.apexmalangwa.edu.np
 www.arjunhighschool.edu.np
@@ -179,6 +184,7 @@ www.gsniketan.edu.np
 www.happyboarding.edu.np
 www.hillsidesample.edu.np
 www.hles.edu.np
+www.inquiry.kcc.edu.np
 www.jdss.edu.np
 www.jdss.edu.np.inspela.com
 www.jssk.edu.np
@@ -204,4 +210,5 @@ www.studyinaustralia.nibc.edu.np
 www.surkhetdeuti.edu.np
 www.tivs.edu.np
 www.tivs.edu.np.pioneerassociate1234.com.np
+www.www.git.ww.kti.edu.np
 www.www1.ssps.edu.np
