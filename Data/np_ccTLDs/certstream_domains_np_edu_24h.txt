@@ -55,6 +55,7 @@ eagerbridge.edu.np
 edigitalnepal.edu.np
 elibrary.edu.np
 esmael.ecea-s.easycare.edu.np
+git.git.bls.edu.np
 git.ww.kti.edu.np
 globalacademy.edu.np
 gsniketan.edu.np
@@ -111,6 +112,7 @@ nma.edu.np
 norviceducations.edu.np
 ntvnepal.baraacademy.edu.np
 old.shanischaremultiplecampus.edu.np
+orientcollege.edu.np
 oxfordadvanced.edu.np
 pascalcollege.edu.np
 pascalschool.edu.np
@@ -168,6 +170,7 @@ webmail.stpaulsenglishschool.edu.np
 webmail.surkhetdeuti.edu.np
 webmail.tivs.edu.np
 www.aecg.edu.np
+www.alevels.orientcollege.edu.np
 www.alumni.ssebschool.edu.np
 www.apexmalangwa.edu.np
 www.arjunhighschool.edu.np
@@ -198,7 +201,9 @@ www.nepalmontessori.edu.np
 www.norviceducations.edu.np
 www.ntvnepal.baraacademy.edu.np
 www.old.shanischaremultiplecampus.edu.np
+www.omshreecomputer.edu.np
 www.pascalschool.edu.np
+www.plus2.orientcollege.edu.np
 www.plustwo.xavier.edu.np
 www.saraswatihs.edu.np
 www.sgss.edu.np

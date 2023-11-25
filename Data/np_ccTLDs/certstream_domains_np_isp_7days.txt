@@ -1,6 +1,8 @@
 api.ncell.axiata.com
 chatbot.ntc.net.np
 classic.com.np
+log.ntc.net.np
+monitor.ntc.net.np
 nas1.classic.com.np
 pg.ncell.axiata.com
 speedtestktm.ntc.net.np
@@ -9,6 +11,7 @@ subisu.net.np.admin-mcas-df.ms
 subisu.net.np.admin-mcas.ms
 subisu.net.np.mcas-df.ms
 subisu.net.np.mcas.ms
+vault.ntc.net.np
 vendor-access.worldlink.com.np
 vianet.com.np
 viatv.com.np
