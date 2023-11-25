@@ -13,6 +13,7 @@ cpcontacts.eagerbridge.edu.np
 cpcontacts.surkhetdeuti.edu.np
 cpcontacts.tivs.edu.np
 eagerbridge.edu.np
+esmael.ecea-s.easycare.edu.np
 git.ww.kti.edu.np
 jssk.edu.np
 khwopring.edu.np
@@ -41,6 +42,7 @@ www.apexmalangwa.edu.np
 www.boudhaschool.edu.np.walkershive.com
 www.campionacademy.edu.np
 www.eagerbridge.edu.np
+www.esmael.ecea-s.easycare.edu.np
 www.jssk.edu.np
 www.sgss.edu.np
 www.shreeramcharitra.edu.np
