@@ -93,6 +93,7 @@ mail.surkhetdeuti.edu.np
 mail.tivs.edu.np
 manasluworldcollege.edu.np
 millsschool.edu.np
+molihss.edu.np
 moodle.kusms.edu.np
 mrmcollege.edu.np
 myfreeadmission.com.jmssg.edu.np
@@ -116,6 +117,7 @@ portfolio.edigitalnepal.edu.np
 preschool.edigitalnepal.edu.np
 rdi.ku.edu.np
 saraswatihs.edu.np
+sbbspi.edu.np
 sera.edu.np
 sgss.edu.np
 shreekulschool.edu.np
@@ -133,6 +135,7 @@ t2.edigitalnepal.edu.np
 t3.edigitalnepal.edu.np
 t4.edigitalnepal.edu.np
 test.citu.edu.np
+test.eplanetnepal.edu.np
 tivs.edu.np
 tivs.edu.np.pioneerassociate1234.com.np
 uniglobeschool.edu.np
