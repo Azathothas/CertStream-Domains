@@ -1,3 +1,4 @@
+aadimcollege.edu.np
 adarshsschoolnpj.edu.np
 apexmalangwa.edu.np
 api.local.exam.staging.mu.edu.np
@@ -14,8 +15,10 @@ cpcontacts.eagerbridge.edu.np
 cpcontacts.surkhetdeuti.edu.np
 cpcontacts.tivs.edu.np
 eagerbridge.edu.np
+elibrary.edu.np
 esmael.ecea-s.easycare.edu.np
 git.ww.kti.edu.np
+happyboarding.edu.np
 jssk.edu.np
 khwopring.edu.np
 klc.edu.np
@@ -24,13 +27,17 @@ local.exam.staging.mu.edu.np
 mail.eagerbridge.edu.np
 mail.surkhetdeuti.edu.np
 mail.tivs.edu.np
+mrmcollege.edu.np
 nhi.ku.edu.np
 nma.edu.np
 pascalcollege.edu.np
 pkcampus.edu.np
 rdi.ku.edu.np
+saraswatihs.edu.np
 sgss.edu.np
+shreekulschool.edu.np
 shreeramcharitra.edu.np
+smartschool.nationalidol.edu.np
 studyinaustralia.nibc.edu.np
 surkhetdeuti.edu.np
 system.nou.edu.np
@@ -49,10 +56,13 @@ www.boudhaschool.edu.np.walkershive.com
 www.campionacademy.edu.np
 www.eagerbridge.edu.np
 www.esmael.ecea-s.easycare.edu.np
+www.happyboarding.edu.np
 www.jssk.edu.np
 www.library.janakalyanchyasku.edu.np
+www.saraswatihs.edu.np
 www.sgss.edu.np
 www.shreeramcharitra.edu.np
+www.smartschool.nationalidol.edu.np
 www.studyinaustralia.nibc.edu.np
 www.surkhetdeuti.edu.np
 www.tivs.edu.np
