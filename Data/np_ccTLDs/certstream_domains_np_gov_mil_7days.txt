@@ -68,6 +68,7 @@ madhyanepalmun.gov.np
 mil.np.getstat.site
 mis.nic.gov.np
 moial.karnali.gov.np
+molet.bagamati.gov.np
 msystem.bagamati.gov.np
 municipality.gov.np
 mw.bagamati.gov.np
@@ -91,6 +92,7 @@ pppc.bagamati.gov.np
 reconstruction.ndrrma.gov.np
 rtsti.gandaki.gov.np
 sarlahi.pmamp.gov.np
+satyawatikrishi.gov.np
 sbcpco.dudbc.gov.np
 seedlab.koshi.gov.np
 sifarish.biratnagarmun.gov.np
@@ -139,6 +141,7 @@ www.nfdin.gov.np
 www.ofmis.gov.np
 www.pfca.gov.np
 www.plfbcprc.gov.np
+www.satyawatikrishi.gov.np
 www.swr.gov.np
 www.vcdc.gov.np
 www.vlpokhara.gov.np
