@@ -1,3 +1,4 @@
+adarshsschoolnpj.edu.np
 apexmalangwa.edu.np
 api.local.exam.staging.mu.edu.np
 boudhaschool.edu.np
@@ -17,12 +18,17 @@ esmael.ecea-s.easycare.edu.np
 git.ww.kti.edu.np
 jssk.edu.np
 khwopring.edu.np
+klc.edu.np
+library.janakalyanchyasku.edu.np
 local.exam.staging.mu.edu.np
 mail.eagerbridge.edu.np
 mail.surkhetdeuti.edu.np
 mail.tivs.edu.np
+nhi.ku.edu.np
 nma.edu.np
+pascalcollege.edu.np
 pkcampus.edu.np
+rdi.ku.edu.np
 sgss.edu.np
 shreeramcharitra.edu.np
 studyinaustralia.nibc.edu.np
@@ -44,6 +50,7 @@ www.campionacademy.edu.np
 www.eagerbridge.edu.np
 www.esmael.ecea-s.easycare.edu.np
 www.jssk.edu.np
+www.library.janakalyanchyasku.edu.np
 www.sgss.edu.np
 www.shreeramcharitra.edu.np
 www.studyinaustralia.nibc.edu.np
