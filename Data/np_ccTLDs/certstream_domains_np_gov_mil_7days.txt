@@ -28,6 +28,7 @@ dfonawalpur.gov.np
 dforukumwest.karnali.gov.np
 dfosyangja.gov.np
 dfotanahun.gov.np
+diccp.gandaki.gov.np
 dmis.karnalifrtc.gov.np
 dmisbheridfo.karnali.gov.np
 dmisdfoskt.karnali.gov.np
@@ -60,6 +61,7 @@ harinagarmun.gov.np
 health.udayapurgadhimun.gov.np
 hellocm.sudurpashchim.gov.np
 heoc.mohp.gov.np
+home.phidimmun.gov.np
 ijalas.kathmandu.gov.np
 ilam.akc.gov.np
 jayaprithvimun.gov.np
@@ -118,6 +120,7 @@ vhlsecnuwakot.bagamati.gov.np
 vlpokhara.gov.np
 vrs.bagamati.gov.np
 vstbutwal.gov.np
+ward10.lmc.gov.np
 ward28.lmc.gov.np
 wssdodadeldhura.gov.np
 www.assembly.sudurpashchim.gov.np.kalukunda.com.np
