@@ -13,6 +13,7 @@ autodiscover.gsniketan.edu.np
 autodiscover.hles.edu.np
 autodiscover.jdss.edu.np
 autodiscover.kundeshworss.edu.np
+blog.gha.edu.np
 boudhaschool.edu.np
 boudhaschool.edu.np.walkershive.com
 campionacademy.edu.np
@@ -77,6 +78,7 @@ mail.stpaulsenglishschool.edu.np
 mail.surkhetdeuti.edu.np
 mail.tivs.edu.np
 manasluworldcollege.edu.np
+millsschool.edu.np
 moodle.kusms.edu.np
 mrmcollege.edu.np
 ne.kopilavalleyschool.edu.np
@@ -100,6 +102,7 @@ sera.edu.np
 sgss.edu.np
 shreekulschool.edu.np
 shreeramcharitra.edu.np
+siddhapailaschool.edu.np
 smartschool.nationalidol.edu.np
 stpaulsenglishschool.edu.np
 studyinaustralia.nibc.edu.np
@@ -137,6 +140,7 @@ webmail.tivs.edu.np
 www.alumni.ssebschool.edu.np
 www.apexmalangwa.edu.np
 www.arjunhighschool.edu.np
+www.blog.gha.edu.np
 www.boudhaschool.edu.np.walkershive.com
 www.campionacademy.edu.np
 www.eagerbridge.edu.np

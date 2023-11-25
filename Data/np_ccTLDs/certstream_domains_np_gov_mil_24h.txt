@@ -14,6 +14,7 @@ pds.phidimmun.gov.np
 pollution.gov.np
 profiling.phidimmun.gov.np
 sifaris.phidimmun.gov.np
+soil.narc.gov.np
 wadapatra.phidimmun.gov.np
 www.csionawalpur.gov.np
 www.dfomustang.gov.np
