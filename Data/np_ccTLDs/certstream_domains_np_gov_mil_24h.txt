@@ -1,3 +1,4 @@
+admin.phidimmun.gov.np
 bajrabarahihospital.bagamati.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -6,5 +7,7 @@ diccp.gandaki.gov.np
 ebps.dharan.gov.np
 home.phidimmun.gov.np
 pollution.gov.np
+sifaris.phidimmun.gov.np
+wadapatra.phidimmun.gov.np
 www.csionawalpur.gov.np
 www.dfomustang.gov.np

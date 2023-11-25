@@ -1,5 +1,6 @@
 aadimcollege.edu.np
 adarshsschoolnpj.edu.np
+alumni.ssebschool.edu.np
 apexmalangwa.edu.np
 api.local.exam.staging.mu.edu.np
 boudhaschool.edu.np
@@ -26,6 +27,7 @@ hillsidesample.edu.np
 jssk.edu.np
 khwopring.edu.np
 klc.edu.np
+learners.edu.np
 library.janakalyanchyasku.edu.np
 local.exam.staging.mu.edu.np
 m.ssps.edu.np
@@ -59,6 +61,7 @@ webmail.eagerbridge.edu.np
 webmail.hillsidesample.edu.np
 webmail.surkhetdeuti.edu.np
 webmail.tivs.edu.np
+www.alumni.ssebschool.edu.np
 www.apexmalangwa.edu.np
 www.boudhaschool.edu.np.walkershive.com
 www.campionacademy.edu.np
