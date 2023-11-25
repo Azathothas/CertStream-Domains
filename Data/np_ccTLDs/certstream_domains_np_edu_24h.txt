@@ -19,9 +19,11 @@ cpcontacts.hillsidesample.edu.np
 cpcontacts.surkhetdeuti.edu.np
 cpcontacts.tivs.edu.np
 eagerbridge.edu.np
+edigitalnepal.edu.np
 elibrary.edu.np
 esmael.ecea-s.easycare.edu.np
 git.ww.kti.edu.np
+gyanbatika.edu.np
 happyboarding.edu.np
 hillsidesample.edu.np
 jssk.edu.np
@@ -37,9 +39,12 @@ mail.surkhetdeuti.edu.np
 mail.tivs.edu.np
 mrmcollege.edu.np
 nhi.ku.edu.np
+nistschool.edigitalnepal.edu.np
 nma.edu.np
 pascalcollege.edu.np
 pkcampus.edu.np
+portfolio.edigitalnepal.edu.np
+preschool.edigitalnepal.edu.np
 rdi.ku.edu.np
 saraswatihs.edu.np
 sgss.edu.np
@@ -49,6 +54,10 @@ smartschool.nationalidol.edu.np
 studyinaustralia.nibc.edu.np
 surkhetdeuti.edu.np
 system.nou.edu.np
+t1.edigitalnepal.edu.np
+t2.edigitalnepal.edu.np
+t3.edigitalnepal.edu.np
+t4.edigitalnepal.edu.np
 tivs.edu.np
 tivs.edu.np.pioneerassociate1234.com.np
 uniglobeschool.edu.np
@@ -66,6 +75,7 @@ www.apexmalangwa.edu.np
 www.boudhaschool.edu.np.walkershive.com
 www.campionacademy.edu.np
 www.eagerbridge.edu.np
+www.edigitalnepal.edu.np
 www.esmael.ecea-s.easycare.edu.np
 www.happyboarding.edu.np
 www.hillsidesample.edu.np
