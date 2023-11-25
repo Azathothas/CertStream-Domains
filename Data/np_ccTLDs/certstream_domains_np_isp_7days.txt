@@ -5,6 +5,7 @@ log.ntc.net.np
 monitor.ntc.net.np
 nas1.classic.com.np
 pg.ncell.axiata.com
+sabin.wlink.com.np
 speedtestktm.ntc.net.np
 stage-shop.worldlink.com.np
 subisu.net.np.admin-mcas-df.ms
