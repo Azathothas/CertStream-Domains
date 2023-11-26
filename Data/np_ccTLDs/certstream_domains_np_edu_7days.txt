@@ -37,6 +37,7 @@ alumni.ssebschool.edu.np
 amc.edu.np
 amcdhangadhi.edu.np
 amityglobal.edu.np
+amv.edu.np
 anaj.gia.edu.np
 angels.edu.np
 annapurnasecondaryschool.edu.np
@@ -45,6 +46,7 @@ api.deukhurimultiplecampus.edu.np
 api.local.exam.staging.mu.edu.np
 app.accelerateacademy.edu.np
 app.sen.edu.np
+appointment.sen.edu.np
 arjunhighschool.edu.np
 ath.tu.edu.np
 attendance.cctdharan.edu.np
@@ -169,6 +171,7 @@ bktnist.edu.np
 blog.djps.edu.np
 blog.gha.edu.np
 blog.oxfordcollege.edu.np
+blog.premier.edu.np
 bmafc.edu.np
 bnc.tu.edu.np
 bnks.edu.np
@@ -246,6 +249,7 @@ cpanel.eagerbridge.edu.np
 cpanel.educationpark.edu.np
 cpanel.elearn.kafcol.edu.np
 cpanel.esamemorial.edu.np
+cpanel.evergreen-school.edu.np
 cpanel.fwuexam.edu.np
 cpanel.galaxyhtschool.edu.np
 cpanel.gautamschoolbrj.edu.np
@@ -559,6 +563,7 @@ cpcontacts.eagerbridge.edu.np
 cpcontacts.educationpark.edu.np
 cpcontacts.elearn.kafcol.edu.np
 cpcontacts.esamemorial.edu.np
+cpcontacts.evergreen-school.edu.np
 cpcontacts.fwuexam.edu.np
 cpcontacts.galaxyhtschool.edu.np
 cpcontacts.gautamschoolbrj.edu.np
@@ -743,6 +748,7 @@ eplanet.edu.np
 erp.sxc.edu.np
 esamemorial.edu.np
 esmael.ecea-s.easycare.edu.np
+evergreen-school.edu.np
 evergreenschool.edu.np
 exam.enlightacademy.edu.np
 exam.thewestminstercollege.edu.np
@@ -888,6 +894,7 @@ kmcschool.edu.np
 kmctlw.edu.np
 kmi.edu.np
 knpi.edu.np
+koha-admin.anthropologytu.edu.np
 kopilavalleyschool.edu.np
 krishna.edu.np
 krishnamavitimu.edu.np
@@ -930,6 +937,7 @@ mahakalicampus.edu.np
 mahendraadarsha.edu.np
 mail.aceschool.edu.np
 mail.acti.edu.np
+mail.amv.edu.np
 mail.angels.edu.np
 mail.annapurnasecondaryschool.edu.np
 mail.arjunhighschool.edu.np
@@ -959,6 +967,7 @@ mail.eagerbridge.edu.np
 mail.educationpark.edu.np
 mail.elearn.kafcol.edu.np
 mail.esamemorial.edu.np
+mail.evergreen-school.edu.np
 mail.fwuexam.edu.np
 mail.galaxyhtschool.edu.np
 mail.gautamschoolbrj.edu.np
@@ -1422,6 +1431,7 @@ test.jyotischool.edu.np
 test.nibc.edu.np
 test.yaxis.edu.np
 testdomain.npi.edu.np
+texasintlschool.edu.np
 thomas.edu.np
 timesschool.edu.np
 tivs.edu.np
@@ -1441,6 +1451,7 @@ ttc.edu.np
 ttl.ku.edu.np
 tucded.edu.np
 tufoe.edu.np
+tukiglobal.edu.np
 tvs.edu.np
 tyoudamavi.edu.np
 ugc.smstu.edu.np
@@ -1645,6 +1656,7 @@ webmail.eagerbridge.edu.np
 webmail.educationpark.edu.np
 webmail.elearn.kafcol.edu.np
 webmail.esamemorial.edu.np
+webmail.evergreen-school.edu.np
 webmail.fwuexam.edu.np
 webmail.galaxyhtschool.edu.np
 webmail.gautamschoolbrj.edu.np
@@ -1808,6 +1820,7 @@ www.aecg.edu.np
 www.alevels.orientcollege.edu.np
 www.alumni.ksl.edu.np
 www.alumni.ssebschool.edu.np
+www.amv.edu.np
 www.anaj.gia.edu.np
 www.analytical-engine-com.keckist.edu.np
 www.analytical-engine-org.keckist.edu.np
@@ -1818,6 +1831,7 @@ www.annapurnasecondaryschool.edu.np
 www.apexmalangwa.edu.np
 www.app.accelerateacademy.edu.np
 www.app.sen.edu.np
+www.appointment.sen.edu.np
 www.arjunhighschool.edu.np
 www.attendance.cctdharan.edu.np
 www.balkumarisecondaryschool.edu.np
@@ -1910,6 +1924,7 @@ www.emis.pmcpokhara.edu.np
 www.eplanet.edu.np
 www.esamemorial.edu.np
 www.esmael.ecea-s.easycare.edu.np
+www.evergreen-school.edu.np
 www.fluorescent.edu.np
 www.fulbarimontessori.edu.np
 www.fwuexam.edu.np
@@ -1982,6 +1997,7 @@ www.kmclibrary.edu.np
 www.kmcschool.edu.np
 www.kmi.edu.np
 www.knpi.edu.np
+www.koha-admin.anthropologytu.edu.np
 www.kopilavalleyschool.edu.np
 www.ku.edu.np
 www.kundeshworss.edu.np
@@ -2210,6 +2226,7 @@ www.tersd2018.kusoed.edu.np
 www.test.nibc.edu.np
 www.test.yaxis.edu.np
 www.testdomain.npi.edu.np
+www.texasintlschool.edu.np
 www.timesschool.edu.np
 www.tivs.edu.np
 www.tivs.edu.np.pioneerassociate1234.com.np
