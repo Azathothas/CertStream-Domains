@@ -1,3 +1,4 @@
+apical.edu.np
 autodiscover.mbs.edu.np
 autodiscover.vnc.edu.np
 cpanel.infolab.edu.np
@@ -9,6 +10,7 @@ cpcalendars.vnc.edu.np
 cpcontacts.infolab.edu.np
 cpcontacts.mbs.edu.np
 cpcontacts.vnc.edu.np
+gaumukhi.edu.np
 infolab.edu.np
 mail.balmikischool.edu.np
 mail.infolab.edu.np
@@ -16,6 +18,7 @@ mail.mbs.edu.np
 mail.vnc.edu.np
 mbs.edu.np
 nationalacademylahan.edu.np
+nawagyanbhumischool.edu.np
 saradanamunaacademy.edu.np
 siddhapailaschool.edu.np
 vnc.edu.np
@@ -27,9 +30,11 @@ webmail.infolab.edu.np
 webmail.mbs.edu.np
 webmail.vnc.edu.np
 whm.infolab.edu.np
+www.apical.edu.np
 www.infolab.edu.np
 www.mbs.edu.np
 www.nationalacademylahan.edu.np
 www.saradanamunaacademy.edu.np
 www.vnc.edu.np
 www.vnc.edu.np.topgrowinc.com
+www.www.www.git.ww.kti.edu.np
