@@ -15,6 +15,7 @@ admin.gsniketan.edu.np
 admin.hles.edu.np
 admin.kccs.edu.np
 admin.kmclibrary.edu.np
+admin.npschitwan.edu.np
 admin.old.devkotaeducation.edu.np
 admin.old.maasaraswati.edu.np
 admin.old.mahendraratnaschool.edu.np
@@ -238,6 +239,7 @@ cpanel.biotechtu.edu.np
 cpanel.biratmedicalcollege.edu.np
 cpanel.brahmayanimavi.edu.np
 cpanel.bss8.edu.np
+cpanel.cha.edu.np
 cpanel.chanakya.edu.np
 cpanel.cityeducation.edu.np
 cpanel.cle.edu.np
@@ -311,6 +313,7 @@ cpanel.nibc.edu.np
 cpanel.nirvankaya.edu.np
 cpanel.nit.edu.np
 cpanel.nlvschool.edu.np
+cpanel.npschitwan.edu.np
 cpanel.npschool.edu.np
 cpanel.okhreniss.edu.np
 cpanel.omegacollege.edu.np
@@ -468,6 +471,7 @@ cpcalendars.nibc.edu.np
 cpcalendars.nirvankaya.edu.np
 cpcalendars.nit.edu.np
 cpcalendars.nlvschool.edu.np
+cpcalendars.npschitwan.edu.np
 cpcalendars.npschool.edu.np
 cpcalendars.okhreniss.edu.np
 cpcalendars.omegacollege.edu.np
@@ -623,6 +627,7 @@ cpcontacts.nibc.edu.np
 cpcontacts.nirvankaya.edu.np
 cpcontacts.nit.edu.np
 cpcontacts.nlvschool.edu.np
+cpcontacts.npschitwan.edu.np
 cpcontacts.npschool.edu.np
 cpcontacts.okhreniss.edu.np
 cpcontacts.omegacollege.edu.np
@@ -755,6 +760,7 @@ exam.thewestminstercollege.edu.np
 excel.edu.np
 ezone.edu.np
 faqs.bradford.edu.np
+feathereducation.edu.np
 fip.afu.edu.np
 fluorescent.edu.np
 forms.ghen.edu.np
@@ -922,6 +928,7 @@ lna.edu.np
 local.exam.staging.mu.edu.np
 login.ssps.edu.np
 login.what.website.mmamcbba.edu.np
+lovelyangels.edu.np
 lovelyhillsresidency.gyaninstitute.edu.np
 lovelyhome.edu.np.projectincube.com
 lss.edu.np
@@ -972,6 +979,7 @@ mail.fwuexam.edu.np
 mail.galaxyhtschool.edu.np
 mail.gautamschoolbrj.edu.np
 mail.gemsgroup.edu.np
+mail.ghen.edu.np
 mail.gsniketan.edu.np
 mail.gurukulpathshala.edu.np
 mail.gyanbahumukhicampus.edu.np
@@ -1044,6 +1052,7 @@ mail.nirvankaya.edu.np
 mail.nit.edu.np
 mail.nlvschool.edu.np
 mail.norviceducations.edu.np
+mail.npschitwan.edu.np
 mail.npschool.edu.np
 mail.okhreniss.edu.np
 mail.old.devkotaeducation.edu.np
@@ -1171,6 +1180,7 @@ modernstudies.edu.np
 molihss.edu.np
 moodle.kusms.edu.np
 mountsinaiacademy.edu.np
+mpea.edu.np
 mrigankamainali.com.np.ssebschool.edu.np
 mrjlschool.edu.np
 mrmcollege.edu.np
@@ -1218,6 +1228,7 @@ nlvschool.edu.np
 nma.edu.np
 nobelcollege.edu.np
 norviceducations.edu.np
+npschitwan.edu.np
 npschool.edu.np
 nse.edu.np
 nsu.edu.np
@@ -1261,6 +1272,7 @@ pkcampus.edu.np
 plustwo.achsnepal.edu.np
 plustwo.xavier.edu.np
 portfolio.edigitalnepal.edu.np
+prabhatkiran.edu.np
 prabhatsecondaryschool.edu.np
 prabhatsecondaryschool.edu.np.inspela.com
 pragyakunja.edu.np
@@ -1276,6 +1288,7 @@ pusom.edu.np
 race.edu.np
 rahs.edu.np
 rainadevi.edu.np
+rajarshigurukul.edu.np
 rampurmavi.edu.np
 rampurmavi.edu.np.inspela.com
 rara.edu.np
@@ -1317,6 +1330,7 @@ sbgss.edu.np.inspela.com
 sbs.edu.np
 sbssranipauwa.edu.np
 sbssranipauwa.edu.np.inspela.com
+scholarshome.edu.np
 school.angels.edu.np
 school.annapurna.edu.np
 school.naragram.edu.np
@@ -1393,8 +1407,11 @@ spspokhara.edu.np
 sres.edu.np
 srijanshil.edu.np
 ssdbss.edu.np
+ssjssitahari.edu.np
 ssmavigaldha.edu.np
 ssmcchitwan.edu.np
+sssitahari.edu.np
+standardschool.edu.np
 static.cpanel.gttc.edu.np
 static.remote.what.website.mmamcbba.edu.np
 stellar.edu.np
@@ -1432,6 +1449,7 @@ test.nibc.edu.np
 test.yaxis.edu.np
 testdomain.npi.edu.np
 texasintlschool.edu.np
+thamescollege.edu.np
 thomas.edu.np
 timesschool.edu.np
 tivs.edu.np
@@ -1559,6 +1577,7 @@ webdisk.nibc.edu.np
 webdisk.nirvankaya.edu.np
 webdisk.nit.edu.np
 webdisk.nlvschool.edu.np
+webdisk.npschitwan.edu.np
 webdisk.npschool.edu.np
 webdisk.okhreniss.edu.np
 webdisk.omegacollege.edu.np
@@ -1721,6 +1740,7 @@ webmail.nibc.edu.np
 webmail.nirvankaya.edu.np
 webmail.nit.edu.np
 webmail.nlvschool.edu.np
+webmail.npschitwan.edu.np
 webmail.npschool.edu.np
 webmail.okhreniss.edu.np
 webmail.old.devkotaeducation.edu.np
@@ -1813,6 +1833,7 @@ www.acti.edu.np
 www.admin.amc.edu.np
 www.admin.easycare.edu.np
 www.admin.kccs.edu.np
+www.admin.npschitwan.edu.np
 www.admin.pascalschool.edu.np
 www.admin.ssps.edu.np
 www.admission.excelcollege.edu.np
@@ -1883,6 +1904,7 @@ www.cmstest.jmssg.edu.np
 www.codepointnepal.annapurnasecondaryschool.edu.np
 www.coh.edu.np
 www.collegeofmanagement.kasthamandapcollege.edu.np
+www.cpanel.cha.edu.np
 www.cpanel.gttc.edu.np
 www.crm.president.edu.np
 www.crossborderconsultants.edu.np
@@ -2017,6 +2039,7 @@ www.lineacademy.edu.np
 www.lms.mahendra.edu.np
 www.lna.edu.np
 www.login.ssps.edu.np
+www.lovelyangels.edu.np
 www.lovelyhillsresidency.gyaninstitute.edu.np
 www.lovelyhome.edu.np.projectincube.com
 www.lumbiniadarsha.edu.np
@@ -2046,6 +2069,7 @@ www.mmcn.edu.np.danpheitsolution.com
 www.modernnepalschool.edu.np
 www.modernstudies.edu.np
 www.moodle.kusms.edu.np
+www.mpea.edu.np
 www.mrigankamainali.com.np.ssebschool.edu.np
 www.mrjlschool.edu.np
 www.mswtu.edu.np
@@ -2077,6 +2101,7 @@ www.nit.edu.np
 www.nlvschool.edu.np
 www.norviceducations.edu.np
 www.notelibrarynepal.com.satyanarayanschool.edu.np
+www.npschitwan.edu.np
 www.npschool.edu.np
 www.nrasg.edu.np
 www.ntvnepal.baraacademy.edu.np
@@ -2105,6 +2130,7 @@ www.phdcentre.edu.np
 www.pipaldandaaavi.edu.np
 www.plus2.orientcollege.edu.np
 www.plustwo.xavier.edu.np
+www.prabhatkiran.edu.np
 www.prabhatsecondaryschool.edu.np
 www.prabhatsecondaryschool.edu.np.inspela.com
 www.pragyakunja.edu.np
@@ -2142,6 +2168,7 @@ www.sbgss.edu.np.inspela.com
 www.sbs.edu.np
 www.sbssranipauwa.edu.np
 www.sbssranipauwa.edu.np.inspela.com
+www.scholarshome.edu.np
 www.school.annapurna.edu.np
 www.school.naragram.edu.np
 www.schoolarunodaya.edu.np
@@ -2202,8 +2229,11 @@ www.spa.edu.np
 www.spspokhara.edu.np
 www.sres.edu.np
 www.ssdbss.edu.np
+www.ssjssitahari.edu.np
 www.ssmavigaldha.edu.np
 www.ssmcchitwan.edu.np
+www.sssitahari.edu.np
+www.standardschool.edu.np
 www.stlawrence.edu.np
 www.stlawrence.edu.np.jmssg.edu.np
 www.stpaulsenglishschool.edu.np
@@ -2227,6 +2257,7 @@ www.test.nibc.edu.np
 www.test.yaxis.edu.np
 www.testdomain.npi.edu.np
 www.texasintlschool.edu.np
+www.thamescollege.edu.np
 www.timesschool.edu.np
 www.tivs.edu.np
 www.tivs.edu.np.pioneerassociate1234.com.np
@@ -2253,6 +2284,7 @@ www.vsbs.edu.np
 www.vsn.edu.np
 www.welhamscollege.edu.np
 www.writeonai.com.satyanarayanschool.edu.np
+www.www.git.git.bls.edu.np
 www.www.git.ww.kti.edu.np
 www.www1.ssps.edu.np
 www1.ssps.edu.np
