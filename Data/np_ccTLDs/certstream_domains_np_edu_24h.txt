@@ -14,6 +14,7 @@ cpanel.befnepal.edu.np
 cpanel.infolab.edu.np
 cpanel.mbs.edu.np
 cpanel.vnc.edu.np
+cpanel.wca.edu.np
 cpanel.xavierschool.edu.np
 cpcalendars.ahs.edu.np
 cpcalendars.avm.edu.np
@@ -21,6 +22,7 @@ cpcalendars.befnepal.edu.np
 cpcalendars.infolab.edu.np
 cpcalendars.mbs.edu.np
 cpcalendars.vnc.edu.np
+cpcalendars.wca.edu.np
 cpcalendars.xavierschool.edu.np
 cpcontacts.ahs.edu.np
 cpcontacts.avm.edu.np
@@ -28,11 +30,13 @@ cpcontacts.befnepal.edu.np
 cpcontacts.infolab.edu.np
 cpcontacts.mbs.edu.np
 cpcontacts.vnc.edu.np
+cpcontacts.wca.edu.np
 cpcontacts.xavierschool.edu.np
 forward.cmc.edu.np
 gaumukhi.edu.np
 hicast.edu.np
 hrop.southwesternresearch.edu.np
+imperialcollege.edu.np
 infolab.edu.np
 janasewarangsi.edu.np
 mail.avm.edu.np
@@ -41,9 +45,11 @@ mail.befnepal.edu.np
 mail.bstcollege.edu.np
 mail.ghen.edu.np
 mail.hicast.edu.np
+mail.imperialcollege.edu.np
 mail.infolab.edu.np
 mail.mbs.edu.np
 mail.vnc.edu.np
+mail.wca.edu.np
 mail.xavierschool.edu.np
 mbs.edu.np
 mountsinaiacademy.edu.np
@@ -62,14 +68,17 @@ sunsetheight.com.gyaninstitute.edu.np
 svmschool.edu.np
 thamescollege.edu.np
 tukiglobal.edu.np
+viaeducation.edu.np
 vnc.edu.np
 vnc.edu.np.topgrowinc.com
+wca.edu.np
 webdisk.ahs.edu.np
 webdisk.avm.edu.np
 webdisk.befnepal.edu.np
 webdisk.infolab.edu.np
 webdisk.mbs.edu.np
 webdisk.vnc.edu.np
+webdisk.wca.edu.np
 webdisk.xavierschool.edu.np
 webmail.ahs.edu.np
 webmail.avm.edu.np
@@ -77,8 +86,10 @@ webmail.befnepal.edu.np
 webmail.infolab.edu.np
 webmail.mbs.edu.np
 webmail.vnc.edu.np
+webmail.wca.edu.np
 webmail.xavierschool.edu.np
 whm.infolab.edu.np
+whm.wca.edu.np
 www.aecg.edu.np
 www.apical.edu.np
 www.avm.edu.np
@@ -88,6 +99,7 @@ www.cebs.edu.np
 www.git.git.bls.edu.np
 www.hicast.edu.np
 www.hrop.southwesternresearch.edu.np
+www.imperialcollege.edu.np
 www.infolab.edu.np
 www.mbs.edu.np
 www.nationalacademylahan.edu.np
@@ -98,6 +110,7 @@ www.sunsetheight.com.gyaninstitute.edu.np
 www.thamescollege.edu.np
 www.vnc.edu.np
 www.vnc.edu.np.topgrowinc.com
+www.wca.edu.np
 www.www.www.git.ww.kti.edu.np
 www.xavierschool.edu.np
 xavierschool.edu.np
