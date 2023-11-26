@@ -1,8 +1,11 @@
+api-rms.ndrrma.gov.np
 bajrabarahihospital.bagamati.gov.np
 ccrs.moha.gov.np
 efiling.biratnagarmun.gov.np
+investnepal.gov.np
 molet.bagamati.gov.np
 moyas.bagamati.gov.np
+ntacall.nta.gov.np
 ocmcm.bagamati.gov.np
 ocs.bagamati.gov.np
 ocs.p3.gov.np
@@ -10,3 +13,5 @@ pccmis.karnali.gov.np
 pccmisadmin.karnali.gov.np
 pollution.gov.np
 pppc.bagamati.gov.np
+webmail.investnepal.gov.np
+www.investnepal.gov.np
