@@ -1,3 +1,4 @@
+aecg.edu.np
 apical.edu.np
 autodiscover.mbs.edu.np
 autodiscover.vnc.edu.np
@@ -32,8 +33,10 @@ webmail.infolab.edu.np
 webmail.mbs.edu.np
 webmail.vnc.edu.np
 whm.infolab.edu.np
+www.aecg.edu.np
 www.apical.edu.np
 www.career.lbu.edu.np
+www.git.git.bls.edu.np
 www.infolab.edu.np
 www.mbs.edu.np
 www.nationalacademylahan.edu.np

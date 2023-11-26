@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 5 days and 34 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 3.89 3.24 3.06
+       ..'''.            0Xxoc:,.  ...              Uptime: 5 days, 1 hour and 34 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 1.96 1.77 2.16
   .                   OMo           ':do.           Processes: 14
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,7 +17,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 99 MiB / 2048 MiB
+                                          ;l   ..   RAM: 95 MiB / 2048 MiB
                                            .o       Disk: 1.5 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
                                              .'     WAN IP: 86.104.22.60
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 5 days and 33 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 5.68 7.02 7.39
+       ..'''.            0Xxoc:,.  ...              Uptime: 5 days, 1 hour and 34 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 1.94 2.1 3.01
   .                   OMo           ':do.           Processes: 18
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,7 +60,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 108 MiB / 2048 MiB
+                                          ;l   ..   RAM: 113 MiB / 2048 MiB
                                            .o       Disk: 3.1 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
                                              .'     WAN IP: 91.219.215.228
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         91.6G   68.0M      0       0       0       0 
+         92.4G   68.6M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         3.13G   42.8M      0       0       0       0 
+         3.16G   43.2M      0       0       0       0 
 
 
 
