@@ -196,6 +196,7 @@ cdmathtu.edu.np
 cds.edu.np
 cdz.tu.edu.np
 ce.jmssg.edu.np
+cebs.edu.np
 cef.edu.np
 celebration.jmssg.edu.np
 chamunda.qas.edu.np
@@ -894,6 +895,7 @@ kutidanda.edu.np
 kutidanda.edu.np.inspela.com
 kutumba.edu.np
 kutumba.jmssg.edu.np
+kww.com.np.kcs.edu.np
 laboratoryschoolnepal.edu.np
 laligurashenglishschool.edu.np
 lccrc.edu.np
@@ -1838,6 +1840,7 @@ www.campionschool.edu.np
 www.career.lbu.edu.np
 www.cdhsc.edu.np
 www.ce.jmssg.edu.np
+www.cebs.edu.np
 www.celebration.jmssg.edu.np
 www.chamunda.qas.edu.np
 www.chanakya.edu.np
@@ -1975,6 +1978,7 @@ www.kutidanda.edu.np
 www.kutidanda.edu.np.inspela.com
 www.kutumba.edu.np
 www.kutumba.jmssg.edu.np
+www.kww.com.np.kcs.edu.np
 www.laboratoryschoolnepal.edu.np
 www.laligurashenglishschool.edu.np
 www.lccrc.edu.np
