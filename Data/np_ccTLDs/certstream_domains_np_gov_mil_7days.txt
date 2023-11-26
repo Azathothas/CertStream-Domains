@@ -46,6 +46,7 @@ gioms.gov.np
 gov.np.clearwebstats.com
 gov.np.getstat.site
 gov.np.webstatdata.com
+grcdolfd.bagamati.gov.np
 gunaso.raptisonarimun.gov.np
 harinagarmun.gov.np
 heoc.mohp.gov.np
@@ -127,6 +128,7 @@ www.dscomyagdi.gov.np
 www.dudhaulimun.gov.np
 www.frtc.gandaki.gov.np
 www.gioms.gov.np
+www.grcdolfd.bagamati.gov.np
 www.harinagarmun.gov.np
 www.ilam.akc.gov.np
 www.jayaprithvimun.gov.np

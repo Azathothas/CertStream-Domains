@@ -44,6 +44,7 @@ apexmalangwa.edu.np
 api.deukhurimultiplecampus.edu.np
 api.local.exam.staging.mu.edu.np
 app.accelerateacademy.edu.np
+app.sen.edu.np
 arjunhighschool.edu.np
 ath.tu.edu.np
 attendance.cctdharan.edu.np
@@ -335,6 +336,7 @@ cpanel.scss.edu.np
 cpanel.sda.edu.np
 cpanel.segacomputer.edu.np
 cpanel.sembs.edu.np
+cpanel.sen.edu.np
 cpanel.shreebalsudhar.edu.np
 cpanel.shreebirendramavi.edu.np
 cpanel.shreeganeshss.edu.np
@@ -490,6 +492,7 @@ cpcalendars.scss.edu.np
 cpcalendars.sda.edu.np
 cpcalendars.segacomputer.edu.np
 cpcalendars.sembs.edu.np
+cpcalendars.sen.edu.np
 cpcalendars.shreebalsudhar.edu.np
 cpcalendars.shreebirendramavi.edu.np
 cpcalendars.shreeganeshss.edu.np
@@ -643,6 +646,7 @@ cpcontacts.scss.edu.np
 cpcontacts.sda.edu.np
 cpcontacts.segacomputer.edu.np
 cpcontacts.sembs.edu.np
+cpcontacts.sen.edu.np
 cpcontacts.shreebalsudhar.edu.np
 cpcontacts.shreebirendramavi.edu.np
 cpcontacts.shreeganeshss.edu.np
@@ -762,6 +766,7 @@ gate.edu.np
 gautamschool.edu.np
 gautamschoolbrj.edu.np
 gces.edu.np
+gci.edu.np
 gemsgroup.edu.np
 geneliberty.edu.np
 getguidelines.edu.np
@@ -831,6 +836,7 @@ janajagritithakre.edu.np.inspela.com
 janajyotilalbandi.edu.np
 janajyotiss.edu.np
 janajyotiss.edu.np.inspela.com
+janakalyanchyasku.edu.np
 janatahsschool.edu.np
 janatamavikhaniyakharka.edu.np
 janatamavikhaniyakharka.edu.np.inspela.com
@@ -845,6 +851,7 @@ jjssnibuwatar.edu.np
 jjssnibuwatar.edu.np.inspela.com
 jmmc.edu.np
 jmssg.edu.np
+jnjeducation.edu.np
 journal.khwopacollege.edu.np
 jsltrainingcenter.edu.np
 jssk.edu.np
@@ -1065,6 +1072,7 @@ mail.scss.edu.np
 mail.sda.edu.np
 mail.segacomputer.edu.np
 mail.sembs.edu.np
+mail.sen.edu.np
 mail.shadanandacampus.edu.np
 mail.shreebalsudhar.edu.np
 mail.shreebirendramavi.edu.np
@@ -1144,6 +1152,7 @@ milkywayschool.edu.np
 millsschool.edu.np
 mirmeeschool.edu.np
 mis.bnks.edu.np
+mis.gci.edu.np
 mist.edu.np
 mmchetauda.edu.np
 mmcn.edu.np
@@ -1311,6 +1320,7 @@ seedfinancial.edu.np
 segacomputer.edu.np
 seishin.edu.np
 sembs.edu.np
+sen.edu.np
 sera.edu.np
 seraphims.edu.np
 server.ioepc.edu.np
@@ -1566,6 +1576,7 @@ webdisk.scss.edu.np
 webdisk.sda.edu.np
 webdisk.segacomputer.edu.np
 webdisk.sembs.edu.np
+webdisk.sen.edu.np
 webdisk.shreebalsudhar.edu.np
 webdisk.shreebirendramavi.edu.np
 webdisk.shreeganeshss.edu.np
@@ -1732,6 +1743,7 @@ webmail.scss.edu.np
 webmail.sda.edu.np
 webmail.segacomputer.edu.np
 webmail.sembs.edu.np
+webmail.sen.edu.np
 webmail.shreebalsudhar.edu.np
 webmail.shreebirendramavi.edu.np
 webmail.shreeganeshss.edu.np
@@ -1805,6 +1817,7 @@ www.angels.edu.np
 www.annapurnasecondaryschool.edu.np
 www.apexmalangwa.edu.np
 www.app.accelerateacademy.edu.np
+www.app.sen.edu.np
 www.arjunhighschool.edu.np
 www.attendance.cctdharan.edu.np
 www.balkumarisecondaryschool.edu.np
@@ -2123,6 +2136,7 @@ www.scss.edu.np.inspela.com
 www.sda.edu.np
 www.segacomputer.edu.np
 www.sembs.edu.np
+www.sen.edu.np
 www.sgss.edu.np
 www.shadanandacampus.edu.np
 www.shmtn.edu.np.thenextrends.com
@@ -2203,6 +2217,7 @@ www.tma.edu.np
 www.trainerjames.edu.np
 www.transform.kusoed.edu.np
 www.tribhubanjanata.edu.np
+www.trinity.edu.np
 www.tsoknyigechakschool.edu.np
 www.ttc.edu.np
 www.tucded.edu.np
