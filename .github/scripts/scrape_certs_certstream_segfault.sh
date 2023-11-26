@@ -64,8 +64,19 @@ if [ ! -d "/sec/root/CertStream-Domains" ]; then
       pushd "$HOME" && git clone --filter="blob:none" "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@github.com/Azathothas/CertStream-Domains.git"
       cd "./CertStream-Domains" && CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd 
 else
-      pushd "$HOME/CertStream-Domains" ; git fetch origin && git reset --hard origin/main ; git checkout HEAD -- ; git pull origin main
-      CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd
+    #Check if git is too bloated
+     if [ -d "$HOME/CertStream-Domains/.git" ] && [ "$(du -sk $HOME/CertStream-Domains/.git | cut -f1)" -ge "10000000" ]; then
+         echo -e "\n[+] $HOME/CertStream-Domains/.git exceeds 10 GB\n"
+         #Purge
+         rm -rf "$HOME/CertStream-Domains" 2>/dev/null
+         #re(Clone)
+         pushd "$HOME" && git clone --filter="blob:none" "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@github.com/Azathothas/CertStream-Domains.git"
+         #Export PATH
+         cd "./CertStream-Domains" && CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd
+    else
+         pushd "/sec/root/CertStream-Domains" ; git fetch origin && git reset --hard origin/main ; git checkout HEAD -- ; git pull origin main
+         CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd
+    fi
 fi
 # HOST_IP | REGION
 HOST_IP="$(curl --ipv4 -qfskSL http://ipv4.whatismyip.akamai.com | sed 's/[[:space:]]*$//' )" && export HOST_IP="$HOST_IP"
