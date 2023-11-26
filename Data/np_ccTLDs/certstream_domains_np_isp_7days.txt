@@ -17,3 +17,4 @@ vault.ntc.net.np
 vendor-access.worldlink.com.np
 vianet.com.np
 viatv.com.np
+wlink.com.np
