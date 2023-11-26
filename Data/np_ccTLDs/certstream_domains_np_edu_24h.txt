@@ -1,6 +1,7 @@
 apical.edu.np
 autodiscover.mbs.edu.np
 autodiscover.vnc.edu.np
+career.lbu.edu.np
 cpanel.infolab.edu.np
 cpanel.mbs.edu.np
 cpanel.vnc.edu.np
@@ -19,6 +20,7 @@ mail.vnc.edu.np
 mbs.edu.np
 nationalacademylahan.edu.np
 nawagyanbhumischool.edu.np
+rukminimodelschool.edu.np
 saradanamunaacademy.edu.np
 siddhapailaschool.edu.np
 vnc.edu.np
@@ -31,6 +33,7 @@ webmail.mbs.edu.np
 webmail.vnc.edu.np
 whm.infolab.edu.np
 www.apical.edu.np
+www.career.lbu.edu.np
 www.infolab.edu.np
 www.mbs.edu.np
 www.nationalacademylahan.edu.np

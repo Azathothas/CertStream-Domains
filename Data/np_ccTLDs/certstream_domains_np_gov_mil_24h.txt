@@ -2,4 +2,6 @@ moyas.bagamati.gov.np
 ocmcm.bagamati.gov.np
 ocs.bagamati.gov.np
 ocs.p3.gov.np
+pccmis.karnali.gov.np
+pccmisadmin.karnali.gov.np
 pppc.bagamati.gov.np
