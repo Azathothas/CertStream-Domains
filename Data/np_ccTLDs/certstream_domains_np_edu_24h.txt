@@ -13,6 +13,7 @@ autodiscover.tjssrukumwest.edu.np
 autodiscover.vmebschool.edu.np
 blog.premier.edu.np
 chat.ahnzxdrp.machhindramavi.edu.np
+cir.tu.edu.np
 cmccollege.cmc.edu.np
 cpanel.ahs.edu.np
 cpanel.arnikofoundation.edu.np
@@ -84,6 +85,7 @@ demo.mitrashree.edu.np
 dhulikhelhospital.emergecomputer.edu.np
 easycare.edu.np
 edwise.edu.np
+ekchin.com.miit.edu.np
 email.nhms.edu.np
 email.shikshadeep.edu.np
 evergreenacademy.edu.np
@@ -105,6 +107,7 @@ janakalyanchyasku.edu.np
 janakhajari.edu.np
 jnjeducation.edu.np
 kalikaschoolbtl.edu.np
+kantipurcampus.edu.np
 kantipurintl.edu.np
 kathford.edu.np
 kbase.academic.edu.np
@@ -160,6 +163,7 @@ platonic.edu.np
 plustwo.arnikofoundation.edu.np
 portal.adarsha.edu.np
 printable.rjuuc.edu.np
+psdnepal.edu.np
 pucef.edu.np
 pushparajwedding.com.icas.edu.np
 registerfortest.academic.edu.np
@@ -167,6 +171,7 @@ relianceschool.edu.np
 sarvodayaschool.edu.np
 satyawatiacademy.edu.np
 savyatapathshala.edu.np
+schoolsuryodaya.edu.np
 sedna.edu.np
 sevensamurai.edu.np
 shushikumarkushwaha.vmebschool.edu.np
@@ -188,6 +193,7 @@ total.vmebschool.edu.np
 trifala.ecea-s.easycare.edu.np
 trinity.edu.np
 vmebschool.edu.np
+vss.valmiki.edu.np
 webdisk.ahs.edu.np
 webdisk.arnikofoundation.edu.np
 webdisk.easycare.edu.np
@@ -236,16 +242,19 @@ www.arnikofoundation.edu.np
 www.cpanel.cha.edu.np
 www.easycare.edu.np
 www.edwise.edu.np
+www.ekchin.com.miit.edu.np
 www.email.nhms.edu.np
 www.email.shikshadeep.edu.np
 www.evergreenacademy.edu.np
 www.exam.mtu.edu.np
 www.fibss.edu.np
+www.forum.snats.edu.np
 www.gauravcopy.vmebschool.edu.np
 www.gmss.edu.np
 www.janajyotibasic.edu.np
 www.janakhajari.edu.np
 www.kalikaschoolbtl.edu.np
+www.kantipurcampus.edu.np
 www.kathford.edu.np
 www.kbase.academic.edu.np
 www.knc.edu.np
@@ -269,6 +278,7 @@ www.relianceschool.edu.np
 www.sarvodayaschool.edu.np
 www.satyawatiacademy.edu.np
 www.savyatapathshala.edu.np
+www.schoolsuryodaya.edu.np
 www.sedna.edu.np
 www.sevensamurai.edu.np
 www.shushikumarkushwaha.vmebschool.edu.np

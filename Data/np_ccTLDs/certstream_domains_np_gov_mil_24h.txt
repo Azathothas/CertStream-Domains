@@ -21,8 +21,10 @@ arjunchauparimun.gov.np
 arnamamun.gov.np
 arunmun.gov.np
 assessment.ndrrma.gov.np
+aurahimundhanusha.gov.np
 aurahimunmahottari.gov.np
 aurahimunsiraha.gov.np
+badhaiyatalmun.gov.np
 badigadmun.gov.np
 badikedarmun.gov.np
 bagmatimunlalitpur.gov.np
@@ -69,6 +71,7 @@ bhimsenthapamun.gov.np
 bhojpur.edcu.gov.np
 bhokrahamun.gov.np
 bhotekoshimun.gov.np
+bhumemun.gov.np
 bhumikasthanmun.gov.np
 bhumlumun.gov.np
 bidehamun.gov.np
@@ -83,9 +86,11 @@ bogatanmun.gov.np
 brahmapurimun.gov.np
 brindawanmun.gov.np
 buddhabhumimun.gov.np
+budhigangamunbajura.gov.np
 budhigangamunmorang.gov.np
 bungalmun.gov.np
 ccrs.moha.gov.np
+cdmis.gov.np
 chakraghattamun.gov.np
 chamemun.gov.np
 champadevimun.gov.np
@@ -113,11 +118,14 @@ churemun.gov.np
 dangisharanmun.gov.np
 darchula.edcu.gov.np
 darmamun.gov.np
+devghatmun.gov.np
 devtalmun.gov.np
 dewahigonahimun.gov.np
+dewanganjmun.gov.np
 dhading.edcu.gov.np
 dhakarimun.gov.np
 dhanapalthanmun.gov.np
+dhanaujimun.gov.np
 dhankaulmun.gov.np
 dharchemun.gov.np
 dharmadevimun.gov.np
@@ -138,6 +146,7 @@ dupcheshwormun.gov.np
 durgabhagawatimun.gov.np
 durgathalimun.gov.np
 edu.udayapurgadhimun.gov.np
+ehrpmis.nra.gov.np
 ekdaramun.gov.np
 gadhawamun.gov.np
 gadhimun.gov.np
@@ -299,8 +308,10 @@ www.apihimalmun.gov.np
 www.arjunchauparimun.gov.np
 www.arnamamun.gov.np
 www.arunmun.gov.np
+www.aurahimundhanusha.gov.np
 www.aurahimunmahottari.gov.np
 www.aurahimunsiraha.gov.np
+www.badhaiyatalmun.gov.np
 www.badigadmun.gov.np
 www.badikedarmun.gov.np
 www.bagmatimunlalitpur.gov.np
@@ -343,6 +354,7 @@ www.bhangahamun.gov.np
 www.bhimsenthapamun.gov.np
 www.bhokrahamun.gov.np
 www.bhotekoshimun.gov.np
+www.bhumemun.gov.np
 www.bhumikasthanmun.gov.np
 www.bhumlumun.gov.np
 www.bidehamun.gov.np
@@ -357,6 +369,7 @@ www.bogatanmun.gov.np
 www.brahmapurimun.gov.np
 www.brindawanmun.gov.np
 www.buddhabhumimun.gov.np
+www.budhigangamunbajura.gov.np
 www.budhigangamunmorang.gov.np
 www.bungalmun.gov.np
 www.chakraghattamun.gov.np
@@ -384,10 +397,13 @@ www.chumanuwrimun.gov.np
 www.churemun.gov.np
 www.dangisharanmun.gov.np
 www.darmamun.gov.np
+www.devghatmun.gov.np
 www.devtalmun.gov.np
 www.dewahigonahimun.gov.np
+www.dewanganjmun.gov.np
 www.dhakarimun.gov.np
 www.dhanapalthanmun.gov.np
+www.dhanaujimun.gov.np
 www.dhankaulmun.gov.np
 www.dharchemun.gov.np
 www.dharmadevimun.gov.np
