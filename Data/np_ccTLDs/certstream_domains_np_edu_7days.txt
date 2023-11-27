@@ -74,6 +74,7 @@ autodiscover.dikshantpathshala.edu.np
 autodiscover.easycare.edu.np
 autodiscover.fwuexam.edu.np
 autodiscover.gsniketan.edu.np
+autodiscover.helpeducation.edu.np
 autodiscover.hles.edu.np
 autodiscover.ibanking.edu.np
 autodiscover.ihit.edu.np
@@ -258,6 +259,7 @@ cpanel.gautamschoolbrj.edu.np
 cpanel.gemsgroup.edu.np
 cpanel.gurukulpathshala.edu.np
 cpanel.gyanbahumukhicampus.edu.np
+cpanel.helpeducation.edu.np
 cpanel.hillsidesample.edu.np
 cpanel.hilltownschool.edu.np
 cpanel.hwc.edu.np
@@ -289,6 +291,7 @@ cpanel.kutumba.edu.np
 cpanel.laboratoryschoolnepal.edu.np
 cpanel.lccrc.edu.np
 cpanel.lhtc.edu.np
+cpanel.lts.edu.np
 cpanel.magapauwamavi.edu.np
 cpanel.mamakids.edu.np
 cpanel.manipalpokhara.edu.np
@@ -416,6 +419,7 @@ cpcalendars.gautamschoolbrj.edu.np
 cpcalendars.gemsgroup.edu.np
 cpcalendars.gurukulpathshala.edu.np
 cpcalendars.gyanbahumukhicampus.edu.np
+cpcalendars.helpeducation.edu.np
 cpcalendars.hillsidesample.edu.np
 cpcalendars.hilltownschool.edu.np
 cpcalendars.hwc.edu.np
@@ -447,6 +451,7 @@ cpcalendars.kutumba.edu.np
 cpcalendars.laboratoryschoolnepal.edu.np
 cpcalendars.lccrc.edu.np
 cpcalendars.lhtc.edu.np
+cpcalendars.lts.edu.np
 cpcalendars.magapauwamavi.edu.np
 cpcalendars.mamakids.edu.np
 cpcalendars.manipalpokhara.edu.np
@@ -572,6 +577,7 @@ cpcontacts.gautamschoolbrj.edu.np
 cpcontacts.gemsgroup.edu.np
 cpcontacts.gurukulpathshala.edu.np
 cpcontacts.gyanbahumukhicampus.edu.np
+cpcontacts.helpeducation.edu.np
 cpcontacts.hillsidesample.edu.np
 cpcontacts.hilltownschool.edu.np
 cpcontacts.hwc.edu.np
@@ -603,6 +609,7 @@ cpcontacts.kutumba.edu.np
 cpcontacts.laboratoryschoolnepal.edu.np
 cpcontacts.lccrc.edu.np
 cpcontacts.lhtc.edu.np
+cpcontacts.lts.edu.np
 cpcontacts.magapauwamavi.edu.np
 cpcontacts.mamakids.edu.np
 cpcontacts.manipalpokhara.edu.np
@@ -755,6 +762,7 @@ fluorescent.edu.np
 forms.ghen.edu.np
 forum.machhindramavi.edu.np
 forum.snats.edu.np
+forums.forum.snats.edu.np
 forward.cmc.edu.np
 fr.what.website.mmamcbba.edu.np
 fryter.vmebschool.edu.np
@@ -801,6 +809,7 @@ gyandeepcollege.edu.np.sims.com.np
 gyanjyoticampus.edu.np
 gyanmalaschool.edu.np
 happyboarding.edu.np
+helpeducation.edu.np
 hicast.edu.np
 hierc.edu.np
 hillsidesample.edu.np
@@ -920,10 +929,12 @@ lna.edu.np
 local.exam.staging.mu.edu.np
 login.ssps.edu.np
 login.what.website.mmamcbba.edu.np
+loginabroad.edu.np
 lovelyangels.edu.np
 lovelyhillsresidency.gyaninstitute.edu.np
 lovelyhome.edu.np.projectincube.com
 lss.edu.np
+lts.edu.np
 m.aipa.edu.np
 m.ssps.edu.np
 maalikaschool.edu.np
@@ -976,6 +987,7 @@ mail.ghen.edu.np
 mail.gsniketan.edu.np
 mail.gurukulpathshala.edu.np
 mail.gyanbahumukhicampus.edu.np
+mail.helpeducation.edu.np
 mail.hicast.edu.np
 mail.hierc.edu.np
 mail.hillsidesample.edu.np
@@ -1017,6 +1029,7 @@ mail.lccrc.edu.np
 mail.lfss.edu.np
 mail.lhtc.edu.np
 mail.lna.edu.np
+mail.lts.edu.np
 mail.maalikaschool.edu.np
 mail.magapauwamavi.edu.np
 mail.mamakids.edu.np
@@ -1157,6 +1170,7 @@ mesbkt.edu.np
 mgssbs.edu.np
 migrationschool.edu.np
 milkywayschool.edu.np
+millenniumcampus.edu.np
 millsschool.edu.np
 mirmeeschool.edu.np
 mis.bnks.edu.np
@@ -1209,6 +1223,7 @@ nha.edu.np
 nhi.ku.edu.np
 nibc.edu.np
 nic.edu.np
+nice.edu.np
 nightingale.edu.np
 nikkoschool.edu.np
 nirvanacc.edu.np
@@ -1362,6 +1377,7 @@ shubhakamana.edu.np
 shubhashreecollege.edu.np
 shushikumarkushwaha.vmebschool.edu.np
 shuvakamanaebs.edu.np
+siddarthaschool.edu.np
 siddhapailaschool.edu.np
 siddharthacampus.edu.np
 sidharthacampus.edu.np
@@ -1513,6 +1529,7 @@ webdisk.gautamschoolbrj.edu.np
 webdisk.gemsgroup.edu.np
 webdisk.gurukulpathshala.edu.np
 webdisk.gyanbahumukhicampus.edu.np
+webdisk.helpeducation.edu.np
 webdisk.hillsidesample.edu.np
 webdisk.hilltownschool.edu.np
 webdisk.hwc.edu.np
@@ -1544,6 +1561,7 @@ webdisk.kutumba.edu.np
 webdisk.laboratoryschoolnepal.edu.np
 webdisk.lccrc.edu.np
 webdisk.lhtc.edu.np
+webdisk.lts.edu.np
 webdisk.magapauwamavi.edu.np
 webdisk.mamakids.edu.np
 webdisk.manipalpokhara.edu.np
@@ -1673,6 +1691,7 @@ webmail.gsniketan.edu.np
 webmail.gurukulpathshala.edu.np
 webmail.gyanbahumukhicampus.edu.np
 webmail.gyanmalaschool.edu.np
+webmail.helpeducation.edu.np
 webmail.hillsidesample.edu.np
 webmail.hilltownschool.edu.np
 webmail.hles.edu.np
@@ -1707,6 +1726,7 @@ webmail.kutumba.edu.np
 webmail.laboratoryschoolnepal.edu.np
 webmail.lccrc.edu.np
 webmail.lhtc.edu.np
+webmail.lts.edu.np
 webmail.magapauwamavi.edu.np
 webmail.mamakids.edu.np
 webmail.manipalpokhara.edu.np
@@ -1959,6 +1979,7 @@ www.gurukulpathshala.edu.np
 www.gyandeepcollege.edu.np.sims.com.np
 www.gyanmalaschool.edu.np
 www.happyboarding.edu.np
+www.helpeducation.edu.np
 www.hicast.edu.np
 www.hierc.edu.np
 www.hillsidesample.edu.np
@@ -2042,6 +2063,7 @@ www.login.ssps.edu.np
 www.lovelyangels.edu.np
 www.lovelyhillsresidency.gyaninstitute.edu.np
 www.lovelyhome.edu.np.projectincube.com
+www.lts.edu.np
 www.m.aipa.edu.np
 www.m.ssps.edu.np
 www.maalikaschool.edu.np
@@ -2159,6 +2181,7 @@ www.satyanarayanschool.edu.np
 www.savyatapathshala.edu.np
 www.sbgss.edu.np
 www.sbgss.edu.np.inspela.com
+www.sbpi.edu.np
 www.sbs.edu.np
 www.sbssranipauwa.edu.np
 www.sbssranipauwa.edu.np.inspela.com
