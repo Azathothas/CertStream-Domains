@@ -32,6 +32,7 @@ bahrabisemun.gov.np
 bahradashimun.gov.np
 bahudarmaimun.gov.np
 baijanathmun.gov.np
+baitadi.edcu.gov.np
 baiteshwormun.gov.np
 bakaiyamun.gov.np
 balanbihulmun.gov.np
@@ -41,6 +42,7 @@ balwamun.gov.np
 bangadkupindemun.gov.np
 bangalachulimun.gov.np
 banphikotmun.gov.np
+bara.edcu.gov.np
 baragadhimun.gov.np
 barahapokharimun.gov.np
 barahatalmun.gov.np
@@ -54,6 +56,7 @@ basbariyamun.gov.np
 bateshwormun.gov.np
 baudhimaimun.gov.np
 baudikalimun.gov.np
+bdt.dor.gov.np
 belakamun.gov.np
 belkotgadhimun.gov.np
 benighatrorangmun.gov.np
@@ -97,10 +100,12 @@ chhayanathraramun.gov.np
 chhipaharmaimun.gov.np
 chichilamun.gov.np
 chishankhugadhimun.gov.np
+chitwan.edcu.gov.np
 choubisemun.gov.np
 chulachulimun.gov.np
 chumanuwrimun.gov.np
 churemun.gov.np
+darchula.edcu.gov.np
 darmamun.gov.np
 devtalmun.gov.np
 dewahigonahimun.gov.np
@@ -202,6 +207,7 @@ kalyanpurmun.gov.np
 kamalamun.gov.np
 kamalmun.gov.np
 kanchanmun.gov.np
+kanchanpur.edcu.gov.np
 kandamun.gov.np
 kanepokharimun.gov.np
 kankasundarimun.gov.np
@@ -210,6 +216,7 @@ karjanhamun.gov.np
 kaski.edcu.gov.np
 kataharimun.gov.np
 kathekholamun.gov.np
+kavrepalanchok.edcu.gov.np
 kepilasgadhimun.gov.np
 kerabarimun.gov.np
 khadakmun.gov.np
@@ -219,6 +226,7 @@ khandadevimun.gov.np
 khaniyabasmun.gov.np
 kharpunathmun.gov.np
 khatyadmun.gov.np
+khotang.edcu.gov.np
 khotehangmun.gov.np
 khumbupasanglhamumun.gov.np
 kispangmun.gov.np
@@ -243,19 +251,26 @@ loharpattimun.gov.np
 lungrimun.gov.np
 machhapuchhremun.gov.np
 madanemun.gov.np
+mahottari.edcu.gov.np
+makwanpur.edcu.gov.np
 manang.edcu.gov.np
 mohp.gov.np
+mugu.edcu.gov.np
 mustang.edcu.gov.np
 myagdi.edcu.gov.np
 nawalpur.edcu.gov.np
+palpa.edcu.gov.np
 panchthar.edcu.gov.np
 parsa.edcu.gov.np
 result.butwalmun.gov.np
 rolpa.edcu.gov.np
 sankhuwasabha.edcu.gov.np
 saptari.edcu.gov.np
+siraha.edcu.gov.np
+sunsari.edcu.gov.np
 surkhet.edcu.gov.np
 taplejung.edcu.gov.np
+terhathum.edcu.gov.np
 westrukum.edcu.gov.np
 www.aadarshakotwalmun.gov.np
 www.aadarshamun.gov.np
