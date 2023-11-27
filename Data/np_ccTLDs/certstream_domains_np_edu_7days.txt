@@ -302,6 +302,7 @@ cpanel.mbs.edu.np
 cpanel.megacollege.edu.np
 cpanel.mentornepal.edu.np
 cpanel.mesbkt.edu.np
+cpanel.mitjnk.edu.np
 cpanel.mmcn.edu.np
 cpanel.modernstudies.edu.np
 cpanel.mswtu.edu.np
@@ -310,6 +311,7 @@ cpanel.namsalingmavi.edu.np
 cpanel.namuna.edu.np
 cpanel.naragram.edu.np
 cpanel.nasacademy.edu.np
+cpanel.navajyoti.edu.np
 cpanel.nepalgunjcollege.edu.np
 cpanel.nepalyubakss.edu.np
 cpanel.nibc.edu.np
@@ -371,6 +373,7 @@ cpanel.sunriseschool.edu.np
 cpanel.surkhetdeuti.edu.np
 cpanel.sypres.edu.np
 cpanel.tejbinayakss.edu.np
+cpanel.tesla.edu.np
 cpanel.tivs.edu.np
 cpanel.tma.edu.np
 cpanel.trainerjames.edu.np
@@ -462,6 +465,7 @@ cpcalendars.mbs.edu.np
 cpcalendars.megacollege.edu.np
 cpcalendars.mentornepal.edu.np
 cpcalendars.mesbkt.edu.np
+cpcalendars.mitjnk.edu.np
 cpcalendars.mmcn.edu.np
 cpcalendars.modernstudies.edu.np
 cpcalendars.mswtu.edu.np
@@ -470,6 +474,7 @@ cpcalendars.namsalingmavi.edu.np
 cpcalendars.namuna.edu.np
 cpcalendars.naragram.edu.np
 cpcalendars.nasacademy.edu.np
+cpcalendars.navajyoti.edu.np
 cpcalendars.nepalgunjcollege.edu.np
 cpcalendars.nepalyubakss.edu.np
 cpcalendars.nibc.edu.np
@@ -528,6 +533,7 @@ cpcalendars.sunriseschool.edu.np
 cpcalendars.surkhetdeuti.edu.np
 cpcalendars.sypres.edu.np
 cpcalendars.tejbinayakss.edu.np
+cpcalendars.tesla.edu.np
 cpcalendars.tivs.edu.np
 cpcalendars.tma.edu.np
 cpcalendars.trainerjames.edu.np
@@ -620,6 +626,7 @@ cpcontacts.mbs.edu.np
 cpcontacts.megacollege.edu.np
 cpcontacts.mentornepal.edu.np
 cpcontacts.mesbkt.edu.np
+cpcontacts.mitjnk.edu.np
 cpcontacts.mmcn.edu.np
 cpcontacts.modernstudies.edu.np
 cpcontacts.mswtu.edu.np
@@ -628,6 +635,7 @@ cpcontacts.namsalingmavi.edu.np
 cpcontacts.namuna.edu.np
 cpcontacts.naragram.edu.np
 cpcontacts.nasacademy.edu.np
+cpcontacts.navajyoti.edu.np
 cpcontacts.nepalgunjcollege.edu.np
 cpcontacts.nepalyubakss.edu.np
 cpcontacts.nibc.edu.np
@@ -687,6 +695,7 @@ cpcontacts.sunriseschool.edu.np
 cpcontacts.surkhetdeuti.edu.np
 cpcontacts.sypres.edu.np
 cpcontacts.tejbinayakss.edu.np
+cpcontacts.tesla.edu.np
 cpcontacts.tivs.edu.np
 cpcontacts.tma.edu.np
 cpcontacts.trainerjames.edu.np
@@ -739,6 +748,7 @@ editor.stellar.edu.np
 edu.np.clearwebstats.com
 edu.np.getstat.site
 edu.np.webstatdata.com
+edu.npk.team
 eims2021.schoolofit.edu.np
 elearn.kafcol.edu.np
 elearning.gate.edu.np
@@ -802,6 +812,7 @@ gsniketan.edu.np
 guidemandu.baraacademy.edu.np
 gurukulpathshala.edu.np
 gva.edu.np
+gvnschool.edu.np
 gyanbagaichaa.edu.np
 gyanbahumukhicampus.edu.np
 gyanbatika.edu.np
@@ -1044,6 +1055,7 @@ mail.megacollege.edu.np
 mail.mentornepal.edu.np
 mail.mesbkt.edu.np
 mail.migrationschool.edu.np
+mail.mitjnk.edu.np
 mail.mmcn.edu.np
 mail.modernstudies.edu.np
 mail.mulberry.edu.np
@@ -1051,6 +1063,7 @@ mail.namsalingmavi.edu.np
 mail.namuna.edu.np
 mail.naragram.edu.np
 mail.nasacademy.edu.np
+mail.navajyoti.edu.np
 mail.nepalgunjcollege.edu.np
 mail.nepalyubakss.edu.np
 mail.newkidshome.edu.np
@@ -1128,6 +1141,7 @@ mail.sunriseschool.edu.np
 mail.surkhetdeuti.edu.np
 mail.sypres.edu.np
 mail.tejbinayakss.edu.np
+mail.tesla.edu.np
 mail.tivs.edu.np
 mail.tma.edu.np
 mail.trainerjames.edu.np
@@ -1175,6 +1189,8 @@ millsschool.edu.np
 mirmeeschool.edu.np
 mis.bnks.edu.np
 mis.gci.edu.np
+mitjnk.edu.np
+mitjnk.edu.np.mwt.org.np
 mmchetauda.edu.np
 mmcn.edu.np
 mmcn.edu.np.danpheitsolution.com
@@ -1202,6 +1218,7 @@ naragram.edu.np
 nasacademy.edu.np
 national.angels.edu.np
 nationalacademylahan.edu.np
+navajyoti.edu.np
 nawagyanbhumischool.edu.np
 nawajagritischool.edu.np
 nawapravatschool.edu.np
@@ -1430,6 +1447,7 @@ sundariss.edu.np
 sundariss.edu.np.inspela.com
 sunriseschool.edu.np
 sunsetheight.com.gyaninstitute.edu.np
+support.ghen.edu.np
 surkhetdeuti.edu.np
 svmschool.edu.np
 sxc.edu.np
@@ -1445,6 +1463,7 @@ takshashilaschool.edu.np
 tbjebs.edu.np
 tejbinayakss.edu.np
 tejbinayakss.edu.np.inspela.com
+tesla.edu.np
 test.citu.edu.np
 test.citwrc.edu.np
 test.eplanetnepal.edu.np
@@ -1572,6 +1591,7 @@ webdisk.mbs.edu.np
 webdisk.megacollege.edu.np
 webdisk.mentornepal.edu.np
 webdisk.mesbkt.edu.np
+webdisk.mitjnk.edu.np
 webdisk.mmcn.edu.np
 webdisk.modernstudies.edu.np
 webdisk.mswtu.edu.np
@@ -1580,6 +1600,7 @@ webdisk.namsalingmavi.edu.np
 webdisk.namuna.edu.np
 webdisk.naragram.edu.np
 webdisk.nasacademy.edu.np
+webdisk.navajyoti.edu.np
 webdisk.nepalgunjcollege.edu.np
 webdisk.nepalyubakss.edu.np
 webdisk.nibc.edu.np
@@ -1640,6 +1661,7 @@ webdisk.sunriseschool.edu.np
 webdisk.surkhetdeuti.edu.np
 webdisk.sypres.edu.np
 webdisk.tejbinayakss.edu.np
+webdisk.tesla.edu.np
 webdisk.tivs.edu.np
 webdisk.tma.edu.np
 webdisk.trainerjames.edu.np
@@ -1737,6 +1759,7 @@ webmail.mbs.edu.np
 webmail.megacollege.edu.np
 webmail.mentornepal.edu.np
 webmail.mesbkt.edu.np
+webmail.mitjnk.edu.np
 webmail.mmcn.edu.np
 webmail.modernstudies.edu.np
 webmail.mothercare.edu.np
@@ -1746,6 +1769,7 @@ webmail.namsalingmavi.edu.np
 webmail.namuna.edu.np
 webmail.naragram.edu.np
 webmail.nasacademy.edu.np
+webmail.navajyoti.edu.np
 webmail.nepalgunjcollege.edu.np
 webmail.nepalyubakss.edu.np
 webmail.nibc.edu.np
@@ -1811,6 +1835,7 @@ webmail.sunriseschool.edu.np
 webmail.surkhetdeuti.edu.np
 webmail.sypres.edu.np
 webmail.tejbinayakss.edu.np
+webmail.tesla.edu.np
 webmail.tivs.edu.np
 webmail.tma.edu.np
 webmail.trainerjames.edu.np
@@ -2084,6 +2109,8 @@ www.member.sukunass.edu.np
 www.mentornepal.edu.np
 www.mesbkt.edu.np
 www.migrationschool.edu.np
+www.mitjnk.edu.np
+www.mitjnk.edu.np.mwt.org.np
 www.mmcn.edu.np
 www.mmcn.edu.np.danpheitsolution.com
 www.modernnepalschool.edu.np
@@ -2103,6 +2130,7 @@ www.naragram.edu.np
 www.narayan.cdmathtu.edu.np
 www.nasacademy.edu.np
 www.nationalacademylahan.edu.np
+www.navajyoti.edu.np
 www.nawajagritischool.edu.np
 www.nawayug.edu.np
 www.nca.edu.np
@@ -2269,6 +2297,7 @@ www.techpreneurs.motherland.edu.np
 www.tejbinayakss.edu.np
 www.tejbinayakss.edu.np.inspela.com
 www.tersd2018.kusoed.edu.np
+www.tesla.edu.np
 www.test.nibc.edu.np
 www.test.yaxis.edu.np
 www.testdomain.npi.edu.np

@@ -230,9 +230,11 @@ katahariyamun.gov.np
 kdmismoitfe.karnali.gov.np
 khanikholamun.gov.np
 lalitpurmun.gov.np
+lawcommission.gov.np
 leobutwal.gov.np
 lmc.gov.np
 lomanthangmun.gov.np
+lumbinidevtrust.gov.np
 madhyabindumun.gov.np
 madhyanepalmun.gov.np
 madikrishi.gov.np
@@ -310,6 +312,7 @@ ocmcm.bagamati.gov.np
 ocs.bagamati.gov.np
 ocs.p3.gov.np
 ofmis.gov.np
+old.mohp.gov.np
 oldmoial.bagamati.gov.np
 omsatiyamun.gov.np
 pachrautamun.gov.np
@@ -356,6 +359,7 @@ rajgadhmun.gov.np
 rajpurmundang.gov.np
 raksirangmun.gov.np
 rambhamun.gov.np
+ramechhap.akc.gov.np
 ramgopalpurmun.gov.np
 ramprasadraimun.gov.np
 raptimundang.gov.np
@@ -407,6 +411,7 @@ soil.narc.gov.np
 sonmamun.gov.np
 sorumun.gov.np
 standinglist.nta.gov.np
+startupnepal.gov.np
 store.tokhamun.gov.np
 sunapatimun.gov.np
 sunaryamun.gov.np
@@ -638,10 +643,12 @@ www.kalikamunchitwan.gov.np
 www.katahariyamun.gov.np
 www.khanikholamun.gov.np
 www.lalitpurmun.gov.np
+www.lawcommission.gov.np
 www.leobutwal.gov.np
 www.lmc.gov.np
 www.lomanthangmun.gov.np
 www.lsmcebps.gov.np
+www.lumbinidevtrust.gov.np
 www.madhyabindumun.gov.np
 www.madhyanepalmun.gov.np
 www.madikrishi.gov.np
@@ -746,6 +753,7 @@ www.rajgadhmun.gov.np
 www.rajpurmundang.gov.np
 www.raksirangmun.gov.np
 www.rambhamun.gov.np
+www.ramechhap.akc.gov.np
 www.ramgopalpurmun.gov.np
 www.ramprasadraimun.gov.np
 www.raptimundang.gov.np
@@ -789,6 +797,7 @@ www.sisnemun.gov.np
 www.siyarimun.gov.np
 www.sonmamun.gov.np
 www.sorumun.gov.np
+www.startupnepal.gov.np
 www.sunapatimun.gov.np
 www.sunaryamun.gov.np
 www.sunchhaharimun.gov.np
