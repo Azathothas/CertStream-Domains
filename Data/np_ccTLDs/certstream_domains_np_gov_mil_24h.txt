@@ -63,6 +63,8 @@ benighatrorangmun.gov.np
 bethanchowkmun.gov.np
 bhagawatimaimun.gov.np
 bhagwanpurmun.gov.np
+bhairabimun.gov.np
+bhangahamun.gov.np
 bhimsenthapamun.gov.np
 bhojpur.edcu.gov.np
 bhokrahamun.gov.np
@@ -84,6 +86,7 @@ buddhabhumimun.gov.np
 budhigangamunmorang.gov.np
 bungalmun.gov.np
 ccrs.moha.gov.np
+chakraghattamun.gov.np
 chamemun.gov.np
 champadevimun.gov.np
 chamundabindrasainimun.gov.np
@@ -97,14 +100,17 @@ chhatharjorpatimun.gov.np
 chhatharmun.gov.np
 chhatrakotmun.gov.np
 chhayanathraramun.gov.np
+chhedagadmun.gov.np
 chhipaharmaimun.gov.np
 chichilamun.gov.np
+chingadmun.gov.np
 chishankhugadhimun.gov.np
 chitwan.edcu.gov.np
 choubisemun.gov.np
 chulachulimun.gov.np
 chumanuwrimun.gov.np
 churemun.gov.np
+dangisharanmun.gov.np
 darchula.edcu.gov.np
 darmamun.gov.np
 devtalmun.gov.np
@@ -259,6 +265,7 @@ mugu.edcu.gov.np
 mustang.edcu.gov.np
 myagdi.edcu.gov.np
 nawalpur.edcu.gov.np
+ntacall.nta.gov.np
 palpa.edcu.gov.np
 panchthar.edcu.gov.np
 parsa.edcu.gov.np
@@ -331,6 +338,8 @@ www.benighatrorangmun.gov.np
 www.bethanchowkmun.gov.np
 www.bhagawatimaimun.gov.np
 www.bhagwanpurmun.gov.np
+www.bhairabimun.gov.np
+www.bhangahamun.gov.np
 www.bhimsenthapamun.gov.np
 www.bhokrahamun.gov.np
 www.bhotekoshimun.gov.np
@@ -350,6 +359,7 @@ www.brindawanmun.gov.np
 www.buddhabhumimun.gov.np
 www.budhigangamunmorang.gov.np
 www.bungalmun.gov.np
+www.chakraghattamun.gov.np
 www.chamemun.gov.np
 www.champadevimun.gov.np
 www.chamundabindrasainimun.gov.np
@@ -363,13 +373,16 @@ www.chhatharjorpatimun.gov.np
 www.chhatharmun.gov.np
 www.chhatrakotmun.gov.np
 www.chhayanathraramun.gov.np
+www.chhedagadmun.gov.np
 www.chhipaharmaimun.gov.np
 www.chichilamun.gov.np
+www.chingadmun.gov.np
 www.chishankhugadhimun.gov.np
 www.choubisemun.gov.np
 www.chulachulimun.gov.np
 www.chumanuwrimun.gov.np
 www.churemun.gov.np
+www.dangisharanmun.gov.np
 www.darmamun.gov.np
 www.devtalmun.gov.np
 www.dewahigonahimun.gov.np
