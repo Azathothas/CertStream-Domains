@@ -20,6 +20,7 @@ cpanel.arnikofoundation.edu.np
 cpanel.cha.edu.np
 cpanel.easycare.edu.np
 cpanel.gmss.edu.np
+cpanel.hwc.edu.np
 cpanel.janajyotibasic.edu.np
 cpanel.janakhajari.edu.np
 cpanel.knc.edu.np
@@ -33,6 +34,7 @@ cpanel.sarvodayaschool.edu.np
 cpanel.satyawatiacademy.edu.np
 cpanel.savyatapathshala.edu.np
 cpanel.sedna.edu.np
+cpanel.shreedhurbatara.edu.np
 cpanel.skmnc.edu.np
 cpanel.svi.edu.np
 cpanel.tjssrukumwest.edu.np
@@ -41,6 +43,7 @@ cpcalendars.ahs.edu.np
 cpcalendars.arnikofoundation.edu.np
 cpcalendars.easycare.edu.np
 cpcalendars.gmss.edu.np
+cpcalendars.hwc.edu.np
 cpcalendars.janajyotibasic.edu.np
 cpcalendars.janakhajari.edu.np
 cpcalendars.knc.edu.np
@@ -54,6 +57,7 @@ cpcalendars.sarvodayaschool.edu.np
 cpcalendars.satyawatiacademy.edu.np
 cpcalendars.savyatapathshala.edu.np
 cpcalendars.sedna.edu.np
+cpcalendars.shreedhurbatara.edu.np
 cpcalendars.skmnc.edu.np
 cpcalendars.svi.edu.np
 cpcalendars.tjssrukumwest.edu.np
@@ -62,6 +66,7 @@ cpcontacts.ahs.edu.np
 cpcontacts.arnikofoundation.edu.np
 cpcontacts.easycare.edu.np
 cpcontacts.gmss.edu.np
+cpcontacts.hwc.edu.np
 cpcontacts.janajyotibasic.edu.np
 cpcontacts.janakhajari.edu.np
 cpcontacts.knc.edu.np
@@ -75,6 +80,7 @@ cpcontacts.sarvodayaschool.edu.np
 cpcontacts.satyawatiacademy.edu.np
 cpcontacts.savyatapathshala.edu.np
 cpcontacts.sedna.edu.np
+cpcontacts.shreedhurbatara.edu.np
 cpcontacts.skmnc.edu.np
 cpcontacts.svi.edu.np
 cpcontacts.tjssrukumwest.edu.np
@@ -101,12 +107,14 @@ gauravcopy.vmebschool.edu.np
 gci.edu.np
 gmss.edu.np
 home.ahnzxdrp.machhindramavi.edu.np
+hwc.edu.np
 itclub.prime.edu.np
 janajyotibasic.edu.np
 janakalyanchyasku.edu.np
 janakhajari.edu.np
 jnjeducation.edu.np
 kalikaschoolbtl.edu.np
+kankalischool.edu.np
 kantipurcampus.edu.np
 kantipurintl.edu.np
 kathford.edu.np
@@ -116,6 +124,7 @@ krishnamavitimu.edu.np
 ladangtoto-id.zingschool.edu.np
 lagrandee.edu.np
 lcmschool.edu.np
+livingwordacademy.edu.np
 login.jantamavisoltee.edu.np
 loginabroad.edu.np
 lws.edu.np
@@ -123,6 +132,7 @@ mail.amv.edu.np
 mail.arnikofoundation.edu.np
 mail.easycare.edu.np
 mail.gmss.edu.np
+mail.hwc.edu.np
 mail.janajyotibasic.edu.np
 mail.janakhajari.edu.np
 mail.kalikaschoolbtl.edu.np
@@ -130,6 +140,7 @@ mail.knc.edu.np
 mail.lws.edu.np
 mail.maviimiliya.edu.np
 mail.megacollege.edu.np
+mail.migrationschool.edu.np
 mail.mtmanasluschool.edu.np
 mail.naragram.edu.np
 mail.nubahakot.edu.np
@@ -138,6 +149,7 @@ mail.sarvodayaschool.edu.np
 mail.satyawatiacademy.edu.np
 mail.savyatapathshala.edu.np
 mail.sedna.edu.np
+mail.shreedhurbatara.edu.np
 mail.skmnc.edu.np
 mail.svi.edu.np
 mail.tjssrukumwest.edu.np
@@ -147,6 +159,7 @@ maviimiliya.edu.np
 mbcoe.mbman.edu.np
 megacollege.edu.np
 midascollege.cmc.edu.np
+migrationschool.edu.np
 mis.gci.edu.np
 mrss.edu.np
 mtmanasluschool.edu.np
@@ -154,6 +167,7 @@ mtmebs.edu.np
 naragram.edu.np
 navodaya.edu.np
 ncit.edu.np
+neighbourhoodschool.edu.np
 new.trishaheed.edu.np
 newcapitalcollege.edu.np
 nubahakot.edu.np
@@ -168,12 +182,14 @@ pucef.edu.np
 pushparajwedding.com.icas.edu.np
 registerfortest.academic.edu.np
 relianceschool.edu.np
+riaschool.edu.np
 sarvodayaschool.edu.np
 satyawatiacademy.edu.np
 savyatapathshala.edu.np
 schoolsuryodaya.edu.np
 sedna.edu.np
 sevensamurai.edu.np
+shreedhurbatara.edu.np
 shushikumarkushwaha.vmebschool.edu.np
 skmnc.edu.np
 social.sqc.edu.np
@@ -188,6 +204,7 @@ test.vidhyasagar.edu.np
 test.xavier.edu.np
 texasintlschool.edu.np
 theroyal.vmebschool.edu.np
+timeseducational.edu.np
 tjssrukumwest.edu.np
 total.vmebschool.edu.np
 trifala.ecea-s.easycare.edu.np
@@ -198,6 +215,7 @@ webdisk.ahs.edu.np
 webdisk.arnikofoundation.edu.np
 webdisk.easycare.edu.np
 webdisk.gmss.edu.np
+webdisk.hwc.edu.np
 webdisk.janajyotibasic.edu.np
 webdisk.janakhajari.edu.np
 webdisk.knc.edu.np
@@ -211,6 +229,7 @@ webdisk.sarvodayaschool.edu.np
 webdisk.satyawatiacademy.edu.np
 webdisk.savyatapathshala.edu.np
 webdisk.sedna.edu.np
+webdisk.shreedhurbatara.edu.np
 webdisk.skmnc.edu.np
 webdisk.svi.edu.np
 webdisk.tjssrukumwest.edu.np
@@ -219,6 +238,7 @@ webmail.ahs.edu.np
 webmail.arnikofoundation.edu.np
 webmail.easycare.edu.np
 webmail.gmss.edu.np
+webmail.hwc.edu.np
 webmail.janajyotibasic.edu.np
 webmail.janakhajari.edu.np
 webmail.knc.edu.np
@@ -232,6 +252,7 @@ webmail.sarvodayaschool.edu.np
 webmail.satyawatiacademy.edu.np
 webmail.savyatapathshala.edu.np
 webmail.sedna.edu.np
+webmail.shreedhurbatara.edu.np
 webmail.skmnc.edu.np
 webmail.svi.edu.np
 webmail.tjssrukumwest.edu.np
@@ -241,6 +262,7 @@ www.amv.edu.np
 www.arnikofoundation.edu.np
 www.cpanel.cha.edu.np
 www.easycare.edu.np
+www.ecom.neighbourhoodschool.edu.np
 www.edwise.edu.np
 www.ekchin.com.miit.edu.np
 www.email.nhms.edu.np
@@ -251,6 +273,7 @@ www.fibss.edu.np
 www.forum.snats.edu.np
 www.gauravcopy.vmebschool.edu.np
 www.gmss.edu.np
+www.hwc.edu.np
 www.janajyotibasic.edu.np
 www.janakhajari.edu.np
 www.kalikaschoolbtl.edu.np
@@ -264,6 +287,7 @@ www.lws.edu.np
 www.maviimiliya.edu.np
 www.mbcoe.mbman.edu.np
 www.megacollege.edu.np
+www.migrationschool.edu.np
 www.mtmanasluschool.edu.np
 www.mtmebs.edu.np
 www.naragram.edu.np
@@ -281,6 +305,7 @@ www.savyatapathshala.edu.np
 www.schoolsuryodaya.edu.np
 www.sedna.edu.np
 www.sevensamurai.edu.np
+www.shreedhurbatara.edu.np
 www.shushikumarkushwaha.vmebschool.edu.np
 www.skmnc.edu.np
 www.social.sqc.edu.np
@@ -294,5 +319,6 @@ www.tjssrukumwest.edu.np
 www.total.vmebschool.edu.np
 www.trifala.ecea-s.easycare.edu.np
 www.trinity.edu.np
+www.upos.neighbourhoodschool.edu.np
 www.vmebschool.edu.np
 www.www.git.git.bls.edu.np

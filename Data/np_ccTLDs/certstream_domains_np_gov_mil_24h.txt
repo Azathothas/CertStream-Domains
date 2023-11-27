@@ -226,6 +226,7 @@ kanchanpur.edcu.gov.np
 kandamun.gov.np
 kanepokharimun.gov.np
 kankasundarimun.gov.np
+kapurkotmun.gov.np
 karaiyamaimun.gov.np
 karjanhamun.gov.np
 kaski.edcu.gov.np
@@ -496,6 +497,7 @@ www.kanchanmun.gov.np
 www.kandamun.gov.np
 www.kanepokharimun.gov.np
 www.kankasundarimun.gov.np
+www.kapurkotmun.gov.np
 www.karaiyamaimun.gov.np
 www.karjanhamun.gov.np
 www.kataharimun.gov.np
