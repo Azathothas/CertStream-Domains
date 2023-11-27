@@ -15,5 +15,4 @@ subisu.net.np.mcas-df.ms
 subisu.net.np.mcas.ms
 vault.ntc.net.np
 vendor-access.worldlink.com.np
-viatv.com.np
 wlink.com.np
