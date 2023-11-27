@@ -117,9 +117,11 @@ dordimun.gov.np
 dudhpokharimun.gov.np
 duduwamun.gov.np
 duhunmun.gov.np
+dungeshwormun.gov.np
 dupcheshwormun.gov.np
 durgabhagawatimun.gov.np
 durgathalimun.gov.np
+edu.udayapurgadhimun.gov.np
 ekdaramun.gov.np
 gadhawamun.gov.np
 gadhimun.gov.np
@@ -150,6 +152,7 @@ hansapurmun.gov.np
 harinagaramun.gov.np
 harinasmun.gov.np
 haripurmun.gov.np
+haripurwamun.gov.np
 hatuwagadhimun.gov.np
 helambumun.gov.np
 hilihangmun.gov.np
@@ -172,6 +175,7 @@ jhapamun.gov.np
 jhimrukmun.gov.np
 jirabhawanimun.gov.np
 jorayalmun.gov.np
+junichaandemun.gov.np
 jwalamukhimun.gov.np
 kabilasimun.gov.np
 kachankawalmun.gov.np
@@ -183,9 +187,11 @@ kaligandakimunsyangja.gov.np
 kalikamaimun.gov.np
 kalikamunkalikot.gov.np
 kalikamunrasuwa.gov.np
+kalimatimun.gov.np
 kalinchowkmun.gov.np
 kalyanpurmun.gov.np
 kamalamun.gov.np
+kamalmun.gov.np
 kanchanmun.gov.np
 kandamun.gov.np
 kanepokharimun.gov.np
@@ -220,6 +226,7 @@ likhumunnuwakot.gov.np
 likhumunokhaldhunga.gov.np
 likhupikemun.gov.np
 limchungbungmun.gov.np
+lisankhupakharmun.gov.np
 loghekardamodarkundamun.gov.np
 loharpattimun.gov.np
 lungrimun.gov.np
@@ -343,6 +350,7 @@ www.dordimun.gov.np
 www.dudhpokharimun.gov.np
 www.duduwamun.gov.np
 www.duhunmun.gov.np
+www.dungeshwormun.gov.np
 www.dupcheshwormun.gov.np
 www.durgabhagawatimun.gov.np
 www.durgathalimun.gov.np
@@ -376,6 +384,7 @@ www.hansapurmun.gov.np
 www.harinagaramun.gov.np
 www.harinasmun.gov.np
 www.haripurmun.gov.np
+www.haripurwamun.gov.np
 www.hatuwagadhimun.gov.np
 www.helambumun.gov.np
 www.hilihangmun.gov.np
@@ -397,6 +406,7 @@ www.jhapamun.gov.np
 www.jhimrukmun.gov.np
 www.jirabhawanimun.gov.np
 www.jorayalmun.gov.np
+www.junichaandemun.gov.np
 www.jwalamukhimun.gov.np
 www.kabilasimun.gov.np
 www.kachankawalmun.gov.np
@@ -408,9 +418,11 @@ www.kaligandakimunsyangja.gov.np
 www.kalikamaimun.gov.np
 www.kalikamunkalikot.gov.np
 www.kalikamunrasuwa.gov.np
+www.kalimatimun.gov.np
 www.kalinchowkmun.gov.np
 www.kalyanpurmun.gov.np
 www.kamalamun.gov.np
+www.kamalmun.gov.np
 www.kanchanmun.gov.np
 www.kandamun.gov.np
 www.kanepokharimun.gov.np
@@ -445,6 +457,7 @@ www.likhumunnuwakot.gov.np
 www.likhumunokhaldhunga.gov.np
 www.likhupikemun.gov.np
 www.limchungbungmun.gov.np
+www.lisankhupakharmun.gov.np
 www.loghekardamodarkundamun.gov.np
 www.loharpattimun.gov.np
 www.lungrimun.gov.np
