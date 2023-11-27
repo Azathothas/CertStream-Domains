@@ -6,6 +6,7 @@ aarughatmun.gov.np
 aathbiskotmun.gov.np
 aathraimun.gov.np
 aathraitribenimun.gov.np
+achham.edcu.gov.np
 adanchulimun.gov.np
 agnisairkrishnasawaranmun.gov.np
 airawatimun.gov.np
@@ -15,9 +16,11 @@ ajirkotmun.gov.np
 annapurnamunkaski.gov.np
 annapurnamunmyagdi.gov.np
 apihimalmun.gov.np
+arghakhanchi.edcu.gov.np
 arjunchauparimun.gov.np
 arnamamun.gov.np
 arunmun.gov.np
+assessment.ndrrma.gov.np
 aurahimunmahottari.gov.np
 aurahimunsiraha.gov.np
 badigadmun.gov.np
@@ -58,6 +61,7 @@ bethanchowkmun.gov.np
 bhagawatimaimun.gov.np
 bhagwanpurmun.gov.np
 bhimsenthapamun.gov.np
+bhojpur.edcu.gov.np
 bhokrahamun.gov.np
 bhotekoshimun.gov.np
 bhumikasthanmun.gov.np
@@ -100,6 +104,7 @@ churemun.gov.np
 darmamun.gov.np
 devtalmun.gov.np
 dewahigonahimun.gov.np
+dhading.edcu.gov.np
 dhakarimun.gov.np
 dhanapalthanmun.gov.np
 dhankaulmun.gov.np
@@ -159,6 +164,7 @@ hilihangmun.gov.np
 household.phidimmun.gov.np
 hupsekotmun.gov.np
 ichchhakamanamun.gov.np
+ilam.edcu.gov.np
 indrasarowarmun.gov.np
 indrawatimun.gov.np
 ismamun.gov.np
@@ -166,6 +172,7 @@ jagarnathpurmun.gov.np
 jagdullamun.gov.np
 jagganathmun.gov.np
 jahadamun.gov.np
+jajarkot.edcu.gov.np
 jaljalamun.gov.np
 janakimunbanke.gov.np
 janakimunkailali.gov.np
@@ -180,6 +187,7 @@ jwalamukhimun.gov.np
 kabilasimun.gov.np
 kachankawalmun.gov.np
 kaikemun.gov.np
+kailali.edcu.gov.np
 kailarimun.gov.np
 kakanimun.gov.np
 kaligandakimungulmi.gov.np
@@ -187,6 +195,7 @@ kaligandakimunsyangja.gov.np
 kalikamaimun.gov.np
 kalikamunkalikot.gov.np
 kalikamunrasuwa.gov.np
+kalikot.edcu.gov.np
 kalimatimun.gov.np
 kalinchowkmun.gov.np
 kalyanpurmun.gov.np
@@ -198,6 +207,7 @@ kanepokharimun.gov.np
 kankasundarimun.gov.np
 karaiyamaimun.gov.np
 karjanhamun.gov.np
+kaski.edcu.gov.np
 kataharimun.gov.np
 kathekholamun.gov.np
 kepilasgadhimun.gov.np
@@ -218,6 +228,7 @@ kumakhmun.gov.np
 kummayakmun.gov.np
 kushemun.gov.np
 kwholasotharmun.gov.np
+lamjung.edcu.gov.np
 laxminiyamun.gov.np
 laxmipurpatarimun.gov.np
 lekammun.gov.np
@@ -232,6 +243,20 @@ loharpattimun.gov.np
 lungrimun.gov.np
 machhapuchhremun.gov.np
 madanemun.gov.np
+manang.edcu.gov.np
+mohp.gov.np
+mustang.edcu.gov.np
+myagdi.edcu.gov.np
+nawalpur.edcu.gov.np
+panchthar.edcu.gov.np
+parsa.edcu.gov.np
+result.butwalmun.gov.np
+rolpa.edcu.gov.np
+sankhuwasabha.edcu.gov.np
+saptari.edcu.gov.np
+surkhet.edcu.gov.np
+taplejung.edcu.gov.np
+westrukum.edcu.gov.np
 www.aadarshakotwalmun.gov.np
 www.aadarshamun.gov.np
 www.aalitalmun.gov.np
@@ -464,3 +489,4 @@ www.lsmcebps.gov.np
 www.lungrimun.gov.np
 www.machhapuchhremun.gov.np
 www.madanemun.gov.np
+www.mohp.gov.np
