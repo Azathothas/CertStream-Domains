@@ -8,6 +8,7 @@ aarughatmun.gov.np
 aathabismun.gov.np
 aathbiskotmun.gov.np
 aathraitribenimun.gov.np
+aauk.bagamati.gov.np
 adanchulimun.gov.np
 admin.ims.mellekhmun.gov.np
 admin.phidimmun.gov.np
@@ -91,6 +92,7 @@ budhigangamunbajura.gov.np
 budhinandamun.gov.np
 bulingtarmun.gov.np
 bungalmun.gov.np
+ccrs.moha.gov.np
 chakraghattamun.gov.np
 chamemun.gov.np
 champadevimun.gov.np
@@ -172,6 +174,7 @@ durgathalimun.gov.np
 ebps.budhanilkanthamun.gov.np
 ebps.dharan.gov.np
 edcdbudget.gov.np
+efiling.biratnagarmun.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.gov.np
 emonitoring.sudurpashchim.gov.np
@@ -206,6 +209,7 @@ heoc.mohp.gov.np
 home.phidimmun.gov.np
 ijalas.phidimmun.gov.np
 ilam.akc.gov.np
+investnepal.gov.np
 jayaprithvimun.gov.np
 jeetpursimaramun.gov.np
 jirimun.gov.np
@@ -266,6 +270,7 @@ vlpokhara.gov.np
 wadapatra.phidimmun.gov.np
 ward10.lmc.gov.np
 ward28.lmc.gov.np
+webmail.investnepal.gov.np
 wssdodadeldhura.gov.np
 www.aadarshakotwalmun.gov.np
 www.aadarshamun.gov.np
@@ -437,6 +442,7 @@ www.gosaikundamun.gov.np
 www.grcdolfd.bagamati.gov.np
 www.harinagarmun.gov.np
 www.ilam.akc.gov.np
+www.investnepal.gov.np
 www.jayaprithvimun.gov.np
 www.jeetpursimaramun.gov.np
 www.jirimun.gov.np
@@ -444,6 +450,7 @@ www.kalikamunchitwan.gov.np
 www.lalitpur.akc.gov.np
 www.lalitpurmun.gov.np
 www.lmc.gov.np
+www.lsmcebps.gov.np
 www.madhyabindumun.gov.np
 www.madhyanepalmun.gov.np
 www.mdvip.gov.np
