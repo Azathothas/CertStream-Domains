@@ -24,6 +24,7 @@ edu.mahabharatmun.gov.np
 fics.gov.np
 fpdb.gov.np
 fslsc.dofsc.gov.np
+gov.np.sitexpired.com
 gwridd.koshi.gov.np
 hd.p1.gov.np
 hetaudahospital.gov.np
@@ -69,6 +70,7 @@ pyc.sudurpashchim.gov.np
 pyuthanayurved.lumbini.gov.np
 qsrd.mohp.gov.np
 rajpurmunrautahat.gov.np
+rautamaimun.gov.np
 rbcl.gov.np
 rdtc.p2.gov.np
 ridodang.gov.np
@@ -122,6 +124,7 @@ www.nah.gov.np
 www.nphl.gov.np
 www.pyuthanayurved.lumbini.gov.np
 www.rajpurmunrautahat.gov.np
+www.rautamaimun.gov.np
 www.rbcl.gov.np
 www.ridodang.gov.np
 www.rltcdhangadhi.gov.np
