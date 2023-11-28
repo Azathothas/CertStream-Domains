@@ -1,5 +1,4 @@
 api.ncell.axiata.com
-chatbot.ntc.net.np
 classic.com.np
 dev-kyc.ntc.net.np
 isp.nettv.com.np

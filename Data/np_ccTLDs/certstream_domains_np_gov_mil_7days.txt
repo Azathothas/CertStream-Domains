@@ -20,12 +20,10 @@ airawatimun.gov.np
 aiselukharkamun.gov.np
 ajayamerumun.gov.np
 ajirkotmun.gov.np
-akcsaptari.p2.gov.np
 annapurnamunkaski.gov.np
 annapurnamunmyagdi.gov.np
 api-rms.ndrrma.gov.np
 apihimalmun.gov.np
-apps.sunilsmritimun.gov.np
 arghakhanchi.edcu.gov.np
 arjunchauparimun.gov.np
 arnamamun.gov.np
@@ -156,7 +154,6 @@ dangisharanmun.gov.np
 darchula.edcu.gov.np
 darmamun.gov.np
 darta-chalani.mellekhmun.gov.np
-data.kuklpid.gov.np
 devghatmun.gov.np
 devtalmun.gov.np
 dewahigonahimun.gov.np
@@ -184,11 +181,6 @@ diccp.gandaki.gov.np
 diktelrupakotmajhuwagadimun.gov.np
 dilasainimun.gov.np
 diprungchuichummamun.gov.np
-dmis.karnalifrtc.gov.np
-dmisbheridfo.karnali.gov.np
-dmisdfoskt.karnali.gov.np
-dmisdicp.karnali.gov.np
-dmismoitfe.karnali.gov.np
 dms.ocmcm.bagamati.gov.np
 dodharachadanimun.gov.np
 dodharachandanimun.gov.np
@@ -213,7 +205,6 @@ efiling.biratnagarmun.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.gov.np
 emonitoring.sudurpashchim.gov.np
-esaugat.karnali.gov.np
 eservice.itaharimun.gov.np
 frtc.gandaki.gov.np
 gadhawamun.gov.np
@@ -266,7 +257,6 @@ household.phidimmun.gov.np
 hupsekotmun.gov.np
 ichchhakamanamun.gov.np
 ijalas.phidimmun.gov.np
-ilam.akc.gov.np
 ilam.edcu.gov.np
 indrasarowarmun.gov.np
 indrawatimun.gov.np
@@ -327,7 +317,6 @@ kataharimun.gov.np
 katahariyamun.gov.np
 kathekholamun.gov.np
 kavrepalanchok.edcu.gov.np
-kdmismoitfe.karnali.gov.np
 kepilasgadhimun.gov.np
 kerabarimun.gov.np
 khadakmun.gov.np
@@ -369,7 +358,6 @@ lumbinidevtrust.gov.np
 lungrimun.gov.np
 machhapuchhremun.gov.np
 madanemun.gov.np
-madhyabindumun.gov.np
 madhyanepalmun.gov.np
 madikrishi.gov.np
 madimunrolpa.gov.np
@@ -479,14 +467,12 @@ pccmis.karnali.gov.np
 pccmisadmin.karnali.gov.np
 pds.phidimmun.gov.np
 pfca.gov.np
-pfddmis.karnali.gov.np
 phakphokthummun.gov.np
 phaktanglungmun.gov.np
 phatuwabijaypurmun.gov.np
 phetamun.gov.np
 phikkalmun.gov.np
 pipramun.gov.np
-plfbcprc.gov.np
 pmis.nra.gov.np
 pollution.gov.np
 pppc.bagamati.gov.np
@@ -547,7 +533,6 @@ shikharmun.gov.np
 shitagangamun.gov.np
 siddhalekmun.gov.np
 sifaris.phidimmun.gov.np
-sifarish.biratnagarmun.gov.np
 sigasmun.gov.np
 simkotmun.gov.np
 simtamun.gov.np
@@ -574,7 +559,6 @@ surungamun.gov.np
 suryagadhimun.gov.np
 sustamun.gov.np
 swamikartikmun.gov.np
-swmosdmis.karnali.gov.np
 tadimun.gov.np
 tamankholamun.gov.np
 taplejung.edcu.gov.np
@@ -598,7 +582,6 @@ trivenimunrukum.gov.np
 turmakhadmun.gov.np
 tyamkemaiyummun.gov.np
 vcdc.gov.np
-vhlsecnuwakot.bagamati.gov.np
 vlpokhara.gov.np
 wadapatra.phidimmun.gov.np
 ward10.lmc.gov.np
@@ -821,7 +804,6 @@ www.himalimun.gov.np
 www.himamun.gov.np
 www.hupsekotmun.gov.np
 www.ichchhakamanamun.gov.np
-www.ilam.akc.gov.np
 www.indrasarowarmun.gov.np
 www.indrawatimun.gov.np
 www.investnepal.gov.np
@@ -915,7 +897,6 @@ www.lumbinidevtrust.gov.np
 www.lungrimun.gov.np
 www.machhapuchhremun.gov.np
 www.madanemun.gov.np
-www.madhyabindumun.gov.np
 www.madhyanepalmun.gov.np
 www.madikrishi.gov.np
 www.madimunrolpa.gov.np
@@ -1006,7 +987,6 @@ www.phatuwabijaypurmun.gov.np
 www.phetamun.gov.np
 www.phikkalmun.gov.np
 www.pipramun.gov.np
-www.plfbcprc.gov.np
 www.prasaunimun.gov.np
 www.pratappurmun.gov.np
 www.purbakholamun.gov.np
