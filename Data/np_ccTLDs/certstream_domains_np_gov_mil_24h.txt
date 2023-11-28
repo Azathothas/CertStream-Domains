@@ -1,3 +1,5 @@
+achhamhospital.gov.np
+agricensusnepal.gov.np
 ahcsyangja.gandaki.gov.np
 akcbajura.sudurpashchim.gov.np
 akcdadeldhura.sudurpashchim.gov.np
@@ -6,9 +8,14 @@ api-rms.ndrrma.gov.np
 application.startupnepal.gov.np
 arghakhanchihospital.lumbini.gov.np
 bipad.gov.np
+bipadmoial.bagamati.gov.np
 birhospital.gov.np
+boudhanath.gov.np
+bpc.pokharamun.gov.np
+brhospital.bagamati.gov.np
 coop.gandaki.gov.np
 csh.gov.np
+css.nitc.gov.np
 dahcparbat.gov.np
 dcm.hetaudamun.gov.np
 demo.oab.gov.np
@@ -19,6 +26,7 @@ diccw.sudurpashchim.gov.np
 dmgnepal.gov.np
 dotihospital.gov.np
 e-bulletin.panchpokharithangpalmun.gov.np
+ebps-api.bagmatimunsarlahi.gov.np
 ebps.bagmatimunsarlahi.gov.np
 ebps.janakpurmun.gov.np
 edcurukumwest.gov.np
@@ -71,6 +79,7 @@ nugip.dudbc.gov.np
 old.nlc.gov.np
 panchthar.pfco.koshi.gov.np
 parwanipurmun.gov.np
+patarasimun.gov.np
 pcrcto.p1.gov.np
 phapluhospital.p1.gov.np
 phj.p2.gov.np
@@ -80,6 +89,9 @@ piubaglung.pmamp.gov.np
 piumorang.pmamp.gov.np
 pollution.gov.np
 pphl.p2.gov.np
+ppsc.karnali.gov.np
+prabin.nitc.gov.np
+prbfrmp.dwri.gov.np
 provincemuseum.gandaki.gov.np
 psdc.bagamati.gov.np
 pyc.sudurpashchim.gov.np
@@ -116,6 +128,7 @@ vhlparbat.gandaki.gov.np
 vhlscdarchula.sudurpashchim.gov.np
 vhlsecdhading.bagamati.gov.np
 ward01.lalitpurmun.gov.np
+ward06.lalitpurmun.gov.np
 ward15.lmc.gov.np
 ward18.lmc.gov.np
 ward18.nepalgunjmun.gov.np
@@ -126,9 +139,12 @@ ward7.nagarjunmun.gov.np
 wriddobanke.gov.np
 wriddopalpa.lumbini.gov.np
 wriddtaplejung.p1.gov.np
+www.achhamhospital.gov.np
+www.agricensusnepal.gov.np
 www.akcdhanusha.gov.np
 www.bipad.gov.np
 www.birhospital.gov.np
+www.boudhanath.gov.np
 www.csh.gov.np
 www.dahcparbat.gov.np
 www.dfobhojpur.gov.np
@@ -154,6 +170,7 @@ www.nafanepal.gov.np
 www.nah.gov.np
 www.nphl.gov.np
 www.parwanipurmun.gov.np
+www.patarasimun.gov.np
 www.pyuthanayurved.lumbini.gov.np
 www.rajpurmunrautahat.gov.np
 www.rautamaimun.gov.np
