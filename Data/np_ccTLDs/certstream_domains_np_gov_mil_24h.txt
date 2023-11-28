@@ -1,7 +1,11 @@
 application.startupnepal.gov.np
 lawcommission.gov.np
 lims.dftqc.gov.np
+mahottarimun.gov.np
 pollution.gov.np
+rajpurmunrautahat.gov.np
 startupnepal.gov.np
 www.lawcommission.gov.np
+www.mahottarimun.gov.np
+www.rajpurmunrautahat.gov.np
 www.startupnepal.gov.np
