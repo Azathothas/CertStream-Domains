@@ -56,6 +56,7 @@ ncsmc.mocit.gov.np
 nphl.gov.np
 nugip.dudbc.gov.np
 old.nlc.gov.np
+parwanipurmun.gov.np
 pcrcto.p1.gov.np
 phapluhospital.p1.gov.np
 phj.p2.gov.np
@@ -87,6 +88,8 @@ sports.karnali.gov.np
 startupnepal.gov.np
 suryagadhimun.gov.np
 swmodoti.sudurpashchim.gov.np
+tamakoshimun.gov.np
+tilamun.gov.np
 tmosurkhet.karnali.gov.np
 tourism.gandaki.gov.np
 valley.tourism.gov.np
@@ -122,6 +125,7 @@ www.moitfe.bagamati.gov.np
 www.nafanepal.gov.np
 www.nah.gov.np
 www.nphl.gov.np
+www.parwanipurmun.gov.np
 www.pyuthanayurved.lumbini.gov.np
 www.rajpurmunrautahat.gov.np
 www.rautamaimun.gov.np
@@ -130,6 +134,8 @@ www.ridodang.gov.np
 www.rltcdhangadhi.gov.np
 www.startupnepal.gov.np
 www.suryagadhimun.gov.np
+www.tamakoshimun.gov.np
+www.tilamun.gov.np
 www.valley.tourism.gov.np
 www.wriddobanke.gov.np
 zonejajarkot.pmamp.gov.np
