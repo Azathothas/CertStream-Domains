@@ -1,3 +1,4 @@
+academic.rianepal.edu.np
 almighty.edu.np
 bostonec.edu.np
 cpanel.almighty.edu.np
@@ -20,9 +21,12 @@ cpcontacts.peaceful.edu.np
 cpcontacts.rpi.edu.np
 cpcontacts.tesla.edu.np
 devisecondaryschool.edu.np
+en.forum.snats.edu.np
 forms.ghen.edu.np
 forum.forum.snats.edu.np
 kedar.edu.np
+lms.kathford.edu.np
+maheshwar.edu.np
 maheshwory.edu.np
 mail.almighty.edu.np
 mail.devisecondaryschool.edu.np
@@ -38,8 +42,11 @@ njcc.edu.np
 ojs.cmc.edu.np
 peaceful.edu.np
 phpmyadmin.forum.snats.edu.np
+questnepal.sqc.edu.np
+registration.hritacademy.edu.np
 rpi.edu.np
 seto.edu.np
+shf.edu.np
 sms.gyanmarga.edu.np
 staging.kingscollege.edu.np
 support.ghen.edu.np
@@ -58,6 +65,8 @@ webmail.navajyoti.edu.np
 webmail.peaceful.edu.np
 webmail.rpi.edu.np
 webmail.tesla.edu.np
+www.academic.rianepal.edu.np
+www.academytimes.edu.np
 www.almighty.edu.np
 www.bostonec.edu.np
 www.devisecondaryschool.edu.np
@@ -66,6 +75,8 @@ www.mitjnk.edu.np.mwt.org.np
 www.navajyoti.edu.np
 www.njcc.edu.np
 www.peaceful.edu.np
+www.questnepal.sqc.edu.np
+www.registration.hritacademy.edu.np
 www.rpi.edu.np
 www.sms.gyanmarga.edu.np
 www.staging.kingscollege.edu.np
