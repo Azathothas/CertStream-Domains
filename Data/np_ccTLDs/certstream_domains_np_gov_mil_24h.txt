@@ -5,8 +5,13 @@ gov.np.mcas.ms
 marchawarimun.gov.np
 pauwadungmamun.gov.np
 pollution.gov.np
+roshimun.gov.np
+shahidbhumimun.gov.np
+swmorolpa.lumbini.gov.np
 tamakoshimun.gov.np
 www.marchawarimun.gov.np
 www.nepalarmy.mil.np.emaill.live
 www.pauwadungmamun.gov.np
+www.roshimun.gov.np
+www.shahidbhumimun.gov.np
 www.tamakoshimun.gov.np
