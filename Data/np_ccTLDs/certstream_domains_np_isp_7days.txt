@@ -12,6 +12,7 @@ prbt.ncell.axiata.com
 prbtcms.ncell.axiata.com
 reporting.nettv.com.np
 sabin.wlink.com.np
+speedtest.wlink.com.np.prod.hosts.ooklaserver.net
 subisu.net.np.admin-mcas-df.ms
 subisu.net.np.admin-mcas.ms
 subisu.net.np.mcas-df.ms

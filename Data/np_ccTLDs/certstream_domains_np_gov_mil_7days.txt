@@ -201,6 +201,7 @@ dhanaujimun.gov.np
 dhankaulmun.gov.np
 dharchemun.gov.np
 dharmadevimun.gov.np
+dhodadeldhura.gov.np
 dhokavre.gov.np
 dhorpatanhuntingreserve.gov.np
 dhorpatanmun.gov.np
@@ -212,6 +213,7 @@ diktelrupakotmajhuwagadimun.gov.np
 dilasainimun.gov.np
 diprungchuichummamun.gov.np
 dlpiudktedu.nra.gov.np
+dlpiukathmandu.gov.np
 dmgnepal.gov.np
 dms.ocmcm.bagamati.gov.np
 doar.p2.gov.np
@@ -311,6 +313,7 @@ hd.p1.gov.np
 hdcdolpa.karnali.gov.np
 healthofficepanchthar.p1.gov.np
 helambumun.gov.np
+hellocm.karnali.gov.np
 hellosarkar.gov.np
 heoc.mohp.gov.np
 hetaudahospital.gov.np
@@ -390,6 +393,7 @@ kanchanpur.edcu.gov.np
 kandamun.gov.np
 kanepokharimun.gov.np
 kankasundarimun.gov.np
+kapilvastuayurved.lumbini.gov.np
 kapurkotmun.gov.np
 karaiyamaimun.gov.np
 karjanhamun.gov.np
@@ -426,6 +430,7 @@ laxminiyamun.gov.np
 laxmipurpatarimun.gov.np
 lekammun.gov.np
 lekbeshimun.gov.np
+leobiratnagar.gov.np
 leobutwal.gov.np
 library.nrcbt.gov.np
 likhumunnuwakot.gov.np
@@ -525,6 +530,7 @@ nafanepal.gov.np
 nah.gov.np
 naksapass-api.dhunibeshimun.gov.np
 naksapass.chandrapurmun.gov.np
+naksapass.raptimunchitwan.gov.np
 nalgaadmun.gov.np
 namkhamun.gov.np
 namobuddhamun.gov.np
@@ -610,6 +616,7 @@ pollution.gov.np
 pphl.lumbini.gov.np
 pphl.p2.gov.np
 pppc.bagamati.gov.np
+ppsc.bagamati.gov.np
 ppsc.karnali.gov.np
 prabin.nitc.gov.np
 prasaunimun.gov.np
@@ -695,6 +702,7 @@ shikharmun.gov.np
 shitagangamun.gov.np
 siddhalekmun.gov.np
 sifaris.phidimmun.gov.np
+sifarish.bherigangamun.gov.np
 sigasmun.gov.np
 simkotmun.gov.np
 simtamun.gov.np
@@ -741,6 +749,7 @@ thalaramun.gov.np
 thantikandhmun.gov.np
 tharucommission.gov.np
 thasangmun.gov.np
+thcsarlahi.gov.np
 thorimun.gov.np
 thulibherimun.gov.np
 thulungdudhkoshimun.gov.np
@@ -761,6 +770,7 @@ vhlparbat.gandaki.gov.np
 vhlscdarchula.sudurpashchim.gov.np
 vhlsecdhading.bagamati.gov.np
 vpms.dlfd.gandaki.gov.np
+vsdta.gov.np
 wadapatra.phidimmun.gov.np
 ward01.lalitpurmun.gov.np
 ward06.lalitpurmun.gov.np
@@ -945,6 +955,7 @@ www.dhanaujimun.gov.np
 www.dhankaulmun.gov.np
 www.dharchemun.gov.np
 www.dharmadevimun.gov.np
+www.dhodadeldhura.gov.np
 www.dhokavre.gov.np
 www.dhorpatanhuntingreserve.gov.np
 www.dhorpatanmun.gov.np
@@ -953,6 +964,7 @@ www.dhurkotmun.gov.np
 www.diktelrupakotmajhuwagadimun.gov.np
 www.dilasainimun.gov.np
 www.diprungchuichummamun.gov.np
+www.dlpiukathmandu.gov.np
 www.dmgnepal.gov.np
 www.dodharachadanimun.gov.np
 www.dodharachandanimun.gov.np
@@ -1108,6 +1120,7 @@ www.laxminiyamun.gov.np
 www.laxmipurpatarimun.gov.np
 www.lekammun.gov.np
 www.lekbeshimun.gov.np
+www.leobiratnagar.gov.np
 www.leobutwal.gov.np
 www.likhumunnuwakot.gov.np
 www.likhumunokhaldhunga.gov.np
@@ -1324,6 +1337,7 @@ www.thalaramun.gov.np
 www.thantikandhmun.gov.np
 www.tharucommission.gov.np
 www.thasangmun.gov.np
+www.thcsarlahi.gov.np
 www.thorimun.gov.np
 www.thulibherimun.gov.np
 www.thulungdudhkoshimun.gov.np
@@ -1335,6 +1349,7 @@ www.turmakhadmun.gov.np
 www.tyamkemaiyummun.gov.np
 www.valley.tourism.gov.np
 www.vetdolakha.gov.np
+www.vsdta.gov.np
 www.wriddjhapa.gov.np
 www.wriddobanke.gov.np
 zonejajarkot.pmamp.gov.np
