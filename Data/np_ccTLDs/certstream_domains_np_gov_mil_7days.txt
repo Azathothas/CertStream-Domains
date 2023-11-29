@@ -524,6 +524,7 @@ parsa.edcu.gov.np
 parsagadhimun.gov.np
 parsamun.gov.np
 pathivarayangwarakmun.gov.np
+pauwadungmamun.gov.np
 pccmis.karnali.gov.np
 pccmisadmin.karnali.gov.np
 pds.phidimmun.gov.np
@@ -1096,6 +1097,7 @@ www.parohamun.gov.np
 www.parsagadhimun.gov.np
 www.parsamun.gov.np
 www.pathivarayangwarakmun.gov.np
+www.pauwadungmamun.gov.np
 www.pfca.gov.np
 www.pfdir.p2.gov.np
 www.phakphokthummun.gov.np
