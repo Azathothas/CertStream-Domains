@@ -8,12 +8,10 @@ log.ntc.net.np
 monitor.ntc.net.np
 nas1.classic.com.np
 ns3.classic.com.np
-pg.ncell.axiata.com
 prbt.ncell.axiata.com
 prbtcms.ncell.axiata.com
 reporting.nettv.com.np
 sabin.wlink.com.np
-speedtestktm.ntc.net.np
 subisu.net.np.admin-mcas-df.ms
 subisu.net.np.admin-mcas.ms
 subisu.net.np.mcas-df.ms

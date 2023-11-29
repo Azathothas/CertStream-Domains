@@ -187,21 +187,13 @@ devghatmun.gov.np
 devtalmun.gov.np
 dewahigonahimun.gov.np
 dewanganjmun.gov.np
-dfobaglung.gov.np
 dfobhojpur.gov.np
-dfodangghorahi.lumbini.gov.np
 dfodhanusha.gov.np
-dfolamjung.gov.np
 dfomahottari.p2.gov.np
-dfomanang.gov.np
 dfomorang.gov.np
 dfomustang.gov.np
-dfomyagdi.gov.np
-dfonawalpur.gov.np
 dforupandehi.gov.np
 dfosiraha.p2.gov.np
-dfosyangja.gov.np
-dfotanahun.gov.np
 dhading.edcu.gov.np
 dhakarimun.gov.np
 dhanapalthanmun.gov.np
@@ -232,8 +224,6 @@ dorambamun.gov.np
 dordimun.gov.np
 dotihospital.gov.np
 dpopalpa.gov.np
-dscodadeldhura.gov.np
-dscomyagdi.gov.np
 dudhaulimun.gov.np
 dudhpokharimun.gov.np
 duduwamun.gov.np
@@ -265,7 +255,6 @@ fdclahan.gov.np
 fdtcjnk.gov.np
 fics.gov.np
 fpdb.gov.np
-frtc.gandaki.gov.np
 fslsc.dofsc.gov.np
 fwd.gov.np
 gadhawamun.gov.np
@@ -291,7 +280,6 @@ geruwamun.gov.np
 gharapjhongmun.gov.np
 ghiringmun.gov.np
 ghyanglekhmun.gov.np
-gioms.gov.np
 gnsh.gov.np
 godaitamun.gov.np
 gokulgangamun.gov.np
@@ -365,7 +353,6 @@ janakpur.leo.gov.np
 janatakojalavidhyut.gov.np
 jantedhungamun.gov.np
 jayaprithvimun.gov.np
-jeetpursimaramun.gov.np
 jhapamun.gov.np
 jhimrukmun.gov.np
 jirabhawanimun.gov.np
@@ -524,7 +511,6 @@ mosd.koshi.gov.np
 moyas.bagamati.gov.np
 mpp.madhesh.gov.np
 msmhospital.gov.np
-msystem.bagamati.gov.np
 mudkechulamun.gov.np
 mugu.edcu.gov.np
 mukhiyapattimusaharniyamun.gov.np
@@ -532,7 +518,6 @@ municipality.gov.np
 municipalityhealthprofile.lumbini.gov.np
 musikotmungulmi.gov.np
 mustang.edcu.gov.np
-mw.bagamati.gov.np
 myagangmun.gov.np
 myagdemun.gov.np
 myagdi.edcu.gov.np
@@ -561,7 +546,6 @@ nepallake.gov.np
 nepalntp.gov.np
 netrawatidabjongmun.gov.np
 news.gangadevmun.gov.np
-nfdin.gov.np
 nirttp.gov.np
 nisikholamun.gov.np
 nphl.gov.np
@@ -606,7 +590,6 @@ pccmis.karnali.gov.np
 pccmisadmin.karnali.gov.np
 pcrcto.p1.gov.np
 pds.phidimmun.gov.np
-pfca.gov.np
 pfdir.p2.gov.np
 phakphokthummun.gov.np
 phaktanglungmun.gov.np
@@ -689,7 +672,6 @@ sannitrivenimun.gov.np
 saptari.edcu.gov.np
 sarawalmun.gov.np
 sarkegadmun.gov.np
-sarlahi.pmamp.gov.np
 sarumaranimun.gov.np
 satyawatikrishi.gov.np
 satyawatimun.gov.np
@@ -727,9 +709,7 @@ sonmamun.gov.np
 sorumun.gov.np
 sosankhu.dos.gov.np
 sports.karnali.gov.np
-standinglist.nta.gov.np
 startupnepal.gov.np
-store.tokhamun.gov.np
 sunapatimun.gov.np
 sunaryamun.gov.np
 sunchhaharimun.gov.np
@@ -776,12 +756,10 @@ trivenimunrukum.gov.np
 turmakhadmun.gov.np
 tyamkemaiyummun.gov.np
 valley.tourism.gov.np
-vcdc.gov.np
 vetdolakha.gov.np
 vhlparbat.gandaki.gov.np
 vhlscdarchula.sudurpashchim.gov.np
 vhlsecdhading.bagamati.gov.np
-vlpokhara.gov.np
 vpms.dlfd.gandaki.gov.np
 wadapatra.phidimmun.gov.np
 ward01.lalitpurmun.gov.np
@@ -956,17 +934,11 @@ www.devghatmun.gov.np
 www.devtalmun.gov.np
 www.dewahigonahimun.gov.np
 www.dewanganjmun.gov.np
-www.dfobaglung.gov.np
 www.dfobhojpur.gov.np
 www.dfodhanusha.gov.np
-www.dfolamjung.gov.np
 www.dfomorang.gov.np
 www.dfomustang.gov.np
-www.dfomyagdi.gov.np
-www.dfonawalpur.gov.np
 www.dforupandehi.gov.np
-www.dfosyangja.gov.np
-www.dfotanahun.gov.np
 www.dhakarimun.gov.np
 www.dhanapalthanmun.gov.np
 www.dhanaujimun.gov.np
@@ -990,8 +962,6 @@ www.dorambamun.gov.np
 www.dordimun.gov.np
 www.dotihospital.gov.np
 www.dpopalpa.gov.np
-www.dscodadeldhura.gov.np
-www.dscomyagdi.gov.np
 www.dudbchub.gov.np
 www.dudhaulimun.gov.np
 www.dudhpokharimun.gov.np
@@ -1008,7 +978,6 @@ www.fdclahan.gov.np
 www.fdtcjnk.gov.np
 www.fics.gov.np
 www.fpdb.gov.np
-www.frtc.gandaki.gov.np
 www.fwd.gov.np
 www.gadhawamun.gov.np
 www.gadhimun.gov.np
@@ -1032,7 +1001,6 @@ www.geruwamun.gov.np
 www.gharapjhongmun.gov.np
 www.ghiringmun.gov.np
 www.ghyanglekhmun.gov.np
-www.gioms.gov.np
 www.gnsh.gov.np
 www.godaitamun.gov.np
 www.gokulgangamun.gov.np
@@ -1078,7 +1046,6 @@ www.janaknandinimun.gov.np
 www.janatakojalavidhyut.gov.np
 www.jantedhungamun.gov.np
 www.jayaprithvimun.gov.np
-www.jeetpursimaramun.gov.np
 www.jhapamun.gov.np
 www.jhimrukmun.gov.np
 www.jirabhawanimun.gov.np
@@ -1231,7 +1198,6 @@ www.nechasalyanmun.gov.np
 www.nepallake.gov.np
 www.nepalntp.gov.np
 www.netrawatidabjongmun.gov.np
-www.nfdin.gov.np
 www.nirttp.gov.np
 www.nisikholamun.gov.np
 www.nphl.gov.np
@@ -1260,7 +1226,6 @@ www.parwanipurmun.gov.np
 www.patarasimun.gov.np
 www.pathivarayangwarakmun.gov.np
 www.pauwadungmamun.gov.np
-www.pfca.gov.np
 www.pfdir.p2.gov.np
 www.phakphokthummun.gov.np
 www.phaktanglungmun.gov.np
@@ -1369,9 +1334,7 @@ www.trivenimunrukum.gov.np
 www.turmakhadmun.gov.np
 www.tyamkemaiyummun.gov.np
 www.valley.tourism.gov.np
-www.vcdc.gov.np
 www.vetdolakha.gov.np
-www.vlpokhara.gov.np
 www.wriddjhapa.gov.np
 www.wriddobanke.gov.np
 zonejajarkot.pmamp.gov.np

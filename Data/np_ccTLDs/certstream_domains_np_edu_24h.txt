@@ -1,4 +1,5 @@
 abscicca.edu.np
+ace.edu.np
 achieverscareer.edu.np
 ahs.edu.np
 almighty.edu.np.my-urls.com
@@ -19,6 +20,7 @@ bps.edu.np
 brightace.edu.np
 cafodat.edu.np
 calyxebs.edu.np
+capital.edu.np
 careercounselling.edu.np
 cdhmtu.edu.np
 chandikamavi.edu.np
@@ -81,6 +83,7 @@ elearning.namuna.edu.np
 emmanuelschool.edu.np
 engineeringhelpline.edu.np
 enlighten.edu.np
+ghen.edu.np
 git.git.git.git.bls.edu.np
 git.holyfamily.edu.np
 gloryeduservices.edu.np
@@ -112,6 +115,7 @@ lrischool.edu.np
 machhapuchchhreschool.edu.np
 machhindramavi.edu.np
 mahadevschoolhumla.edu.np
+mahendrodayasec.edu.np
 mail.cdhmtu.edu.np
 mail.ghen.edu.np
 mail.grs.edu.np
@@ -121,6 +125,7 @@ mail.kafcol.edu.np
 mail.kns.edu.np
 mail.krishnamavi.edu.np
 mail.lfs.edu.np
+mail.mahendrodayasec.edu.np
 mail.milestonecollege.edu.np
 mail.milkywayschool.edu.np
 mail.nbmv.edu.np
@@ -151,6 +156,7 @@ ninglashainischool.edu.np.glekhive.com
 npec.edu.np
 old.mbmc.edu.np
 old.thewestminstercollege.edu.np
+online.kingscollege.edu.np
 pacificstudyabroad.edu.np
 parvatimavigurans.edu.np.sajilosikcha.com.np
 pieintl.edu.np
@@ -169,6 +175,7 @@ setidevimavi.edu.np
 sevs.edu.np.sajilosikcha.com.np
 sfie.edu.np
 shardamavi.edu.np
+shikshabikash.edu.np
 shreebagmatimabi.edu.np
 shreejanatamavi.edu.np
 shreekalidevimabi.edu.np
@@ -224,6 +231,7 @@ whm.emmanuelschool.edu.np
 whm.nha.edu.np
 wiglobal.edu.np
 worldwide.edu.np
+www.ace.edu.np
 www.achieverscareer.edu.np
 www.almighty.edu.np.my-urls.com
 www.bhairabnavadeepmavi.edu.np.sajilosikcha.com.np
@@ -231,6 +239,7 @@ www.bps.edu.np
 www.cdhmtu.edu.np
 www.damaknationalschool.edu.np
 www.elearning.namuna.edu.np
+www.ghen.edu.np
 www.git.git.git.git.bls.edu.np
 www.grs.edu.np
 www.grs.edu.np.jmssg.edu.np
@@ -253,6 +262,7 @@ www.library.nilakantheshwormavi.edu.np
 www.lms.lbu.edu.np
 www.machhapuchchhreschool.edu.np
 www.mahadevschoolhumla.edu.np
+www.mahendrodayasec.edu.np
 www.mastesworimavi.edu.np.sajilosikcha.com.np
 www.mgentertainment.com.np.jmssg.edu.np
 www.milestonecollege.edu.np
@@ -268,6 +278,7 @@ www.nilkanthamavi.edu.np.sajilosikcha.com.np
 www.ninglashainischool.edu.np
 www.ninglashainischool.edu.np.glekhive.com
 www.old.mbmc.edu.np
+www.online.kingscollege.edu.np
 www.pacificstudyabroad.edu.np
 www.parvatimavigurans.edu.np.sajilosikcha.com.np
 www.result.phulchokischool.edu.np
