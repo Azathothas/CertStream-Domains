@@ -1,3 +1,4 @@
+abscicca.edu.np
 achieverscareer.edu.np
 ahs.edu.np
 almighty.edu.np.my-urls.com
@@ -15,7 +16,10 @@ bhawanimabi.edu.np
 bic.thebritishcollege.edu.np
 bindukeshar.edu.np
 bps.edu.np
+brightace.edu.np
+cafodat.edu.np
 calyxebs.edu.np
+careercounselling.edu.np
 cdhmtu.edu.np
 chandikamavi.edu.np
 cit.edu.np
@@ -28,6 +32,7 @@ cpanel.hgs.edu.np
 cpanel.kns.edu.np
 cpanel.lfs.edu.np
 cpanel.machhapuchchhreschool.edu.np
+cpanel.milestonecollege.edu.np
 cpanel.milkywayschool.edu.np
 cpanel.namunakushma.edu.np
 cpanel.nbmv.edu.np
@@ -38,11 +43,13 @@ cpanel.snrpmavi.edu.np
 cpanel.vista.edu.np
 cpcalendars.ahs.edu.np
 cpcalendars.cdhmtu.edu.np
+cpcalendars.emmanuelschool.edu.np
 cpcalendars.grs.edu.np
 cpcalendars.gyankunj.edu.np
 cpcalendars.hgs.edu.np
 cpcalendars.kns.edu.np
 cpcalendars.lfs.edu.np
+cpcalendars.milestonecollege.edu.np
 cpcalendars.milkywayschool.edu.np
 cpcalendars.nbmv.edu.np
 cpcalendars.nha.edu.np
@@ -52,11 +59,13 @@ cpcalendars.snrpmavi.edu.np
 cpcalendars.vista.edu.np
 cpcontacts.ahs.edu.np
 cpcontacts.cdhmtu.edu.np
+cpcontacts.emmanuelschool.edu.np
 cpcontacts.grs.edu.np
 cpcontacts.gyankunj.edu.np
 cpcontacts.hgs.edu.np
 cpcontacts.kns.edu.np
 cpcontacts.lfs.edu.np
+cpcontacts.milestonecollege.edu.np
 cpcontacts.milkywayschool.edu.np
 cpcontacts.nbmv.edu.np
 cpcontacts.nha.edu.np
@@ -69,6 +78,7 @@ devchuli.edu.np
 deveshwarymavi.edu.np
 e.sanjiwanicollege.edu.np
 elearning.namuna.edu.np
+emmanuelschool.edu.np
 engineeringhelpline.edu.np
 enlighten.edu.np
 git.git.git.git.bls.edu.np
@@ -86,6 +96,7 @@ jyotimandalmavi.edu.np
 kafcol.edu.np
 kalikamujhung.edu.np.sajilosikcha.com.np
 khibiratnagar.edu.np
+kiec.edu.np
 kns.edu.np
 krishnamavi.edu.np
 kulmastjan.edu.np
@@ -96,6 +107,7 @@ lfs.edu.np
 lfs.edu.np.jmssg.edu.np
 library.mavijyamirekhani.edu.np
 library.nilakantheshwormavi.edu.np
+lms.lbu.edu.np
 lrischool.edu.np
 machhapuchchhreschool.edu.np
 machhindramavi.edu.np
@@ -109,6 +121,7 @@ mail.kafcol.edu.np
 mail.kns.edu.np
 mail.krishnamavi.edu.np
 mail.lfs.edu.np
+mail.milestonecollege.edu.np
 mail.milkywayschool.edu.np
 mail.nbmv.edu.np
 mail.nha.edu.np
@@ -120,9 +133,12 @@ mail.vista.edu.np
 mastesworimavi.edu.np.sajilosikcha.com.np
 mavijyamirekhani.edu.np
 mgentertainment.com.np.jmssg.edu.np
+milestonecollege.edu.np
+milestonecollege.edu.np.jmssg.edu.np
 milkywayschool.edu.np
 milkywayschool.edu.np.jmssg.edu.np
 namunakushma.edu.np
+nawajagaranc.edu.np
 nbmv.edu.np
 nepalrailwaymavi.edu.np
 newcapital.edu.np
@@ -137,6 +153,7 @@ old.mbmc.edu.np
 old.thewestminstercollege.edu.np
 pacificstudyabroad.edu.np
 parvatimavigurans.edu.np.sajilosikcha.com.np
+pieintl.edu.np
 pushs.edu.np
 rassociate.edu.np
 rccc.edu.np
@@ -147,8 +164,10 @@ rojaimontessori.edu.np
 rupnarayanmabi.edu.np
 rvp.edu.np
 saraswatimaviramche.edu.np.sajilosikcha.com.np
+saraswatisecondaryschool.edu.np
 setidevimavi.edu.np
 sevs.edu.np.sajilosikcha.com.np
+sfie.edu.np
 shardamavi.edu.np
 shreebagmatimabi.edu.np
 shreejanatamavi.edu.np
@@ -177,6 +196,7 @@ webdisk.gyankunj.edu.np
 webdisk.hgs.edu.np
 webdisk.kns.edu.np
 webdisk.lfs.edu.np
+webdisk.milestonecollege.edu.np
 webdisk.milkywayschool.edu.np
 webdisk.namunakushma.edu.np
 webdisk.nbmv.edu.np
@@ -192,6 +212,7 @@ webmail.gyankunj.edu.np
 webmail.hgs.edu.np
 webmail.kns.edu.np
 webmail.lfs.edu.np
+webmail.milestonecollege.edu.np
 webmail.milkywayschool.edu.np
 webmail.nbmv.edu.np
 webmail.nha.edu.np
@@ -199,8 +220,10 @@ webmail.ninglashainischool.edu.np
 webmail.rojaimontessori.edu.np
 webmail.snrpmavi.edu.np
 webmail.vista.edu.np
+whm.emmanuelschool.edu.np
 whm.nha.edu.np
 wiglobal.edu.np
+worldwide.edu.np
 www.achieverscareer.edu.np
 www.almighty.edu.np.my-urls.com
 www.bhairabnavadeepmavi.edu.np.sajilosikcha.com.np
@@ -217,6 +240,7 @@ www.journal.cdhmtu.edu.np
 www.kafcol.edu.np
 www.kalikamujhung.edu.np.sajilosikcha.com.np
 www.khibiratnagar.edu.np
+www.kiec.edu.np
 www.kns.edu.np
 www.krishnamavi.edu.np
 www.kumudinihomes.edu.np
@@ -226,10 +250,13 @@ www.lfs.edu.np
 www.lfs.edu.np.jmssg.edu.np
 www.library.mavijyamirekhani.edu.np
 www.library.nilakantheshwormavi.edu.np
+www.lms.lbu.edu.np
 www.machhapuchchhreschool.edu.np
 www.mahadevschoolhumla.edu.np
 www.mastesworimavi.edu.np.sajilosikcha.com.np
 www.mgentertainment.com.np.jmssg.edu.np
+www.milestonecollege.edu.np
+www.milestonecollege.edu.np.jmssg.edu.np
 www.milkywayschool.edu.np
 www.milkywayschool.edu.np.jmssg.edu.np
 www.namunakushma.edu.np

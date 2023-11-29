@@ -8,6 +8,7 @@ gov.np.admin-mcas-df.ms
 gov.np.admin-mcas.ms
 gov.np.mcas-df.ms
 gov.np.mcas.ms
+idodhanusha.madhesh.gov.np
 immigration.gov.np.admin-mcas-df.ms
 immigration.gov.np.admin-mcas.ms
 immigration.gov.np.mcas-df.ms
@@ -43,6 +44,7 @@ swmorolpa.lumbini.gov.np
 tamakoshimun.gov.np
 tripurasundarimundhading.gov.np
 trivenimunbajura.gov.np
+tsc.gov.np
 tumwewamun.gov.np
 www.fdclahan.gov.np
 www.kumarichowk.gov.np
