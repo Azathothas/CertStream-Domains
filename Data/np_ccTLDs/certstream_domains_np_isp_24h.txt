@@ -1,2 +1,0 @@
-ns3.classic.com.np
-prbtcms.ncell.axiata.com
