@@ -511,6 +511,7 @@ moia.gandaki.gov.np
 molet.bagamati.gov.np
 molt.madhesh.gov.np
 molungmun.gov.np
+mopid.madhesh.gov.np
 mopiewr.karnali.gov.np
 mosd.koshi.gov.np
 moyas.bagamati.gov.np
@@ -626,6 +627,7 @@ pratappurmun.gov.np
 prbfrmp.dwri.gov.np
 profiling.phidimmun.gov.np
 provincemuseum.gandaki.gov.np
+prtc.madhesh.gov.np
 psdc.bagamati.gov.np
 purbakholamun.gov.np
 purbichaukimun.gov.np

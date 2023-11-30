@@ -69,6 +69,7 @@ autodiscover.gmss.edu.np
 autodiscover.goldenfutureschool.edu.np
 autodiscover.gsniketan.edu.np
 autodiscover.helpeducation.edu.np
+autodiscover.himchhaya.edu.np
 autodiscover.hles.edu.np
 autodiscover.janajagritithakre.edu.np
 autodiscover.janajyotiss.edu.np
@@ -183,6 +184,7 @@ captain.caprover.savya.edu.np
 career.lbu.edu.np
 careercounselling.edu.np
 caspian.vmebschool.edu.np
+cchm.edu.np
 cdhmtu.edu.np
 cdhsc.edu.np
 cebs.edu.np
@@ -216,6 +218,7 @@ cpanel.biotechtu.edu.np
 cpanel.biratmedicalcollege.edu.np
 cpanel.bss8.edu.np
 cpanel.camadcollege.edu.np
+cpanel.cchm.edu.np
 cpanel.cdhmtu.edu.np
 cpanel.cha.edu.np
 cpanel.dbhawanishankar.edu.np
@@ -238,6 +241,7 @@ cpanel.helpeducation.edu.np
 cpanel.hgs.edu.np
 cpanel.hillsidesample.edu.np
 cpanel.hilltownschool.edu.np
+cpanel.himchhaya.edu.np
 cpanel.hwc.edu.np
 cpanel.iea.edu.np
 cpanel.infolab.edu.np
@@ -362,6 +366,7 @@ cpcalendars.biotechtu.edu.np
 cpcalendars.biratmedicalcollege.edu.np
 cpcalendars.bss8.edu.np
 cpcalendars.camadcollege.edu.np
+cpcalendars.cchm.edu.np
 cpcalendars.cdhmtu.edu.np
 cpcalendars.dbhawanishankar.edu.np
 cpcalendars.devisecondaryschool.edu.np
@@ -383,6 +388,7 @@ cpcalendars.helpeducation.edu.np
 cpcalendars.hgs.edu.np
 cpcalendars.hillsidesample.edu.np
 cpcalendars.hilltownschool.edu.np
+cpcalendars.himchhaya.edu.np
 cpcalendars.hwc.edu.np
 cpcalendars.iea.edu.np
 cpcalendars.infolab.edu.np
@@ -505,6 +511,7 @@ cpcontacts.biotechtu.edu.np
 cpcontacts.biratmedicalcollege.edu.np
 cpcontacts.bss8.edu.np
 cpcontacts.camadcollege.edu.np
+cpcontacts.cchm.edu.np
 cpcontacts.cdhmtu.edu.np
 cpcontacts.dbhawanishankar.edu.np
 cpcontacts.devisecondaryschool.edu.np
@@ -527,6 +534,7 @@ cpcontacts.helpeducation.edu.np
 cpcontacts.hgs.edu.np
 cpcontacts.hillsidesample.edu.np
 cpcontacts.hilltownschool.edu.np
+cpcontacts.himchhaya.edu.np
 cpcontacts.hwc.edu.np
 cpcontacts.iea.edu.np
 cpcontacts.infolab.edu.np
@@ -783,6 +791,7 @@ hilltownschool.edu.np
 himalayakpc.edu.np
 himalayawaldorf.edu.np
 himalayawaldorf.edu.np.cdmnepal.org
+himchhaya.edu.np
 hims.edu.np
 hles.edu.np
 holyvisioncampus.edu.np
@@ -933,6 +942,7 @@ mail.bss8.edu.np
 mail.bstcollege.edu.np
 mail.camadcollege.edu.np
 mail.careercounselling.edu.np
+mail.cchm.edu.np
 mail.cdhmtu.edu.np
 mail.coe.edu.np
 mail.dbhawanishankar.edu.np
@@ -958,6 +968,7 @@ mail.hgs.edu.np
 mail.hicast.edu.np
 mail.hillsidesample.edu.np
 mail.hilltownschool.edu.np
+mail.himchhaya.edu.np
 mail.hwc.edu.np
 mail.iea.edu.np
 mail.imperialcollege.edu.np
@@ -1501,6 +1512,7 @@ webdisk.biotechtu.edu.np
 webdisk.biratmedicalcollege.edu.np
 webdisk.bss8.edu.np
 webdisk.camadcollege.edu.np
+webdisk.cchm.edu.np
 webdisk.cdhmtu.edu.np
 webdisk.dbhawanishankar.edu.np
 webdisk.devisecondaryschool.edu.np
@@ -1521,6 +1533,7 @@ webdisk.helpeducation.edu.np
 webdisk.hgs.edu.np
 webdisk.hillsidesample.edu.np
 webdisk.hilltownschool.edu.np
+webdisk.himchhaya.edu.np
 webdisk.hwc.edu.np
 webdisk.iea.edu.np
 webdisk.infolab.edu.np
@@ -1645,6 +1658,7 @@ webmail.biotechtu.edu.np
 webmail.biratmedicalcollege.edu.np
 webmail.bss8.edu.np
 webmail.camadcollege.edu.np
+webmail.cchm.edu.np
 webmail.cdhmtu.edu.np
 webmail.dbhawanishankar.edu.np
 webmail.devisecondaryschool.edu.np
@@ -1668,6 +1682,7 @@ webmail.helpeducation.edu.np
 webmail.hgs.edu.np
 webmail.hillsidesample.edu.np
 webmail.hilltownschool.edu.np
+webmail.himchhaya.edu.np
 webmail.hles.edu.np
 webmail.hwc.edu.np
 webmail.iea.edu.np
@@ -1855,6 +1870,7 @@ www.campionschool.edu.np
 www.career.lbu.edu.np
 www.careercounselling.edu.np
 www.caspian.vmebschool.edu.np
+www.cchm.edu.np
 www.cdhmtu.edu.np
 www.cdhsc.edu.np
 www.cebs.edu.np
@@ -1936,6 +1952,7 @@ www.hicast.edu.np
 www.hillsidesample.edu.np
 www.hilltownschool.edu.np
 www.himalayawaldorf.edu.np.cdmnepal.org
+www.himchhaya.edu.np
 www.hles.edu.np
 www.holyvisioncampus.edu.np
 www.hrop.southwesternresearch.edu.np
