@@ -1,4 +1,6 @@
+add.gandaki.gov.np
 idodhanusha.madhesh.gov.np
+manang.edcu.gov.np
 miklajungmunpanchthar.gov.np
 narainapurmun.gov.np
 pfdir.p5.gov.np
@@ -6,6 +8,7 @@ postofficegorkha.gov.np
 rolpaayurveda.p5.gov.np
 shivapurimun.gov.np
 shuddhodhanmunkapilvastu.gov.np
+tsc.gov.np
 tumwewamun.gov.np
 varagungmuktichhetramun.gov.np
 www.miklajungmunpanchthar.gov.np
