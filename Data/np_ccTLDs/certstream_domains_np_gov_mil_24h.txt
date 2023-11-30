@@ -1,4 +1,5 @@
 add.gandaki.gov.np
+bajrabarahihospital.bagamati.gov.np
 dhodadeldhura.gov.np
 dorw.gov.np
 fdckailali.gov.np
@@ -6,6 +7,7 @@ fdckulekhani.bagamati.gov.np
 hdrc.gandaki.gov.np
 idodhanusha.madhesh.gov.np
 lamjung.edcu.gov.np
+leonepalgunj.gov.np
 lstcdhanusha.p2.gov.np
 lumbini.gov.np
 manang.edcu.gov.np
@@ -31,6 +33,7 @@ varagungmuktichhetramun.gov.np
 vhlsecrautahat.p2.gov.np
 www.dhodadeldhura.gov.np
 www.fdckailali.gov.np
+www.leonepalgunj.gov.np
 www.miklajungmunpanchthar.gov.np
 www.narainapurmun.gov.np
 www.nwc.gov.np

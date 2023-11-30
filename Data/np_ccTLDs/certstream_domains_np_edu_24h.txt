@@ -1,9 +1,11 @@
 academy.maxscore.edu.np
 admin.evc.edu.np
+admin.jitpursecondaryschool.edu.np
 admissions.thebritishcollege.edu.np
 ahs.edu.np
 ankuramacademy.edu.np
 apexlifeschool.edu.np
+autodiscover.bluebridges.edu.np
 autodiscover.pzspiritualschool.edu.np
 balbatika.edu.np
 balvikashschool.edu.np
@@ -12,6 +14,7 @@ bengkateshwarss.edu.np.sajilosikcha.com.np
 bhagwati.edu.np
 bicm.edu.np
 biotconf.ku.edu.np
+bluebridges.edu.np
 cafodat.edu.np
 cchm.edu.np
 cipn.ku.edu.np
@@ -19,6 +22,7 @@ cit.edu.np
 cpanel.ahs.edu.np
 cpanel.apexlifeschool.edu.np
 cpanel.balbatika.edu.np
+cpanel.bluebridges.edu.np
 cpanel.cchm.edu.np
 cpanel.kistmcth.edu.np
 cpanel.milestonecollege.edu.np
@@ -33,6 +37,7 @@ cpanel.shineglobal.edu.np
 cpcalendars.ahs.edu.np
 cpcalendars.apexlifeschool.edu.np
 cpcalendars.balbatika.edu.np
+cpcalendars.bluebridges.edu.np
 cpcalendars.cchm.edu.np
 cpcalendars.kistmcth.edu.np
 cpcalendars.milestonecollege.edu.np
@@ -48,6 +53,7 @@ cpcalendars.shineglobal.edu.np
 cpcontacts.ahs.edu.np
 cpcontacts.apexlifeschool.edu.np
 cpcontacts.balbatika.edu.np
+cpcontacts.bluebridges.edu.np
 cpcontacts.cchm.edu.np
 cpcontacts.kistmcth.edu.np
 cpcontacts.milestonecollege.edu.np
@@ -72,6 +78,7 @@ fid.ku.edu.np
 ftp.jyotieducation.edu.np
 galaxyhss.edu.np
 ged.ku.edu.np
+giant.edu.np
 git.bls.edu.np
 gloryeduservices.edu.np
 goes.edu.np
@@ -80,18 +87,22 @@ hsm.edu.np
 hsskuni.edu.np
 imperialcollege.edu.np
 janakalyans.edu.np
+jitpursecondaryschool.edu.np
 jmcrautahat.edu.np
 jnmv.edu.np
 jyotieducation.edu.np
 kailalicampus.edu.np
 kiec.edu.np
 kistmcth.edu.np
+kistmedicalcollege.edu.np
 kusom.edu.np
 las.edu.np
 library.mavijyamirekhani.edu.np
 mail.apexlifeschool.edu.np
 mail.balbatika.edu.np
+mail.bluebridges.edu.np
 mail.cchm.edu.np
+mail.jitpursecondaryschool.edu.np
 mail.jyotieducation.edu.np
 mail.kistmcth.edu.np
 mail.milestonecollege.edu.np
@@ -104,6 +115,7 @@ mail.pzspiritualschool.edu.np
 mail.rjc.edu.np
 mail.santwonacollege.edu.np
 mail.shineglobal.edu.np
+marywardlubhu.edu.np
 maxscore.edu.np
 milestonecollege.edu.np
 milestonecollege.edu.np.jmssg.edu.np
@@ -118,6 +130,7 @@ owa.nneapt.edu.np
 oxbridge.edu.np
 paninipolytechnic.edu.np
 peoplesacademyitahari.edu.np.sajilosikcha.com.np
+phoenixcollege.edu.np
 pkg.edu.np
 pop.jyotieducation.edu.np
 pragmatic.edu.np
@@ -126,6 +139,7 @@ pragyanacademy.edu.np
 pragyanacademy.edu.np.gajendramagar.com.np
 premierhotelschool.edu.np
 pzspiritualschool.edu.np
+quest.edu.np
 reports.pahs.edu.np
 rjc.edu.np
 sainamainasecondaryschool.edu.np
@@ -149,6 +163,7 @@ ttc.edu.np
 webdisk.ahs.edu.np
 webdisk.apexlifeschool.edu.np
 webdisk.balbatika.edu.np
+webdisk.bluebridges.edu.np
 webdisk.cchm.edu.np
 webdisk.kistmcth.edu.np
 webdisk.milestonecollege.edu.np
@@ -162,7 +177,9 @@ webdisk.santwonacollege.edu.np
 webdisk.shineglobal.edu.np
 webmail.ahs.edu.np
 webmail.balbatika.edu.np
+webmail.bluebridges.edu.np
 webmail.cchm.edu.np
+webmail.jitpursecondaryschool.edu.np
 webmail.kistmcth.edu.np
 webmail.milestonecollege.edu.np
 webmail.nha.edu.np
@@ -181,11 +198,13 @@ www.bcs.sunway.edu.np
 www.beersheba.beershebaschool.edu.np
 www.bengkateshwarss.edu.np.sajilosikcha.com.np
 www.bicm.edu.np
+www.bluebridges.edu.np
 www.cchm.edu.np
 www.demo.gyankunj.edu.np
 www.dreams.vmebschool.edu.np
 www.elibrary.imperialcollege.edu.np
 www.hsskuni.edu.np
+www.jitpursecondaryschool.edu.np
 www.jnmv.edu.np
 www.jyotieducation.edu.np
 www.kiec.edu.np
