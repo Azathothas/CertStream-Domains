@@ -1242,6 +1242,7 @@ plustwo.xavier.edu.np
 poahs.edu.np
 portal.adarsha.edu.np
 portfolio.edigitalnepal.edu.np
+post.shreejma.edu.np
 postmodern.edu.np
 prabhatkiran.edu.np
 prabhatsecondaryschool.edu.np
@@ -2124,6 +2125,7 @@ www.plustwo.arnikofoundation.edu.np
 www.plustwo.xavier.edu.np
 www.poahs.edu.np
 www.portal.adarsha.edu.np
+www.post.shreejma.edu.np
 www.prabhatkiran.edu.np
 www.prabhatsecondaryschool.edu.np
 www.prabhatsecondaryschool.edu.np.inspela.com
