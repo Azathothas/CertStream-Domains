@@ -14,7 +14,6 @@ achham.edcu.gov.np
 achham.pmamp.gov.np
 achhamhospital.gov.np
 adanchulimun.gov.np
-admin.ims.mellekhmun.gov.np
 admin.phidimmun.gov.np
 agnisairkrishnasawaranmun.gov.np
 agricensusnepal.gov.np
@@ -82,7 +81,6 @@ basbariyamun.gov.np
 bateshwormun.gov.np
 baudhimaimun.gov.np
 baudikalimun.gov.np
-bbbp.madhesh.gov.np
 bdt.dor.gov.np
 belakamun.gov.np
 belkotgadhimun.gov.np
@@ -218,7 +216,6 @@ dlpiukathmandu.gov.np
 dmgnepal.gov.np
 dms.ocmcm.bagamati.gov.np
 doar.p2.gov.np
-dodharachadanimun.gov.np
 dodharachandanimun.gov.np
 dogdakedarmun.gov.np
 doiccp.p2.gov.np
@@ -239,7 +236,6 @@ dwssm.gov.np
 e-bulletin.panchpokharithangpalmun.gov.np
 ebps-api.bagmatimunsarlahi.gov.np
 ebps.bagmatimunsarlahi.gov.np
-ebps.budhanilkanthamun.gov.np
 ebps.dharan.gov.np
 ebps.janakpurmun.gov.np
 ebpsdata.bagmatimunsarlahi.gov.np
@@ -249,8 +245,6 @@ edu.udayapurgadhimun.gov.np
 efiling.biratnagarmun.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.gov.np
-emonitoring.sudurpashchim.gov.np
-eservice.itaharimun.gov.np
 etc.p1.gov.np
 fcpb.madhesh.gov.np
 fdcfattepur.p2.gov.np
@@ -290,12 +284,9 @@ golanjormun.gov.np
 gosaikundamun.gov.np
 gov.np.admin-mcas-df.ms
 gov.np.admin-mcas.ms
-gov.np.clearwebstats.com
-gov.np.getstat.site
 gov.np.mcas-df.ms
 gov.np.mcas.ms
 gov.np.sitexpired.com
-gov.np.webstatdata.com
 gramthanmun.gov.np
 grcdolfd.bagamati.gov.np
 gujaramun.gov.np
@@ -361,11 +352,9 @@ janaknandinimun.gov.np
 janakpur.leo.gov.np
 janatakojalavidhyut.gov.np
 jantedhungamun.gov.np
-jayaprithvimun.gov.np
 jhapamun.gov.np
 jhimrukmun.gov.np
 jirabhawanimun.gov.np
-jirimun.gov.np
 jomsomairport.caanepal.gov.np
 jorayalmun.gov.np
 joshipurmun.gov.np
@@ -383,7 +372,6 @@ kakanimun.gov.np
 kaligandakimungulmi.gov.np
 kaligandakimunsyangja.gov.np
 kalikamaimun.gov.np
-kalikamunchitwan.gov.np
 kalikamunkalikot.gov.np
 kalikamunrasuwa.gov.np
 kalikot.dohs.gov.np
@@ -538,7 +526,6 @@ myagdemun.gov.np
 myagdi.edcu.gov.np
 nafanepal.gov.np
 nah.gov.np
-naksapass-api.dhunibeshimun.gov.np
 naksapass.chandrapurmun.gov.np
 naksapass.raptimunchitwan.gov.np
 nalgaadmun.gov.np
@@ -624,7 +611,6 @@ piubaglung.pmamp.gov.np
 piubajura.pmamp.gov.np
 piukanchanpur.pmamp.gov.np
 piumorang.pmamp.gov.np
-pmis.nra.gov.np
 pollution.gov.np
 postofficegorkha.gov.np
 pphl.lumbini.gov.np
@@ -677,7 +663,6 @@ roadrukum.karnali.gov.np
 rolpa.edcu.gov.np
 rongmun.gov.np
 roshimun.gov.np
-rtsti.gandaki.gov.np
 rubivalleymun.gov.np
 runtigadhimun.gov.np
 rupamun.gov.np
@@ -780,7 +765,6 @@ thulibherimun.gov.np
 thulungdudhkoshimun.gov.np
 tilamun.gov.np
 tinpatanmun.gov.np
-tmis.bagamati.gov.np
 tmosurkhet.karnali.gov.np
 tmotanahun.gandaki.gov.np
 tourism.gandaki.gov.np
@@ -995,7 +979,6 @@ www.dilasainimun.gov.np
 www.diprungchuichummamun.gov.np
 www.dlpiukathmandu.gov.np
 www.dmgnepal.gov.np
-www.dodharachadanimun.gov.np
 www.dodharachandanimun.gov.np
 www.dogdakedarmun.gov.np
 www.dolpobuddhamun.gov.np
@@ -1086,11 +1069,9 @@ www.janakimunkailali.gov.np
 www.janaknandinimun.gov.np
 www.janatakojalavidhyut.gov.np
 www.jantedhungamun.gov.np
-www.jayaprithvimun.gov.np
 www.jhapamun.gov.np
 www.jhimrukmun.gov.np
 www.jirabhawanimun.gov.np
-www.jirimun.gov.np
 www.jorayalmun.gov.np
 www.joshipurmun.gov.np
 www.jugalmun.gov.np
@@ -1105,7 +1086,6 @@ www.kakanimun.gov.np
 www.kaligandakimungulmi.gov.np
 www.kaligandakimunsyangja.gov.np
 www.kalikamaimun.gov.np
-www.kalikamunchitwan.gov.np
 www.kalikamunkalikot.gov.np
 www.kalikamunrasuwa.gov.np
 www.kalimatimun.gov.np

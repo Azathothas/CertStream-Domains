@@ -1,5 +1,3 @@
-api.ncell.axiata.com
-classic.com.np
 demo3.cgnet.com.np
 demo4.cgnet.com.np
 dev-kyc.ntc.net.np
@@ -14,10 +12,6 @@ prbtcms.ncell.axiata.com
 reporting.nettv.com.np
 sabin.wlink.com.np
 speedtest.wlink.com.np.prod.hosts.ooklaserver.net
-subisu.net.np.admin-mcas-df.ms
-subisu.net.np.admin-mcas.ms
-subisu.net.np.mcas-df.ms
-subisu.net.np.mcas.ms
 vault.ntc.net.np
 vendor-access.worldlink.com.np
 wlink.com.np
