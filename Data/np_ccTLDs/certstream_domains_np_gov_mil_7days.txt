@@ -14,6 +14,7 @@ achham.edcu.gov.np
 achham.pmamp.gov.np
 achhamhospital.gov.np
 adanchulimun.gov.np
+add.gandaki.gov.np
 admin.phidimmun.gov.np
 agnisairkrishnasawaranmun.gov.np
 agricensusnepal.gov.np
@@ -423,6 +424,7 @@ lamjung.edcu.gov.np
 lawcommission.gov.np
 laxminiyamun.gov.np
 laxmipurpatarimun.gov.np
+leave.apf.gov.np
 lekammun.gov.np
 lekbeshimun.gov.np
 leobiratnagar.gov.np
