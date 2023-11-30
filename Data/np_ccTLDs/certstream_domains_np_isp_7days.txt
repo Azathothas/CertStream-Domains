@@ -1,6 +1,7 @@
 api.ncell.axiata.com
 classic.com.np
 demo3.cgnet.com.np
+demo4.cgnet.com.np
 dev-kyc.ntc.net.np
 isp.nettv.com.np
 kyc.ntc.net.np

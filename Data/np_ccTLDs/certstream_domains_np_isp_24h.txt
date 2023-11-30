@@ -1,3 +1,0 @@
-demo3.cgnet.com.np
-demo4.cgnet.com.np
-speedtest.wlink.com.np.prod.hosts.ooklaserver.net
