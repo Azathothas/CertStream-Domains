@@ -166,6 +166,7 @@ contact-dir.heoc.mohp.gov.np
 coop.gandaki.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+cro.moial.p3.gov.np
 csh.gov.np
 csionawalpur.gov.np
 css.nitc.gov.np
@@ -513,8 +514,11 @@ molet.bagamati.gov.np
 molt.madhesh.gov.np
 molungmun.gov.np
 mopid.madhesh.gov.np
+mopid.p2.gov.np
 mopiewr.karnali.gov.np
 mosd.koshi.gov.np
+mowsed.madhesh.gov.np
+mowsed.p2.gov.np
 moyas.bagamati.gov.np
 mpp.madhesh.gov.np
 msmhospital.gov.np
@@ -613,6 +617,7 @@ phsosurkhet.karnali.gov.np
 pipramun.gov.np
 piubaglung.pmamp.gov.np
 piubajura.pmamp.gov.np
+piuchitwan.pmamp.gov.np
 piukanchanpur.pmamp.gov.np
 piumorang.pmamp.gov.np
 pollution.gov.np
