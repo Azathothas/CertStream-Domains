@@ -27,6 +27,7 @@ ajirkotmun.gov.np
 akcbajura.sudurpashchim.gov.np
 akcdadeldhura.sudurpashchim.gov.np
 akcdhanusha.gov.np
+akcmustang.gandaki.gov.np
 annapurnamunkaski.gov.np
 annapurnamunmyagdi.gov.np
 api-rms.ndrrma.gov.np
@@ -627,6 +628,7 @@ pipramun.gov.np
 piubaglung.pmamp.gov.np
 piubajura.pmamp.gov.np
 piuchitwan.pmamp.gov.np
+piudang.pmamp.gov.np
 piukanchanpur.pmamp.gov.np
 piumorang.pmamp.gov.np
 piusiraha.pmamp.gov.np
@@ -855,6 +857,7 @@ www.aiselukharkamun.gov.np
 www.ajayamerumun.gov.np
 www.ajirkotmun.gov.np
 www.akcdhanusha.gov.np
+www.akcmustang.gandaki.gov.np
 www.annapurnamunkaski.gov.np
 www.annapurnamunmyagdi.gov.np
 www.apihimalmun.gov.np
