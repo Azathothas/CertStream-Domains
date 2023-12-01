@@ -1,13 +1,17 @@
 admission.pufomas.edu.np
 admissions.thebritishcollege.edu.np
+apexlifeschool.edu.np
 arnikoschool.arnikofoundation.edu.np
 autodiscover.hsrc.edu.np
 autodiscover.smartcareer.edu.np
 beersheba.beershebaschool.edu.np
 carenepal.edu.np
+cchm.edu.np
 cdnhca.edu.np
 chhorepatanss.edu.np
 cimaca.edu.np
+cpanel.apexlifeschool.edu.np
+cpanel.cchm.edu.np
 cpanel.cimaca.edu.np
 cpanel.hsrc.edu.np
 cpanel.ires.edu.np
@@ -20,6 +24,8 @@ cpanel.saraswatihasaura.edu.np
 cpanel.shishujyoti.edu.np
 cpanel.smartcareer.edu.np
 cpanel.svsschool.edu.np
+cpcalendars.apexlifeschool.edu.np
+cpcalendars.cchm.edu.np
 cpcalendars.cimaca.edu.np
 cpcalendars.hsrc.edu.np
 cpcalendars.ires.edu.np
@@ -32,6 +38,8 @@ cpcalendars.saraswatihasaura.edu.np
 cpcalendars.shishujyoti.edu.np
 cpcalendars.smartcareer.edu.np
 cpcalendars.svsschool.edu.np
+cpcontacts.apexlifeschool.edu.np
+cpcontacts.cchm.edu.np
 cpcontacts.cimaca.edu.np
 cpcontacts.hsrc.edu.np
 cpcontacts.ires.edu.np
@@ -45,6 +53,7 @@ cpcontacts.shishujyoti.edu.np
 cpcontacts.smartcareer.edu.np
 cpcontacts.svsschool.edu.np
 cpec.ku.edu.np
+edu.np.websitebiography.com
 ekata.edu.np
 elearning.odec.edu.np
 favf.edu.np
@@ -56,6 +65,8 @@ ires.edu.np
 keu.org.np.kcs.edu.np
 loksewajobs.yaxis.edu.np
 mahendrasecschool.edu.np
+mail.apexlifeschool.edu.np
+mail.cchm.edu.np
 mail.cimaca.edu.np
 mail.hsrc.edu.np
 mail.ires.edu.np
@@ -77,6 +88,7 @@ newhorizon.edu.np
 penms.edu.np
 pinnaclecollege.edu.np
 platform.edu.np
+pragatisheel.edu.np
 premiercollege.edu.np
 professionalcareer.edu.np
 professionalcareer.edu.np.xavierinternationaledu.com
@@ -92,6 +104,8 @@ snats.edu.np
 somtu.edu.np
 svsschool.edu.np
 test.fass.edu.np
+webdisk.apexlifeschool.edu.np
+webdisk.cchm.edu.np
 webdisk.cimaca.edu.np
 webdisk.hsrc.edu.np
 webdisk.ires.edu.np
@@ -104,6 +118,7 @@ webdisk.saraswatihasaura.edu.np
 webdisk.shishujyoti.edu.np
 webdisk.smartcareer.edu.np
 webdisk.svsschool.edu.np
+webmail.cchm.edu.np
 webmail.cimaca.edu.np
 webmail.hsrc.edu.np
 webmail.ires.edu.np
@@ -117,8 +132,10 @@ webmail.shishujyoti.edu.np
 webmail.smartcareer.edu.np
 webmail.svsschool.edu.np
 www.admission.pufomas.edu.np
+www.apexlifeschool.edu.np
 www.arnikoschool.arnikofoundation.edu.np
 www.beersheba.beershebaschool.edu.np
+www.cchm.edu.np
 www.chhorepatanss.edu.np
 www.cimaca.edu.np
 www.hsrc.edu.np
