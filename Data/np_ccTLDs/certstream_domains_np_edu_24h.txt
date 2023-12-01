@@ -21,6 +21,7 @@ cpanel.ahs.edu.np
 cpanel.apexlifeschool.edu.np
 cpanel.cchm.edu.np
 cpanel.cimaca.edu.np
+cpanel.dharanadarsha.edu.np
 cpanel.hsrc.edu.np
 cpanel.ires.edu.np
 cpanel.missionstar.edu.np
@@ -40,6 +41,7 @@ cpcalendars.ahs.edu.np
 cpcalendars.apexlifeschool.edu.np
 cpcalendars.cchm.edu.np
 cpcalendars.cimaca.edu.np
+cpcalendars.dharanadarsha.edu.np
 cpcalendars.hsrc.edu.np
 cpcalendars.ires.edu.np
 cpcalendars.missionstar.edu.np
@@ -59,6 +61,7 @@ cpcontacts.ahs.edu.np
 cpcontacts.apexlifeschool.edu.np
 cpcontacts.cchm.edu.np
 cpcontacts.cimaca.edu.np
+cpcontacts.dharanadarsha.edu.np
 cpcontacts.hsrc.edu.np
 cpcontacts.ires.edu.np
 cpcontacts.missionstar.edu.np
@@ -74,6 +77,7 @@ cpcontacts.smartcareer.edu.np
 cpcontacts.spd.edu.np
 cpcontacts.svsschool.edu.np
 cpec.ku.edu.np
+dharanadarsha.edu.np
 dpsef.edu.np
 edu.np.websitebiography.com
 ekata.edu.np
@@ -94,6 +98,7 @@ ires.edu.np
 journal.tucded.edu.np
 kavreschool.edu.np
 keu.org.np.kcs.edu.np
+kvnepal.edu.np
 lms.netco.edu.np
 loksewajobs.yaxis.edu.np
 mahendrasecschool.edu.np
@@ -101,6 +106,7 @@ mail.abroadlipokhara.edu.np
 mail.apexlifeschool.edu.np
 mail.cchm.edu.np
 mail.cimaca.edu.np
+mail.dharanadarsha.edu.np
 mail.dpsef.edu.np
 mail.hsrc.edu.np
 mail.ires.edu.np
@@ -160,6 +166,7 @@ webdisk.ahs.edu.np
 webdisk.apexlifeschool.edu.np
 webdisk.cchm.edu.np
 webdisk.cimaca.edu.np
+webdisk.dharanadarsha.edu.np
 webdisk.hsrc.edu.np
 webdisk.ires.edu.np
 webdisk.missionstar.edu.np
@@ -178,6 +185,7 @@ webmail.abroadlipokhara.edu.np
 webmail.ahs.edu.np
 webmail.cchm.edu.np
 webmail.cimaca.edu.np
+webmail.dharanadarsha.edu.np
 webmail.dpsef.edu.np
 webmail.hsrc.edu.np
 webmail.ires.edu.np
@@ -203,12 +211,15 @@ www.cchm.edu.np
 www.chhorepatanss.edu.np
 www.cimaca.edu.np
 www.consultant.aeh.edu.np
+www.dharanadarsha.edu.np
 www.dpsef.edu.np
 www.happykidsmontessori.himalayanglory.edu.np
 www.hsrc.edu.np
 www.ires.edu.np
 www.kavreschool.edu.np
 www.keu.org.np.kcs.edu.np
+www.kisc.edu.np
+www.kvnepal.edu.np
 www.loksewajobs.yaxis.edu.np
 www.mangaladevi.edu.np.lyraitservices.com
 www.mehwool.asian.edu.np
