@@ -9,6 +9,7 @@ autoconfig.dpsef.edu.np
 autodiscover.dpsef.edu.np
 autodiscover.hsrc.edu.np
 autodiscover.smartcareer.edu.np
+balbikasschool.edu.np
 beersheba.beershebaschool.edu.np
 brps.edu.np
 carenepal.edu.np
