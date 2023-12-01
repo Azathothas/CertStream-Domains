@@ -10,6 +10,7 @@ autodiscover.dpsef.edu.np
 autodiscover.hsrc.edu.np
 autodiscover.smartcareer.edu.np
 beersheba.beershebaschool.edu.np
+brps.edu.np
 carenepal.edu.np
 cchm.edu.np
 cdnhca.edu.np
@@ -24,6 +25,8 @@ cpanel.cimaca.edu.np
 cpanel.dharanadarsha.edu.np
 cpanel.hsrc.edu.np
 cpanel.ires.edu.np
+cpanel.mangaladevi.edu.np
+cpanel.marsyangdibaljyoti.edu.np
 cpanel.missionstar.edu.np
 cpanel.moonlightschool.edu.np
 cpanel.pinnaclecollege.edu.np
@@ -44,6 +47,8 @@ cpcalendars.cimaca.edu.np
 cpcalendars.dharanadarsha.edu.np
 cpcalendars.hsrc.edu.np
 cpcalendars.ires.edu.np
+cpcalendars.mangaladevi.edu.np
+cpcalendars.marsyangdibaljyoti.edu.np
 cpcalendars.missionstar.edu.np
 cpcalendars.moonlightschool.edu.np
 cpcalendars.pinnaclecollege.edu.np
@@ -64,6 +69,8 @@ cpcontacts.cimaca.edu.np
 cpcontacts.dharanadarsha.edu.np
 cpcontacts.hsrc.edu.np
 cpcontacts.ires.edu.np
+cpcontacts.mangaladevi.edu.np
+cpcontacts.marsyangdibaljyoti.edu.np
 cpcontacts.missionstar.edu.np
 cpcontacts.moonlightschool.edu.np
 cpcontacts.pinnaclecollege.edu.np
@@ -82,6 +89,7 @@ dpsef.edu.np
 edu.np.websitebiography.com
 ekata.edu.np
 elearning.odec.edu.np
+emis.gyanbahumukhicampus.edu.np
 favf.edu.np
 fof.edu.np
 gaubombastamavi.edu.np
@@ -95,10 +103,12 @@ hsrc.edu.np
 htdcampus.edu.np
 iacer.edu.np
 ires.edu.np
+jantacampusith.edu.np
 journal.tucded.edu.np
 kavreschool.edu.np
 keu.org.np.kcs.edu.np
 kvnepal.edu.np
+lishaschool.edu.np
 lms.netco.edu.np
 loksewajobs.yaxis.edu.np
 mahendrasecschool.edu.np
@@ -110,8 +120,11 @@ mail.dharanadarsha.edu.np
 mail.dpsef.edu.np
 mail.hsrc.edu.np
 mail.ires.edu.np
+mail.mangaladevi.edu.np
+mail.marsyangdibaljyoti.edu.np
 mail.missionstar.edu.np
 mail.moonlightschool.edu.np
+mail.netco.edu.np
 mail.pinnaclecollege.edu.np
 mail.professionalcareer.edu.np
 mail.ran.edu.np
@@ -121,7 +134,10 @@ mail.shishujyoti.edu.np
 mail.smartcareer.edu.np
 mail.spd.edu.np
 mail.svsschool.edu.np
+mangaladevi.edu.np
 mangaladevi.edu.np.lyraitservices.com
+marsyangdibaljyoti.edu.np
+marsyangdibaljyoti.edu.np.cleaneverest.org
 mehwool.asian.edu.np
 missionstar.edu.np
 moonlightschool.edu.np
@@ -169,6 +185,8 @@ webdisk.cimaca.edu.np
 webdisk.dharanadarsha.edu.np
 webdisk.hsrc.edu.np
 webdisk.ires.edu.np
+webdisk.mangaladevi.edu.np
+webdisk.marsyangdibaljyoti.edu.np
 webdisk.missionstar.edu.np
 webdisk.moonlightschool.edu.np
 webdisk.pinnaclecollege.edu.np
@@ -189,6 +207,8 @@ webmail.dharanadarsha.edu.np
 webmail.dpsef.edu.np
 webmail.hsrc.edu.np
 webmail.ires.edu.np
+webmail.mangaladevi.edu.np
+webmail.marsyangdibaljyoti.edu.np
 webmail.missionstar.edu.np
 webmail.moonlightschool.edu.np
 webmail.pinnaclecollege.edu.np
@@ -213,6 +233,7 @@ www.cimaca.edu.np
 www.consultant.aeh.edu.np
 www.dharanadarsha.edu.np
 www.dpsef.edu.np
+www.emis.gyanbahumukhicampus.edu.np
 www.happykidsmontessori.himalayanglory.edu.np
 www.hsrc.edu.np
 www.ires.edu.np
@@ -221,7 +242,10 @@ www.keu.org.np.kcs.edu.np
 www.kisc.edu.np
 www.kvnepal.edu.np
 www.loksewajobs.yaxis.edu.np
+www.mangaladevi.edu.np
 www.mangaladevi.edu.np.lyraitservices.com
+www.marsyangdibaljyoti.edu.np
+www.marsyangdibaljyoti.edu.np.cleaneverest.org
 www.mehwool.asian.edu.np
 www.missionstar.edu.np
 www.moonlightschool.edu.np
