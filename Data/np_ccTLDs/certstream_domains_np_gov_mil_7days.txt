@@ -296,6 +296,7 @@ gov.np.sitexpired.com
 gramthanmun.gov.np
 grcdolfd.bagamati.gov.np
 gujaramun.gov.np
+gulmi.vethos.gov.np
 guransmun.gov.np
 guthichaurmun.gov.np
 gwridd.koshi.gov.np
@@ -607,6 +608,7 @@ pathivarayangwarakmun.gov.np
 pauwadungmamun.gov.np
 pccmis.karnali.gov.np
 pccmisadmin.karnali.gov.np
+pcgg.p1.gov.np
 pcrcto.p1.gov.np
 pds.phidimmun.gov.np
 pfdir.p2.gov.np
@@ -731,6 +733,8 @@ siddhalekmun.gov.np
 sifaris.phidimmun.gov.np
 sifarish.bherigangamun.gov.np
 sifarish.dullumun.gov.np
+sifarish.kawilasimun.gov.np
+sifarish.nepalgunjmun.gov.np
 sigasmun.gov.np
 simkotmun.gov.np
 simtamun.gov.np

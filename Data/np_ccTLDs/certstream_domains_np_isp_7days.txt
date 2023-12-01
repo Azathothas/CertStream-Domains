@@ -3,6 +3,7 @@ demo4.cgnet.com.np
 dev-kyc.ntc.net.np
 isp.nettv.com.np
 kyc.ntc.net.np
+ledger.ntc.net.np
 log.ntc.net.np
 monitor.ntc.net.np
 nas1.classic.com.np
