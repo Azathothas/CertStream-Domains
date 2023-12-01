@@ -162,7 +162,6 @@ choubisemun.gov.np
 chulachulimun.gov.np
 chumanuwrimun.gov.np
 churemun.gov.np
-contact-dir.heoc.mohp.gov.np
 coop.gandaki.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -228,7 +227,6 @@ dordimun.gov.np
 dorw.gov.np
 dotihospital.gov.np
 dpopalpa.gov.np
-dudhaulimun.gov.np
 dudhpokharimun.gov.np
 duduwamun.gov.np
 duhunmun.gov.np
@@ -314,7 +312,6 @@ healthofficepanchthar.p1.gov.np
 helambumun.gov.np
 hellocm.karnali.gov.np
 hellosarkar.gov.np
-heoc.mohp.gov.np
 hetaudahospital.gov.np
 hilihangmun.gov.np
 himalimun.gov.np
@@ -424,7 +421,6 @@ kumarichowk.gov.np
 kummayakmun.gov.np
 kushemun.gov.np
 kwholasotharmun.gov.np
-lalitpurmun.gov.np
 lamahihp.gov.np
 lamjung.edcu.gov.np
 lawcommission.gov.np
@@ -443,7 +439,6 @@ likhupikemun.gov.np
 limchungbungmun.gov.np
 lims.dftqc.gov.np
 lisankhupakharmun.gov.np
-lmc.gov.np
 localmis.doacrop.gov.np
 loghekardamodarkundamun.gov.np
 loharpattimun.gov.np
@@ -456,7 +451,6 @@ lungrimun.gov.np
 machhapuchhremun.gov.np
 madanemun.gov.np
 madhyabinduhospital.gandaki.gov.np
-madhyanepalmun.gov.np
 madikrishi.gov.np
 madimunrolpa.gov.np
 mahabharatmun.gov.np
@@ -511,7 +505,6 @@ miklajungmunmorang.gov.np
 miklajungmunpanchthar.gov.np
 mikwakholamun.gov.np
 mimo.p7.gov.np
-mis.nic.gov.np
 mithilabiharimun.gov.np
 mofesc.gandaki.gov.np
 moh.koshi.gov.np
@@ -533,7 +526,6 @@ msmhospital.gov.np
 mudkechulamun.gov.np
 mugu.edcu.gov.np
 mukhiyapattimusaharniyamun.gov.np
-municipality.gov.np
 municipalityhealthprofile.lumbini.gov.np
 musikotmungulmi.gov.np
 mustang.edcu.gov.np
@@ -579,7 +571,6 @@ oca.madhesh.gov.np
 ocmcm.bagamati.gov.np
 ocs.bagamati.gov.np
 ocs.p3.gov.np
-ofmis.gov.np
 old.mohp.gov.np
 old.nlc.gov.np
 oldmoial.bagamati.gov.np
@@ -676,7 +667,6 @@ rawabesimun.gov.np
 rbcl.gov.np
 rcidp.gov.np
 rdtc.p2.gov.np
-reconstruction.ndrrma.gov.np
 result.butwalmun.gov.np
 ridobanke.lumbini.gov.np
 ridodang.gov.np
@@ -710,7 +700,6 @@ sarumaranimun.gov.np
 satyawatikrishi.gov.np
 satyawatimun.gov.np
 sayalmun.gov.np
-sbcpco.dudbc.gov.np
 sbmh.bagamati.gov.np
 sdc.gov.np
 sddodang.lumbini.gov.np
@@ -815,7 +804,6 @@ vsdta.gov.np
 wadapatra.phidimmun.gov.np
 ward01.lalitpurmun.gov.np
 ward06.lalitpurmun.gov.np
-ward10.lmc.gov.np
 ward15.lmc.gov.np
 ward18.lmc.gov.np
 ward18.nepalgunjmun.gov.np
@@ -1015,7 +1003,6 @@ www.dordimun.gov.np
 www.dotihospital.gov.np
 www.dpopalpa.gov.np
 www.dudbchub.gov.np
-www.dudhaulimun.gov.np
 www.dudhpokharimun.gov.np
 www.duduwamun.gov.np
 www.duhunmun.gov.np
@@ -1152,7 +1139,6 @@ www.kumarichowk.gov.np
 www.kummayakmun.gov.np
 www.kushemun.gov.np
 www.kwholasotharmun.gov.np
-www.lalitpurmun.gov.np
 www.lamahihp.gov.np
 www.lawcommission.gov.np
 www.laxminiyamun.gov.np
@@ -1167,7 +1153,6 @@ www.likhumunokhaldhunga.gov.np
 www.likhupikemun.gov.np
 www.limchungbungmun.gov.np
 www.lisankhupakharmun.gov.np
-www.lmc.gov.np
 www.loghekardamodarkundamun.gov.np
 www.loharpattimun.gov.np
 www.lomanthangmun.gov.np
@@ -1177,7 +1162,6 @@ www.lumbinidevtrust.gov.np
 www.lungrimun.gov.np
 www.machhapuchhremun.gov.np
 www.madanemun.gov.np
-www.madhyanepalmun.gov.np
 www.madikrishi.gov.np
 www.madimunrolpa.gov.np
 www.mahabharatmun.gov.np
@@ -1231,7 +1215,6 @@ www.molungmun.gov.np
 www.msmhospital.gov.np
 www.mudkechulamun.gov.np
 www.mukhiyapattimusaharniyamun.gov.np
-www.municipality.gov.np
 www.musikotmungulmi.gov.np
 www.myagangmun.gov.np
 www.myagdemun.gov.np
@@ -1263,7 +1246,6 @@ www.nphl.gov.np
 www.npmrmmodc.gov.np
 www.nwc.gov.np
 www.ocmcm.bagamati.gov.np
-www.ofmis.gov.np
 www.omsatiyamun.gov.np
 www.oshc.gov.np
 www.pachrautamun.gov.np

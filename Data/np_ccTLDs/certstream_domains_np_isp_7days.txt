@@ -13,5 +13,4 @@ reporting.nettv.com.np
 sabin.wlink.com.np
 speedtest.wlink.com.np.prod.hosts.ooklaserver.net
 vault.ntc.net.np
-vendor-access.worldlink.com.np
 wlink.com.np
