@@ -202,6 +202,7 @@ dhanaujimun.gov.np
 dhankaulmun.gov.np
 dharchemun.gov.np
 dharmadevimun.gov.np
+dhobinimun.gov.np
 dhodadeldhura.gov.np
 dhokavre.gov.np
 dhorpatanhuntingreserve.gov.np
@@ -256,6 +257,7 @@ fdclahan.gov.np
 fdtcjnk.gov.np
 fics.gov.np
 fpdb.gov.np
+fra.mofaga.gov.np
 fslsc.dofsc.gov.np
 fwd.gov.np
 gadhawamun.gov.np
@@ -427,6 +429,7 @@ lawcommission.gov.np
 laxminiyamun.gov.np
 laxmipurpatarimun.gov.np
 leave.apf.gov.np
+led.mofaga.gov.np
 lekammun.gov.np
 lekbeshimun.gov.np
 leobiratnagar.gov.np
@@ -438,6 +441,7 @@ likhumunokhaldhunga.gov.np
 likhupikemun.gov.np
 limchungbungmun.gov.np
 lims.dftqc.gov.np
+lisa.mofaga.gov.np
 lisankhupakharmun.gov.np
 localmis.doacrop.gov.np
 loghekardamodarkundamun.gov.np
@@ -505,6 +509,7 @@ miklajungmunmorang.gov.np
 miklajungmunpanchthar.gov.np
 mikwakholamun.gov.np
 mimo.p7.gov.np
+mis.asdp.gov.np
 mithilabiharimun.gov.np
 mofesc.gandaki.gov.np
 moh.koshi.gov.np
@@ -720,6 +725,7 @@ shikharmun.gov.np
 shitagangamun.gov.np
 shivapurimun.gov.np
 shuddhodhanmunkapilvastu.gov.np
+shuddhodhanmunrupandehi.gov.np
 siddhakumakhmun.gov.np
 siddhalekmun.gov.np
 sifaris.phidimmun.gov.np
@@ -741,6 +747,7 @@ sorumun.gov.np
 sosankhu.dos.gov.np
 sports.karnali.gov.np
 startupnepal.gov.np
+statistic.hetaudamun.gov.np
 sunapatimun.gov.np
 sunaryamun.gov.np
 sunchhaharimun.gov.np
@@ -792,6 +799,7 @@ tsc.gov.np
 tumwewamun.gov.np
 turmakhadmun.gov.np
 tyamkemaiyummun.gov.np
+umakundamun.gov.np
 valley.tourism.gov.np
 varagungmuktichhetramun.gov.np
 vetdolakha.gov.np
@@ -1340,6 +1348,7 @@ www.shikharmun.gov.np
 www.shitagangamun.gov.np
 www.shivapurimun.gov.np
 www.shuddhodhanmunkapilvastu.gov.np
+www.shuddhodhanmunrupandehi.gov.np
 www.siddhakumakhmun.gov.np
 www.siddhalekmun.gov.np
 www.sigasmun.gov.np
@@ -1391,10 +1400,13 @@ www.trivenimunrukum.gov.np
 www.tumwewamun.gov.np
 www.turmakhadmun.gov.np
 www.tyamkemaiyummun.gov.np
+www.umakundamun.gov.np
 www.valley.tourism.gov.np
 www.varagungmuktichhetramun.gov.np
 www.vetdolakha.gov.np
 www.vsdta.gov.np
 www.wriddjhapa.gov.np
 www.wriddobanke.gov.np
+www.yasodharamun.gov.np
+yasodharamun.gov.np
 zonejajarkot.pmamp.gov.np

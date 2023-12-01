@@ -102,9 +102,11 @@ autodiscover.vnc.edu.np
 autodiscover.vsbs.edu.np
 avm.edu.np
 avn.edu.np
+baba.edu.np
 baghbhairavmabi.edu.np
 bajrabarahischool.edu.np
 balbatika.edu.np
+balbikasschool.edu.np
 balgeetanjali.alpineschool.edu.np
 balgeetanjali.edu.np
 balkumarisecondaryschool.edu.np
@@ -144,6 +146,7 @@ boudhamodeschool.edu.np
 boudhaschool.edu.np
 boudhaschool.edu.np.walkershive.com
 bps.edu.np
+brainycube.edu.np
 brightace.edu.np
 britishamerican.edu.np
 bvs.edu.np
@@ -154,6 +157,7 @@ camadcollege.edu.np.jmssg.edu.np
 campionacademy.edu.np
 capital.edu.np
 captain.caprover.savya.edu.np
+cards.ioepc.edu.np
 career.lbu.edu.np
 careercounselling.edu.np
 caspian.vmebschool.edu.np
@@ -688,6 +692,7 @@ gyanmalaschool.edu.np
 gyanmarga.edu.np
 hansvahinimavi.edu.np
 happyboarding.edu.np
+hbs.edu.np
 hcm.edu.np
 hcoe.edu.np
 helpeducation.edu.np
@@ -794,6 +799,7 @@ library.mavijyamirekhani.edu.np
 library.nilakantheshwormavi.edu.np
 lincolnbalmiki.edu.np
 livingwordacademy.edu.np
+lms.dpschool.edu.np
 lms.kathford.edu.np
 lms.lbu.edu.np
 lms.mahendra.edu.np
@@ -961,6 +967,7 @@ mail.studydestination.edu.np
 mail.sukunaschool.edu.np
 mail.sundaraschool.edu.np
 mail.surkhetdeuti.edu.np
+mail.suryavinayakschool.edu.np
 mail.svi.edu.np
 mail.svsschool.edu.np
 mail.tesla.edu.np
@@ -979,6 +986,7 @@ maisthanvidyapith.edu.np
 majesty.juddhaschool.edu.np
 manage.samalbungschool.edu.np
 manasluworldcollege.edu.np
+mangaladevi.edu.np.lyraitservices.com
 manmishra.edu.np
 marigold52.edu.np
 marywardlubhu.edu.np
@@ -1118,6 +1126,7 @@ postmodern.edu.np
 prabhatkiran.edu.np
 prabhatsecondaryschool.edu.np
 prabhatsecondaryschool.edu.np.inspela.com
+pragatiprabhatacademy.edu.np
 pragatisheelschool.edu.np
 pragmatic.edu.np
 pragyan.edu.np
@@ -1288,6 +1297,7 @@ support.ghen.edu.np
 surjidevi.edu.np
 surkhetdeuti.edu.np
 suryachandra.edu.np.sajilosikcha.com.np
+suryavinayakschool.edu.np
 svi.edu.np
 svmschool.edu.np
 svsschool.edu.np
@@ -1653,6 +1663,7 @@ www.appointment.sen.edu.np
 www.arjunhighschool.edu.np
 www.arnikofoundation.edu.np
 www.avm.edu.np
+www.baba.edu.np
 www.balbatika.edu.np
 www.balgeetanjali.alpineschool.edu.np
 www.balgeetanjali.edu.np
@@ -1820,6 +1831,8 @@ www.library.janakalyanchyasku.edu.np
 www.library.mavijyamirekhani.edu.np
 www.library.nilakantheshwormavi.edu.np
 www.lincolnbalmiki.edu.np
+www.lishaschool.edu.np
+www.lms.dpschool.edu.np
 www.lms.lbu.edu.np
 www.lms.mahendra.edu.np
 www.login.jantamavisoltee.edu.np
@@ -1835,6 +1848,7 @@ www.mahadevschoolhumla.edu.np
 www.mahendrapratap.edu.np.sajilosikcha.com.np
 www.mahendrodayasec.edu.np
 www.majesty.juddhaschool.edu.np
+www.mangaladevi.edu.np.lyraitservices.com
 www.mastamabi.edu.np.sajilosikcha.com.np
 www.mastesworimavi.edu.np.sajilosikcha.com.np
 www.maviimiliya.edu.np
@@ -2010,6 +2024,7 @@ www.sundharaschool.edu.np.sajilosikcha.com.np
 www.sunsetheight.com.gyaninstitute.edu.np
 www.surkhetdeuti.edu.np
 www.suryachandra.edu.np.sajilosikcha.com.np
+www.suryavinayakschool.edu.np
 www.svi.edu.np
 www.svsschool.edu.np
 www.tesla.edu.np
