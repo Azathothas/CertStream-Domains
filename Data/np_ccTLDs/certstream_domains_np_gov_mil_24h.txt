@@ -1,4 +1,5 @@
 bahc.lumbini.gov.np
+cms.madhesh.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 dfodeukhuri.lumbini.gov.np
@@ -8,6 +9,7 @@ leodhangadhi.gov.np
 nepalgunj.doc.gov.np
 pcgg.p1.gov.np
 rltcnepalgunj.gov.np
+sifarish.kawilasimun.gov.np
 sifarish.nepalgunjmun.gov.np
 statistic.hetaudamun.gov.np
 www.leodhangadhi.gov.np
