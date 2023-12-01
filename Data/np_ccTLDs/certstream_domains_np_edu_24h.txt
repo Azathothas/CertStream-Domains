@@ -99,6 +99,7 @@ gipssghorahi.edu.np
 goreto.edu.np
 happykidsmontessori.edu.np
 happykidsmontessori.himalayanglory.edu.np
+hbs.edu.np
 himalayanglobal.edu.np
 hsrc.edu.np
 htdcampus.edu.np
@@ -110,6 +111,7 @@ kavreschool.edu.np
 keu.org.np.kcs.edu.np
 kvnepal.edu.np
 lishaschool.edu.np
+lms.dpschool.edu.np
 lms.netco.edu.np
 loksewajobs.yaxis.edu.np
 mahendrasecschool.edu.np
@@ -165,6 +167,7 @@ ran.edu.np
 readmore.edu.np
 rju.edu.np
 rrlsp.biratmedicalcollege.edu.np
+saim.edu.np
 sak.edu.np
 saraswatihasaura.edu.np
 shishujyoti.edu.np
@@ -242,6 +245,7 @@ www.kavreschool.edu.np
 www.keu.org.np.kcs.edu.np
 www.kisc.edu.np
 www.kvnepal.edu.np
+www.lms.dpschool.edu.np
 www.loksewajobs.yaxis.edu.np
 www.mangaladevi.edu.np
 www.mangaladevi.edu.np.lyraitservices.com

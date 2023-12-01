@@ -24,5 +24,7 @@ sifarish.nepalgunjmun.gov.np
 sifarish.phalgunandamun.gov.np
 siktaip.dwri.gov.np
 statistic.hetaudamun.gov.np
+umakundamun.gov.np
 www.leodhangadhi.gov.np
 www.rltcnepalgunj.gov.np
+www.umakundamun.gov.np
