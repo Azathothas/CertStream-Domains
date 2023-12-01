@@ -26,6 +26,7 @@ cpanel.cimaca.edu.np
 cpanel.dharanadarsha.edu.np
 cpanel.hsrc.edu.np
 cpanel.ires.edu.np
+cpanel.johndewey.edu.np
 cpanel.mangaladevi.edu.np
 cpanel.marsyangdibaljyoti.edu.np
 cpanel.missionstar.edu.np
@@ -48,6 +49,7 @@ cpcalendars.cimaca.edu.np
 cpcalendars.dharanadarsha.edu.np
 cpcalendars.hsrc.edu.np
 cpcalendars.ires.edu.np
+cpcalendars.johndewey.edu.np
 cpcalendars.mangaladevi.edu.np
 cpcalendars.marsyangdibaljyoti.edu.np
 cpcalendars.missionstar.edu.np
@@ -70,6 +72,7 @@ cpcontacts.cimaca.edu.np
 cpcontacts.dharanadarsha.edu.np
 cpcontacts.hsrc.edu.np
 cpcontacts.ires.edu.np
+cpcontacts.johndewey.edu.np
 cpcontacts.mangaladevi.edu.np
 cpcontacts.marsyangdibaljyoti.edu.np
 cpcontacts.missionstar.edu.np
@@ -106,6 +109,7 @@ htdcampus.edu.np
 iacer.edu.np
 ires.edu.np
 jantacampusith.edu.np
+johndewey.edu.np
 journal.tucded.edu.np
 kavreschool.edu.np
 keu.org.np.kcs.edu.np
@@ -123,6 +127,7 @@ mail.dharanadarsha.edu.np
 mail.dpsef.edu.np
 mail.hsrc.edu.np
 mail.ires.edu.np
+mail.johndewey.edu.np
 mail.mangaladevi.edu.np
 mail.marsyangdibaljyoti.edu.np
 mail.missionstar.edu.np
@@ -189,6 +194,7 @@ webdisk.cimaca.edu.np
 webdisk.dharanadarsha.edu.np
 webdisk.hsrc.edu.np
 webdisk.ires.edu.np
+webdisk.johndewey.edu.np
 webdisk.mangaladevi.edu.np
 webdisk.marsyangdibaljyoti.edu.np
 webdisk.missionstar.edu.np
@@ -211,6 +217,7 @@ webmail.dharanadarsha.edu.np
 webmail.dpsef.edu.np
 webmail.hsrc.edu.np
 webmail.ires.edu.np
+webmail.johndewey.edu.np
 webmail.mangaladevi.edu.np
 webmail.marsyangdibaljyoti.edu.np
 webmail.missionstar.edu.np
@@ -241,6 +248,7 @@ www.emis.gyanbahumukhicampus.edu.np
 www.happykidsmontessori.himalayanglory.edu.np
 www.hsrc.edu.np
 www.ires.edu.np
+www.johndewey.edu.np
 www.kavreschool.edu.np
 www.keu.org.np.kcs.edu.np
 www.kisc.edu.np
