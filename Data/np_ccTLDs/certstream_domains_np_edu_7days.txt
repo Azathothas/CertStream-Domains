@@ -760,6 +760,7 @@ jnjeducation.edu.np
 jnmv.edu.np
 johndewey.edu.np
 journal.cdhmtu.edu.np
+journal.tucded.edu.np
 jssk.edu.np
 jyotieducation.edu.np
 jyotimandalmavi.edu.np
@@ -780,7 +781,9 @@ kathford.edu.np
 kawasotijapaneselanguageschool.edu.np
 kba.edu.np
 kbase.academic.edu.np
+kbc.edu.np
 kedar.edu.np
+keu.org.np.kcs.edu.np
 kgpi.edu.np
 khibiratnagar.edu.np
 khwopring.edu.np
@@ -1077,6 +1080,7 @@ nepalrailwaymavi.edu.np
 nepalyubakss.edu.np
 nepalyubakss.edu.np.inspela.com
 neramavinagwa.edu.np
+netco.edu.np
 new.navajyoti.edu.np
 new.trishaheed.edu.np
 newcapital.edu.np
@@ -1093,6 +1097,7 @@ nice.edu.np
 nikkoschool.edu.np
 nilakanthanamuna.edu.np.sajilosikcha.com.np
 nilkanthamavi.edu.np.sajilosikcha.com.np
+nimas.edu.np
 ninglashainischool.edu.np
 ninglashainischool.edu.np.glekhive.com
 nirvanacc.edu.np
@@ -1157,6 +1162,7 @@ prabhatkiran.edu.np
 prabhatsecondaryschool.edu.np
 prabhatsecondaryschool.edu.np.inspela.com
 pragatiprabhatacademy.edu.np
+pragatisheel.edu.np
 pragatisheelschool.edu.np
 pragmatic.edu.np
 pragyan.edu.np
@@ -1184,6 +1190,7 @@ pushs.edu.np
 pzspiritualschool.edu.np
 quest.edu.np
 questnepal.sqc.edu.np
+radarr.citycomputer.edu.np
 rajarshigurukul.edu.np
 ramtulasirampur.edu.np.sajilosikcha.com.np
 rassociate.edu.np
@@ -1348,6 +1355,7 @@ tbjebs.edu.np
 templates.hilarious.edu.np
 templates.rjuuc.edu.np
 tesla.edu.np
+test-3.staging.au.witsacademy.edu.np
 test.citu.edu.np
 test.eplanetnepal.edu.np
 test.shreepublicsecondaryschool.edu.np
@@ -1856,6 +1864,7 @@ www.kantipurcampus.edu.np
 www.kathford.edu.np
 www.kba.edu.np
 www.kbase.academic.edu.np
+www.keu.org.np.kcs.edu.np
 www.khibiratnagar.edu.np
 www.kiec.edu.np
 www.kingscollege.edu.np
@@ -1939,6 +1948,7 @@ www.nea.edu.np
 www.nepalmontessori.edu.np
 www.nepalyubakss.edu.np
 www.nepalyubakss.edu.np.inspela.com
+www.netco.edu.np
 www.new.navajyoti.edu.np
 www.new.trishaheed.edu.np
 www.newhorizon.edu.np

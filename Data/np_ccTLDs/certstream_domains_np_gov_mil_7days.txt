@@ -705,6 +705,7 @@ sannitrivenimun.gov.np
 saptari.edcu.gov.np
 sarawalmun.gov.np
 sarkegadmun.gov.np
+sarlahi.akc.gov.np
 sarumaranimun.gov.np
 satyawatikrishi.gov.np
 satyawatimun.gov.np
@@ -737,7 +738,9 @@ sifarish.bherigangamun.gov.np
 sifarish.dullumun.gov.np
 sifarish.kawilasimun.gov.np
 sifarish.nepalgunjmun.gov.np
+sifarish.phalgunandamun.gov.np
 sigasmun.gov.np
+siktaip.dwri.gov.np
 simkotmun.gov.np
 simtamun.gov.np
 siraha.edcu.gov.np
