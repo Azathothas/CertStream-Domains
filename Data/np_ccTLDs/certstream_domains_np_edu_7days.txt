@@ -1145,6 +1145,7 @@ pkcampus.edu.np
 pkg.edu.np
 platonic.edu.np
 plustwo.arnikofoundation.edu.np
+plustwo.brightfuturesalakpur.edu.np
 plustwo.xavier.edu.np
 poahs.edu.np
 pop.jyotieducation.edu.np
@@ -1223,6 +1224,7 @@ savyatapathshala.edu.np
 sbbspi.edu.np
 sc.pahs.edu.np
 scholarshome.edu.np
+school.brightfuturesalakpur.edu.np
 school.naragram.edu.np
 schoolpragati.edu.np
 schoolsuryodaya.edu.np
@@ -1376,6 +1378,7 @@ ttc.edu.np
 tufohss.edu.np
 tukiglobal.edu.np
 udayakharkamavi.edu.np.sajilosikcha.com.np
+uebschool.edu.np
 ugcnepal.cmc.edu.np
 ugcnepal.edu.np
 uniexpress.edu.np
@@ -1972,6 +1975,7 @@ www.peoplesacademyitahari.edu.np.sajilosikcha.com.np
 www.phj.mihs.edu.np
 www.plus2.orientcollege.edu.np
 www.plustwo.arnikofoundation.edu.np
+www.plustwo.brightfuturesalakpur.edu.np
 www.plustwo.xavier.edu.np
 www.poahs.edu.np
 www.portal.adarsha.edu.np
@@ -2016,6 +2020,7 @@ www.satyawatiacademy.edu.np
 www.savyatapathshala.edu.np
 www.sbpi.edu.np
 www.scholarshome.edu.np
+www.school.brightfuturesalakpur.edu.np
 www.school.globalcollege.edu.np
 www.school.naragram.edu.np
 www.schoolpragati.edu.np

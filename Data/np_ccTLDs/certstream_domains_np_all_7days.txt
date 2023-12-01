@@ -750,6 +750,7 @@ admin.midasstock.com.np
 admin.mukeshbajgain.com.np
 admin.ncasa.org.np
 admin.netrc.com.np
+admin.nishantasapkota.com.np
 admin.npschitwan.edu.np
 admin.oktarkari.com.np
 admin.old.chandrajyotischool.edu.np
@@ -1142,6 +1143,7 @@ ankuraebsbhimeshwor.sajilosikcha.com.np
 ankuramacademy.edu.np
 ankuranwaldorfinspireddakshinkali.sajilosikcha.com.np
 ankurgyanebsabukhaireni.sajilosikcha.com.np
+anmolbist.com.np
 anmoljyotisecebskathmandu.sajilosikcha.com.np
 annapurnaaavbhumekasthan.sajilosikcha.com.np
 annapurnaaavchhedagad.sajilosikcha.com.np
@@ -1181,6 +1183,7 @@ antumemorialebschulachuli.sajilosikcha.com.np
 anujkandel.com.np
 anujkaphle.com.np
 anukul.com.np
+anup-pokharel.com.np
 anup.info.np
 anupaadhikari.com.np
 anupamadhikari.com.np
@@ -1462,6 +1465,8 @@ ashimgautam.com.np
 ashimregmi.com.np
 ashimtuladhar.com.np
 ashirvadebskathmandu.sajilosikcha.com.np
+ashishgautam.info.np
+ashishgautam.info.np.ewfo.org
 ashishneupane.info.np
 ashishnirmansewa.com.np
 ashishpandey.com.np
@@ -2906,6 +2911,7 @@ bihabaraavpanauti.sajilosikcha.com.np
 bihadimun.gov.np
 bihani.com.np
 bihanikshitijebsgauriganga.sajilosikcha.com.np
+bihconsulate.org.np
 bihibareaavboyashadananda.sajilosikcha.com.np
 bihidinaavfalelung.sajilosikcha.com.np
 bihunkotlaliguransebskanthekhola.sajilosikcha.com.np
@@ -3873,6 +3879,7 @@ cpanel.arjunprasadpoudel.com.np
 cpanel.arnikofoundation.edu.np
 cpanel.arpanthapa.com.np
 cpanel.arzuranadeuba.com.np
+cpanel.ashishgautam.info.np
 cpanel.ashishshah.com.np
 cpanel.ashmika.com.np
 cpanel.ashreejtech.com.np
@@ -3917,6 +3924,7 @@ cpanel.bibashkarmacharya.com.np
 cpanel.bibeshshrestha.com.np
 cpanel.bigbook.edu.np
 cpanel.bigsplashpokhara.com.np
+cpanel.bihconsulate.org.np
 cpanel.bimalastha.com.np
 cpanel.bimansthalhawaiyatru.com.np
 cpanel.binitshrestha.com.np
@@ -4035,6 +4043,7 @@ cpanel.eri.org.np
 cpanel.eslglobal.edu.np
 cpanel.etrc.org.np
 cpanel.everestdental.com.np
+cpanel.everestfilmacademy.com.np
 cpanel.evereststeel.com.np
 cpanel.evergreen-school.edu.np
 cpanel.evergreenpp.com.np
@@ -4691,6 +4700,7 @@ cpcalendars.arjunprasadpoudel.com.np
 cpcalendars.arnikofoundation.edu.np
 cpcalendars.arpanthapa.com.np
 cpcalendars.arzuranadeuba.com.np
+cpcalendars.ashishgautam.info.np
 cpcalendars.ashishshah.com.np
 cpcalendars.ashmika.com.np
 cpcalendars.ashreejtech.com.np
@@ -4734,6 +4744,7 @@ cpcalendars.bibashkarmacharya.com.np
 cpcalendars.bibeshshrestha.com.np
 cpcalendars.bigbook.edu.np
 cpcalendars.bigsplashpokhara.com.np
+cpcalendars.bihconsulate.org.np
 cpcalendars.bimalastha.com.np
 cpcalendars.bimansthalhawaiyatru.com.np
 cpcalendars.binastha.com.np
@@ -4848,6 +4859,7 @@ cpcalendars.eratech.com.np
 cpcalendars.eri.org.np
 cpcalendars.eslglobal.edu.np
 cpcalendars.everestdental.com.np
+cpcalendars.everestfilmacademy.com.np
 cpcalendars.evereststeel.com.np
 cpcalendars.evergreenpp.com.np
 cpcalendars.everstarmotors.com.np
@@ -5475,6 +5487,7 @@ cpcontacts.arjunprasadpoudel.com.np
 cpcontacts.arnikofoundation.edu.np
 cpcontacts.arpanthapa.com.np
 cpcontacts.arzuranadeuba.com.np
+cpcontacts.ashishgautam.info.np
 cpcontacts.ashishshah.com.np
 cpcontacts.ashmika.com.np
 cpcontacts.ashreejtech.com.np
@@ -5518,6 +5531,7 @@ cpcontacts.bibashkarmacharya.com.np
 cpcontacts.bibeshshrestha.com.np
 cpcontacts.bigbook.edu.np
 cpcontacts.bigsplashpokhara.com.np
+cpcontacts.bihconsulate.org.np
 cpcontacts.bimalastha.com.np
 cpcontacts.bimansthalhawaiyatru.com.np
 cpcontacts.binitshrestha.com.np
@@ -5630,6 +5644,7 @@ cpcontacts.eratech.com.np
 cpcontacts.eri.org.np
 cpcontacts.eslglobal.edu.np
 cpcontacts.everestdental.com.np
+cpcontacts.everestfilmacademy.com.np
 cpcontacts.evereststeel.com.np
 cpcontacts.evergreen-school.edu.np
 cpcontacts.evergreenpp.com.np
@@ -7094,6 +7109,7 @@ evc.edu.np
 events.sujan1919.com.np
 events.tennisacademy.com.np
 everestdental.com.np
+everestfilmacademy.com.np
 everestgroupnepal.com.np
 everestmedia.com.np
 everestphones.sarathitechnosoft.com.np
@@ -7573,6 +7589,7 @@ git.git.git.git.anjanshrestha.com.np
 git.git.git.git.asheesh.com.np
 git.git.git.git.bishalbashyal.com.np
 git.git.git.git.bls.edu.np
+git.git.git.git.dhungelgagan.com.np
 git.git.git.git.ghimiremadhav.com.np
 git.git.git.git.git.panerusanzay.com.np
 git.git.git.git.na1.free.yak.com.np
@@ -9475,6 +9492,7 @@ kaushalchhetri.com.np
 kaushalp.com.np
 kaushalpandey.com.np
 kaushalrajkandel.com.np
+kaushalraut.com.np
 kaushalrijal.com.np
 kaushalwagle.com.np
 kaushikaaavdhankuta.sajilosikcha.com.np
@@ -9525,6 +9543,7 @@ kedarsamaijiaavdilasaini.sajilosikcha.com.np
 kedarshworaavbhajani.sajilosikcha.com.np
 kedarswaraavisayal.sajilosikcha.com.np
 kedarthapa.com.np
+kenison.com.np
 kennyrogersroasters.com.np
 kepilasgadhimun.gov.np
 kerabariaavsuryodaya.sajilosikcha.com.np
@@ -10065,6 +10084,7 @@ lms.lbu.edu.np
 lms.mahendra.edu.np
 lms.njanepal.org.np
 lms.yuwa.org.np
+lmss.kosistechnology.com.np
 lo.cosys.com.np
 local.exam.staging.mu.edu.np
 localhost.binodpoudyal.com.np
@@ -10463,6 +10483,7 @@ mail.aroshan.com.np
 mail.arpanthapa.com.np
 mail.arrownet.net.np
 mail.arzuranadeuba.com.np
+mail.ashishgautam.info.np
 mail.ashishshah.com.np
 mail.ashmika.com.np
 mail.ashreejtech.com.np
@@ -10515,6 +10536,7 @@ mail.bibeshshrestha.com.np
 mail.bigbook.edu.np
 mail.bigsplashpokhara.com.np
 mail.bigyapantech.com.np
+mail.bihconsulate.org.np
 mail.bijayrai.com.np
 mail.bikers.com.np
 mail.bimalastha.com.np
@@ -10664,6 +10686,7 @@ mail.eslglobal.edu.np
 mail.etrc.org.np
 mail.euroasia.com.np
 mail.everestdental.com.np
+mail.everestfilmacademy.com.np
 mail.everestgroupnepal.com.np
 mail.evereststeel.com.np
 mail.evergreen-school.edu.np
@@ -11059,6 +11082,7 @@ mail.oneoneeleven.com.np
 mail.onlinecargo.com.np
 mail.onlinemela.com.np
 mail.opd.com.np
+mail.organicfarmhouse.com.np
 mail.osm.com.np
 mail.ourcleanservice.com.np
 mail.oxfordeduglobal.com.np
@@ -11936,6 +11960,7 @@ motiaavhaldibari.sajilosikcha.com.np
 motibhagirathiidhalayabardagoriya.sajilosikcha.com.np
 motibhariaavlabanisuddhodhan.sajilosikcha.com.np
 motimahilasanghtinkarmahakali.sajilosikcha.com.np
+mountech.com.np
 mountsinaiacademy.edu.np
 movie.ands.com.np
 movieproject-wordpress.singapore.dineshtiwari.com.np
@@ -12730,6 +12755,7 @@ nphrc.com.np
 nphrm.kalikabank.com.np
 npimperial.com.np
 npimperial.com.np.sujandhakal0.com.np
+nplasorg.nplas.com
 npmrmmodc.gov.np
 npnog.org.np
 npr.galaincha.com.np
@@ -12907,6 +12933,7 @@ org.np.admin-mcas.ms
 org.np.mcas-df.ms
 org.np.mcas.ms
 org.np.sitexpired.com
+organicfarmhouse.com.np
 orientcollege.edu.np
 oriontechnology.com.np
 oshc.gov.np
@@ -13314,6 +13341,7 @@ plgsp.venture4tech.com.np
 plushsalon.com.np
 plusone.com.np
 plustwo.arnikofoundation.edu.np
+plustwo.brightfuturesalakpur.edu.np
 plustwo.xavier.edu.np
 pm-system.mstech.com.np
 pm.arai.com.np
@@ -14602,6 +14630,7 @@ saptakoshiaavidhyalabarahkshetra.sajilosikcha.com.np
 saptari.edcu.gov.np
 sapteshworaavkepilasagadhi.sajilosikcha.com.np
 sapzontechnology.com.np
+sarabshrestha.com.np
 saradaaavbhadrapur.sajilosikcha.com.np
 saradaaavbishnupur.sajilosikcha.com.np
 saradaaavbitalabsabhapokhari.sajilosikcha.com.np
@@ -14894,6 +14923,7 @@ scdcr.org.np
 scholarshome.edu.np
 school-sample-lite.astrosoftware.com.np
 school.biplabacharya.com.np
+school.brightfuturesalakpur.edu.np
 school.naragram.edu.np
 school.volcussoft.com.np
 schoolpragati.edu.np
@@ -16316,6 +16346,7 @@ test.nica.com.np
 test.nrb.org.np
 test.nth.com.np
 test.paradisevilla.com.np
+test.phukang.com.np
 test.rameskhadka.com.np
 test.ramharinepal.com.np
 test.ranjanyadav.com.np
@@ -16598,6 +16629,7 @@ udayakharkamavi.edu.np.sajilosikcha.com.np
 udayasambahamphe.com.np
 udbhavghimire.com.np
 ue-germany.logik.com.np
+uebschool.edu.np
 ufc.org.np
 ug.cosys.com.np
 ugadharan.com.sushiltiwary.com.np
@@ -16889,6 +16921,7 @@ webdisk.arjunprasadpoudel.com.np
 webdisk.arnikofoundation.edu.np
 webdisk.arpanthapa.com.np
 webdisk.arzuranadeuba.com.np
+webdisk.ashishgautam.info.np
 webdisk.ashishshah.com.np
 webdisk.ashmika.com.np
 webdisk.ashreejtech.com.np
@@ -16932,6 +16965,7 @@ webdisk.bibashkarmacharya.com.np
 webdisk.bibeshshrestha.com.np
 webdisk.bigbook.edu.np
 webdisk.bigsplashpokhara.com.np
+webdisk.bihconsulate.org.np
 webdisk.bikasrai.com.np
 webdisk.bimalastha.com.np
 webdisk.bimansthalhawaiyatru.com.np
@@ -17046,6 +17080,7 @@ webdisk.eri.org.np
 webdisk.eslglobal.edu.np
 webdisk.etrc.org.np
 webdisk.everestdental.com.np
+webdisk.everestfilmacademy.com.np
 webdisk.evereststeel.com.np
 webdisk.evergreenpp.com.np
 webdisk.everstarmotors.com.np
@@ -17687,6 +17722,7 @@ webmail.arjunprasadpoudel.com.np
 webmail.arnikofoundation.edu.np
 webmail.arpanthapa.com.np
 webmail.arzuranadeuba.com.np
+webmail.ashishgautam.info.np
 webmail.ashishshah.com.np
 webmail.ashmika.com.np
 webmail.ashreejtech.com.np
@@ -17734,6 +17770,7 @@ webmail.bibashkarmacharya.com.np
 webmail.bibeshshrestha.com.np
 webmail.bigbook.edu.np
 webmail.bigsplashpokhara.com.np
+webmail.bihconsulate.org.np
 webmail.bimalastha.com.np
 webmail.bimansthalhawaiyatru.com.np
 webmail.binitshrestha.com.np
@@ -17856,6 +17893,7 @@ webmail.eri.org.np
 webmail.eslglobal.edu.np
 webmail.etrc.org.np
 webmail.everestdental.com.np
+webmail.everestfilmacademy.com.np
 webmail.evereststeel.com.np
 webmail.evergreen-school.edu.np
 webmail.evergreenpp.com.np
@@ -18502,6 +18540,7 @@ whm.angel.name.np
 whm.anujacharya.info.np
 whm.aplustech.com.np
 whm.barcode.com.np
+whm.bihconsulate.org.np
 whm.bikems.com.np
 whm.bimalman.com.np
 whm.binitshrestha.com.np
@@ -19628,6 +19667,8 @@ www.ashigramaavnawadurga.sajilosikcha.com.np
 www.ashimaavjorayaldoti.sajilosikcha.com.np
 www.ashimregmi.com.np
 www.ashirvadebskathmandu.sajilosikcha.com.np
+www.ashishgautam.info.np
+www.ashishgautam.info.np.ewfo.org
 www.ashishkafle.com.np
 www.ashishpandey.com.np
 www.ashishshah.com.np
@@ -20630,6 +20671,7 @@ www.bigyanprabhaaavbagmati.sajilosikcha.com.np
 www.bihabaraavpanauti.sajilosikcha.com.np
 www.bihadimun.gov.np
 www.bihanikshitijebsgauriganga.sajilosikcha.com.np
+www.bihconsulate.org.np
 www.bihibareaavboyashadananda.sajilosikcha.com.np
 www.bihidinaavfalelung.sajilosikcha.com.np
 www.bihunkotlaliguransebskanthekhola.sajilosikcha.com.np
@@ -21799,6 +21841,7 @@ www.euroasia.com.np
 www.events.sujan1919.com.np
 www.events.tennisacademy.com.np
 www.everestdental.com.np
+www.everestfilmacademy.com.np
 www.everestgroupnepal.com.np
 www.everestmedia.com.np.sushiltiwary.com.np
 www.everestphones.sarathitechnosoft.com.np
@@ -24455,6 +24498,7 @@ www.motiaavhaldibari.sajilosikcha.com.np
 www.motibhagirathiidhalayabardagoriya.sajilosikcha.com.np
 www.motibhariaavlabanisuddhodhan.sajilosikcha.com.np
 www.motimahilasanghtinkarmahakali.sajilosikcha.com.np
+www.mountech.com.np
 www.movie.ands.com.np
 www.movies.dcn.com.np
 www.mpea.edu.np
@@ -24985,6 +25029,7 @@ www.nphl.gov.np
 www.nphrc.com.np
 www.npimperial.com.np
 www.npimperial.com.np.sujandhakal0.com.np
+www.nplasorg.nplas.com
 www.npmrmmodc.gov.np
 www.npnog.org.np
 www.npr.galaincha.com.np
@@ -25064,6 +25109,7 @@ www.opdnepal.premoli.com.np
 www.openai.easyassurance.com.np
 www.openhouse.com.np.sahayatri.com
 www.openskyparagliding.com.np
+www.organicfarmhouse.com.np
 www.oshc.gov.np
 www.osm.com.np
 www.osmupdate.geoneer.com.np
@@ -25329,6 +25375,7 @@ www.plgsp.shangrilagroup.com.np
 www.plus2.orientcollege.edu.np
 www.plushsalon.com.np
 www.plustwo.arnikofoundation.edu.np
+www.plustwo.brightfuturesalakpur.edu.np
 www.plustwo.xavier.edu.np
 www.pm.arai.com.np
 www.pmaxenterprises.com.np
@@ -25758,6 +25805,7 @@ www.reliablesurgical.com.np
 www.relianceschool.edu.np
 www.remedygroup.com.np
 www.remedygroup.com.np.duniyakokhabar.com
+www.remote.aem.com.np
 www.rental.uch.com.np
 www.rentifying.maharjanarun.com.np
 www.renukaaavkepilasagadhi.sajilosikcha.com.np
@@ -26264,6 +26312,7 @@ www.sbpi.edu.np
 www.scdcr.org.np
 www.scholarshome.edu.np
 www.school-sample-lite.astrosoftware.com.np
+www.school.brightfuturesalakpur.edu.np
 www.school.globalcollege.edu.np
 www.school.naragram.edu.np
 www.schoolpragati.edu.np
@@ -27122,6 +27171,7 @@ www.test.nica.com.np
 www.test.nrb.org.np
 www.test.nth.com.np
 www.test.paradisevilla.com.np
+www.test.phukang.com.np
 www.test.rameskhadka.com.np
 www.test.ramharinepal.com.np
 www.test.ranjanyadav.com.np
