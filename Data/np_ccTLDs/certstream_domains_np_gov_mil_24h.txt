@@ -1,6 +1,14 @@
+account.kscl.gov.np
 api-rms.ndrrma.gov.np
 bajrabarahihospital.bagamati.gov.np
+doarkhajura.narc.gov.np
 gbv.karnali.gov.np
 krishi.udayapurgadhimun.gov.np
+mis.asdp.gov.np
 pollution.gov.np
+rolpa.vethos.gov.np
 sarlahi.akc.gov.np
+wssdobanke.lumbini.gov.np
+www.yasodharamun.gov.np
+yangwarakmunpanchthar.gov.np
+yasodharamun.gov.np
