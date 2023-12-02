@@ -1,5 +1,6 @@
 api-rms.ndrrma.gov.np
 bajrabarahihospital.bagamati.gov.np
+gbv.karnali.gov.np
 krishi.udayapurgadhimun.gov.np
 pollution.gov.np
 sarlahi.akc.gov.np
