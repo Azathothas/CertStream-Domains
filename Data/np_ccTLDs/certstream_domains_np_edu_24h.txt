@@ -83,6 +83,7 @@ gacor777.pascalschool.edu.np
 ganganagarschool.edu.np
 gavya.edu.np
 ghlab.ku.edu.np
+ghsstulsipur.edu.np
 globalcollegiate.edu.np
 googleadmin.baluddhar.edu.np
 goreto.edu.np
@@ -114,6 +115,7 @@ marsyangdibaljyoti.edu.np
 marsyangdibaljyoti.edu.np.cleaneverest.org
 media.test-3.staging.au.witsacademy.edu.np
 misktm.edu.np
+mmims.edu.np
 mounteschool.edu.np
 mulschool.edu.np
 netco.edu.np
@@ -144,8 +146,10 @@ smtp.test-3.staging.au.witsacademy.edu.np
 spnc.edu.np
 srbv.edu.np
 system.vsn.edu.np
+test-3.staging.au.witsacademy.edu.np
 test.database.secure.witsacademy.edu.np
 test.gurukulbaylor.edu.np
+trkc.com.np.janabikasmavi.edu.np
 uebschool.edu.np
 viaeducation.edu.np
 webdisk.ahs.edu.np
@@ -193,3 +197,5 @@ www.spnc.edu.np
 www.srbv.edu.np
 www.system.vsn.edu.np
 www.test.gurukulbaylor.edu.np
+www.trkc.com.np.janabikasmavi.edu.np
+www.uat.mmims.edu.np
