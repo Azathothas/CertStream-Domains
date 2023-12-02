@@ -1,6 +1,9 @@
 account.kscl.gov.np
+akcarghakhanchi.gov.np
 api-rms.ndrrma.gov.np
 bajrabarahihospital.bagamati.gov.np
+banke.vethos.gov.np
+chatbot.dor.gov.np
 doarkhajura.narc.gov.np
 ebps.mahalaxmimun.gov.np
 gbv.karnali.gov.np
@@ -9,9 +12,12 @@ led.mofaga.gov.np
 mis.asdp.gov.np
 nwfpchetauda.gov.np
 pollution.gov.np
+rolpa.akc.gov.np
 rolpa.vethos.gov.np
 sarlahi.akc.gov.np
 wssdobanke.lumbini.gov.np
+www.akcarghakhanchi.gov.np
+www.banke.vethos.gov.np
 www.nwfpchetauda.gov.np
 www.yasodharamun.gov.np
 yangwarakmunpanchthar.gov.np
