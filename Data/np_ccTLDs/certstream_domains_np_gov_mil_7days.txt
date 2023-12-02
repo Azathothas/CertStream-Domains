@@ -10,6 +10,7 @@ aathbiskotmun.gov.np
 aathraimun.gov.np
 aathraitribenimun.gov.np
 aauk.bagamati.gov.np
+abpstc.bagamati.gov.np
 achham.edcu.gov.np
 achham.pmamp.gov.np
 achhamhospital.gov.np
@@ -220,6 +221,7 @@ doar.p2.gov.np
 dodharachandanimun.gov.np
 dogdakedarmun.gov.np
 doiccp.p2.gov.np
+doli.gov.np
 dolpobuddhamun.gov.np
 dorambamun.gov.np
 dordimun.gov.np
@@ -246,6 +248,7 @@ efiling.biratnagarmun.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.gov.np
 etc.p1.gov.np
+fansepmis.moald.gov.np
 fcpb.madhesh.gov.np
 fdcfattepur.p2.gov.np
 fdckailali.gov.np
@@ -259,6 +262,7 @@ fslsc.dofsc.gov.np
 fwd.gov.np
 gadhawamun.gov.np
 gadhimun.gov.np
+gahc.p5.gov.np
 gajurimun.gov.np
 galchhimun.gov.np
 galkotmun.gov.np
@@ -285,6 +289,7 @@ gnsh.gov.np
 godaitamun.gov.np
 gokulgangamun.gov.np
 golanjormun.gov.np
+gols.dohs.gov.np
 gosaikundamun.gov.np
 gov.np.admin-mcas-df.ms
 gov.np.admin-mcas.ms
@@ -318,8 +323,11 @@ hetaudahospital.gov.np
 hilihangmun.gov.np
 himalimun.gov.np
 himamun.gov.np
+hmis.gov.np
+hoa.p5.gov.np
 hokaski.gandaki.gov.np
 hoparbat.gandaki.gov.np
+hopyuthan.p5.gov.np
 household.phidimmun.gov.np
 hsodolpa.gov.np
 humla.oicp.gov.np
@@ -400,6 +408,7 @@ kaski.edcu.gov.np
 kataharimun.gov.np
 katahariyamun.gov.np
 kathekholamun.gov.np
+kavrepalanchok.akc.gov.np
 kavrepalanchok.edcu.gov.np
 kepilasgadhimun.gov.np
 kerabarimun.gov.np
@@ -562,6 +571,7 @@ nelis.dos.gov.np
 nepalgunj.doc.gov.np
 nepallake.gov.np
 nepalntp.gov.np
+nepaltrace.p5.gov.np
 netrawatidabjongmun.gov.np
 news.gangadevmun.gov.np
 nirttp.gov.np
@@ -617,6 +627,7 @@ phatuwabijaypurmun.gov.np
 phetamun.gov.np
 phikkalmun.gov.np
 phj.p2.gov.np
+phlmc.p5.gov.np
 phpc.sudurpashchim.gov.np
 phsosurkhet.karnali.gov.np
 pipramun.gov.np
@@ -688,6 +699,7 @@ runtigadhimun.gov.np
 rupamun.gov.np
 rupanimun.gov.np
 rurumun.gov.np
+rvljanakpur.gov.np
 sakelamun.gov.np
 sakhuwanankarkattimun.gov.np
 sakhuwaprasaunimun.gov.np
@@ -738,6 +750,7 @@ sigasmun.gov.np
 siktaip.dwri.gov.np
 simkotmun.gov.np
 simtamun.gov.np
+sindhulihospital.bagamati.gov.np
 siraha.edcu.gov.np
 siranchowkmun.gov.np
 sirijanghamun.gov.np
@@ -806,6 +819,7 @@ umakundamun.gov.np
 valley.tourism.gov.np
 varagungmuktichhetramun.gov.np
 vetdolakha.gov.np
+vethospalpa.gov.np
 vhlparbat.gandaki.gov.np
 vhlscdarchula.sudurpashchim.gov.np
 vhlsecdhading.bagamati.gov.np
@@ -844,6 +858,7 @@ www.aathabismun.gov.np
 www.aathbiskotmun.gov.np
 www.aathraimun.gov.np
 www.aathraitribenimun.gov.np
+www.abpstc.bagamati.gov.np
 www.achhamhospital.gov.np
 www.adanchulimun.gov.np
 www.agnisairkrishnasawaranmun.gov.np
@@ -1006,6 +1021,7 @@ www.dlpiukathmandu.gov.np
 www.dmgnepal.gov.np
 www.dodharachandanimun.gov.np
 www.dogdakedarmun.gov.np
+www.doli.gov.np
 www.dolpobuddhamun.gov.np
 www.dorambamun.gov.np
 www.dordimun.gov.np
@@ -1283,6 +1299,7 @@ www.phalgunandamun.gov.np
 www.phatuwabijaypurmun.gov.np
 www.phetamun.gov.np
 www.phikkalmun.gov.np
+www.phlmc.p5.gov.np
 www.pipramun.gov.np
 www.postofficegorkha.gov.np
 www.ppl.p2.gov.np
@@ -1322,6 +1339,7 @@ www.runtigadhimun.gov.np
 www.rupamun.gov.np
 www.rupanimun.gov.np
 www.rurumun.gov.np
+www.rvljanakpur.gov.np
 www.sakelamun.gov.np
 www.sakhuwanankarkattimun.gov.np
 www.sakhuwaprasaunimun.gov.np
@@ -1405,6 +1423,7 @@ www.umakundamun.gov.np
 www.valley.tourism.gov.np
 www.varagungmuktichhetramun.gov.np
 www.vetdolakha.gov.np
+www.vethospalpa.gov.np
 www.vsdta.gov.np
 www.wriddjhapa.gov.np
 www.wriddobanke.gov.np
