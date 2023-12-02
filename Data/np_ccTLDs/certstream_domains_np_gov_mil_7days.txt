@@ -163,6 +163,7 @@ choubisemun.gov.np
 chulachulimun.gov.np
 chumanuwrimun.gov.np
 churemun.gov.np
+cis.cao.koshi.gov.np
 cms.madhesh.gov.np
 coop.gandaki.gov.np
 copomis.gov.np
@@ -245,6 +246,7 @@ edcurukumwest.gov.np
 edu.mahabharatmun.gov.np
 edu.udayapurgadhimun.gov.np
 efiling.biratnagarmun.gov.np
+ehmis.chatarahospital.p1.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.gov.np
 etc.p1.gov.np
@@ -295,6 +297,7 @@ gov.np.admin-mcas-df.ms
 gov.np.admin-mcas.ms
 gov.np.mcas-df.ms
 gov.np.mcas.ms
+gov.np.rankglobe.com
 gov.np.sitexpired.com
 gov.np.websitebiography.com
 gramthanmun.gov.np
