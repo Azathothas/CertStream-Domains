@@ -24,8 +24,10 @@ akun-pro-taiwan.holyangelschool.edu.np
 akun-pro-thailand.holyangelschool.edu.np
 akun-pro-vietnam.holyangelschool.edu.np
 akun-pro-vietnam.pascalschool.edu.np
+ankuram.edu.np
 api.exam.staging.mu.edu.np
 apply.lbu.edu.np
+ashtanga.edu.np
 asia4d.holyangelschool.edu.np
 atlasbet88.holyangelschool.edu.np
 autodiscover.test-3.staging.au.witsacademy.edu.np
@@ -58,6 +60,8 @@ cpanel.css.edu.np
 cpanel.dcan.edu.np
 cpanel.dillibazarkanyacampus.edu.np
 cpanel.gipssghorahi.edu.np
+cpanel.greenearth.edu.np
+cpanel.guides.edu.np
 cpanel.marsyangdibaljyoti.edu.np
 cpanel.rupitor.edu.np
 cpanel.spnc.edu.np
@@ -68,6 +72,8 @@ cpcalendars.css.edu.np
 cpcalendars.dcan.edu.np
 cpcalendars.dillibazarkanyacampus.edu.np
 cpcalendars.gipssghorahi.edu.np
+cpcalendars.greenearth.edu.np
+cpcalendars.guides.edu.np
 cpcalendars.marsyangdibaljyoti.edu.np
 cpcalendars.rupitor.edu.np
 cpcalendars.spnc.edu.np
@@ -78,6 +84,8 @@ cpcontacts.css.edu.np
 cpcontacts.dcan.edu.np
 cpcontacts.dillibazarkanyacampus.edu.np
 cpcontacts.gipssghorahi.edu.np
+cpcontacts.greenearth.edu.np
+cpcontacts.guides.edu.np
 cpcontacts.marsyangdibaljyoti.edu.np
 cpcontacts.rupitor.edu.np
 cpcontacts.spnc.edu.np
@@ -95,6 +103,7 @@ exam.staging.mu.edu.np
 forum.kss.edu.np
 gacor777.holyangelschool.edu.np
 gacor777.pascalschool.edu.np
+ganeshmansingh.edu.np
 ganganagarschool.edu.np
 gavya.edu.np
 ghlab.ku.edu.np
@@ -104,12 +113,16 @@ globalcollegiate.edu.np
 googleadmin.baluddhar.edu.np
 goreto.edu.np
 gramodayayugkabicampus.edu.np
+greenearth.edu.np
+greenearth.edu.np.royalmountaintreks.com
+guides.edu.np
 hhp.ku.edu.np
 iacer.edu.np
 immieducation.edu.np
 infini88.holyangelschool.edu.np
 isbn.tucl.edu.np
 jackpot88.holyangelschool.edu.np
+jiwanjyotischool.edu.np
 kaizen.edu.np
 kbc.edu.np
 kingshospitality.edu.np
@@ -118,6 +131,7 @@ kusom.edu.np
 kvnepal.edu.np
 lga.edu.np
 lishaschool.edu.np
+lordbright.edu.np
 macanasia88.holyangelschool.edu.np
 mail.biratschool.edu.np
 mail.css.edu.np
@@ -125,8 +139,11 @@ mail.dcan.edu.np
 mail.dillibazarkanyacampus.edu.np
 mail.gipssghorahi.edu.np
 mail.globalcollegiate.edu.np
+mail.greenearth.edu.np
+mail.guides.edu.np
 mail.marsyangdibaljyoti.edu.np
 mail.old.indrachandracampus.edu.np
+mail.pws.edu.np
 mail.rupitor.edu.np
 mail.spnc.edu.np
 mail.srbv.edu.np
@@ -145,6 +162,7 @@ nntakaski.edu.np
 nobleconsultancy.edu.np
 old.indrachandracampus.edu.np
 old.test-3.staging.au.witsacademy.edu.np
+onlineregistration.ssha.edu.np
 openlab.ku.edu.np
 parlay-bola.holyangelschool.edu.np
 paropakarschool.edu.np
@@ -158,6 +176,7 @@ recast.edu.np
 refrc.edu.np
 register.namuna.edu.np
 resungamavi.edu.np
+ria.edu.np
 rupitor.edu.np
 rupitor.edu.np.rupitor.com
 schems.edu.np
@@ -168,6 +187,7 @@ shikhaacademy.edu.np
 smtp.test-3.staging.au.witsacademy.edu.np
 spnc.edu.np
 srbv.edu.np
+sxg.edu.np
 system.vsn.edu.np
 test-3.staging.au.witsacademy.edu.np
 test.database.secure.witsacademy.edu.np
@@ -181,6 +201,8 @@ webdisk.css.edu.np
 webdisk.dcan.edu.np
 webdisk.dillibazarkanyacampus.edu.np
 webdisk.gipssghorahi.edu.np
+webdisk.greenearth.edu.np
+webdisk.guides.edu.np
 webdisk.marsyangdibaljyoti.edu.np
 webdisk.rupitor.edu.np
 webdisk.spnc.edu.np
@@ -191,12 +213,15 @@ webmail.dcan.edu.np
 webmail.dillibazarkanyacampus.edu.np
 webmail.gipssghorahi.edu.np
 webmail.globalcollegiate.edu.np
+webmail.greenearth.edu.np
+webmail.guides.edu.np
 webmail.marsyangdibaljyoti.edu.np
 webmail.old.indrachandracampus.edu.np
 webmail.rupitor.edu.np
 webmail.spnc.edu.np
 webmail.srbv.edu.np
 www.ahsanulbarakat.com.reedschool.edu.np
+www.ankuram.edu.np
 www.apply.lbu.edu.np
 www.biratschool.edu.np
 www.css.edu.np
@@ -206,6 +231,9 @@ www.dillibazarkanyacampus.edu.np
 www.gipssghorahi.edu.np
 www.globalcollegiate.edu.np
 www.googleadmin.baluddhar.edu.np
+www.greenearth.edu.np
+www.greenearth.edu.np.royalmountaintreks.com
+www.guides.edu.np
 www.kingshospitality.edu.np
 www.kvnepal.edu.np
 www.lss.edu.np
@@ -213,6 +241,7 @@ www.marsyangdibaljyoti.edu.np
 www.marsyangdibaljyoti.edu.np.cleaneverest.org
 www.netco.edu.np
 www.old.indrachandracampus.edu.np
+www.onlineregistration.ssha.edu.np
 www.premier.edu.np
 www.pusob.edu.np
 www.python.parijattech.edu.np

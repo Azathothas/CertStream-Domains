@@ -6,12 +6,14 @@ banke.vethos.gov.np
 chatbot.dor.gov.np
 doarkhajura.narc.gov.np
 ebps.mahalaxmimun.gov.np
+ehrpmis.nra.gov.np
 gbv.karnali.gov.np
 krishi.udayapurgadhimun.gov.np
 led.mofaga.gov.np
 mis.asdp.gov.np
 nwfpchetauda.gov.np
 pollution.gov.np
+redd.gov.np
 rolpa.akc.gov.np
 rolpa.vethos.gov.np
 sarlahi.akc.gov.np
@@ -19,6 +21,7 @@ wssdobanke.lumbini.gov.np
 www.akcarghakhanchi.gov.np
 www.banke.vethos.gov.np
 www.nwfpchetauda.gov.np
+www.redd.gov.np
 www.yasodharamun.gov.np
 yangwarakmunpanchthar.gov.np
 yasodharamun.gov.np
