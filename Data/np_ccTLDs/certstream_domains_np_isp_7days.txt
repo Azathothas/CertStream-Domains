@@ -6,7 +6,6 @@ kyc.ntc.net.np
 ledger.ntc.net.np
 log.ntc.net.np
 monitor.ntc.net.np
-nas1.classic.com.np
 ns3.classic.com.np
 prbt.ncell.axiata.com
 prbtcms.ncell.axiata.com
@@ -14,4 +13,3 @@ reporting.nettv.com.np
 sabin.wlink.com.np
 speedtest.wlink.com.np.prod.hosts.ooklaserver.net
 vault.ntc.net.np
-wlink.com.np

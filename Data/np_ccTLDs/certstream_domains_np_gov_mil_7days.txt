@@ -15,10 +15,8 @@ achham.pmamp.gov.np
 achhamhospital.gov.np
 adanchulimun.gov.np
 add.gandaki.gov.np
-admin.phidimmun.gov.np
 agnisairkrishnasawaranmun.gov.np
 agricensusnepal.gov.np
-agriculture.phidimmun.gov.np
 ahcsyangja.gandaki.gov.np
 airawatimun.gov.np
 aiselukharkamun.gov.np
@@ -170,7 +168,6 @@ copomis.gov.np
 copomis.mocpa.gov.np
 cro.moial.p3.gov.np
 csh.gov.np
-csionawalpur.gov.np
 css.nitc.gov.np
 ctc.bagamati.gov.np
 ctrc.gov.np
@@ -182,7 +179,6 @@ dakneshworimun.gov.np
 dangisharanmun.gov.np
 darchula.edcu.gov.np
 darmamun.gov.np
-darta-chalani.mellekhmun.gov.np
 dccjhapa.gov.np
 dccmakwanpur.gov.np
 dcm.hetaudamun.gov.np
@@ -196,7 +192,6 @@ dfodeukhuri.lumbini.gov.np
 dfodhanusha.gov.np
 dfomahottari.p2.gov.np
 dfomorang.gov.np
-dfomustang.gov.np
 dforupandehi.gov.np
 dfosiraha.p2.gov.np
 dhading.edcu.gov.np
@@ -214,7 +209,6 @@ dhorpatanhuntingreserve.gov.np
 dhorpatanmun.gov.np
 dhunibeshimun.gov.np
 dhurkotmun.gov.np
-diccp.gandaki.gov.np
 diccw.sudurpashchim.gov.np
 diktelrupakotmajhuwagadimun.gov.np
 dilasainimun.gov.np
@@ -222,7 +216,6 @@ diprungchuichummamun.gov.np
 dlpiudktedu.nra.gov.np
 dlpiukathmandu.gov.np
 dmgnepal.gov.np
-dms.ocmcm.bagamati.gov.np
 doar.p2.gov.np
 dodharachandanimun.gov.np
 dogdakedarmun.gov.np
@@ -244,7 +237,6 @@ dwssm.gov.np
 e-bulletin.panchpokharithangpalmun.gov.np
 ebps-api.bagmatimunsarlahi.gov.np
 ebps.bagmatimunsarlahi.gov.np
-ebps.dharan.gov.np
 ebps.janakpurmun.gov.np
 ebpsdata.bagmatimunsarlahi.gov.np
 edcurukumwest.gov.np
@@ -327,7 +319,6 @@ hilihangmun.gov.np
 himalimun.gov.np
 himamun.gov.np
 hokaski.gandaki.gov.np
-home.phidimmun.gov.np
 hoparbat.gandaki.gov.np
 household.phidimmun.gov.np
 hsodolpa.gov.np
@@ -508,7 +499,6 @@ mayadevimunkapilvastu.gov.np
 mayadevimunrupandehi.gov.np
 mbhtc.p1.gov.np
 mcicdc.gov.np
-mdvip.gov.np
 medpa.moics.gov.np
 mellekhmun.gov.np
 melungmun.gov.np
@@ -548,7 +538,6 @@ myagdemun.gov.np
 myagdi.edcu.gov.np
 nafanepal.gov.np
 nah.gov.np
-naksapass.chandrapurmun.gov.np
 naksapass.raptimunchitwan.gov.np
 nalgaadmun.gov.np
 namkhamun.gov.np
@@ -588,7 +577,6 @@ ocs.bagamati.gov.np
 ocs.p3.gov.np
 old.mohp.gov.np
 old.nlc.gov.np
-oldmoial.bagamati.gov.np
 omsatiyamun.gov.np
 oshc.gov.np
 pachrautamun.gov.np
@@ -619,7 +607,6 @@ pccmis.karnali.gov.np
 pccmisadmin.karnali.gov.np
 pcgg.p1.gov.np
 pcrcto.p1.gov.np
-pds.phidimmun.gov.np
 pfdir.p2.gov.np
 pfdir.p5.gov.np
 phakphokthummun.gov.np
@@ -653,7 +640,6 @@ prasaunimun.gov.np
 pratappurmun.gov.np
 prbfrmp.dwri.gov.np
 profile.bangalachulimun.gov.np
-profiling.phidimmun.gov.np
 provincemuseum.gandaki.gov.np
 prtc.madhesh.gov.np
 psdc.bagamati.gov.np
@@ -743,7 +729,6 @@ shuddhodhanmunkapilvastu.gov.np
 shuddhodhanmunrupandehi.gov.np
 siddhakumakhmun.gov.np
 siddhalekmun.gov.np
-sifaris.phidimmun.gov.np
 sifarish.bherigangamun.gov.np
 sifarish.dullumun.gov.np
 sifarish.kawilasimun.gov.np
@@ -759,7 +744,6 @@ sirijanghamun.gov.np
 sisnemun.gov.np
 siyarimun.gov.np
 smcicdp.gov.np
-soil.narc.gov.np
 soillab.bagamati.gov.np
 sonmamun.gov.np
 sorumun.gov.np
@@ -828,7 +812,6 @@ vhlsecdhading.bagamati.gov.np
 vhlsecrautahat.p2.gov.np
 vpms.dlfd.gandaki.gov.np
 vsdta.gov.np
-wadapatra.phidimmun.gov.np
 ward01.lalitpurmun.gov.np
 ward06.lalitpurmun.gov.np
 ward15.lmc.gov.np
@@ -989,7 +972,6 @@ www.chulachulimun.gov.np
 www.chumanuwrimun.gov.np
 www.churemun.gov.np
 www.csh.gov.np
-www.csionawalpur.gov.np
 www.cvl.gov.np
 www.dahcparbat.gov.np
 www.dakneshworimun.gov.np
@@ -1004,7 +986,6 @@ www.dewanganjmun.gov.np
 www.dfobhojpur.gov.np
 www.dfodhanusha.gov.np
 www.dfomorang.gov.np
-www.dfomustang.gov.np
 www.dforupandehi.gov.np
 www.dhakarimun.gov.np
 www.dhanapalthanmun.gov.np
@@ -1228,7 +1209,6 @@ www.maulapurmun.gov.np
 www.mayadevimunkapilvastu.gov.np
 www.mayadevimunrupandehi.gov.np
 www.mcicdc.gov.np
-www.mdvip.gov.np
 www.mellekhmun.gov.np
 www.melungmun.gov.np
 www.menchhayayemmun.gov.np
@@ -1274,7 +1254,6 @@ www.nisikholamun.gov.np
 www.nphl.gov.np
 www.npmrmmodc.gov.np
 www.nwc.gov.np
-www.ocmcm.bagamati.gov.np
 www.omsatiyamun.gov.np
 www.oshc.gov.np
 www.pachrautamun.gov.np
