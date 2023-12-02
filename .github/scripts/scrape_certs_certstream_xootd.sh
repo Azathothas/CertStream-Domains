@@ -64,11 +64,22 @@ export GITHUB_TOKEN="$CERTSTREAM_REPO_TOKEN"
 mkdir -p "$HOME/Github"
 # mkdir -p "/data/data/com.termux/files/home/Github"
 if [ ! -d "/data/data/com.termux/files/home/Github/CertStream-Domains" ]; then
-      pushd "$HOME/Github" && git clone "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@github.com/Azathothas/CertStream-Domains.git"
+   #https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
+      pushd "$HOME/Github" && git clone --filter="blob:none" "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@github.com/Azathothas/CertStream-Domains.git"
       cd "./CertStream-Domains" && CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd 
-else
-      pushd "$HOME/Github/CertStream-Domains" ; git fetch origin && git reset --hard origin/main ; git checkout HEAD -- ; git pull origin main
-      CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd
+    #Check if git is too bloated
+     if [ -d "$HOME/Github/CertStream-Domains/.git" ] && [ "$(du -sk $HOME/Github/CertStream-Domains/.git | cut -f1)" -ge "8500000" ]; then
+         echo -e "\n[+] $HOME/Github/CertStream-Domains/.git exceeds 8.5 GB\n"
+         #Purge
+         rm -rf "$HOME/Github/CertStream-Domains" 2>/dev/null
+         #re(Clone)
+         pushd "$HOME" && git clone --filter="blob:none" "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@github.com/Azathothas/CertStream-Domains.git"
+         #Export PATH
+         cd "$HOME/Github/CertStream-Domains" && CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd
+    else
+          pushd "$HOME/Github/CertStream-Domains" ; git fetch origin && git reset --hard origin/main ; git checkout HEAD -- ; git pull origin main
+          CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd
+    fi
 fi
 #DANGEROUS && DUMB
 # # HOST_IP | REGION
