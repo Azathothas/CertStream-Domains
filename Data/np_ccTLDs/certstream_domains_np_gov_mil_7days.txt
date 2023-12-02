@@ -49,6 +49,7 @@ baganaskalimun.gov.np
 bagmatimunlalitpur.gov.np
 bagmatimunmakawanpur.gov.np
 bagmatimunsarlahi.gov.np
+bahc.lumbini.gov.np
 bahrabisemun.gov.np
 bahradashimun.gov.np
 bahudarmaimun.gov.np
@@ -163,6 +164,7 @@ choubisemun.gov.np
 chulachulimun.gov.np
 chumanuwrimun.gov.np
 churemun.gov.np
+cms.madhesh.gov.np
 coop.gandaki.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -190,6 +192,7 @@ devtalmun.gov.np
 dewahigonahimun.gov.np
 dewanganjmun.gov.np
 dfobhojpur.gov.np
+dfodeukhuri.lumbini.gov.np
 dfodhanusha.gov.np
 dfomahottari.p2.gov.np
 dfomorang.gov.np
@@ -200,6 +203,7 @@ dhading.edcu.gov.np
 dhakarimun.gov.np
 dhanapalthanmun.gov.np
 dhanaujimun.gov.np
+dhangadhi.doc.gov.np
 dhankaulmun.gov.np
 dharchemun.gov.np
 dharmadevimun.gov.np
@@ -279,6 +283,7 @@ gaurhospital.p2.gov.np
 gaurigangamun.gov.np
 gaurigunjmun.gov.np
 gaurishankarmun.gov.np
+gbv.karnali.gov.np
 gdm.gov.np
 geruwamun.gov.np
 gharapjhongmun.gov.np
@@ -294,6 +299,7 @@ gov.np.admin-mcas.ms
 gov.np.mcas-df.ms
 gov.np.mcas.ms
 gov.np.sitexpired.com
+gov.np.websitebiography.com
 gramthanmun.gov.np
 grcdolfd.bagamati.gov.np
 gujaramun.gov.np
@@ -436,6 +442,7 @@ lekammun.gov.np
 lekbeshimun.gov.np
 leobiratnagar.gov.np
 leobutwal.gov.np
+leodhangadhi.gov.np
 leonepalgunj.gov.np
 library.nrcbt.gov.np
 likhumunnuwakot.gov.np
@@ -563,6 +570,7 @@ ncsmc.mocit.gov.np
 ndc.gov.np
 nechasalyanmun.gov.np
 nelis.dos.gov.np
+nepalgunj.doc.gov.np
 nepallake.gov.np
 nepalntp.gov.np
 netrawatidabjongmun.gov.np
@@ -679,8 +687,10 @@ rdtc.p2.gov.np
 result.butwalmun.gov.np
 ridobanke.lumbini.gov.np
 ridodang.gov.np
+ridorukumeast.lumbini.gov.np
 rishingmun.gov.np
 rltcdhangadhi.gov.np
+rltcnepalgunj.gov.np
 roadjumla.karnali.gov.np
 roadrukum.karnali.gov.np
 rolpa.edcu.gov.np
@@ -1165,6 +1175,7 @@ www.lekammun.gov.np
 www.lekbeshimun.gov.np
 www.leobiratnagar.gov.np
 www.leobutwal.gov.np
+www.leodhangadhi.gov.np
 www.leonepalgunj.gov.np
 www.likhumunnuwakot.gov.np
 www.likhumunokhaldhunga.gov.np
@@ -1324,6 +1335,7 @@ www.rcidp.gov.np
 www.ridodang.gov.np
 www.rishingmun.gov.np
 www.rltcdhangadhi.gov.np
+www.rltcnepalgunj.gov.np
 www.rongmun.gov.np
 www.roshimun.gov.np
 www.rubivalleymun.gov.np
