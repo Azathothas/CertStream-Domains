@@ -6,4 +6,5 @@ ledger.ntc.net.np
 ns3.classic.com.np
 prbt.ncell.axiata.com
 prbtcms.ncell.axiata.com
+private.wlink.com.np
 speedtest.wlink.com.np.prod.hosts.ooklaserver.net

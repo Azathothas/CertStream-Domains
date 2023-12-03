@@ -28,6 +28,7 @@ akcbajura.sudurpashchim.gov.np
 akcdadeldhura.sudurpashchim.gov.np
 akcdhanusha.gov.np
 akcmustang.gandaki.gov.np
+alaichibikash.gov.np
 annapurnamunkaski.gov.np
 annapurnamunmyagdi.gov.np
 api-rms.ndrrma.gov.np
@@ -207,11 +208,14 @@ dhangadhi.doc.gov.np
 dhankaulmun.gov.np
 dharchemun.gov.np
 dharmadevimun.gov.np
+dhbhp.p1.gov.np
 dhobinimun.gov.np
 dhodadeldhura.gov.np
+dhodarchula.gov.np
 dhokavre.gov.np
 dhorpatanhuntingreserve.gov.np
 dhorpatanmun.gov.np
+dhorupandehi.gov.np
 dhunibeshimun.gov.np
 dhurkotmun.gov.np
 diccw.sudurpashchim.gov.np
@@ -437,6 +441,7 @@ kumarichowk.gov.np
 kummayakmun.gov.np
 kushemun.gov.np
 kwholasotharmun.gov.np
+lah.p5.gov.np
 lamahihp.gov.np
 lamjung.edcu.gov.np
 lawcommission.gov.np
@@ -519,6 +524,7 @@ mellekhmun.gov.np
 melungmun.gov.np
 menchhayayemmun.gov.np
 meringdenmun.gov.np
+merokitta.dos.gov.np
 miklajungmunmorang.gov.np
 miklajungmunpanchthar.gov.np
 mikwakholamun.gov.np
@@ -824,6 +830,7 @@ vethospalpa.gov.np
 vhlparbat.gandaki.gov.np
 vhlscdarchula.sudurpashchim.gov.np
 vhlsecdhading.bagamati.gov.np
+vhlsecparsa.p2.gov.np
 vhlsecrautahat.p2.gov.np
 vpms.dlfd.gandaki.gov.np
 vsdta.gov.np
@@ -848,6 +855,7 @@ wriddobanke.gov.np
 wriddopalpa.lumbini.gov.np
 wriddtaplejung.p1.gov.np
 wssdobanke.lumbini.gov.np
+wssdorupandehi.p5.gov.np
 www.aadarshakotwalmun.gov.np
 www.aadarshamun.gov.np
 www.aalitalmun.gov.np
@@ -871,6 +879,7 @@ www.ajirkotmun.gov.np
 www.akcarghakhanchi.gov.np
 www.akcdhanusha.gov.np
 www.akcmustang.gandaki.gov.np
+www.alaichibikash.gov.np
 www.annapurnamunkaski.gov.np
 www.annapurnamunmyagdi.gov.np
 www.apihimalmun.gov.np
@@ -1012,9 +1021,11 @@ www.dhankaulmun.gov.np
 www.dharchemun.gov.np
 www.dharmadevimun.gov.np
 www.dhodadeldhura.gov.np
+www.dhodarchula.gov.np
 www.dhokavre.gov.np
 www.dhorpatanhuntingreserve.gov.np
 www.dhorpatanmun.gov.np
+www.dhorupandehi.gov.np
 www.dhunibeshimun.gov.np
 www.dhurkotmun.gov.np
 www.diktelrupakotmajhuwagadimun.gov.np
@@ -1430,6 +1441,7 @@ www.vethospalpa.gov.np
 www.vsdta.gov.np
 www.wriddjhapa.gov.np
 www.wriddobanke.gov.np
+www.wssdorupandehi.p5.gov.np
 www.yasodharamun.gov.np
 yangwarakmunpanchthar.gov.np
 yasodharamun.gov.np

@@ -48,6 +48,7 @@ akun-pro-taiwan.holyangelschool.edu.np
 akun-pro-thailand.holyangelschool.edu.np
 akun-pro-vietnam.holyangelschool.edu.np
 akun-pro-vietnam.pascalschool.edu.np
+alevel.ace.edu.np
 alevel.xavier.edu.np
 almighty.edu.np
 almighty.edu.np.my-urls.com
@@ -64,6 +65,7 @@ apply.lbu.edu.np
 appointment.sen.edu.np
 arnikofoundation.edu.np
 arnikoschool.arnikofoundation.edu.np
+ascend.ace.edu.np
 ashtanga.edu.np
 asia4d.holyangelschool.edu.np
 atlasbet88.holyangelschool.edu.np
@@ -102,6 +104,7 @@ autodiscover.vsbs.edu.np
 avn.edu.np
 azaleaschool.edu.np
 baba.edu.np
+bachelors.ace.edu.np
 baghbhairavmabi.edu.np
 bajra.edu.np
 bajrabarahischool.edu.np
@@ -135,6 +138,8 @@ biotconf.ku.edu.np
 biratschool.edu.np
 bitpoint.edu.np
 bkgmschool.edu.np
+bkvm.edu.np
+bkvm.edu.np.bitbaritech.com
 blog.office.witsacademy.edu.np
 blog.premier.edu.np
 bluebridges.edu.np
@@ -155,6 +160,7 @@ brightace.edu.np
 brps.edu.np
 brushuponline.edu.np
 bvs.edu.np
+bvsbrt.edu.np
 cafodat.edu.np
 calyxebs.edu.np
 camadcollege.edu.np
@@ -189,6 +195,7 @@ cmprc.edu.np
 coe.edu.np
 college.tribhuwan.edu.np
 consultant.aeh.edu.np
+cotc.edu.np
 cpanel.abroadlipokhara.edu.np
 cpanel.academic.edu.np
 cpanel.ahs.edu.np
@@ -608,6 +615,7 @@ email.shikshadeep.edu.np
 emba.edu.np
 emis.gyanbahumukhicampus.edu.np
 emis.mulschool.edu.np
+emis.solucampus.edu.np
 emmanuelschool.edu.np
 en.forum.snats.edu.np
 engineeringhelpline.edu.np
@@ -690,6 +698,7 @@ grade2079.naragram.edu.np
 gramodayayugkabicampus.edu.np
 greenearth.edu.np
 greenearth.edu.np.royalmountaintreks.com
+greenfieldworldschool.edu.np
 greenpheasant.edu.np
 grid2040.ku.edu.np
 grs.edu.np
@@ -714,6 +723,7 @@ himalayanglobal.edu.np
 himalayawaldorf.edu.np
 himalayawaldorf.edu.np.cdmnepal.org
 himchhaya.edu.np
+holyangelschool.edu.np
 home.ahnzxdrp.machhindramavi.edu.np
 hsm.edu.np
 hsrc.edu.np
@@ -751,6 +761,7 @@ jyotieducation.edu.np
 jyotimandalmavi.edu.np
 kafcol.edu.np
 kailalicampus.edu.np
+kailalimodelschool.edu.np
 kaizen.edu.np
 kakarvittacampus.edu.np
 kalidevischools.edu.np.sajilosikcha.com.np
@@ -977,6 +988,7 @@ marsyangdibaljyoti.edu.np
 marsyangdibaljyoti.edu.np.cleaneverest.org
 marywardlubhu.edu.np
 mastamabi.edu.np.sajilosikcha.com.np
+masters.ace.edu.np
 mastesworimavi.edu.np.sajilosikcha.com.np
 maviimiliya.edu.np
 mavijyamirekhani.edu.np
@@ -1164,6 +1176,7 @@ ria.edu.np
 rianepal.edu.np
 riaschool.edu.np
 right.edu.np
+rili.edu.np
 rjc.edu.np
 rju.edu.np
 rmccollege.edu.np
@@ -1309,12 +1322,14 @@ theacmeacademy.edu.np
 theravada.edu.np
 theroyal.vmebschool.edu.np
 thomas.edu.np
+timeacademy.edu.np
 timeseducational.edu.np
 tjssrukumwest.edu.np
 topuniversal.edu.np
 topuniversal.edu.np.topuniversal.com.np
 tore.adarsha.edu.np
 total.vmebschool.edu.np
+tradingview.cctdharan.edu.np
 trial.kasthamandapcollege.edu.np
 tribhuvanhanuman.edu.np
 tricon.edu.np
@@ -1334,6 +1349,7 @@ uebschool.edu.np
 ugcnepal.cmc.edu.np
 ugcnepal.edu.np
 uniexpress.edu.np
+uniglobecollege.edu.np
 universal.united.edu.np
 valmiki.edu.np
 viaeducation.edu.np
@@ -1633,6 +1649,7 @@ www.bhanu.edu.np
 www.bicm.edu.np
 www.biratschool.edu.np
 www.bkgmschool.edu.np
+www.bkvm.edu.np.bitbaritech.com
 www.bluebridges.edu.np
 www.bostonec.edu.np
 www.boudhaschool.edu.np.walkershive.com
@@ -1680,6 +1697,7 @@ www.elibrary.imperialcollege.edu.np
 www.email.nhms.edu.np
 www.email.shikshadeep.edu.np
 www.emis.gyanbahumukhicampus.edu.np
+www.emis.solucampus.edu.np
 www.eslglobal.edu.np.icas.edu.np
 www.evergreen-school.edu.np
 www.evergreenacademy.edu.np
@@ -1708,6 +1726,7 @@ www.grade.naragram.edu.np
 www.grade2079.naragram.edu.np
 www.greenearth.edu.np
 www.greenearth.edu.np.royalmountaintreks.com
+www.greenfieldworldschool.edu.np
 www.grs.edu.np
 www.grs.edu.np.jmssg.edu.np
 www.guides.edu.np
@@ -1754,6 +1773,7 @@ www.koha-admin.anthropologytu.edu.np
 www.krishnamavi.edu.np
 www.kumudinihomes.edu.np
 www.kusoa.edu.np
+www.kusom.edu.np
 www.kvnepal.edu.np
 www.kww.com.np.kcs.edu.np
 www.ladangtoto-id.zingschool.edu.np
@@ -1962,6 +1982,7 @@ www.theroyal.vmebschool.edu.np
 www.tjssrukumwest.edu.np
 www.topuniversal.edu.np.topuniversal.com.np
 www.total.vmebschool.edu.np
+www.tradingview.cctdharan.edu.np
 www.trial.kasthamandapcollege.edu.np
 www.trifala.ecea-s.easycare.edu.np
 www.trinity.edu.np
