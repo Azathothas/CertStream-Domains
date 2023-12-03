@@ -9,7 +9,6 @@ aathabismun.gov.np
 aathbiskotmun.gov.np
 aathraimun.gov.np
 aathraitribenimun.gov.np
-aauk.bagamati.gov.np
 abpstc.bagamati.gov.np
 account.kscl.gov.np
 achham.edcu.gov.np
@@ -251,7 +250,6 @@ ebpsdata.bagmatimunsarlahi.gov.np
 edcurukumwest.gov.np
 edu.mahabharatmun.gov.np
 edu.udayapurgadhimun.gov.np
-efiling.biratnagarmun.gov.np
 ehmis.chatarahospital.p1.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.gov.np
@@ -349,7 +347,6 @@ idohumla.karnali.gov.np
 idokalikot.karnali.gov.np
 idoparsa.madhesh.gov.np
 idosalyan.karnali.gov.np
-ijalas.phidimmun.gov.np
 ilam.edcu.gov.np
 ilam.mofe.gov.np
 immigration.gov.np.admin-mcas-df.ms
@@ -358,7 +355,6 @@ immigration.gov.np.mcas-df.ms
 immigration.gov.np.mcas.ms
 indrasarowarmun.gov.np
 indrawatimun.gov.np
-investnepal.gov.np
 ishnathmun.gov.np
 ismamun.gov.np
 jagarnathpurmun.gov.np
@@ -534,7 +530,6 @@ moh.koshi.gov.np
 mohanyalmun.gov.np
 mohp.gov.np
 moia.gandaki.gov.np
-molet.bagamati.gov.np
 molt.madhesh.gov.np
 molungmun.gov.np
 mopid.madhesh.gov.np
@@ -543,7 +538,6 @@ mopiewr.karnali.gov.np
 mosd.koshi.gov.np
 mowsed.madhesh.gov.np
 mowsed.p2.gov.np
-moyas.bagamati.gov.np
 mpp.madhesh.gov.np
 msmhospital.gov.np
 mudkechulamun.gov.np
@@ -593,9 +587,6 @@ nugip.dudbc.gov.np
 nwc.gov.np
 nwfpchetauda.gov.np
 oca.madhesh.gov.np
-ocmcm.bagamati.gov.np
-ocs.bagamati.gov.np
-ocs.p3.gov.np
 old.mohp.gov.np
 old.nlc.gov.np
 omsatiyamun.gov.np
@@ -624,8 +615,6 @@ parwanipurmun.gov.np
 patarasimun.gov.np
 pathivarayangwarakmun.gov.np
 pauwadungmamun.gov.np
-pccmis.karnali.gov.np
-pccmisadmin.karnali.gov.np
 pcgg.p1.gov.np
 pcrcto.p1.gov.np
 pfdir.p2.gov.np
@@ -654,7 +643,6 @@ postofficegorkha.gov.np
 pphl.lumbini.gov.np
 pphl.p2.gov.np
 ppl.p2.gov.np
-pppc.bagamati.gov.np
 ppsc.bagamati.gov.np
 ppsc.karnali.gov.np
 prabin.nitc.gov.np
@@ -729,7 +717,6 @@ sarawalmun.gov.np
 sarkegadmun.gov.np
 sarlahi.akc.gov.np
 sarumaranimun.gov.np
-satyawatikrishi.gov.np
 satyawatimun.gov.np
 sayalmun.gov.np
 sbmh.bagamati.gov.np
@@ -850,7 +837,6 @@ ward22.lalitpurmun.gov.np
 ward29.lmc.gov.np
 ward6.tulsipurmun.gov.np
 ward7.nagarjunmun.gov.np
-webmail.investnepal.gov.np
 westrukum.edcu.gov.np
 wiedomugu.karnali.gov.np
 wiedosalyan.survey.karnali.gov.np
@@ -1113,7 +1099,6 @@ www.icc.gov.np
 www.ichchhakamanamun.gov.np
 www.indrasarowarmun.gov.np
 www.indrawatimun.gov.np
-www.investnepal.gov.np
 www.ishnathmun.gov.np
 www.ismamun.gov.np
 www.jagarnathpurmun.gov.np
@@ -1370,7 +1355,6 @@ www.sannitrivenimun.gov.np
 www.sarawalmun.gov.np
 www.sarkegadmun.gov.np
 www.sarumaranimun.gov.np
-www.satyawatikrishi.gov.np
 www.satyawatimun.gov.np
 www.sayalmun.gov.np
 www.sdc.gov.np

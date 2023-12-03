@@ -15,6 +15,7 @@ autodiscover.rumjatarschool.edu.np
 autodiscover.shivasecondary.edu.np
 avenue.edu.np
 bajra.edu.np
+balmandir.edu.np
 baraha.edu.np
 bet88.holyangelschool.edu.np
 bhadrakalischool.edu.np
@@ -25,6 +26,7 @@ bkvm.edu.np
 bkvm.edu.np.bitbaritech.com
 bocoran-admin-dika.pascalschool.edu.np
 bpcbirgunj.edu.np
+britishmodelcollege.edu.np
 cca.edu.np
 cctdharan.edu.np
 cdrd.edu.np
@@ -86,6 +88,7 @@ eurolinkeducation.edu.np
 everestacademy.edu.np
 forbescollege.edu.np
 ganeshmansingh.edu.np
+gcbe.edu.np
 getguidelines.edu.np
 globalhorizon.edu.np
 government.juddhaschool.edu.np
@@ -103,6 +106,7 @@ janajyoticampus.edu.np.rumjatarschool.edu.np
 jlbpublicschool.edu.np
 johndewey.edu.np
 kaizen.edu.np
+kusom.edu.np
 library.nepalwide.edu.np
 littlestars.edu.np
 lumbinibrihaspati.edu.np
@@ -127,6 +131,7 @@ mail.shacademy.edu.np
 mail.shishuwaricampus.edu.np
 mail.shivasecondary.edu.np
 mail.snsc.edu.np
+mail.tucl.edu.np
 merotuki.edu.np
 meshrambaraha.edu.np
 mitnepal.edu.np
@@ -156,6 +161,7 @@ pro.edu.np
 pua.edu.np
 rastriyanamunamavi.edu.np
 ref.edu.np
+renaissance.edu.np
 rkh.edu.np
 rkh.edu.np.ren.org.np
 rsspkr.edu.np
@@ -173,11 +179,13 @@ shuklamavi.edu.np
 simaracollege.edu.np
 software.skipi.edu.np
 srbv.edu.np
+staging.janakalyancampus.edu.np
 streamlined.edu.np.digitaldeebesh.com
 suspended.bpcbirgunj.edu.np
 test.database.secure.witsacademy.edu.np
 tssbelatari.edu.np
 tsubaki.edu.np
+tucl.edu.np
 umlingsecondaryschool.edu.np
 uniglobe.edu.np
 unikotraders.com.jmssg.edu.np
@@ -233,6 +241,7 @@ www.hiis.edu.np
 www.holyangelschool.edu.np
 www.janajyoticampus.edu.np
 www.janajyoticampus.edu.np.rumjatarschool.edu.np
+www.kusom.edu.np
 www.lumbinibrihaspati.edu.np
 www.mitnepal.edu.np
 www.mmcn.edu.np.gia.edu.np
@@ -253,7 +262,9 @@ www.shivasecondary.edu.np
 www.shivasecondary.edu.np.rumjatarschool.edu.np
 www.simaracollege.edu.np
 www.software.skipi.edu.np
+www.staging.janakalyancampus.edu.np
 www.streamlined.edu.np.digitaldeebesh.com
+www.tucl.edu.np
 www.uat.mmims.edu.np
 www.unikotraders.com.jmssg.edu.np
 www.youmeinternational.edu.np
