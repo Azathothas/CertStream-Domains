@@ -10,6 +10,7 @@ aathbiskotmun.gov.np
 aathraimun.gov.np
 aathraitribenimun.gov.np
 abpstc.bagamati.gov.np
+abpstc.p3.gov.np
 account.kscl.gov.np
 achham.edcu.gov.np
 achham.pmamp.gov.np
@@ -23,10 +24,13 @@ airawatimun.gov.np
 aiselukharkamun.gov.np
 ajayamerumun.gov.np
 ajirkotmun.gov.np
+akcachham.sudurpashchim.gov.np
 akcarghakhanchi.gov.np
 akcbajura.sudurpashchim.gov.np
 akcdadeldhura.sudurpashchim.gov.np
+akcdarchula.sudurpashchim.gov.np
 akcdhanusha.gov.np
+akckanchanpur.sudurpashchim.gov.np
 akcmustang.gandaki.gov.np
 alaichibikash.gov.np
 annapurnamunkaski.gov.np
@@ -196,8 +200,11 @@ dewanganjmun.gov.np
 dfobhojpur.gov.np
 dfodeukhuri.lumbini.gov.np
 dfodhanusha.gov.np
+dfogorkha.gov.np
+dfokathmandu.bagamati.gov.np
 dfomahottari.p2.gov.np
 dfomorang.gov.np
+dfookhaldhunga.gov.np
 dforupandehi.gov.np
 dfosiraha.p2.gov.np
 dhading.edcu.gov.np
@@ -216,6 +223,7 @@ dhokavre.gov.np
 dhorpatanhuntingreserve.gov.np
 dhorpatanmun.gov.np
 dhorupandehi.gov.np
+dhrolpa.p5.gov.np
 dhunibeshimun.gov.np
 dhurkotmun.gov.np
 diccw.sudurpashchim.gov.np
@@ -225,12 +233,16 @@ diprungchuichummamun.gov.np
 dlpiudktedu.nra.gov.np
 dlpiukathmandu.gov.np
 dmgnepal.gov.np
+dmss.ddc.gov.np
 doar.p2.gov.np
 doarkhajura.narc.gov.np
+doarskt.narc.gov.np
 dodharachandanimun.gov.np
+dofsc.gov.np
 dogdakedarmun.gov.np
 doiccp.p2.gov.np
 doli.gov.np
+dolpa.oicp.gov.np
 dolpobuddhamun.gov.np
 dorambamun.gov.np
 dordimun.gov.np
@@ -258,6 +270,7 @@ ehmis.chatarahospital.p1.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.gov.np
 etc.p1.gov.np
+etconline.lumbini.gov.np
 fansepmis.moald.gov.np
 fcpb.madhesh.gov.np
 fdcfattepur.p2.gov.np
@@ -268,6 +281,7 @@ fdtcjnk.gov.np
 fics.gov.np
 fpdb.gov.np
 fra.mofaga.gov.np
+frtc.bagmati.gov.np
 fslsc.dofsc.gov.np
 fwd.gov.np
 gadhawamun.gov.np
@@ -312,8 +326,10 @@ gramthanmun.gov.np
 grcdolfd.bagamati.gov.np
 gujaramun.gov.np
 gulmi.vethos.gov.np
+gunaso.hetaudamun.gov.np
 guransmun.gov.np
 guthichaurmun.gov.np
+gwrdb.gov.np
 gwridd.koshi.gov.np
 halesituwachungmun.gov.np
 hansapurmun.gov.np
@@ -348,8 +364,13 @@ iccrpd.gandaki.gov.np
 ichchhakamanamun.gov.np
 idodhanusha.madhesh.gov.np
 idohumla.karnali.gov.np
+idojhapa.p1.gov.np
+idojumla.karnali.gov.np
+idokailali.sudurpashchim.gov.np
 idokalikot.karnali.gov.np
 idoparsa.madhesh.gov.np
+idorautahat.gov.np
+idorukum.karnali.gov.np
 idosalyan.karnali.gov.np
 ilam.edcu.gov.np
 ilam.mofe.gov.np
@@ -359,6 +380,8 @@ immigration.gov.np.mcas-df.ms
 immigration.gov.np.mcas.ms
 indrasarowarmun.gov.np
 indrawatimun.gov.np
+industry.karnali.gov.np
+invest.p1.gov.np
 ishnathmun.gov.np
 ismamun.gov.np
 jagarnathpurmun.gov.np
@@ -367,6 +390,7 @@ jagganathmun.gov.np
 jahadamun.gov.np
 jaiminimun.gov.np
 jajarkot.edcu.gov.np
+jajarkot.oicp.gov.np
 jaljalamun.gov.np
 janakimunbanke.gov.np
 janakimunkailali.gov.np
@@ -449,6 +473,7 @@ laxminiyamun.gov.np
 laxmipurpatarimun.gov.np
 leave.apf.gov.np
 led.mofaga.gov.np
+legal.palungtarmun.gov.np
 lekammun.gov.np
 lekbeshimun.gov.np
 leobiratnagar.gov.np
@@ -519,7 +544,9 @@ mayadevimunkapilvastu.gov.np
 mayadevimunrupandehi.gov.np
 mbhtc.p1.gov.np
 mcicdc.gov.np
+mediawage.gov.np
 medpa.moics.gov.np
+melamchiwater.gov.np
 mellekhmun.gov.np
 melungmun.gov.np
 menchhayayemmun.gov.np
@@ -530,12 +557,16 @@ miklajungmunpanchthar.gov.np
 mikwakholamun.gov.np
 mimo.p7.gov.np
 mis.asdp.gov.np
+mis.nccsp.gov.np
+mis.palungtarmun.gov.np
 mithilabiharimun.gov.np
+mobile.kvda.gov.np
 mofesc.gandaki.gov.np
 moh.koshi.gov.np
 mohanyalmun.gov.np
 mohp.gov.np
 moia.gandaki.gov.np
+molcpa.gandaki.gov.np
 molt.madhesh.gov.np
 molungmun.gov.np
 mopid.madhesh.gov.np
@@ -548,6 +579,7 @@ mpp.madhesh.gov.np
 msmhospital.gov.np
 mudkechulamun.gov.np
 mugu.edcu.gov.np
+mugu.oicp.gov.np
 mukhiyapattimusaharniyamun.gov.np
 municipalityhealthprofile.lumbini.gov.np
 musikotmungulmi.gov.np
@@ -593,6 +625,7 @@ nugip.dudbc.gov.np
 nwc.gov.np
 nwfpchetauda.gov.np
 oca.madhesh.gov.np
+old.mof.gov.np
 old.mohp.gov.np
 old.nlc.gov.np
 omsatiyamun.gov.np
@@ -622,6 +655,7 @@ patarasimun.gov.np
 pathivarayangwarakmun.gov.np
 pauwadungmamun.gov.np
 pcgg.p1.gov.np
+pciug.gov.np
 pcrcto.p1.gov.np
 pfdir.p2.gov.np
 pfdir.p5.gov.np
@@ -639,6 +673,7 @@ phsosurkhet.karnali.gov.np
 pipramun.gov.np
 piubaglung.pmamp.gov.np
 piubajura.pmamp.gov.np
+piubardiya.pmamp.gov.np
 piuchitwan.pmamp.gov.np
 piudang.pmamp.gov.np
 piukanchanpur.pmamp.gov.np
@@ -659,12 +694,14 @@ profile.bangalachulimun.gov.np
 provincemuseum.gandaki.gov.np
 prtc.madhesh.gov.np
 psdc.bagamati.gov.np
+pudbcjhapa.gov.np
 purbakholamun.gov.np
 purbichaukimun.gov.np
 purchaudimun.gov.np
 puthauttargangamun.gov.np
 pyc.sudurpashchim.gov.np
 pyuthanayurved.lumbini.gov.np
+pyuthanhospital.lumbini.gov.np
 qsrd.mohp.gov.np
 raghugangamun.gov.np
 raijobiamjanakpur.dls.gov.np
@@ -690,6 +727,7 @@ redd.gov.np
 result.butwalmun.gov.np
 ridobanke.lumbini.gov.np
 ridodang.gov.np
+ridorolpa.lumbini.gov.np
 ridorukumeast.lumbini.gov.np
 rishingmun.gov.np
 rltcdhangadhi.gov.np
@@ -729,6 +767,7 @@ sbmh.bagamati.gov.np
 sdc.gov.np
 sddodang.lumbini.gov.np
 sdf.sudurpashchim.gov.np
+sdodolpa.karnali.gov.np
 sdohumla.karnali.gov.np
 sdojajarkot.karnali.gov.np
 sdokailali.sudurpashchim.gov.np
@@ -828,10 +867,14 @@ varagungmuktichhetramun.gov.np
 vetdolakha.gov.np
 vethospalpa.gov.np
 vhlparbat.gandaki.gov.np
+vhlscachham.sudurpashchim.gov.np
 vhlscdarchula.sudurpashchim.gov.np
+vhlscddl.sudurpashchim.gov.np
+vhlscdoti.sudurpashchim.gov.np
 vhlsecdhading.bagamati.gov.np
 vhlsecparsa.p2.gov.np
 vhlsecrautahat.p2.gov.np
+vhlsecudayapur.p1.gov.np
 vpms.dlfd.gandaki.gov.np
 vsdta.gov.np
 ward01.lalitpurmun.gov.np
@@ -839,12 +882,14 @@ ward06.lalitpurmun.gov.np
 ward15.lmc.gov.np
 ward18.lmc.gov.np
 ward18.nepalgunjmun.gov.np
+ward2.tulsipurmun.gov.np
 ward20.lmc.gov.np
 ward22.lalitpurmun.gov.np
 ward29.lmc.gov.np
 ward6.tulsipurmun.gov.np
 ward7.nagarjunmun.gov.np
 westrukum.edcu.gov.np
+wiedohumla.karnali.gov.np
 wiedomugu.karnali.gov.np
 wiedosalyan.survey.karnali.gov.np
 wieodolpa.survey.karnali.gov.np
@@ -854,6 +899,7 @@ wriddjhapa.gov.np
 wriddobanke.gov.np
 wriddopalpa.lumbini.gov.np
 wriddtaplejung.p1.gov.np
+wridsdrasuwa.gov.np
 wssdobanke.lumbini.gov.np
 wssdorupandehi.p5.gov.np
 www.aadarshakotwalmun.gov.np
@@ -868,6 +914,7 @@ www.aathbiskotmun.gov.np
 www.aathraimun.gov.np
 www.aathraitribenimun.gov.np
 www.abpstc.bagamati.gov.np
+www.abpstc.p3.gov.np
 www.achhamhospital.gov.np
 www.adanchulimun.gov.np
 www.agnisairkrishnasawaranmun.gov.np
@@ -1012,7 +1059,9 @@ www.dewahigonahimun.gov.np
 www.dewanganjmun.gov.np
 www.dfobhojpur.gov.np
 www.dfodhanusha.gov.np
+www.dfogorkha.gov.np
 www.dfomorang.gov.np
+www.dfookhaldhunga.gov.np
 www.dforupandehi.gov.np
 www.dhakarimun.gov.np
 www.dhanapalthanmun.gov.np
@@ -1034,6 +1083,7 @@ www.diprungchuichummamun.gov.np
 www.dlpiukathmandu.gov.np
 www.dmgnepal.gov.np
 www.dodharachandanimun.gov.np
+www.dofsc.gov.np
 www.dogdakedarmun.gov.np
 www.doli.gov.np
 www.dolpobuddhamun.gov.np
@@ -1088,8 +1138,10 @@ www.gosaikundamun.gov.np
 www.gramthanmun.gov.np
 www.grcdolfd.bagamati.gov.np
 www.gujaramun.gov.np
+www.gunaso.hetaudamun.gov.np
 www.guransmun.gov.np
 www.guthichaurmun.gov.np
+www.gwrdb.gov.np
 www.halesituwachungmun.gov.np
 www.hansapurmun.gov.np
 www.hariharpurgadhimun.gov.np
@@ -1108,6 +1160,7 @@ www.hsodolpa.gov.np
 www.hupsekotmun.gov.np
 www.icc.gov.np
 www.ichchhakamanamun.gov.np
+www.idorautahat.gov.np
 www.indrasarowarmun.gov.np
 www.indrawatimun.gov.np
 www.ishnathmun.gov.np
@@ -1238,6 +1291,8 @@ www.maulapurmun.gov.np
 www.mayadevimunkapilvastu.gov.np
 www.mayadevimunrupandehi.gov.np
 www.mcicdc.gov.np
+www.mediawage.gov.np
+www.melamchiwater.gov.np
 www.mellekhmun.gov.np
 www.melungmun.gov.np
 www.menchhayayemmun.gov.np
@@ -1245,6 +1300,7 @@ www.meringdenmun.gov.np
 www.miklajungmunmorang.gov.np
 www.miklajungmunpanchthar.gov.np
 www.mikwakholamun.gov.np
+www.mis.nccsp.gov.np
 www.mithilabiharimun.gov.np
 www.mohanyalmun.gov.np
 www.mohp.gov.np
@@ -1306,6 +1362,7 @@ www.parwanipurmun.gov.np
 www.patarasimun.gov.np
 www.pathivarayangwarakmun.gov.np
 www.pauwadungmamun.gov.np
+www.pciug.gov.np
 www.pfdir.p2.gov.np
 www.phakphokthummun.gov.np
 www.phaktanglungmun.gov.np
@@ -1319,6 +1376,7 @@ www.postofficegorkha.gov.np
 www.ppl.p2.gov.np
 www.prasaunimun.gov.np
 www.pratappurmun.gov.np
+www.pudbcjhapa.gov.np
 www.purbakholamun.gov.np
 www.purbichaukimun.gov.np
 www.purchaudimun.gov.np
@@ -1441,6 +1499,7 @@ www.vethospalpa.gov.np
 www.vsdta.gov.np
 www.wriddjhapa.gov.np
 www.wriddobanke.gov.np
+www.wridsdrasuwa.gov.np
 www.wssdorupandehi.p5.gov.np
 www.yasodharamun.gov.np
 yangwarakmunpanchthar.gov.np
