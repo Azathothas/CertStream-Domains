@@ -8,10 +8,15 @@ assets.hiis.edu.np
 autodiscover.janajyoticampus.edu.np
 autodiscover.rumjatarschool.edu.np
 autodiscover.shivasecondary.edu.np
+avenue.edu.np
+bajra.edu.np
+baraha.edu.np
 bet88.holyangelschool.edu.np
 bhimeshwormavi.edu.np
 bit.tuiost.edu.np
 bitpoint.edu.np
+bkvm.edu.np
+bkvm.edu.np.bitbaritech.com
 bocoran-admin-dika.pascalschool.edu.np
 cctdharan.edu.np
 cdrd.edu.np
@@ -45,9 +50,11 @@ cpcontacts.shivasecondary.edu.np
 diktelboardingschool.edu.np
 edu.np.rankglobe.com
 eiec.edu.np
+emis.kapancampus.edu.np
 everestacademy.edu.np
 forbescollege.edu.np
 ganeshmansingh.edu.np
+globalhorizon.edu.np
 gstcollege.edu.np
 gvns.edu.np
 hiis.edu.np
@@ -70,6 +77,7 @@ mail.shacademy.edu.np
 mail.shishuwaricampus.edu.np
 mail.shivasecondary.edu.np
 mail.snsc.edu.np
+merotuki.edu.np
 meshrambaraha.edu.np
 mitnepal.edu.np
 mountboarding.edu.np
@@ -77,6 +85,7 @@ mwu.edu.np
 n.scd.edu.np
 nabc.edu.np
 ncc.edu.np
+newtonhighschool.edu.np
 nobleconsultancy.edu.np
 noname.edu.np
 northface.edu.np
@@ -98,7 +107,10 @@ school.sssbs.edu.np
 shacademy.edu.np
 shivasecondary.edu.np
 shivasecondary.edu.np.rumjatarschool.edu.np
+shuklamavi.edu.np
+software.skipi.edu.np
 srbv.edu.np
+test.database.secure.witsacademy.edu.np
 tssbelatari.edu.np
 tsubaki.edu.np
 uniglobe.edu.np
@@ -121,9 +133,12 @@ www.api.v1.hiis.edu.np
 www.api.v3.hiis.edu.np
 www.asian.edu.np
 www.assets.hiis.edu.np
+www.bhagawatimavi.edu.np
 www.bit.tuiost.edu.np
+www.bkvm.edu.np.bitbaritech.com
 www.cdrd.edu.np
 www.dhan.eiec.edu.np
+www.emis.kapancampus.edu.np
 www.eve.eiec.edu.np
 www.gstcollege.edu.np
 www.gvns.edu.np
@@ -140,3 +155,6 @@ www.school.sssbs.edu.np
 www.shacademy.edu.np
 www.shivasecondary.edu.np
 www.shivasecondary.edu.np.rumjatarschool.edu.np
+www.software.skipi.edu.np
+www.youmeinternational.edu.np
+youmeinternational.edu.np
