@@ -11,6 +11,7 @@ aathraimun.gov.np
 aathraitribenimun.gov.np
 aauk.bagamati.gov.np
 abpstc.bagamati.gov.np
+account.kscl.gov.np
 achham.edcu.gov.np
 achham.pmamp.gov.np
 achhamhospital.gov.np
@@ -23,6 +24,7 @@ airawatimun.gov.np
 aiselukharkamun.gov.np
 ajayamerumun.gov.np
 ajirkotmun.gov.np
+akcarghakhanchi.gov.np
 akcbajura.sudurpashchim.gov.np
 akcdadeldhura.sudurpashchim.gov.np
 akcdhanusha.gov.np
@@ -63,6 +65,7 @@ balramun.gov.np
 balwamun.gov.np
 bangadkupindemun.gov.np
 bangalachulimun.gov.np
+banke.vethos.gov.np
 banphikotmun.gov.np
 bara.edcu.gov.np
 baragadhimun.gov.np
@@ -138,6 +141,7 @@ chamundabindrasainimun.gov.np
 chandrakotmun.gov.np
 chandranagarmun.gov.np
 chankhelimun.gov.np
+chatbot.dor.gov.np
 chatbot.sebon.gov.np
 chaukunemun.gov.np
 chaurideuralimun.gov.np
@@ -219,6 +223,7 @@ dlpiudktedu.nra.gov.np
 dlpiukathmandu.gov.np
 dmgnepal.gov.np
 doar.p2.gov.np
+doarkhajura.narc.gov.np
 dodharachandanimun.gov.np
 dogdakedarmun.gov.np
 doiccp.p2.gov.np
@@ -241,6 +246,7 @@ e-bulletin.panchpokharithangpalmun.gov.np
 ebps-api.bagmatimunsarlahi.gov.np
 ebps.bagmatimunsarlahi.gov.np
 ebps.janakpurmun.gov.np
+ebps.mahalaxmimun.gov.np
 ebpsdata.bagmatimunsarlahi.gov.np
 edcurukumwest.gov.np
 edu.mahabharatmun.gov.np
@@ -429,6 +435,7 @@ khumbupasanglhamumun.gov.np
 kispangmun.gov.np
 konjyosommun.gov.np
 koshimun.gov.np
+krishi.udayapurgadhimun.gov.np
 kumakhmun.gov.np
 kumarichowk.gov.np
 kummayakmun.gov.np
@@ -584,6 +591,7 @@ npmrmmodc.gov.np
 ntacall.nta.gov.np
 nugip.dudbc.gov.np
 nwc.gov.np
+nwfpchetauda.gov.np
 oca.madhesh.gov.np
 ocmcm.bagamati.gov.np
 ocs.bagamati.gov.np
@@ -684,6 +692,7 @@ rawabesimun.gov.np
 rbcl.gov.np
 rcidp.gov.np
 rdtc.p2.gov.np
+redd.gov.np
 result.butwalmun.gov.np
 ridobanke.lumbini.gov.np
 ridodang.gov.np
@@ -693,7 +702,9 @@ rltcdhangadhi.gov.np
 rltcnepalgunj.gov.np
 roadjumla.karnali.gov.np
 roadrukum.karnali.gov.np
+rolpa.akc.gov.np
 rolpa.edcu.gov.np
+rolpa.vethos.gov.np
 rolpaayurveda.p5.gov.np
 rongmun.gov.np
 roshimun.gov.np
@@ -850,6 +861,7 @@ wriddjhapa.gov.np
 wriddobanke.gov.np
 wriddopalpa.lumbini.gov.np
 wriddtaplejung.p1.gov.np
+wssdobanke.lumbini.gov.np
 www.aadarshakotwalmun.gov.np
 www.aadarshamun.gov.np
 www.aalitalmun.gov.np
@@ -870,6 +882,7 @@ www.airawatimun.gov.np
 www.aiselukharkamun.gov.np
 www.ajayamerumun.gov.np
 www.ajirkotmun.gov.np
+www.akcarghakhanchi.gov.np
 www.akcdhanusha.gov.np
 www.akcmustang.gandaki.gov.np
 www.annapurnamunkaski.gov.np
@@ -900,6 +913,7 @@ www.balramun.gov.np
 www.balwamun.gov.np
 www.bangadkupindemun.gov.np
 www.bangalachulimun.gov.np
+www.banke.vethos.gov.np
 www.banphikotmun.gov.np
 www.baragadhimun.gov.np
 www.barahachhetramun.gov.np
@@ -1273,6 +1287,7 @@ www.nisikholamun.gov.np
 www.nphl.gov.np
 www.npmrmmodc.gov.np
 www.nwc.gov.np
+www.nwfpchetauda.gov.np
 www.omsatiyamun.gov.np
 www.oshc.gov.np
 www.pachrautamun.gov.np
@@ -1331,6 +1346,7 @@ www.rautamaimun.gov.np
 www.rawabesimun.gov.np
 www.rbcl.gov.np
 www.rcidp.gov.np
+www.redd.gov.np
 www.ridodang.gov.np
 www.rishingmun.gov.np
 www.rltcdhangadhi.gov.np
@@ -1431,5 +1447,6 @@ www.vsdta.gov.np
 www.wriddjhapa.gov.np
 www.wriddobanke.gov.np
 www.yasodharamun.gov.np
+yangwarakmunpanchthar.gov.np
 yasodharamun.gov.np
 zonejajarkot.pmamp.gov.np
