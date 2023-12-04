@@ -135,6 +135,7 @@ gov.np.admin-mcas.ms
 gov.np.mcas-df.ms
 gov.np.mcas.ms
 gov.np.rankglobe.com
+gov.np.siteindices.com
 gov.np.sitexpired.com
 gov.np.websitebiography.com
 gramthanmun.gov.np
@@ -160,6 +161,7 @@ hoparbat.gandaki.gov.np
 hopyuthan.p5.gov.np
 hsodolpa.gov.np
 humla.oicp.gov.np
+ialdorukumeast.p5.gov.np
 icc.gov.np
 iccrpd.gandaki.gov.np
 idodhanusha.madhesh.gov.np
@@ -180,6 +182,7 @@ immigration.gov.np.mcas-df.ms
 immigration.gov.np.mcas.ms
 industry.karnali.gov.np
 invest.p1.gov.np
+ipf.plgsp.gov.np
 ishnathmun.gov.np
 jaiminimun.gov.np
 jajarkot.oicp.gov.np
@@ -213,6 +216,7 @@ library.nrcbt.gov.np
 lims.dftqc.gov.np
 lisa.mofaga.gov.np
 lmbis.gov.np
+lmis.naflqml.gov.np
 localmis.doacrop.gov.np
 loe.moecdc.gov.np
 lomanthangmun.gov.np
@@ -403,6 +407,7 @@ ppl.p2.gov.np
 ppsc.bagamati.gov.np
 ppsc.karnali.gov.np
 prabin.nitc.gov.np
+pradeshsabha.gandaki.gov.np
 prasaunimun.gov.np
 pratappurmun.gov.np
 prbfrmp.dwri.gov.np
@@ -540,6 +545,7 @@ swmodoti.gov.np
 swmodoti.sudurpashchim.gov.np
 swmohetauda.bagamati.gov.np
 swmorolpa.lumbini.gov.np
+swmosurkhet.gov.np
 tadimun.gov.np
 tamakoshimun.gov.np
 tamankholamun.gov.np
@@ -909,6 +915,7 @@ www.sustamun.gov.np
 www.suwarnamun.gov.np
 www.swamikartikmun.gov.np
 www.swmodoti.gov.np
+www.swmosurkhet.gov.np
 www.tadimun.gov.np
 www.tamakoshimun.gov.np
 www.tamankholamun.gov.np

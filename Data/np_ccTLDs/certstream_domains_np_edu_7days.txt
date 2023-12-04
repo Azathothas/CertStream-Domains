@@ -59,9 +59,11 @@ apexlifeschool.edu.np
 api.emis.mulschool.edu.np
 api.erps.mulschool.edu.np
 api.exam.staging.mu.edu.np
+api.globalwings.edu.np
 api.results.hiis.edu.np
 api.v1.hiis.edu.np
 api.v3.hiis.edu.np
+apollointcollege.edu.np
 apply.lbu.edu.np
 arnikoschool.arnikofoundation.edu.np
 ascend.ace.edu.np
@@ -78,6 +80,7 @@ autodiscover.cdhmtu.edu.np
 autodiscover.dpsef.edu.np
 autodiscover.ggess.edu.np
 autodiscover.global.edu.np
+autodiscover.globalwings.edu.np
 autodiscover.goldenfutureschool.edu.np
 autodiscover.helpeducation.edu.np
 autodiscover.himchhaya.edu.np
@@ -87,6 +90,7 @@ autodiscover.navodayachepang.edu.np
 autodiscover.nbmv.edu.np
 autodiscover.nepaldela.edu.np
 autodiscover.ninglashainischool.edu.np
+autodiscover.nrns.edu.np
 autodiscover.old.chandrajyotischool.edu.np
 autodiscover.pshss.edu.np
 autodiscover.pzspiritualschool.edu.np
@@ -196,6 +200,7 @@ coe.edu.np
 college.tribhuwan.edu.np
 consultant.aeh.edu.np
 cotc.edu.np
+covid19.mwu.edu.np
 cpanel.abroadlipokhara.edu.np
 cpanel.academic.edu.np
 cpanel.ahs.edu.np
@@ -267,6 +272,7 @@ cpanel.nepaldela.edu.np
 cpanel.ngnc.edu.np
 cpanel.nha.edu.np
 cpanel.ninglashainischool.edu.np
+cpanel.nrns.edu.np
 cpanel.nsschitwan.edu.np
 cpanel.ols.edu.np
 cpanel.paramountacademy.edu.np
@@ -377,6 +383,7 @@ cpcalendars.nepaldela.edu.np
 cpcalendars.ngnc.edu.np
 cpcalendars.nha.edu.np
 cpcalendars.ninglashainischool.edu.np
+cpcalendars.nrns.edu.np
 cpcalendars.nsschitwan.edu.np
 cpcalendars.ols.edu.np
 cpcalendars.openvisionacademy.edu.np
@@ -488,6 +495,7 @@ cpcontacts.nepaldela.edu.np
 cpcontacts.ngnc.edu.np
 cpcontacts.nha.edu.np
 cpcontacts.ninglashainischool.edu.np
+cpcontacts.nrns.edu.np
 cpcontacts.nsschitwan.edu.np
 cpcontacts.ols.edu.np
 cpcontacts.paramountacademy.edu.np
@@ -533,6 +541,7 @@ crmv1.thamescollege.edu.np
 css.edu.np
 cuanwin138.holyangelschool.edu.np
 damaknationalschool.edu.np
+damc.edu.np
 database.secure.witsacademy.edu.np
 davbirgunj.edu.np
 davbusinessschool.edu.np
@@ -543,6 +552,8 @@ demo.gurukulbaylor.edu.np
 demo.gyankunj.edu.np
 demo.newsummit.edu.np
 demo.nexus.edu.np
+design.matribhumischool.edu.np
+dev.matribhumischool.edu.np
 devchuli.edu.np
 deveshwarymavi.edu.np
 devisecondaryschool.edu.np
@@ -646,6 +657,7 @@ global.edu.np
 globalcollege.edu.np
 globalcollegiate.edu.np
 globalhorizon.edu.np
+globalwings.edu.np
 gloryeduservices.edu.np
 gmaschool.edu.np
 goes.edu.np
@@ -730,6 +742,7 @@ kalikamujhung.edu.np.sajilosikcha.com.np
 kalikasschool.edu.np.sajilosikcha.com.np
 kalisthansec.edu.np
 kanchanjunga.edu.np
+kanti.edu.np
 kanya.edu.np
 kathmandulittleblossoms.edu.np
 kavreschool.edu.np
@@ -758,6 +771,7 @@ lfs.edu.np
 lfs.edu.np.jmssg.edu.np
 lfsbirgunj.edu.np
 lga.edu.np
+library.gci.edu.np
 library.mavijyamirekhani.edu.np
 library.nepalwide.edu.np
 library.nilakantheshwormavi.edu.np
@@ -786,8 +800,10 @@ maheshwar.edu.np
 maheshwory.edu.np
 mail.abroadlipokhara.edu.np
 mail.academic.edu.np
+mail.aecg.edu.np
 mail.almighty.edu.np
 mail.apexlifeschool.edu.np
+mail.apollointcollege.edu.np
 mail.asian.edu.np
 mail.balbatika.edu.np
 mail.balgeetanjali.edu.np
@@ -819,6 +835,7 @@ mail.ghen.edu.np
 mail.gipssghorahi.edu.np
 mail.global.edu.np
 mail.globalcollegiate.edu.np
+mail.globalwings.edu.np
 mail.goldenfutureschool.edu.np
 mail.greenearth.edu.np
 mail.greenwind.edu.np
@@ -868,6 +885,7 @@ mail.netco.edu.np
 mail.ngnc.edu.np
 mail.nha.edu.np
 mail.ninglashainischool.edu.np
+mail.nrns.edu.np
 mail.nsschitwan.edu.np
 mail.old.chandrajyotischool.edu.np
 mail.old.indrachandracampus.edu.np
@@ -979,6 +997,7 @@ nbmv.edu.np
 ncc.edu.np
 ncs.edu.np
 nea.edu.np
+neco.edu.np
 neighbourhoodschool.edu.np
 nepaldela.edu.np
 nepallawsociety.org.hcoe.edu.np
@@ -1004,13 +1023,16 @@ nimscollege.edu.np
 ninglashainischool.edu.np
 ninglashainischool.edu.np.glekhive.com
 njcc.edu.np
+nmhss.edu.np
 nntakaski.edu.np
 nobleconsultancy.edu.np
 noname.edu.np
 northface.edu.np
 notredameschool.edu.np
 npec.edu.np
+nrbjmabisarlahi.edu.np
 nrisinghamavi.edu.np
+nrns.edu.np
 nsschitwan.edu.np
 ojs.cmc.edu.np
 old.chandrajyotischool.edu.np
@@ -1081,6 +1103,7 @@ pshss.edu.np
 psls.edu.np
 pssk.edu.np.sajilosikcha.com.np
 pua.edu.np
+publicmabisarlahi.edu.np
 pushs.edu.np
 pusob.edu.np
 python.parijattech.edu.np
@@ -1221,6 +1244,7 @@ streamlined.edu.np.digitaldeebesh.com
 student.bernhardt.edu.np
 student.kec.edu.np
 studentapi.patancollege.edu.np
+stx.edu.np
 stxavierbirgunj.edu.np
 summerschool.thebritishcollege.edu.np
 sundaraschool.edu.np
@@ -1267,6 +1291,7 @@ ttc.edu.np
 tucdlis.edu.np
 tucl.edu.np
 tufohss.edu.np
+tugacs.edu.np
 udayakharkamavi.edu.np.sajilosikcha.com.np
 uebschool.edu.np
 ugcnepal.cmc.edu.np
@@ -1352,6 +1377,7 @@ webdisk.nepaldela.edu.np
 webdisk.ngnc.edu.np
 webdisk.nha.edu.np
 webdisk.ninglashainischool.edu.np
+webdisk.nrns.edu.np
 webdisk.nsschitwan.edu.np
 webdisk.ols.edu.np
 webdisk.paramountacademy.edu.np
@@ -1461,6 +1487,7 @@ webmail.nepaldela.edu.np
 webmail.ngnc.edu.np
 webmail.nha.edu.np
 webmail.ninglashainischool.edu.np
+webmail.nrns.edu.np
 webmail.nsschitwan.edu.np
 webmail.old.chandrajyotischool.edu.np
 webmail.old.indrachandracampus.edu.np
@@ -1531,9 +1558,11 @@ www.almighty.edu.np
 www.almighty.edu.np.my-urls.com
 www.ankuram.edu.np
 www.apexlifeschool.edu.np
+www.api.globalwings.edu.np
 www.api.results.hiis.edu.np
 www.api.v1.hiis.edu.np
 www.api.v3.hiis.edu.np
+www.apollointcollege.edu.np
 www.apply.lbu.edu.np
 www.arnikoschool.arnikofoundation.edu.np
 www.asian.edu.np
@@ -1563,6 +1592,7 @@ www.bps.edu.np
 www.camadcollege.edu.np
 www.camadcollege.edu.np.jmssg.edu.np
 www.careercounselling.edu.np
+www.cca.edu.np
 www.cchm.edu.np
 www.cde.edu.np
 www.cdhmtu.edu.np
@@ -1618,6 +1648,7 @@ www.gipssghorahi.edu.np
 www.git.git.git.git.bls.edu.np
 www.global.edu.np
 www.globalcollegiate.edu.np
+www.globalwings.edu.np
 www.gmaschool.edu.np
 www.goldenfutureschool.edu.np
 www.googleadmin.baluddhar.edu.np
@@ -1692,6 +1723,7 @@ www.machhapuchchhreschool.edu.np
 www.mahadevschoolhumla.edu.np
 www.mahendrapratap.edu.np.sajilosikcha.com.np
 www.mahendrodayasec.edu.np
+www.mail.aecg.edu.np
 www.mangaladevi.edu.np
 www.mangaladevi.edu.np.lyraitservices.com
 www.marsyangdibaljyoti.edu.np
@@ -1737,6 +1769,9 @@ www.nilkanthamavi.edu.np.sajilosikcha.com.np
 www.ninglashainischool.edu.np
 www.ninglashainischool.edu.np.glekhive.com
 www.njcc.edu.np
+www.nmhss.edu.np
+www.nrbjmabisarlahi.edu.np
+www.nrns.edu.np
 www.nsschitwan.edu.np
 www.old.chandrajyotischool.edu.np
 www.old.indrachandracampus.edu.np
@@ -1750,6 +1785,7 @@ www.paramountacademy.edu.np
 www.paramountacademy.edu.np.jmssg.edu.np
 www.parvatimavigurans.edu.np.sajilosikcha.com.np
 www.peaceful.edu.np
+www.pebschool.edu.np
 www.peoplesacademyitahari.edu.np.sajilosikcha.com.np
 www.pinnaclecollege.edu.np
 www.plustwo.brightfuturesalakpur.edu.np
@@ -1771,6 +1807,7 @@ www.proskill.edu.np
 www.pshss.edu.np
 www.pssk.edu.np.sajilosikcha.com.np
 www.pua.edu.np
+www.publicmabisarlahi.edu.np
 www.pusob.edu.np
 www.python.parijattech.edu.np
 www.pzspiritualschool.edu.np
@@ -1866,6 +1903,7 @@ www.ttc.edu.np
 www.tucdlis.edu.np
 www.tucl.edu.np
 www.tufohss.edu.np
+www.tugacs.edu.np
 www.uat.mmims.edu.np
 www.udayakharkamavi.edu.np.sajilosikcha.com.np
 www.ugcnepal.edu.np
