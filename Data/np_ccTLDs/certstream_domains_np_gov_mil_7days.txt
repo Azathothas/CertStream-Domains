@@ -17,6 +17,7 @@ achham.pmamp.gov.np
 achhamhospital.gov.np
 adanchulimun.gov.np
 add.gandaki.gov.np
+admin.tourismnpl.gov.np
 agnisairkrishnasawaranmun.gov.np
 agricensusnepal.gov.np
 ahcsyangja.gandaki.gov.np
@@ -38,6 +39,7 @@ annapurnamunmyagdi.gov.np
 api-rms.ndrrma.gov.np
 apihimalmun.gov.np
 application.startupnepal.gov.np
+aqobhw.gov.np
 arghakhanchi.edcu.gov.np
 arghakhanchihospital.lumbini.gov.np
 arjunchauparimun.gov.np
@@ -215,6 +217,7 @@ dhangadhi.doc.gov.np
 dhankaulmun.gov.np
 dharchemun.gov.np
 dharmadevimun.gov.np
+dhaulagirihospital.gandaki.gov.np
 dhbhp.p1.gov.np
 dhobinimun.gov.np
 dhodadeldhura.gov.np
@@ -260,6 +263,7 @@ dwssm.gov.np
 e-bulletin.panchpokharithangpalmun.gov.np
 ebps-api.bagmatimunsarlahi.gov.np
 ebps.bagmatimunsarlahi.gov.np
+ebps.chandragirimun.gov.np
 ebps.janakpurmun.gov.np
 ebps.mahalaxmimun.gov.np
 ebpsdata.bagmatimunsarlahi.gov.np
@@ -284,6 +288,7 @@ fra.mofaga.gov.np
 frtc.bagmati.gov.np
 fslsc.dofsc.gov.np
 fwd.gov.np
+gaa.gandaki.gov.np
 gadhawamun.gov.np
 gadhimun.gov.np
 gahc.p5.gov.np
@@ -352,6 +357,7 @@ himalimun.gov.np
 himamun.gov.np
 hmis.gov.np
 hoa.p5.gov.np
+hobaglung.gandaki.gov.np
 hokaski.gandaki.gov.np
 hoparbat.gandaki.gov.np
 hopyuthan.p5.gov.np
@@ -374,6 +380,7 @@ idorukum.karnali.gov.np
 idosalyan.karnali.gov.np
 ilam.edcu.gov.np
 ilam.mofe.gov.np
+image.tourismnpl.gov.np
 immigration.gov.np.admin-mcas-df.ms
 immigration.gov.np.admin-mcas.ms
 immigration.gov.np.mcas-df.ms
@@ -488,7 +495,9 @@ limchungbungmun.gov.np
 lims.dftqc.gov.np
 lisa.mofaga.gov.np
 lisankhupakharmun.gov.np
+lmbis.gov.np
 localmis.doacrop.gov.np
+loe.moecdc.gov.np
 loghekardamodarkundamun.gov.np
 loharpattimun.gov.np
 lomanthangmun.gov.np
@@ -555,6 +564,7 @@ merokitta.dos.gov.np
 miklajungmunmorang.gov.np
 miklajungmunpanchthar.gov.np
 mikwakholamun.gov.np
+mil.np.rankglobe.com
 mimo.p7.gov.np
 mis.asdp.gov.np
 mis.nccsp.gov.np
@@ -564,6 +574,7 @@ mobile.kvda.gov.np
 mofesc.gandaki.gov.np
 moh.koshi.gov.np
 mohanyalmun.gov.np
+mohp.gandaki.gov.np
 mohp.gov.np
 moia.gandaki.gov.np
 molcpa.gandaki.gov.np
@@ -679,6 +690,7 @@ piudang.pmamp.gov.np
 piukanchanpur.pmamp.gov.np
 piumorang.pmamp.gov.np
 piusiraha.pmamp.gov.np
+planning.phidimmun.gov.np
 pollution.gov.np
 postofficegorkha.gov.np
 pphl.lumbini.gov.np
@@ -765,7 +777,10 @@ satyawatimun.gov.np
 sayalmun.gov.np
 sbmh.bagamati.gov.np
 sdc.gov.np
+sddobanke.lumbini.gov.np
 sddodang.lumbini.gov.np
+sddopalpa.lumbini.gov.np
+sddopyuthan.lumbini.gov.np
 sdf.sudurpashchim.gov.np
 sdodolpa.karnali.gov.np
 sdohumla.karnali.gov.np
@@ -930,6 +945,7 @@ www.alaichibikash.gov.np
 www.annapurnamunkaski.gov.np
 www.annapurnamunmyagdi.gov.np
 www.apihimalmun.gov.np
+www.aqobhw.gov.np
 www.arjunchauparimun.gov.np
 www.arnamamun.gov.np
 www.arunmun.gov.np
@@ -1245,6 +1261,7 @@ www.likhumunokhaldhunga.gov.np
 www.likhupikemun.gov.np
 www.limchungbungmun.gov.np
 www.lisankhupakharmun.gov.np
+www.loe.moecdc.gov.np
 www.loghekardamodarkundamun.gov.np
 www.loharpattimun.gov.np
 www.lomanthangmun.gov.np

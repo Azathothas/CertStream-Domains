@@ -3,6 +3,7 @@ demo4.cgnet.com.np
 dev-kyc.ntc.net.np
 kyc.ntc.net.np
 ledger.ntc.net.np
+ns2.classic.com.np
 ns3.classic.com.np
 prbt.ncell.axiata.com
 prbtcms.ncell.axiata.com
