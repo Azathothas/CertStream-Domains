@@ -31,6 +31,7 @@ bdsschool.edu.np
 bebs.edu.np
 bestschool.edu.np
 bga.edu.np
+bhadrakalischool.edu.np
 bhagyodayac.edu.np
 blogs.sugata.edu.np
 bocoran-admin-bagus.sukunass.edu.np
@@ -74,6 +75,7 @@ dss79.edu.np.inspela.com
 dynamic.edu.np
 eattendance.triton.edu.np
 edu.nptc.ca
+emerald.edu.np
 emis.vinayaksiddhacollege.edu.np
 entrance.ace.edu.np
 eurolinkeducation.edu.np
@@ -90,6 +92,7 @@ hrms.ghen.edu.np
 idealmodel.edu.np
 imagecollege.edu.np
 incubator.kingscollege.edu.np
+infini88.sukunass.edu.np
 isas.edu.np
 itf.edu.np
 jobs.pusc.edu.np
@@ -134,10 +137,14 @@ padhnajaau.edu.np
 parlay-bola.sukunass.edu.np
 pgcampus.edu.np
 pkv-games.sukunass.edu.np
+proed.edu.np
+proed.globalcollege.edu.np
 pufom.edu.np
 result.hiis.edu.np
 rili.edu.np
 rinagautam.com.np.naulojes.edu.np
+rrlopac.biratmedicalcollege.edu.np
+rrlstaff.biratmedicalcollege.edu.np
 rudrayaneesecondaryschool.edu.np
 samriddhischool.jmssg.edu.np
 scid.edu.np
@@ -202,6 +209,7 @@ www.milantattooinn.gyaninstitute.edu.np
 www.moonlight.nrmv.edu.np
 www.mountviewschool.edu.np
 www.old.maivalleyschool.edu.np
+www.proed.globalcollege.edu.np
 www.result.hiis.edu.np
 www.rinagautam.com.np.naulojes.edu.np
 www.samriddhischool.jmssg.edu.np
