@@ -1,4 +1,5 @@
 abpstc.p3.gov.np
+aepc.gov.np
 akcachham.sudurpashchim.gov.np
 akcdarchula.sudurpashchim.gov.np
 akckanchanpur.sudurpashchim.gov.np
@@ -14,10 +15,12 @@ dmss.ddc.gov.np
 doarskt.narc.gov.np
 dofsc.gov.np
 dolpa.oicp.gov.np
+eehelp.aepc.gov.np
 etconline.lumbini.gov.np
 fms.kscl.gov.np
 frtc.bagmati.gov.np
 ftmis.nnrfc.gov.np
+gov.np.siteindices.com
 gunaso.hetaudamun.gov.np
 gwrdb.gov.np
 hsodailekh.gov.np
@@ -33,7 +36,9 @@ idorautahat.gov.np
 idorukum.karnali.gov.np
 industry.karnali.gov.np
 invest.p1.gov.np
+ipf.plgsp.gov.np
 jajarkot.oicp.gov.np
+kms.aepc.gov.np
 mediawage.gov.np
 mil.np.rankglobe.com
 mis.naflqml.gov.np
@@ -58,6 +63,7 @@ ward2.tulsipurmun.gov.np
 wiedohumla.karnali.gov.np
 wridsdrasuwa.gov.np
 www.abpstc.p3.gov.np
+www.aepc.gov.np
 www.dfogorkha.gov.np
 www.dfolalitpur.gov.np
 www.dfookhaldhunga.gov.np
