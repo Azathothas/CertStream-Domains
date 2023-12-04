@@ -2,6 +2,7 @@ abpstc.p3.gov.np
 akcachham.sudurpashchim.gov.np
 akcdarchula.sudurpashchim.gov.np
 akckanchanpur.sudurpashchim.gov.np
+cdmis.karnali.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 dailekh.oicp.gov.np
