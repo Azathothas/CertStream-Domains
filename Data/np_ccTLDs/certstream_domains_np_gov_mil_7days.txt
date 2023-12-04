@@ -174,6 +174,7 @@ ialdorukumeast.p5.gov.np
 icc.gov.np
 iccrpd.gandaki.gov.np
 idodhanusha.madhesh.gov.np
+idodolpa.karnali.gov.np
 idohumla.karnali.gov.np
 idojhapa.p1.gov.np
 idojumla.karnali.gov.np
@@ -427,6 +428,7 @@ profile.bangalachulimun.gov.np
 provincemuseum.gandaki.gov.np
 prtc.madhesh.gov.np
 psdc.bagamati.gov.np
+ptuobirgunj.madhesh.gov.np
 pudbcjhapa.gov.np
 purbakholamun.gov.np
 purbichaukimun.gov.np
