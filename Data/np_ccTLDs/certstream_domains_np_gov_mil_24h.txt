@@ -42,12 +42,15 @@ naksapass.jeetpursimaramun.gov.np
 ors.gandaki.gov.np
 pciug.gov.np
 piubardiya.pmamp.gov.np
+piutehrathum.pmamp.gov.np
 pollution.gov.np
 pyuthanhospital.lumbini.gov.np
 registration.phidimmun.gov.np
 ridorolpa.lumbini.gov.np
 rukumpaschim.oicp.gov.np
 salyan.akc.gov.np
+sftlhetauda.gov.np
+soillabjhumka.gov.np
 vhlsecudayapur.p1.gov.np
 ward2.tulsipurmun.gov.np
 wiedohumla.karnali.gov.np
@@ -64,4 +67,6 @@ www.idorautahat.gov.np
 www.mediawage.gov.np
 www.mis.nccsp.gov.np
 www.pciug.gov.np
+www.sftlhetauda.gov.np
+www.soillabjhumka.gov.np
 www.wridsdrasuwa.gov.np
