@@ -9,6 +9,7 @@ agricensusnepal.gov.np
 ahcsyangja.gandaki.gov.np
 akcachham.sudurpashchim.gov.np
 akcarghakhanchi.gov.np
+akcbaitadi.sudurpashchim.gov.np
 akcbajura.sudurpashchim.gov.np
 akcdadeldhura.sudurpashchim.gov.np
 akcdarchula.sudurpashchim.gov.np
@@ -26,6 +27,7 @@ banke.vethos.gov.np
 bardiyahospital.gov.np
 barhabisemun.gov.np
 bhimphedimun.gov.np
+billing.ddc.gov.np
 bipad.gov.np
 bipadmoial.bagamati.gov.np
 birhospital.gov.np
@@ -44,6 +46,7 @@ copomis.gov.np
 copomis.mocpa.gov.np
 cro.moial.p3.gov.np
 csh.gov.np
+csidb.gov.np
 css.nitc.gov.np
 ctc.bagamati.gov.np
 ctrc.gov.np
@@ -55,6 +58,7 @@ dccjhapa.gov.np
 dccmakwanpur.gov.np
 dcm.hetaudamun.gov.np
 demo.oab.gov.np
+dfobajura.gov.np
 dfobhojpur.gov.np
 dfodeukhuri.lumbini.gov.np
 dfodhanusha.gov.np
@@ -92,6 +96,7 @@ dolpobuddhamun.gov.np
 dorw.gov.np
 dotihospital.gov.np
 dpopalpa.gov.np
+dtcolamjung.gov.np
 dwssm.gov.np
 e-bulletin.panchpokharithangpalmun.gov.np
 ebps-api.bagmatimunsarlahi.gov.np
@@ -117,8 +122,10 @@ fics.gov.np
 fpdb.gov.np
 fra.mofaga.gov.np
 frtc.bagmati.gov.np
+frtc.p5.gov.np
 fslsc.dofsc.gov.np
 fwd.gov.np
+fwssmp.p2.gov.np
 gaa.gandaki.gov.np
 gahc.p5.gov.np
 galyangmun.gov.np
@@ -130,6 +137,7 @@ gbv.karnali.gov.np
 gdm.gov.np
 gnsh.gov.np
 gols.dohs.gov.np
+gorkha.akc.gov.np
 gov.np.admin-mcas-df.ms
 gov.np.admin-mcas.ms
 gov.np.mcas-df.ms
@@ -156,6 +164,7 @@ himamun.gov.np
 hmis.gov.np
 hoa.p5.gov.np
 hobaglung.gandaki.gov.np
+hobardiya.gov.np
 hokaski.gandaki.gov.np
 hoparbat.gandaki.gov.np
 hopyuthan.p5.gov.np
@@ -238,6 +247,7 @@ mahankalmun.gov.np
 mahawaimun.gov.np
 mahottarimun.gov.np
 maijogmaimun.gov.np
+mail.csidb.gov.np
 maimun.gov.np
 maiwakholamun.gov.np
 makalumun.gov.np
@@ -279,6 +289,7 @@ miklajungmunmorang.gov.np
 miklajungmunpanchthar.gov.np
 mikwakholamun.gov.np
 mil.np.rankglobe.com
+mil.np.siteindices.com
 mimo.p7.gov.np
 mis.asdp.gov.np
 mis.nccsp.gov.np
@@ -291,6 +302,7 @@ mohanyalmun.gov.np
 mohp.gandaki.gov.np
 mohp.gov.np
 moia.gandaki.gov.np
+moitfe.p2.gov.np
 molcpa.gandaki.gov.np
 molt.madhesh.gov.np
 molungmun.gov.np
@@ -522,6 +534,7 @@ sirijanghamun.gov.np
 sisnemun.gov.np
 siyarimun.gov.np
 smcicdp.gov.np
+software.wthc.gov.np
 soillab.bagamati.gov.np
 sonmamun.gov.np
 sorumun.gov.np
@@ -636,10 +649,12 @@ www.bodebarsainmun.gov.np
 www.boudhanath.gov.np
 www.cdcpalpa.gov.np
 www.csh.gov.np
+www.csidb.gov.np
 www.cvl.gov.np
 www.dahcparbat.gov.np
 www.dccjhapa.gov.np
 www.dccmakwanpur.gov.np
+www.dfobajura.gov.np
 www.dfobhojpur.gov.np
 www.dfodhanusha.gov.np
 www.dfogorkha.gov.np
@@ -659,6 +674,7 @@ www.doli.gov.np
 www.dolpobuddhamun.gov.np
 www.dotihospital.gov.np
 www.dpopalpa.gov.np
+www.dtcolamjung.gov.np
 www.dudbchub.gov.np
 www.dwssm.gov.np
 www.edcurukumwest.gov.np
@@ -682,6 +698,7 @@ www.hellosarkar.gov.np
 www.hetaudahospital.gov.np
 www.himalimun.gov.np
 www.himamun.gov.np
+www.hobardiya.gov.np
 www.hsodolpa.gov.np
 www.icc.gov.np
 www.idorautahat.gov.np
@@ -755,6 +772,7 @@ www.mithilabiharimun.gov.np
 www.mohanyalmun.gov.np
 www.mohp.gov.np
 www.moitfe.bagamati.gov.np
+www.moitfe.p2.gov.np
 www.molungmun.gov.np
 www.msmhospital.gov.np
 www.mudkechulamun.gov.np
@@ -900,6 +918,7 @@ www.sirijanghamun.gov.np
 www.sisnemun.gov.np
 www.siyarimun.gov.np
 www.smcicdp.gov.np
+www.software.wthc.gov.np
 www.sonmamun.gov.np
 www.sorumun.gov.np
 www.startupnepal.gov.np

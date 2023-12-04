@@ -28,6 +28,7 @@ agen88.pascalschool.edu.np
 agleshwarss.edu.np
 ahs.edu.np
 ahsanulbarakat.com.reedschool.edu.np
+akshar.edu.np
 aksharaaschool.edu.np
 aksharicaschool.edu.np
 aksharicaschool.edu.np.westwingschool.edu.np
@@ -55,6 +56,7 @@ americaneducational.edu.np
 amesgroupnepal.edu.np
 ankuram.edu.np
 ankuramacademy.edu.np
+annapurnamv.edu.np
 apexlifeschool.edu.np
 api.emis.mulschool.edu.np
 api.erps.mulschool.edu.np
@@ -64,6 +66,7 @@ api.results.hiis.edu.np
 api.v1.hiis.edu.np
 api.v3.hiis.edu.np
 apollointcollege.edu.np
+app.merotuki.edu.np
 apply.lbu.edu.np
 arnikoschool.arnikofoundation.edu.np
 ascend.ace.edu.np
@@ -165,6 +168,7 @@ brightace.edu.np
 britishmodelcollege.edu.np
 brps.edu.np
 brushuponline.edu.np
+btsorg.bts.edu.np
 bvs.edu.np
 bvsbrt.edu.np
 cafodat.edu.np
@@ -180,7 +184,9 @@ cca.edu.np
 cchm.edu.np
 ccrc.edu.np
 cctdharan.edu.np
+cdctu.edu.np
 cde.edu.np
+cdfatu.edu.np
 cdhmtu.edu.np
 cdnhca.edu.np
 cdrd.edu.np
@@ -204,6 +210,7 @@ covid19.mwu.edu.np
 cpanel.abroadlipokhara.edu.np
 cpanel.academic.edu.np
 cpanel.ahs.edu.np
+cpanel.akshar.edu.np
 cpanel.almighty.edu.np
 cpanel.apexlifeschool.edu.np
 cpanel.asian.edu.np
@@ -214,7 +221,9 @@ cpanel.biratschool.edu.np
 cpanel.bluebridges.edu.np
 cpanel.camadcollege.edu.np
 cpanel.cchm.edu.np
+cpanel.cdctu.edu.np
 cpanel.cde.edu.np
+cpanel.cdfatu.edu.np
 cpanel.cdhmtu.edu.np
 cpanel.cdrd.edu.np
 cpanel.cimaca.edu.np
@@ -231,6 +240,7 @@ cpanel.ggess.edu.np
 cpanel.gipssghorahi.edu.np
 cpanel.global.edu.np
 cpanel.goldenfutureschool.edu.np
+cpanel.gorakhnathschool.edu.np
 cpanel.greenearth.edu.np
 cpanel.greenwind.edu.np
 cpanel.grs.edu.np
@@ -317,6 +327,7 @@ cpanel.vista.edu.np
 cpcalendars.abroadlipokhara.edu.np
 cpcalendars.academic.edu.np
 cpcalendars.ahs.edu.np
+cpcalendars.akshar.edu.np
 cpcalendars.apexlifeschool.edu.np
 cpcalendars.asian.edu.np
 cpcalendars.balbatika.edu.np
@@ -326,7 +337,9 @@ cpcalendars.biratschool.edu.np
 cpcalendars.bluebridges.edu.np
 cpcalendars.camadcollege.edu.np
 cpcalendars.cchm.edu.np
+cpcalendars.cdctu.edu.np
 cpcalendars.cde.edu.np
+cpcalendars.cdfatu.edu.np
 cpcalendars.cdhmtu.edu.np
 cpcalendars.cdrd.edu.np
 cpcalendars.cimaca.edu.np
@@ -344,6 +357,7 @@ cpcalendars.ggess.edu.np
 cpcalendars.gipssghorahi.edu.np
 cpcalendars.global.edu.np
 cpcalendars.goldenfutureschool.edu.np
+cpcalendars.gorakhnathschool.edu.np
 cpcalendars.greenearth.edu.np
 cpcalendars.greenwind.edu.np
 cpcalendars.grs.edu.np
@@ -429,6 +443,7 @@ cpcalendars.vista.edu.np
 cpcontacts.abroadlipokhara.edu.np
 cpcontacts.academic.edu.np
 cpcontacts.ahs.edu.np
+cpcontacts.akshar.edu.np
 cpcontacts.apexlifeschool.edu.np
 cpcontacts.asian.edu.np
 cpcontacts.balbatika.edu.np
@@ -438,7 +453,9 @@ cpcontacts.biratschool.edu.np
 cpcontacts.bluebridges.edu.np
 cpcontacts.camadcollege.edu.np
 cpcontacts.cchm.edu.np
+cpcontacts.cdctu.edu.np
 cpcontacts.cde.edu.np
+cpcontacts.cdfatu.edu.np
 cpcontacts.cdhmtu.edu.np
 cpcontacts.cdrd.edu.np
 cpcontacts.cimaca.edu.np
@@ -456,6 +473,7 @@ cpcontacts.ggess.edu.np
 cpcontacts.gipssghorahi.edu.np
 cpcontacts.global.edu.np
 cpcontacts.goldenfutureschool.edu.np
+cpcontacts.gorakhnathschool.edu.np
 cpcontacts.greenearth.edu.np
 cpcontacts.greenwind.edu.np
 cpcontacts.grs.edu.np
@@ -537,6 +555,7 @@ cpcontacts.theravada.edu.np
 cpcontacts.trishaheed.edu.np
 cpcontacts.vista.edu.np
 cpec.ku.edu.np
+cpn.edu.np
 crmv1.thamescollege.edu.np
 css.edu.np
 cuanwin138.holyangelschool.edu.np
@@ -581,6 +600,7 @@ dwardevi.edu.np
 e.sanjiwanicollege.edu.np
 eastpolecollege.edu.np
 eastpolecollege.edu.np.jmssg.edu.np
+eattendance.triton.edu.np
 edu.np.rankglobe.com
 edu.np.sitexpired.com
 edu.np.websitebiography.com
@@ -663,6 +683,7 @@ gmaschool.edu.np
 goes.edu.np
 goldenfutureschool.edu.np
 googleadmin.baluddhar.edu.np
+gorakhnathschool.edu.np
 goreto.edu.np
 government.juddhaschool.edu.np
 gramodayayugkabicampus.edu.np
@@ -725,6 +746,7 @@ jantacampusith.edu.np
 jitpursecondaryschool.edu.np
 jiwanjyotischool.edu.np
 jlbpublicschool.edu.np
+jls.edu.np
 jmcrautahat.edu.np
 jnmv.edu.np
 johndewey.edu.np
@@ -792,6 +814,7 @@ lumbinibrihaspati.edu.np
 macanasia88.holyangelschool.edu.np
 machhapuchchhreschool.edu.np
 machhindramavi.edu.np
+macpokhara.edu.np
 mahadevschoolhumla.edu.np
 mahendrapratap.edu.np.sajilosikcha.com.np
 mahendrasecschool.edu.np
@@ -801,6 +824,7 @@ maheshwory.edu.np
 mail.abroadlipokhara.edu.np
 mail.academic.edu.np
 mail.aecg.edu.np
+mail.akshar.edu.np
 mail.almighty.edu.np
 mail.apexlifeschool.edu.np
 mail.apollointcollege.edu.np
@@ -815,7 +839,9 @@ mail.bluebridges.edu.np
 mail.bstcollege.edu.np
 mail.camadcollege.edu.np
 mail.cchm.edu.np
+mail.cdctu.edu.np
 mail.cde.edu.np
+mail.cdfatu.edu.np
 mail.cdhmtu.edu.np
 mail.cdrd.edu.np
 mail.cimaca.edu.np
@@ -837,6 +863,7 @@ mail.global.edu.np
 mail.globalcollegiate.edu.np
 mail.globalwings.edu.np
 mail.goldenfutureschool.edu.np
+mail.gorakhnathschool.edu.np
 mail.greenearth.edu.np
 mail.greenwind.edu.np
 mail.grs.edu.np
@@ -1311,6 +1338,7 @@ vsinternationalcollege.savya.edu.np
 webdisk.abroadlipokhara.edu.np
 webdisk.academic.edu.np
 webdisk.ahs.edu.np
+webdisk.akshar.edu.np
 webdisk.apexlifeschool.edu.np
 webdisk.asian.edu.np
 webdisk.balbatika.edu.np
@@ -1320,7 +1348,9 @@ webdisk.biratschool.edu.np
 webdisk.bluebridges.edu.np
 webdisk.camadcollege.edu.np
 webdisk.cchm.edu.np
+webdisk.cdctu.edu.np
 webdisk.cde.edu.np
+webdisk.cdfatu.edu.np
 webdisk.cdhmtu.edu.np
 webdisk.cdrd.edu.np
 webdisk.cimaca.edu.np
@@ -1337,6 +1367,7 @@ webdisk.ggess.edu.np
 webdisk.gipssghorahi.edu.np
 webdisk.global.edu.np
 webdisk.goldenfutureschool.edu.np
+webdisk.gorakhnathschool.edu.np
 webdisk.greenearth.edu.np
 webdisk.greenwind.edu.np
 webdisk.grs.edu.np
@@ -1421,6 +1452,7 @@ webdisk.vista.edu.np
 webmail.abroadlipokhara.edu.np
 webmail.academic.edu.np
 webmail.ahs.edu.np
+webmail.akshar.edu.np
 webmail.almighty.edu.np
 webmail.asian.edu.np
 webmail.balbatika.edu.np
@@ -1429,7 +1461,9 @@ webmail.biratschool.edu.np
 webmail.bluebridges.edu.np
 webmail.camadcollege.edu.np
 webmail.cchm.edu.np
+webmail.cdctu.edu.np
 webmail.cde.edu.np
+webmail.cdfatu.edu.np
 webmail.cdhmtu.edu.np
 webmail.cdrd.edu.np
 webmail.cimaca.edu.np
@@ -1448,6 +1482,7 @@ webmail.gipssghorahi.edu.np
 webmail.global.edu.np
 webmail.globalcollegiate.edu.np
 webmail.goldenfutureschool.edu.np
+webmail.gorakhnathschool.edu.np
 webmail.greenearth.edu.np
 webmail.greenwind.edu.np
 webmail.grs.edu.np
@@ -1552,6 +1587,7 @@ www.admission.imperialcollege.edu.np
 www.admission.pufomas.edu.np
 www.aeconsult.com.np.hcoe.edu.np
 www.ahsanulbarakat.com.reedschool.edu.np
+www.akshar.edu.np
 www.aksharicaschool.edu.np.westwingschool.edu.np
 www.alevel.xavier.edu.np
 www.almighty.edu.np
@@ -1563,6 +1599,7 @@ www.api.results.hiis.edu.np
 www.api.v1.hiis.edu.np
 www.api.v3.hiis.edu.np
 www.apollointcollege.edu.np
+www.app.merotuki.edu.np
 www.apply.lbu.edu.np
 www.arnikoschool.arnikofoundation.edu.np
 www.asian.edu.np
@@ -1589,12 +1626,15 @@ www.bluebridges.edu.np
 www.bostonec.edu.np
 www.boudhaschool.edu.np.walkershive.com
 www.bps.edu.np
+www.btsorg.bts.edu.np
 www.camadcollege.edu.np
 www.camadcollege.edu.np.jmssg.edu.np
 www.careercounselling.edu.np
 www.cca.edu.np
 www.cchm.edu.np
+www.cdctu.edu.np
 www.cde.edu.np
+www.cdfatu.edu.np
 www.cdhmtu.edu.np
 www.cdrd.edu.np
 www.chhorepatanss.edu.np
@@ -1652,6 +1692,7 @@ www.globalwings.edu.np
 www.gmaschool.edu.np
 www.goldenfutureschool.edu.np
 www.googleadmin.baluddhar.edu.np
+www.gorakhnathschool.edu.np
 www.government.juddhaschool.edu.np
 www.greenearth.edu.np
 www.greenearth.edu.np.royalmountaintreks.com
@@ -1681,6 +1722,7 @@ www.janajyoticampus.edu.np
 www.janajyoticampus.edu.np.rumjatarschool.edu.np
 www.janavikash.edu.np.sajilosikcha.com.np
 www.jitpursecondaryschool.edu.np
+www.jls.edu.np
 www.jnmv.edu.np
 www.johndewey.edu.np
 www.journal.cdhmtu.edu.np
@@ -1720,6 +1762,7 @@ www.lss.edu.np
 www.lts.edu.np
 www.lumbinibrihaspati.edu.np
 www.machhapuchchhreschool.edu.np
+www.macpokhara.edu.np
 www.mahadevschoolhumla.edu.np
 www.mahendrapratap.edu.np.sajilosikcha.com.np
 www.mahendrodayasec.edu.np
@@ -1801,6 +1844,7 @@ www.premierhotelschool.edu.np
 www.prime.edu.np
 www.prithwischool.edu.np
 www.prithwischool.edu.np.jmssg.edu.np
+www.pro.edu.np
 www.professionalcareer.edu.np
 www.professionalcareer.edu.np.xavierinternationaledu.com
 www.proskill.edu.np
