@@ -2,6 +2,8 @@ abpstc.p3.gov.np
 akcachham.sudurpashchim.gov.np
 akcdarchula.sudurpashchim.gov.np
 akckanchanpur.sudurpashchim.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
 dailekh.oicp.gov.np
 dfogorkha.gov.np
 dfokathmandu.bagamati.gov.np
@@ -12,11 +14,13 @@ doarskt.narc.gov.np
 dofsc.gov.np
 dolpa.oicp.gov.np
 etconline.lumbini.gov.np
+fms.kscl.gov.np
 frtc.bagmati.gov.np
 ftmis.nnrfc.gov.np
 gunaso.hetaudamun.gov.np
 gwrdb.gov.np
 hsodailekh.gov.np
+ialdorukumeast.p5.gov.np
 icdh.gandaki.gov.np
 idd.karnali.gov.np
 ido.p2.gov.np
@@ -31,6 +35,7 @@ invest.p1.gov.np
 jajarkot.oicp.gov.np
 mediawage.gov.np
 mil.np.rankglobe.com
+mis.naflqml.gov.np
 mis.nccsp.gov.np
 mugu.oicp.gov.np
 naksapass.jeetpursimaramun.gov.np
