@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 14 days, 1 hour and 33 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 2.02 2.23 2.55
+       ..'''.            0Xxoc:,.  ...              Uptime: 14 days, 2 hours and 33 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 2.06 2.43 2.52
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,7 +17,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 98 MiB / 2048 MiB
+                                          ;l   ..   RAM: 101 MiB / 2048 MiB
                                            .o       Disk: 1.6 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
                                              .'     WAN IP: 193.142.201.97
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 14 days, 1 hour and 32 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 8.61 13.59 14.57
+       ..'''.            0Xxoc:,.  ...              Uptime: 14 days, 2 hours and 32 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 5.67 5.77 5.98
   .                   OMo           ':do.           Processes: 14
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
