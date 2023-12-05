@@ -10,7 +10,7 @@
 START_TIME=$(date +%s)
 
 # For debug
-# set -x
+set -x
 
 #A bit of Styling
 RED='\033[31m'
@@ -93,7 +93,7 @@ fi
 # Runs 66 Mins
  #timeout -k 1m 400m certstream --full --json | jq -r '.data.leaf_cert.all_domains[]' > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
  echo -e "\n [+] Streaming...\n"
- timeout -k 1m 66m certstream > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
+ timeout -k 1m 02m certstream > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
 #Filter & Parse
  #Remove Spaces
   sed -E '/^[[:space:]]*$/d' -i "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
