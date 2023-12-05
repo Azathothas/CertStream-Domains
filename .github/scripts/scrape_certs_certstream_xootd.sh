@@ -66,7 +66,8 @@ mkdir -p "$HOME/Github"
 if [ ! -d "/data/data/com.termux/files/home/Github/CertStream-Domains" ]; then
    #https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
       pushd "$HOME/Github" && git clone --filter="blob:none" "https://$CERTSTREAM_REPO_USER:$CERTSTREAM_REPO_TOKEN@github.com/Azathothas/CertStream-Domains.git"
-      cd "./CertStream-Domains" && CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd 
+      cd "./CertStream-Domains" && CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd
+else       
     #Check if git is too bloated
      if [ -d "$HOME/Github/CertStream-Domains/.git" ] && [ "$(du -sk $HOME/Github/CertStream-Domains/.git | cut -f1)" -ge "8500000" ]; then
          echo -e "\n[+] $HOME/Github/CertStream-Domains/.git exceeds 8.5 GB\n"
@@ -93,7 +94,7 @@ fi
 # Runs 66 Mins
  #timeout -k 1m 400m certstream --full --json | jq -r '.data.leaf_cert.all_domains[]' > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
  echo -e "\n [+] Streaming...\n"
- timeout -k 1m 02m certstream > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
+ timeout -k 1m 66m certstream > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
 #Filter & Parse
  #Remove Spaces
   sed -E '/^[[:space:]]*$/d' -i "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
