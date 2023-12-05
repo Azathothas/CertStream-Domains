@@ -10,7 +10,7 @@
 START_TIME=$(date +%s)
 
 # For debug
-set -x
+#set -x
 
 #A bit of Styling
 RED='\033[31m'
