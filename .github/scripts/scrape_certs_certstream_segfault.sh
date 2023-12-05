@@ -65,8 +65,8 @@ if [ ! -d "/sec/root/CertStream-Domains" ]; then
       cd "./CertStream-Domains" && CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd 
 else
     #Check if git is too bloated
-     if [ -d "$HOME/CertStream-Domains/.git" ] && [ "$(du -sk $HOME/CertStream-Domains/.git | cut -f1)" -ge "8500000" ]; then
-         echo -e "\n[+] $HOME/CertStream-Domains/.git exceeds 8.5 GB\n"
+     if [ -d "$HOME/CertStream-Domains/.git" ] && [ "$(du -sk $HOME/CertStream-Domains/.git | cut -f1)" -ge "7000000" ]; then
+         echo -e "\n[+] $HOME/CertStream-Domains/.git exceeds 7.0 GB\n"
          #Purge
          rm -rf "$HOME/CertStream-Domains" 2>/dev/null
          #re(Clone)
