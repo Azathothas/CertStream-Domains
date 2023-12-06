@@ -32,6 +32,7 @@ cro.moial.p3.gov.np
 csidb.gov.np
 dailekh.oicp.gov.np
 dang.postalservice.gov.np
+dang.superzone.gov.np
 dfobajura.gov.np
 dfodeukhuri.lumbini.gov.np
 dfogorkha.gov.np
@@ -63,6 +64,7 @@ ebps.mahalaxmimun.gov.np
 eehelp.aepc.gov.np
 ehmis.chatarahospital.p1.gov.np
 ehrpmis.nra.gov.np
+eservice.madimunchitwan.gov.np
 etconline.lumbini.gov.np
 fansepmis.moald.gov.np
 fdckailali.gov.np

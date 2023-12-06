@@ -118,6 +118,7 @@ bajrabarahicampus.edu.np
 balbatika.edu.np
 balbikasschool.edu.np
 baljagriti.edu.np
+balkumaricollege.edu.np
 balmandir.edu.np
 balvikashschool.edu.np
 bandarqq.holyangelschool.edu.np
@@ -292,6 +293,7 @@ cpanel.spd.edu.np
 cpanel.spnc.edu.np
 cpanel.srbv.edu.np
 cpanel.srm.edu.np
+cpanel.successworld.edu.np
 cpanel.svsschool.edu.np
 cpanel.tuiost.edu.np
 cpanel.uniquec.edu.np
@@ -386,6 +388,7 @@ cpcalendars.smstu.edu.np
 cpcalendars.spd.edu.np
 cpcalendars.spnc.edu.np
 cpcalendars.srm.edu.np
+cpcalendars.successworld.edu.np
 cpcalendars.svsschool.edu.np
 cpcalendars.test-3.staging.au.witsacademy.edu.np
 cpcalendars.tpizxryg.hanabijapanese.edu.np
@@ -481,6 +484,7 @@ cpcontacts.smstu.edu.np
 cpcontacts.spd.edu.np
 cpcontacts.spnc.edu.np
 cpcontacts.srm.edu.np
+cpcontacts.successworld.edu.np
 cpcontacts.svsschool.edu.np
 cpcontacts.tuiost.edu.np
 cpcontacts.uniquec.edu.np
@@ -811,6 +815,7 @@ mail.spd.edu.np
 mail.spnc.edu.np
 mail.srbv.edu.np
 mail.srm.edu.np
+mail.successworld.edu.np
 mail.suryavinayakschool.edu.np
 mail.svsschool.edu.np
 mail.tucl.edu.np
@@ -920,6 +925,7 @@ paninipolytechnic.edu.np
 parlay-bola.holyangelschool.edu.np
 parlay-bola.sukunass.edu.np
 paropakarschool.edu.np
+passionfoundation.edu.np
 pathshala.edu.np
 pathwayconsultancy.edu.np
 pebschool.edu.np
@@ -955,6 +961,7 @@ professionalcareer.edu.np
 professionalcareer.edu.np.xavierinternationaledu.com
 pua.edu.np
 publicmabisarlahi.edu.np
+pufoe.edu.np
 pufom.edu.np
 pusob.edu.np
 python.parijattech.edu.np
@@ -1051,6 +1058,7 @@ staging.janakalyancampus.edu.np
 streamlined.edu.np.digitaldeebesh.com
 student.kec.edu.np
 stx.edu.np
+successworld.edu.np
 sungabhaps.edu.np
 sunlightmodern.edu.np
 support.ghen.edu.np
@@ -1187,6 +1195,7 @@ webdisk.smstu.edu.np
 webdisk.spd.edu.np
 webdisk.spnc.edu.np
 webdisk.srm.edu.np
+webdisk.successworld.edu.np
 webdisk.svsschool.edu.np
 webdisk.tuiost.edu.np
 webdisk.uniquec.edu.np
@@ -1285,6 +1294,7 @@ webmail.spd.edu.np
 webmail.spnc.edu.np
 webmail.srbv.edu.np
 webmail.srm.edu.np
+webmail.successworld.edu.np
 webmail.svsschool.edu.np
 webmail.tuiost.edu.np
 webmail.uniquec.edu.np
@@ -1322,6 +1332,7 @@ www.axiscollege.edu.np
 www.baba.edu.np
 www.bagmatischool.edu.np
 www.balbatika.edu.np
+www.balkumaricollege.edu.np
 www.baraha.edu.np
 www.bcs.sunway.edu.np
 www.bdsschool.edu.np
@@ -1507,6 +1518,7 @@ www.professionalcareer.edu.np
 www.professionalcareer.edu.np.xavierinternationaledu.com
 www.pua.edu.np
 www.publicmabisarlahi.edu.np
+www.pufoe.edu.np
 www.pusob.edu.np
 www.python.parijattech.edu.np
 www.pzspiritualschool.edu.np
@@ -1563,6 +1575,7 @@ www.staging.janakalyancampus.edu.np
 www.streamlined.edu.np.digitaldeebesh.com
 www.student.kec.edu.np
 www.students.geniusworld.edu.np
+www.successworld.edu.np
 www.suryavinayakschool.edu.np
 www.svsschool.edu.np
 www.system.vsn.edu.np
