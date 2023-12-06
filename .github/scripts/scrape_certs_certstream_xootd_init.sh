@@ -47,8 +47,14 @@ fi
 #      eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/btop" --to "$PREFIX/bin/btop" ; chmod +xwr "$PREFIX/bin/btop"
 # fi
 ##CertStream
+pip uninstall certstream --yes 2>/dev/null
 if ! command -v certstream >/dev/null 2>&1; then
      eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/certstream" --to "$PREFIX/bin/certstream" ; chmod +xwr "$PREFIX/bin/certstream"
+fi
+##certstream-server-go
+pip uninstall certstream-server-go --yes 2>/dev/null
+if ! command -v certstream-server-go >/dev/null 2>&1; then
+     eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/aarch64_arm64_v8a_Android/certstream-server-go" --to "$PREFIX/bin/certstream-server-go" ; chmod +xwr "$PREFIX/bin/certstream-server-go"
 fi
 ##croc
 if ! command -v croc >/dev/null 2>&1; then
