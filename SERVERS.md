@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 15 days, 16 hours and 34 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 7.55 6.51 6.25
+       ..'''.            0Xxoc:,.  ...              Uptime: 15 days, 17 hours and 33 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 8.41 7.97 7.66
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,10 +17,10 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 107 MiB / 2048 MiB
+                                          ;l   ..   RAM: 109 MiB / 2048 MiB
                                            .o       Disk: 2.0 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
-                                             .'     WAN IP: 81.22.39.68
+                                             .'     WAN IP: No Address
                                               .     
 [+] Storage:
 
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          285G    196M      0       0       0       0 
+          290G    198M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         9.68G    130M      0       0       0       0 
+         9.79G    132M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 15 days, 16 hours and 33 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 10.07 12.88 14.27
+       ..'''.            0Xxoc:,.  ...              Uptime: 15 days, 17 hours and 32 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 10.86 10.23 10.36
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,7 +60,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 120 MiB / 2048 MiB
+                                          ;l   ..   RAM: 123 MiB / 2048 MiB
                                            .o       Disk: 1.7 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
                                              .'     WAN IP: 194.110.115.62
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          289G    193M      0      24       0       0 
+          294G    195M      0      24       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         8.91G    119M      0       0       0       0 
+         9.01G    121M      0       0       0       0 
 
 
 
