@@ -15,6 +15,7 @@ akcmustang.gandaki.gov.np
 alaichibikash.gov.np
 api-rms.ndrrma.gov.np
 apps.mahankalmun.gov.np
+apps.sunchhaharimun.gov.np
 aqobhw.gov.np
 bahc.lumbini.gov.np
 bajrabarahihospital.bagamati.gov.np
@@ -54,6 +55,7 @@ doad.p3.gov.np
 doarkhajura.narc.gov.np
 doarskt.narc.gov.np
 dofsc.gov.np
+dol.gov.np
 dolfd.bagamati.gov.np
 doli.gov.np
 dolpa.oicp.gov.np
@@ -78,6 +80,7 @@ fwssmp.p2.gov.np
 gaa.gandaki.gov.np
 gahc.p5.gov.np
 gbv.karnali.gov.np
+gmalinuwakot.nra.gov.np
 gols.dohs.gov.np
 gorkha.akc.gov.np
 gov.np.admin-mcas-df.ms
@@ -108,6 +111,8 @@ idojajarkot.karnali.gov.np
 idojhapa.p1.gov.np
 idojumla.karnali.gov.np
 idokailali.sudurpashchim.gov.np
+idokavre.p3.gov.np
+idoramechhap.p3.gov.np
 idorautahat.gov.np
 idorukum.karnali.gov.np
 image.tourismnpl.gov.np
@@ -117,6 +122,7 @@ invest.p1.gov.np
 ipf.plgsp.gov.np
 jajarkot.oicp.gov.np
 kapilvastuayurved.lumbini.gov.np
+kath.gov.np
 kavrepalanchok.akc.gov.np
 kms.aepc.gov.np
 krishi.udayapurgadhimun.gov.np
@@ -135,6 +141,7 @@ loe.moecdc.gov.np
 lstcdhanusha.p2.gov.np
 lumbini.gov.np
 mail.csidb.gov.np
+mail.dol.gov.np
 manang.edcu.gov.np
 mediawage.gov.np
 melamchiwater.gov.np
@@ -160,15 +167,19 @@ naksapass.jeetpursimaramun.gov.np
 naksapass.raptimunchitwan.gov.np
 nams.oag.gov.np
 narainapurmun.gov.np
+nathm.gov.np
 nelis.dos.gov.np
 nepalgunj.doc.gov.np
 nepaltrace.p5.gov.np
+nhtc.p5.gov.np
 ntacall.nta.gov.np
 nwc.gov.np
 nwchelpline.gov.np
 nwfpchetauda.gov.np
 old.mof.gov.np
+oph.gandaki.gov.np
 ors.gandaki.gov.np
+pbcr.nhrc.gov.np
 pcgg.p1.gov.np
 pciug.gov.np
 pfdir.p5.gov.np
@@ -191,6 +202,7 @@ pudbcjhapa.gov.np
 pyuthanhospital.lumbini.gov.np
 redd.gov.np
 registration.phidimmun.gov.np
+report.p5.gov.np
 ridorolpa.lumbini.gov.np
 ridorukumeast.lumbini.gov.np
 rltcnepalgunj.gov.np
@@ -219,6 +231,7 @@ software.wthc.gov.np
 soillab.bagamati.gov.np
 soillabjhumka.gov.np
 statistic.hetaudamun.gov.np
+stidh.gov.np
 swmosurkhet.gov.np
 thcsarlahi.gov.np
 tmpp.mofaga.gov.np
@@ -237,6 +250,7 @@ vsdta.gov.np
 ward14.baglungmun.gov.np
 ward2.tulsipurmun.gov.np
 wiedohumla.karnali.gov.np
+wiedokalikot.karnali.gov.np
 wridsdrasuwa.gov.np
 wssdobanke.lumbini.gov.np
 wssdorupandehi.p5.gov.np
@@ -259,6 +273,7 @@ www.dhodarchula.gov.np
 www.dhorupandehi.gov.np
 www.dlpiukathmandu.gov.np
 www.dofsc.gov.np
+www.dol.gov.np
 www.doli.gov.np
 www.dtcolamjung.gov.np
 www.fdckailali.gov.np
@@ -267,6 +282,7 @@ www.gwrdb.gov.np
 www.hobardiya.gov.np
 www.hsodailekh.gov.np
 www.idorautahat.gov.np
+www.kath.gov.np
 www.leobiratnagar.gov.np
 www.leodhangadhi.gov.np
 www.leonepalgunj.gov.np
@@ -277,6 +293,7 @@ www.miklajungmunpanchthar.gov.np
 www.mis.nccsp.gov.np
 www.moitfe.p2.gov.np
 www.narainapurmun.gov.np
+www.nathm.gov.np
 www.nwc.gov.np
 www.nwchelpline.gov.np
 www.nwfpchetauda.gov.np
@@ -294,6 +311,7 @@ www.shuddhodhanmunkapilvastu.gov.np
 www.shuddhodhanmunrupandehi.gov.np
 www.software.wthc.gov.np
 www.soillabjhumka.gov.np
+www.stidh.gov.np
 www.swmosurkhet.gov.np
 www.thcsarlahi.gov.np
 www.tumwewamun.gov.np

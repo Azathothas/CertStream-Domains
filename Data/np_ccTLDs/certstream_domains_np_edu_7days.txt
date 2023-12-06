@@ -59,6 +59,7 @@ anarmanipubliccampus.edu.np
 ankuram.edu.np
 ankuramacademy.edu.np
 annapurnamv.edu.np
+anthropologytu.edu.np
 apexlifeschool.edu.np
 api.exam.staging.mu.edu.np
 api.globalwings.edu.np
@@ -208,6 +209,7 @@ cpanel.aasthacollege.edu.np
 cpanel.abroadlipokhara.edu.np
 cpanel.ahs.edu.np
 cpanel.akshar.edu.np
+cpanel.anthropologytu.edu.np
 cpanel.apexlifeschool.edu.np
 cpanel.asian.edu.np
 cpanel.bagmatischool.edu.np
@@ -279,6 +281,7 @@ cpanel.rumjatarschool.edu.np
 cpanel.rupitor.edu.np
 cpanel.sadhanapath.edu.np
 cpanel.sanjiwanisecondaryschool.edu.np
+cpanel.sankalpacollege.edu.np
 cpanel.santwonacollege.edu.np
 cpanel.saraswatihasaura.edu.np
 cpanel.shacademy.edu.np
@@ -303,6 +306,7 @@ cpcalendars.aasthacollege.edu.np
 cpcalendars.abroadlipokhara.edu.np
 cpcalendars.ahs.edu.np
 cpcalendars.akshar.edu.np
+cpcalendars.anthropologytu.edu.np
 cpcalendars.apexlifeschool.edu.np
 cpcalendars.asian.edu.np
 cpcalendars.bagmatischool.edu.np
@@ -375,6 +379,7 @@ cpcalendars.rumjatarschool.edu.np
 cpcalendars.rupitor.edu.np
 cpcalendars.sadhanapath.edu.np
 cpcalendars.sanjiwanisecondaryschool.edu.np
+cpcalendars.sankalpacollege.edu.np
 cpcalendars.santwonacollege.edu.np
 cpcalendars.saraswatihasaura.edu.np
 cpcalendars.shacademy.edu.np
@@ -400,6 +405,7 @@ cpcontacts.aasthacollege.edu.np
 cpcontacts.abroadlipokhara.edu.np
 cpcontacts.ahs.edu.np
 cpcontacts.akshar.edu.np
+cpcontacts.anthropologytu.edu.np
 cpcontacts.apexlifeschool.edu.np
 cpcontacts.asian.edu.np
 cpcontacts.bagmatischool.edu.np
@@ -471,6 +477,7 @@ cpcontacts.rumjatarschool.edu.np
 cpcontacts.rupitor.edu.np
 cpcontacts.sadhanapath.edu.np
 cpcontacts.sanjiwanisecondaryschool.edu.np
+cpcontacts.sankalpacollege.edu.np
 cpcontacts.santwonacollege.edu.np
 cpcontacts.saraswatihasaura.edu.np
 cpcontacts.shacademy.edu.np
@@ -492,6 +499,7 @@ cpcontacts.uniquecollegedamak.edu.np
 cpcontacts.yetiinternationalcollege.edu.np
 cpec.ku.edu.np
 cpn.edu.np
+crm.greatedu.edu.np
 css.edu.np
 csschool.edu.np
 cuanwin138.holyangelschool.edu.np
@@ -501,6 +509,7 @@ database.secure.witsacademy.edu.np
 davbusinessschool.edu.np
 dcan.edu.np
 demo.gyankunj.edu.np
+demo.mechicampus.edu.np
 demo.newsummit.edu.np
 design.matribhumischool.edu.np
 dev.matribhumischool.edu.np
@@ -527,6 +536,7 @@ dynamic.edu.np
 e.sanjiwanicollege.edu.np
 eattendance.triton.edu.np
 edu.np.rankglobe.com
+edu.np.siteindices.com
 edu.np.websitebiography.com
 edu.npix.net
 edu.nptc.ca
@@ -538,6 +548,7 @@ emba.edu.np
 emerald.edu.np
 emis.gyanbahumukhicampus.edu.np
 emis.kapancampus.edu.np
+emis.pusob.edu.np
 emis.solucampus.edu.np
 emis.sssttm.edu.np
 emis.vinayaksiddhacollege.edu.np
@@ -596,6 +607,7 @@ goldenpeak.edu.np
 googleadmin.baluddhar.edu.np
 gorakhnathschool.edu.np
 goreto.edu.np
+gothatarschool.edu.np
 government.juddhaschool.edu.np
 gramodayayugkabicampus.edu.np
 greenearth.edu.np
@@ -611,6 +623,7 @@ happykidsmontessori.edu.np
 happykidsmontessori.himalayanglory.edu.np
 harbour.edu.np
 hbs.edu.np
+hchm.edu.np
 hcoe.edu.np
 hes.edu.np
 hetaudaacademy.edu.np
@@ -705,6 +718,7 @@ mail.abroadlipokhara.edu.np
 mail.aecg.edu.np
 mail.akshar.edu.np
 mail.anarmanipubliccampus.edu.np
+mail.anthropologytu.edu.np
 mail.apexlifeschool.edu.np
 mail.apollointcollege.edu.np
 mail.asian.edu.np
@@ -742,6 +756,7 @@ mail.greenwind.edu.np
 mail.gstcollege.edu.np
 mail.guides.edu.np
 mail.harbour.edu.np
+mail.hchm.edu.np
 mail.hiis.edu.np
 mail.himchhaya.edu.np
 mail.holyangelschool.edu.np
@@ -797,6 +812,7 @@ mail.rupitor.edu.np
 mail.sadhanapath.edu.np
 mail.sagarmathaebs.edu.np
 mail.sanjiwanisecondaryschool.edu.np
+mail.sankalpacollege.edu.np
 mail.santwonacollege.edu.np
 mail.saradanamunaacademy.edu.np
 mail.saraswatihasaura.edu.np
@@ -852,6 +868,7 @@ mitg.com.np.miit.edu.np
 mitnepal.edu.np
 mmcn.edu.np.gia.edu.np
 mmims.edu.np
+modernvisionacademy.edu.np
 moonlight.nrmv.edu.np
 moonlightschool.edu.np
 mountboarding.edu.np
@@ -865,6 +882,7 @@ mulschool.edu.np
 mwu.edu.np
 mwuqaad.edu.np
 n.scd.edu.np
+nabaratna.edu.np
 nabc.edu.np
 name.edu.np
 nasacollege.edu.np
@@ -1011,6 +1029,7 @@ samriddhischool.jmssg.edu.np
 sangamcomputer.edu.np
 sanjiwanisecondaryschool.edu.np
 sanjiwanisecondaryschool.edu.np.edu.sajilosikcha.com.np
+sankalpacollege.edu.np
 santwonacollege.edu.np
 saptashree.edu.np
 saraswatihasaura.edu.np
@@ -1111,6 +1130,7 @@ webdisk.aasthacollege.edu.np
 webdisk.abroadlipokhara.edu.np
 webdisk.ahs.edu.np
 webdisk.akshar.edu.np
+webdisk.anthropologytu.edu.np
 webdisk.apexlifeschool.edu.np
 webdisk.asian.edu.np
 webdisk.bagmatischool.edu.np
@@ -1182,6 +1202,7 @@ webdisk.rumjatarschool.edu.np
 webdisk.rupitor.edu.np
 webdisk.sadhanapath.edu.np
 webdisk.sanjiwanisecondaryschool.edu.np
+webdisk.sankalpacollege.edu.np
 webdisk.santwonacollege.edu.np
 webdisk.saraswatihasaura.edu.np
 webdisk.shacademy.edu.np
@@ -1206,6 +1227,7 @@ webmail.abroadlipokhara.edu.np
 webmail.ahs.edu.np
 webmail.akshar.edu.np
 webmail.anarmanipubliccampus.edu.np
+webmail.anthropologytu.edu.np
 webmail.asian.edu.np
 webmail.bagmatischool.edu.np
 webmail.balbatika.edu.np
@@ -1280,6 +1302,7 @@ webmail.rupitor.edu.np
 webmail.sadhanapath.edu.np
 webmail.sagarmathaebs.edu.np
 webmail.sanjiwanisecondaryschool.edu.np
+webmail.sankalpacollege.edu.np
 webmail.santwonacollege.edu.np
 webmail.saraswatihasaura.edu.np
 webmail.shacademy.edu.np
@@ -1317,6 +1340,7 @@ www.akshar.edu.np
 www.aksharicaschool.edu.np.westwingschool.edu.np
 www.anarmanipubliccampus.edu.np
 www.ankuram.edu.np
+www.anthropologytu.edu.np
 www.apexlifeschool.edu.np
 www.api.globalwings.edu.np
 www.api.results.hiis.edu.np
@@ -1385,6 +1409,7 @@ www.elibrary.anthropologytu.edu.np
 www.elibrary.imperialcollege.edu.np
 www.emis.gyanbahumukhicampus.edu.np
 www.emis.kapancampus.edu.np
+www.emis.pusob.edu.np
 www.emis.solucampus.edu.np
 www.emis.vinayaksiddhacollege.edu.np
 www.entrance.ace.edu.np
@@ -1410,6 +1435,7 @@ www.guides.edu.np
 www.gvns.edu.np
 www.happykidsmontessori.himalayanglory.edu.np
 www.harbour.edu.np
+www.hchm.edu.np
 www.hiis.edu.np
 www.himchhaya.edu.np
 www.holyangelschool.edu.np
@@ -1546,6 +1572,7 @@ www.sagarmathaebs.edu.np
 www.samriddhischool.jmssg.edu.np
 www.sanjiwanisecondaryschool.edu.np
 www.sanjiwanisecondaryschool.edu.np.edu.sajilosikcha.com.np
+www.sankalpacollege.edu.np
 www.santwonacollege.edu.np
 www.saraswatihasaura.edu.np
 www.scholar.baluddhar.edu.np
