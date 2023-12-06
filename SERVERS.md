@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 15 days, 1 hour and 32 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 4.97 4.47 4.44
+       ..'''.            0Xxoc:,.  ...              Uptime: 15 days, 2 hours and 32 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 6.4 5.36 4.99
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 15 days, 1 hour and 31 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 2.12 2.45 3.96
+       ..'''.            0Xxoc:,.  ...              Uptime: 15 days, 2 hours and 31 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 1.18 1.6 1.78
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
