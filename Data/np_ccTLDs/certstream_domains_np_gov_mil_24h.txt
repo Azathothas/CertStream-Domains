@@ -1,9 +1,13 @@
 copomis.gov.np
 copomis.mocpa.gov.np
+imis.doind.gov.np
 karnali.gov.np
 naksapass-api.dhulikhelmun.gov.np
+naksapass.dhulikhelmun.gov.np
 nast.gov.np
+nationalzoologicalgarden.gov.np
 nic.gov.np
 ocs.p2.gov.np
 sddokapilvastu.lumbini.gov.np
 www.nast.gov.np
+www.nationalzoologicalgarden.gov.np
