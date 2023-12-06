@@ -8,12 +8,14 @@ adc.edu.np
 ahs.edu.np
 als.edu.np.globalfoodmartonline.com
 anilpokharel.citycollege.edu.np
+autodiscover.mbman.edu.np
 baljagriti.edu.np
 bhagwatischool.edu.np
 bloomingacademy.edu.np
 bloomingacademy.edu.np.rahulnepali.com.np
 brightoncareer.edu.np
 broadwayeducation.edu.np
+bulbulecampus.edu.np
 citycollege.edu.np
 communityschool.edu.np
 cpanel.aaec.edu.np
@@ -26,6 +28,7 @@ cpanel.faec.edu.np
 cpanel.gchm.edu.np
 cpanel.madheshuniversity.edu.np
 cpanel.mahendramemorialcollege.edu.np
+cpanel.mbman.edu.np
 cpanel.nbc.edu.np
 cpanel.nepalmegaschool.edu.np
 cpanel.nvess.edu.np
@@ -43,6 +46,7 @@ cpcalendars.faec.edu.np
 cpcalendars.gchm.edu.np
 cpcalendars.madheshuniversity.edu.np
 cpcalendars.mahendramemorialcollege.edu.np
+cpcalendars.mbman.edu.np
 cpcalendars.nbc.edu.np
 cpcalendars.nepalmegaschool.edu.np
 cpcalendars.nvess.edu.np
@@ -60,6 +64,7 @@ cpcontacts.faec.edu.np
 cpcontacts.gchm.edu.np
 cpcontacts.madheshuniversity.edu.np
 cpcontacts.mahendramemorialcollege.edu.np
+cpcontacts.mbman.edu.np
 cpcontacts.nbc.edu.np
 cpcontacts.nepalmegaschool.edu.np
 cpcontacts.nvess.edu.np
@@ -93,6 +98,7 @@ mail.gchm.edu.np
 mail.kgpi.edu.np
 mail.madheshuniversity.edu.np
 mail.mahendramemorialcollege.edu.np
+mail.mbman.edu.np
 mail.nbc.edu.np
 mail.nepalmegaschool.edu.np
 mail.nvess.edu.np
@@ -100,6 +106,7 @@ mail.rtrk.edu.np
 mail.smcollege.edu.np
 mail.thesunshine.edu.np
 mail.tti.edu.np
+mbman.edu.np
 miit.edu.np
 nbc.edu.np
 nepalmegaschool.edu.np
@@ -116,6 +123,7 @@ smcollege.edu.np
 southpointrs.edu.np
 starglobal.edu.np
 suryodayamavi.edu.np
+swatisadan.edu.np
 thesunshine.edu.np
 trilochanacademy.edu.np
 tti.edu.np
@@ -130,6 +138,7 @@ webdisk.faec.edu.np
 webdisk.gchm.edu.np
 webdisk.madheshuniversity.edu.np
 webdisk.mahendramemorialcollege.edu.np
+webdisk.mbman.edu.np
 webdisk.nbc.edu.np
 webdisk.nepalmegaschool.edu.np
 webdisk.nvess.edu.np
@@ -147,6 +156,7 @@ webmail.faec.edu.np
 webmail.gchm.edu.np
 webmail.madheshuniversity.edu.np
 webmail.mahendramemorialcollege.edu.np
+webmail.mbman.edu.np
 webmail.nbc.edu.np
 webmail.nepalmegaschool.edu.np
 webmail.nvess.edu.np
@@ -173,6 +183,7 @@ www.krishnamali.eemc.edu.np
 www.kts.edu.np
 www.madheshuniversity.edu.np
 www.mahendramemorialcollege.edu.np
+www.mbman.edu.np
 www.mithilasamachar.miit.edu.np
 www.nbc.edu.np
 www.nepalmegaschool.edu.np

@@ -1,6 +1,7 @@
 copomis.gov.np
 copomis.mocpa.gov.np
 karnali.gov.np
+naksapass-api.dhulikhelmun.gov.np
 nast.gov.np
 nic.gov.np
 ocs.p2.gov.np
