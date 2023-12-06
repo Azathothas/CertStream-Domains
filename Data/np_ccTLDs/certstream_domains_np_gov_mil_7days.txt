@@ -208,6 +208,7 @@ municipalityhealthprofile.lumbini.gov.np
 mustang.edcu.gov.np
 naksapass.jeetpursimaramun.gov.np
 naksapass.raptimunchitwan.gov.np
+nams.oag.gov.np
 narainapurmun.gov.np
 nationalartmuseum.gov.np
 naumulemun.gov.np
@@ -307,6 +308,7 @@ swmosurkhet.gov.np
 tamakoshimun.gov.np
 tharucommission.gov.np
 thcsarlahi.gov.np
+tmpp.mofaga.gov.np
 training.nphl.gov.np
 tripurasundarimundhading.gov.np
 trivenimunbajura.gov.np

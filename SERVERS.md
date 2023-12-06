@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 14 days, 19 hours and 33 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 8.35 8.43 7.97
+       ..'''.            0Xxoc:,.  ...              Uptime: 14 days, 21 hours and 29 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 4.54 4.99 5.21
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,7 +17,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 96 MiB / 2048 MiB
+                                          ;l   ..   RAM: 92 MiB / 2048 MiB
                                            .o       Disk: 1.7 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
                                              .'     WAN IP: 176.97.206.117
@@ -29,7 +29,7 @@
 ├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
 ├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 16.0G │ 8.0G │  8.0G │  49.7% │ fuse.[ │ [encfs-ZjMMz │
+│ /sec       │ 16.0G │ 7.2G │  8.8G │  44.8% │ fuse.[ │ [encfs-ZjMMz │
 │            │       │      │       │        │ encfs- │ UwYzl]       │
 │            │       │      │       │        │ ZjMMzU │              │
 │            │       │      │       │        │ wYzl]  │              │
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          221G    170M      0       0       0       0 
+          222G    170M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         8.12G    111M      0       0       0       0 
+         8.13G    111M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 14 days, 19 hours and 32 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 10.99 15.28 15.89
+       ..'''.            0Xxoc:,.  ...              Uptime: 14 days, 21 hours and 28 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 10.34 10.33 10.11
   .                   OMo           ':do.           Processes: 16
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,7 +60,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 89 MiB / 2048 MiB
+                                          ;l   ..   RAM: 87 MiB / 2048 MiB
                                            .o       Disk: 1.7 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
                                              .'     WAN IP: 45.134.212.91
