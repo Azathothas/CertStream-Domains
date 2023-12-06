@@ -56,6 +56,7 @@ akun-pro-vietnam.pascalschool.edu.np
 alevel.ace.edu.np
 americaneducational.edu.np
 anarmanipubliccampus.edu.np
+anilpokharel.citycollege.edu.np
 ankuram.edu.np
 ankuramacademy.edu.np
 annapurnamv.edu.np
@@ -177,6 +178,7 @@ cards.ioepc.edu.np
 carekathmandu.edu.np
 carekathmandu.edu.np.rabeens.com
 carenepal.edu.np
+caribbean.edu.np
 cbt.gci.edu.np
 cca.edu.np
 cchm.edu.np
@@ -228,6 +230,7 @@ cpanel.cdrd.edu.np
 cpanel.cimaca.edu.np
 cpanel.css.edu.np
 cpanel.dcan.edu.np
+cpanel.deephighschool.edu.np
 cpanel.dharanadarsha.edu.np
 cpanel.dillibazarkanyacampus.edu.np
 cpanel.eslglobal.edu.np
@@ -250,6 +253,7 @@ cpanel.kennt.edu.np
 cpanel.kistmcth.edu.np
 cpanel.kusoa.edu.np
 cpanel.lumbinibrihaspati.edu.np
+cpanel.mahendramemorialcollege.edu.np
 cpanel.mangaladevi.edu.np
 cpanel.marsyangdibaljyoti.edu.np
 cpanel.mdc.edu.np
@@ -277,6 +281,7 @@ cpanel.rabicampus.edu.np
 cpanel.ran.edu.np
 cpanel.readmore.edu.np
 cpanel.rjc.edu.np
+cpanel.rtrk.edu.np
 cpanel.rumjatarschool.edu.np
 cpanel.rupitor.edu.np
 cpanel.sadhanapath.edu.np
@@ -347,6 +352,7 @@ cpcalendars.kennt.edu.np
 cpcalendars.kistmcth.edu.np
 cpcalendars.kusoa.edu.np
 cpcalendars.lumbinibrihaspati.edu.np
+cpcalendars.mahendramemorialcollege.edu.np
 cpcalendars.mangaladevi.edu.np
 cpcalendars.marsyangdibaljyoti.edu.np
 cpcalendars.mdc.edu.np
@@ -375,6 +381,7 @@ cpcalendars.rabicampus.edu.np
 cpcalendars.ran.edu.np
 cpcalendars.readmore.edu.np
 cpcalendars.rjc.edu.np
+cpcalendars.rtrk.edu.np
 cpcalendars.rumjatarschool.edu.np
 cpcalendars.rupitor.edu.np
 cpcalendars.sadhanapath.edu.np
@@ -446,6 +453,7 @@ cpcontacts.kennt.edu.np
 cpcontacts.kistmcth.edu.np
 cpcontacts.kusoa.edu.np
 cpcontacts.lumbinibrihaspati.edu.np
+cpcontacts.mahendramemorialcollege.edu.np
 cpcontacts.mangaladevi.edu.np
 cpcontacts.marsyangdibaljyoti.edu.np
 cpcontacts.mdc.edu.np
@@ -473,6 +481,7 @@ cpcontacts.rabicampus.edu.np
 cpcontacts.ran.edu.np
 cpcontacts.readmore.edu.np
 cpcontacts.rjc.edu.np
+cpcontacts.rtrk.edu.np
 cpcontacts.rumjatarschool.edu.np
 cpcontacts.rupitor.edu.np
 cpcontacts.sadhanapath.edu.np
@@ -508,6 +517,7 @@ damc.edu.np
 database.secure.witsacademy.edu.np
 davbusinessschool.edu.np
 dcan.edu.np
+deephighschool.edu.np
 demo.gyankunj.edu.np
 demo.mechicampus.edu.np
 demo.newsummit.edu.np
@@ -670,6 +680,7 @@ journal.tucded.edu.np
 jyotieducation.edu.np
 jyotimandalmavi.edu.np
 jyotipunja.edu.np
+jyotischool.edu.np
 kailalicampus.edu.np
 kailalimodelschool.edu.np
 kaizen.edu.np
@@ -711,6 +722,7 @@ m.tpizxryg.hanabijapanese.edu.np
 macanasia88.holyangelschool.edu.np
 macanasia88.sukunass.edu.np
 macpokhara.edu.np
+mahendramemorialcollege.edu.np
 mahendrasecschool.edu.np
 mahendrodayasec.edu.np
 mail.aasthacollege.edu.np
@@ -741,6 +753,7 @@ mail.cdrd.edu.np
 mail.cimaca.edu.np
 mail.css.edu.np
 mail.dcan.edu.np
+mail.deephighschool.edu.np
 mail.dharanadarsha.edu.np
 mail.dillibazarkanyacampus.edu.np
 mail.dpsef.edu.np
@@ -773,6 +786,7 @@ mail.kgpi.edu.np
 mail.kistmcth.edu.np
 mail.kusoa.edu.np
 mail.lumbinibrihaspati.edu.np
+mail.mahendramemorialcollege.edu.np
 mail.mahendrodayasec.edu.np
 mail.mangaladevi.edu.np
 mail.marsyangdibaljyoti.edu.np
@@ -807,6 +821,7 @@ mail.raischool.edu.np
 mail.ran.edu.np
 mail.readmore.edu.np
 mail.rjc.edu.np
+mail.rtrk.edu.np
 mail.rumjatarschool.edu.np
 mail.rupitor.edu.np
 mail.sadhanapath.edu.np
@@ -949,6 +964,7 @@ pathwayconsultancy.edu.np
 pebschool.edu.np
 penms.edu.np
 peoplesacademyitahari.edu.np.sajilosikcha.com.np
+peu.citycollege.edu.np
 pgcampus.edu.np
 phoenixcollege.edu.np
 pine.edu.np
@@ -969,6 +985,7 @@ pragmatic.edu.np
 pragyan.edu.np
 pragyanacademy.edu.np
 pragyanacademy.edu.np.gajendramagar.com.np
+prakasheducation.edu.np
 premier.edu.np
 premiercollege.edu.np
 premierhotelschool.edu.np
@@ -1016,6 +1033,7 @@ rrlopac.biratmedicalcollege.edu.np
 rrlsp.biratmedicalcollege.edu.np
 rrlstaff.biratmedicalcollege.edu.np
 rsspkr.edu.np
+rtrk.edu.np
 rudrayaneesecondaryschool.edu.np
 rumjatarschool.edu.np
 rupitor.edu.np
@@ -1171,6 +1189,7 @@ webdisk.kennt.edu.np
 webdisk.kistmcth.edu.np
 webdisk.kusoa.edu.np
 webdisk.lumbinibrihaspati.edu.np
+webdisk.mahendramemorialcollege.edu.np
 webdisk.mangaladevi.edu.np
 webdisk.marsyangdibaljyoti.edu.np
 webdisk.mdc.edu.np
@@ -1198,6 +1217,7 @@ webdisk.rabicampus.edu.np
 webdisk.ran.edu.np
 webdisk.readmore.edu.np
 webdisk.rjc.edu.np
+webdisk.rtrk.edu.np
 webdisk.rumjatarschool.edu.np
 webdisk.rupitor.edu.np
 webdisk.sadhanapath.edu.np
@@ -1268,6 +1288,7 @@ webmail.kennt.edu.np
 webmail.kistmcth.edu.np
 webmail.kusoa.edu.np
 webmail.lumbinibrihaspati.edu.np
+webmail.mahendramemorialcollege.edu.np
 webmail.mangaladevi.edu.np
 webmail.marsyangdibaljyoti.edu.np
 webmail.mdc.edu.np
@@ -1297,6 +1318,7 @@ webmail.rabicampus.edu.np
 webmail.ran.edu.np
 webmail.readmore.edu.np
 webmail.rjc.edu.np
+webmail.rtrk.edu.np
 webmail.rumjatarschool.edu.np
 webmail.rupitor.edu.np
 webmail.sadhanapath.edu.np
@@ -1339,6 +1361,7 @@ www.ahsanulbarakat.com.reedschool.edu.np
 www.akshar.edu.np
 www.aksharicaschool.edu.np.westwingschool.edu.np
 www.anarmanipubliccampus.edu.np
+www.anilpokharel.citycollege.edu.np
 www.ankuram.edu.np
 www.anthropologytu.edu.np
 www.apexlifeschool.edu.np
@@ -1391,6 +1414,7 @@ www.css.edu.np
 www.daisyschool.edu.np
 www.davbusinessschool.edu.np
 www.dcan.edu.np
+www.deephighschool.edu.np
 www.demo.gyankunj.edu.np
 www.demo.newsummit.edu.np
 www.dhan.eiec.edu.np
@@ -1474,6 +1498,7 @@ www.loksewajobs.yaxis.edu.np
 www.lss.edu.np
 www.lumbinibrihaspati.edu.np
 www.macpokhara.edu.np
+www.mahendramemorialcollege.edu.np
 www.mahendrodayasec.edu.np
 www.mail.aecg.edu.np
 www.mail.skipi.edu.np
@@ -1530,6 +1555,7 @@ www.paninipolytechnic.edu.np
 www.pathwayconsultancy.edu.np
 www.pebschool.edu.np
 www.peoplesacademyitahari.edu.np.sajilosikcha.com.np
+www.peu.citycollege.edu.np
 www.pinnaclecollege.edu.np
 www.plustwo.brightfuturesalakpur.edu.np
 www.post.shreejma.edu.np
@@ -1564,6 +1590,7 @@ www.rjc.edu.np
 www.rju.edu.np
 www.rkh.edu.np.ren.org.np
 www.rrlsp.biratmedicalcollege.edu.np
+www.rtrk.edu.np
 www.rumjatarschool.edu.np
 www.rupitor.edu.np
 www.rupitor.edu.np.rupitor.com
