@@ -94,7 +94,18 @@ fi
 # Runs 66 Mins
  #timeout -k 1m 400m certstream --full --json | jq -r '.data.leaf_cert.all_domains[]' > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
  echo -e "\n [+] Streaming...\n"
- timeout -k 1m 66m certstream > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
+  #Configure certstream-server-go
+   #kill zombie server
+    pgrep -f "certstream-server-go" | xargs kill -9 2>/dev/null
+    rm "/data/data/com.termux/files/usr/tmp/server_config.yaml" 2>/dev/null 
+   #Get Latest Config
+    wget "https://raw.githubusercontent.com/Azathothas/Arsenal/main/certstream/server_config.yaml" -O "/data/data/com.termux/files/usr/tmp/server_config.yaml"
+ #Start Server   
+ nohup certstream-server-go -config "/data/data/com.termux/files/usr/tmp/server_config.yaml" >/dev/null 2>&1 &    
+ #Start client
+ timeout -k 1m 66m certstream -url "ws://localhost:8888" -domains-only -quiet > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
+ #timeout -k 1m 66m certstream -url "wss://certstream.calidog.io" -domains-only -quiet > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
+ #timeout -k 1m 66m certstream > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
 #Filter & Parse
  #Remove Spaces
   sed -E '/^[[:space:]]*$/d' -i "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
