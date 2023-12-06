@@ -54,6 +54,7 @@ fi
      eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/btop" --to "$HOME/bin/btop" ; chmod +xwr "$HOME/bin/btop"
 #fi
 ##CertStream
+pip uninstall certstream --yes 2>/dev/null
 #if ! command -v certstream >/dev/null 2>&1; then
      eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/certstream" --to "$HOME/bin/certstream" ; chmod +xwr "$HOME/bin/certstream"
 #fi
