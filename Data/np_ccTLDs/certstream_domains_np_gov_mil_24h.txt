@@ -1,5 +1,8 @@
+copomis.gov.np
+copomis.mocpa.gov.np
 karnali.gov.np
 nast.gov.np
+nic.gov.np
 ocs.p2.gov.np
 sddokapilvastu.lumbini.gov.np
 www.nast.gov.np
