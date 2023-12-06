@@ -4,6 +4,7 @@ academic.ria.edu.np
 academy.maxscore.edu.np
 accelerateacademy.edu.np
 achhamcampus.edu.np
+admin.afu.edu.np
 admin.anarmanipubliccampus.edu.np
 admin.cdnb.edu.np
 admin.dpsef.edu.np
@@ -107,6 +108,7 @@ autodiscover.test-3.staging.au.witsacademy.edu.np
 autodiscover.yetiinternationalcollege.edu.np
 avenue.edu.np
 avn.edu.np
+axiscollege.edu.np
 azaleaschool.edu.np
 baba.edu.np
 bachelors.ace.edu.np
@@ -160,6 +162,7 @@ bocoran-admin-riki.sukunass.edu.np
 bostoncollege.edu.np
 bpcbirgunj.edu.np
 brainycube.edu.np
+brightstep.edu.np
 britishmodelcollege.edu.np
 brps.edu.np
 brushuponline.edu.np
@@ -197,6 +200,7 @@ cmprc.edu.np
 cms.cgwaesqk.alpinehigh.edu.np
 college.tribhuwan.edu.np
 consultant.aeh.edu.np
+convocation.lbu.edu.np
 cotc.edu.np
 covid19.mwu.edu.np
 cpanel.aasthacollege.edu.np
@@ -656,6 +660,7 @@ kakarvittacampus.edu.np
 kanti.edu.np
 kathmandulittleblossoms.edu.np
 kavreschool.edu.np
+kavresthalimavi.edu.np
 kbc.edu.np
 kdsvjvef.khimtiprojectschool.edu.np
 kennt.edu.np
@@ -1022,6 +1027,7 @@ shineglobal.edu.np
 shishujyoti.edu.np
 shivasecondary.edu.np
 shivasecondary.edu.np.rumjatarschool.edu.np
+shreeneraibm.edu.np
 shuklamavi.edu.np
 siddheshwori.edu.np
 sidharthacampus.edu.np
@@ -1312,6 +1318,7 @@ www.apply.lbu.edu.np
 www.arnikoschool.arnikofoundation.edu.np
 www.asian.edu.np
 www.assets.hiis.edu.np
+www.axiscollege.edu.np
 www.baba.edu.np
 www.bagmatischool.edu.np
 www.balbatika.edu.np
@@ -1344,6 +1351,7 @@ www.cgwaesqk.alpinehigh.edu.np
 www.chhorepatanss.edu.np
 www.cimaca.edu.np
 www.consultant.aeh.edu.np
+www.convocation.lbu.edu.np
 www.css.edu.np
 www.daisyschool.edu.np
 www.davbusinessschool.edu.np
@@ -1537,6 +1545,7 @@ www.shineglobal.edu.np
 www.shishujyoti.edu.np
 www.shivasecondary.edu.np
 www.shivasecondary.edu.np.rumjatarschool.edu.np
+www.shreeneraibm.edu.np
 www.siddheshwori.edu.np
 www.simaracollege.edu.np
 www.smartcareer.edu.np
