@@ -57,6 +57,10 @@ fi
 #if ! command -v certstream >/dev/null 2>&1; then
      eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/certstream" --to "$HOME/bin/certstream" ; chmod +xwr "$HOME/bin/certstream"
 #fi
+##certstream-server-go
+#if ! command -v certstream-server-go >/dev/null 2>&1; then
+     eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/certstream-server-go" --to "$HOME/bin/certstream-server-go" ; chmod +xwr "$HOME/bin/certstream-server-go"
+#fi
 ##croc
 #if ! command -v croc >/dev/null 2>&1; then
      eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/croc" --to "$HOME/bin/croc" ; chmod +xwr "$HOME/bin/croc"
