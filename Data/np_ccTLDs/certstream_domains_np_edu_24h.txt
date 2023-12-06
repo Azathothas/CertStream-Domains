@@ -25,6 +25,7 @@ cpanel.mahendramemorialcollege.edu.np
 cpanel.nbc.edu.np
 cpanel.rtrk.edu.np
 cpanel.smcollege.edu.np
+cpanel.thesunshine.edu.np
 cpcalendars.aaec.edu.np
 cpcalendars.adarshacollege.edu.np
 cpcalendars.ahs.edu.np
@@ -38,6 +39,7 @@ cpcalendars.mahendramemorialcollege.edu.np
 cpcalendars.nbc.edu.np
 cpcalendars.rtrk.edu.np
 cpcalendars.smcollege.edu.np
+cpcalendars.thesunshine.edu.np
 cpcontacts.aaec.edu.np
 cpcontacts.adarshacollege.edu.np
 cpcontacts.ahs.edu.np
@@ -51,13 +53,16 @@ cpcontacts.mahendramemorialcollege.edu.np
 cpcontacts.nbc.edu.np
 cpcontacts.rtrk.edu.np
 cpcontacts.smcollege.edu.np
+cpcontacts.thesunshine.edu.np
 dawn.edu.np
+dmcampus.edu.np
 dynamic.edu.np
 faec.edu.np
 gchm.edu.np
 hrms.ghen.edu.np
 ieb.edu.np
 jyotischool.edu.np
+krishnamali.eemc.edu.np
 kts.edu.np
 laxminarayan.edu.np
 madheshuniversity.edu.np
@@ -75,7 +80,10 @@ mail.mahendramemorialcollege.edu.np
 mail.nbc.edu.np
 mail.rtrk.edu.np
 mail.smcollege.edu.np
+mail.thesunshine.edu.np
+miit.edu.np
 nbc.edu.np
+nesfield.edu.np
 payme.mbmc.edu.np
 peu.citycollege.edu.np
 rampurnamuna.edu.np
@@ -84,6 +92,8 @@ rtrk.edu.np
 sasa.edu.np
 smcollege.edu.np
 southpointrs.edu.np
+suryodayamavi.edu.np
+thesunshine.edu.np
 trilochanacademy.edu.np
 tvetnepal2023.kusoed.edu.np
 webdisk.aaec.edu.np
@@ -99,6 +109,7 @@ webdisk.mahendramemorialcollege.edu.np
 webdisk.nbc.edu.np
 webdisk.rtrk.edu.np
 webdisk.smcollege.edu.np
+webdisk.thesunshine.edu.np
 webmail.aaec.edu.np
 webmail.adarshacollege.edu.np
 webmail.ahs.edu.np
@@ -112,6 +123,7 @@ webmail.mahendramemorialcollege.edu.np
 webmail.nbc.edu.np
 webmail.rtrk.edu.np
 webmail.smcollege.edu.np
+webmail.thesunshine.edu.np
 www.aaec.edu.np
 www.aaec.edu.np.pravinkhatri.com.np
 www.adarshacollege.edu.np
@@ -122,11 +134,15 @@ www.bloomingacademy.edu.np
 www.bloomingacademy.edu.np.rahulnepali.com.np
 www.citycollege.edu.np
 www.dynamic.edu.np
+www.emis.nesfield.edu.np
 www.faec.edu.np
 www.gchm.edu.np
+www.itdefence.miit.edu.np
+www.krishnamali.eemc.edu.np
 www.kts.edu.np
 www.madheshuniversity.edu.np
 www.mahendramemorialcollege.edu.np
+www.mithilasamachar.miit.edu.np
 www.nbc.edu.np
 www.payme.mbmc.edu.np
 www.peu.citycollege.edu.np
@@ -134,4 +150,6 @@ www.rampurnamuna.edu.np
 www.rtrk.edu.np
 www.smcollege.edu.np
 www.southpointrs.edu.np
+www.suryodayamavi.edu.np
+www.thesunshine.edu.np
 www.tvetnepal2023.kusoed.edu.np
