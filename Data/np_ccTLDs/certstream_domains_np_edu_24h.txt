@@ -22,6 +22,7 @@ cpanel.faec.edu.np
 cpanel.gchm.edu.np
 cpanel.madheshuniversity.edu.np
 cpanel.mahendramemorialcollege.edu.np
+cpanel.nbc.edu.np
 cpanel.rtrk.edu.np
 cpanel.smcollege.edu.np
 cpcalendars.aaec.edu.np
@@ -34,6 +35,7 @@ cpcalendars.faec.edu.np
 cpcalendars.gchm.edu.np
 cpcalendars.madheshuniversity.edu.np
 cpcalendars.mahendramemorialcollege.edu.np
+cpcalendars.nbc.edu.np
 cpcalendars.rtrk.edu.np
 cpcalendars.smcollege.edu.np
 cpcontacts.aaec.edu.np
@@ -46,6 +48,7 @@ cpcontacts.faec.edu.np
 cpcontacts.gchm.edu.np
 cpcontacts.madheshuniversity.edu.np
 cpcontacts.mahendramemorialcollege.edu.np
+cpcontacts.nbc.edu.np
 cpcontacts.rtrk.edu.np
 cpcontacts.smcollege.edu.np
 dawn.edu.np
@@ -69,8 +72,10 @@ mail.gchm.edu.np
 mail.kgpi.edu.np
 mail.madheshuniversity.edu.np
 mail.mahendramemorialcollege.edu.np
+mail.nbc.edu.np
 mail.rtrk.edu.np
 mail.smcollege.edu.np
+nbc.edu.np
 payme.mbmc.edu.np
 peu.citycollege.edu.np
 rampurnamuna.edu.np
@@ -91,6 +96,7 @@ webdisk.faec.edu.np
 webdisk.gchm.edu.np
 webdisk.madheshuniversity.edu.np
 webdisk.mahendramemorialcollege.edu.np
+webdisk.nbc.edu.np
 webdisk.rtrk.edu.np
 webdisk.smcollege.edu.np
 webmail.aaec.edu.np
@@ -103,6 +109,7 @@ webmail.faec.edu.np
 webmail.gchm.edu.np
 webmail.madheshuniversity.edu.np
 webmail.mahendramemorialcollege.edu.np
+webmail.nbc.edu.np
 webmail.rtrk.edu.np
 webmail.smcollege.edu.np
 www.aaec.edu.np
@@ -120,6 +127,7 @@ www.gchm.edu.np
 www.kts.edu.np
 www.madheshuniversity.edu.np
 www.mahendramemorialcollege.edu.np
+www.nbc.edu.np
 www.payme.mbmc.edu.np
 www.peu.citycollege.edu.np
 www.rampurnamuna.edu.np
