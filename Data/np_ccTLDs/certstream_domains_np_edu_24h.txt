@@ -236,6 +236,7 @@ smcollege.edu.np
 spna.easycare.edu.np
 ssr.mbmc.edu.np
 staging.epark.edu.np
+support.kingscollege.edu.np
 thangpaldhapss.edu.np
 trilochanacademy.edu.np
 tu.bmc.edu.np
@@ -357,6 +358,7 @@ www.smcollege.edu.np
 www.spna.easycare.edu.np
 www.ssr.mbmc.edu.np
 www.staging.epark.edu.np
+www.support.kingscollege.edu.np
 www.thangpaldhapss.edu.np
 www.tu.bmc.edu.np
 www.wdsd.zingschool.edu.np
