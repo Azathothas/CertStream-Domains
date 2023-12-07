@@ -8,7 +8,7 @@
 > - [**Thanks & Appreciation**](https://github.com/Azathothas/CertStream-Domains/tree/main#thanks)
 ---
 - #### Info
-> - [**Automated** | ***UpToDate***] Daily (@24 Hrs) Dumps of [CertStream](https://certstream.calidog.io/) [Certificate Logs](https://certificate.transparency.dev/howctworks/) **Data**
+> - [**Automated** | ***UpToDate***] Daily (@24 Hrs) Dumps of [CertStream Certificate Logs](https://certificate.transparency.dev/howctworks/) **Data**
 > 1. All the [Scripts](https://github.com/Azathothas/CertStream-Domains/tree/main/.github/scripts) & [Tools](https://github.com/Azathothas/Arsenal/tree/main/certstream) used are OpenSource & Public, as such all this ***comes with no Guarantees | Liabilities.***
 > 2. Due to [Github's File Size Limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits), all data is Compressed using [7z](https://www.7-zip.org/faq.html).
 > 3. View ***Latest*** Data from the **last 24 Hr** at: [Raw/Latest](https://github.com/Azathothas/CertStream-Domains/tree/main/Raw/Latest)
@@ -142,7 +142,8 @@
 > > - SSLMate has opensourced their own monitor: [SSLMate/certspotter](https://github.com/SSLMate/certspotter) but the data is [**behind a paywall**](https://sslmate.com/pricing/certspotter).
 --- 
 - #### **Sources** 
-> 1. [certstream.calidog.io](https://certstream.calidog.io) uses it's own [Server](https://github.com/CaliDog/certstream-server) to fetch [all logs](https://www.gstatic.com/ct/log_list/v3/all_logs_list.json) exposing **`wss://certstream.calidog.io`** for [libraries](https://github.com/search?q=org%3ACaliDog+certstream&type=repositories). [Azathothas/certstream](https://github.com/Azathothas/Arsenal/tree/main/certstream) is a simple cli that uses the [go library](https://github.com/CaliDog/certstream-go).
+> ~1. [certstream.calidog.io](https://certstream.calidog.io) uses it's own [Server](https://github.com/CaliDog/certstream-server) to fetch [all logs](https://www.gstatic.com/ct/log_list/v3/all_logs_list.json) exposing **`wss://certstream.calidog.io`** for [libraries](https://github.com/search?q=org%3ACaliDog+certstream&type=repositories). [Azathothas/certstream](https://github.com/Azathothas/Arsenal/tree/main/certstream) is a simple cli that uses the [go library](https://github.com/CaliDog/certstream-go).~
+> > [certstream.calidog.io](https://certstream.calidog.io) has been dropped in favour of a [completely self-hosted solution](https://github.com/Azathothas/Arsenal/tree/main/certstream). See: https://github.com/Azathothas/CertStream-Domains/issues/6
 > 2. List of logs monitored: **https://www.gstatic.com/ct/log_list/v3/all_logs_list.json**
 ---
 - #### **Ideas**
