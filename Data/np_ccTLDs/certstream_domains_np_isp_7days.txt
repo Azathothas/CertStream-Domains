@@ -2,4 +2,3 @@ icewarp.subisu.net.np
 ledger.ntc.net.np
 ns2.classic.com.np
 private.wlink.com.np
-speedtest.wlink.com.np.prod.hosts.ooklaserver.net

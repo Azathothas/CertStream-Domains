@@ -202,6 +202,7 @@ mrbacademy.edu.np
 mwu.edu.np
 name.edu.np
 neelarjun.edu.np
+nepaldvm.edu.np
 niharika.edu.np
 nirc.afpi.edu.np
 nitc.edu.np
@@ -209,6 +210,7 @@ nps.edu.np
 nrfn.edu.np
 old.jitpursecondaryschool.edu.np
 online.hmesbs.edu.np
+parashar.edu.np
 pbbs.edu.np
 pec.edu.np
 peu.citycollege.edu.np
