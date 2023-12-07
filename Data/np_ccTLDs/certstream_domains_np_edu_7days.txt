@@ -78,6 +78,7 @@ apollointcollege.edu.np
 app.cgwaesqk.alpinehigh.edu.np
 app.merotuki.edu.np
 apply.lbu.edu.np
+apt.edu.np
 arnikoschool.arnikofoundation.edu.np
 ascend.ace.edu.np
 ashtanga.edu.np
@@ -92,6 +93,7 @@ autoconfig.dpsef.edu.np
 autoconfig.old.maivalleyschool.edu.np
 autodiscover.aasthacollege.edu.np
 autodiscover.anarmanipubliccampus.edu.np
+autodiscover.apt.edu.np
 autodiscover.bdsschool.edu.np
 autodiscover.carekathmandu.edu.np
 autodiscover.dpsef.edu.np
@@ -201,6 +203,7 @@ cebschandrakot.edu.np
 cec.ku.edu.np
 centennial.edu.np
 cgwaesqk.alpinehigh.edu.np
+chandikaaavi.edu.np
 chhorepatanss.edu.np
 ci.ku.edu.np
 cimaca.edu.np
@@ -223,6 +226,7 @@ cpanel.ahs.edu.np
 cpanel.akshar.edu.np
 cpanel.anthropologytu.edu.np
 cpanel.apexlifeschool.edu.np
+cpanel.apt.edu.np
 cpanel.asian.edu.np
 cpanel.bagmatischool.edu.np
 cpanel.bdsschool.edu.np
@@ -237,6 +241,7 @@ cpanel.cdctu.edu.np
 cpanel.cde.edu.np
 cpanel.cdfatu.edu.np
 cpanel.cdrd.edu.np
+cpanel.chandikaaavi.edu.np
 cpanel.cimaca.edu.np
 cpanel.citycollege.edu.np
 cpanel.css.edu.np
@@ -333,6 +338,7 @@ cpcalendars.ahs.edu.np
 cpcalendars.akshar.edu.np
 cpcalendars.anthropologytu.edu.np
 cpcalendars.apexlifeschool.edu.np
+cpcalendars.apt.edu.np
 cpcalendars.asian.edu.np
 cpcalendars.bagmatischool.edu.np
 cpcalendars.bdsschool.edu.np
@@ -347,6 +353,7 @@ cpcalendars.cdctu.edu.np
 cpcalendars.cde.edu.np
 cpcalendars.cdfatu.edu.np
 cpcalendars.cdrd.edu.np
+cpcalendars.chandikaaavi.edu.np
 cpcalendars.cimaca.edu.np
 cpcalendars.citycollege.edu.np
 cpcalendars.css.edu.np
@@ -443,6 +450,7 @@ cpcontacts.ahs.edu.np
 cpcontacts.akshar.edu.np
 cpcontacts.anthropologytu.edu.np
 cpcontacts.apexlifeschool.edu.np
+cpcontacts.apt.edu.np
 cpcontacts.asian.edu.np
 cpcontacts.bagmatischool.edu.np
 cpcontacts.bdsschool.edu.np
@@ -457,6 +465,7 @@ cpcontacts.cdctu.edu.np
 cpcontacts.cde.edu.np
 cpcontacts.cdfatu.edu.np
 cpcontacts.cdrd.edu.np
+cpcontacts.chandikaaavi.edu.np
 cpcontacts.cimaca.edu.np
 cpcontacts.citycollege.edu.np
 cpcontacts.css.edu.np
@@ -556,6 +565,7 @@ davbusinessschool.edu.np
 dawn.edu.np
 dcan.edu.np
 deephighschool.edu.np
+deepjyotibs.edu.np
 demo.gyankunj.edu.np
 demo.mechicampus.edu.np
 demo.newsummit.edu.np
@@ -764,6 +774,7 @@ mail.anarmanipubliccampus.edu.np
 mail.anthropologytu.edu.np
 mail.apexlifeschool.edu.np
 mail.apollointcollege.edu.np
+mail.apt.edu.np
 mail.asian.edu.np
 mail.bagmatischool.edu.np
 mail.balmikischool.edu.np
@@ -780,6 +791,7 @@ mail.cdctu.edu.np
 mail.cde.edu.np
 mail.cdfatu.edu.np
 mail.cdrd.edu.np
+mail.chandikaaavi.edu.np
 mail.cimaca.edu.np
 mail.citycollege.edu.np
 mail.css.edu.np
@@ -1040,6 +1052,7 @@ register.namuna.edu.np
 remote.tpizxryg.hanabijapanese.edu.np
 renaissance.edu.np
 reports.pahs.edu.np
+ress.edu.np
 result.hiis.edu.np
 resungamavi.edu.np
 ria.edu.np
@@ -1114,6 +1127,7 @@ spd.edu.np
 spnc.edu.np
 srbv.edu.np
 srm.edu.np
+ssr.mbmc.edu.np
 staging.epark.edu.np
 staging.janakalyancampus.edu.np
 starglobal.edu.np
@@ -1180,6 +1194,7 @@ webdisk.ahs.edu.np
 webdisk.akshar.edu.np
 webdisk.anthropologytu.edu.np
 webdisk.apexlifeschool.edu.np
+webdisk.apt.edu.np
 webdisk.asian.edu.np
 webdisk.bagmatischool.edu.np
 webdisk.bdsschool.edu.np
@@ -1194,6 +1209,7 @@ webdisk.cdctu.edu.np
 webdisk.cde.edu.np
 webdisk.cdfatu.edu.np
 webdisk.cdrd.edu.np
+webdisk.chandikaaavi.edu.np
 webdisk.cimaca.edu.np
 webdisk.citycollege.edu.np
 webdisk.css.edu.np
@@ -1287,6 +1303,7 @@ webmail.ahs.edu.np
 webmail.akshar.edu.np
 webmail.anarmanipubliccampus.edu.np
 webmail.anthropologytu.edu.np
+webmail.apt.edu.np
 webmail.asian.edu.np
 webmail.bagmatischool.edu.np
 webmail.bdsschool.edu.np
@@ -1300,6 +1317,7 @@ webmail.cdctu.edu.np
 webmail.cde.edu.np
 webmail.cdfatu.edu.np
 webmail.cdrd.edu.np
+webmail.chandikaaavi.edu.np
 webmail.cimaca.edu.np
 webmail.citycollege.edu.np
 webmail.css.edu.np
@@ -1422,6 +1440,7 @@ www.api.v3.hiis.edu.np
 www.apollointcollege.edu.np
 www.app.merotuki.edu.np
 www.apply.lbu.edu.np
+www.apt.edu.np
 www.arnikoschool.arnikofoundation.edu.np
 www.asian.edu.np
 www.assets.hiis.edu.np
@@ -1455,6 +1474,7 @@ www.cde.edu.np
 www.cdfatu.edu.np
 www.cdrd.edu.np
 www.cgwaesqk.alpinehigh.edu.np
+www.chandikaaavi.edu.np
 www.chhorepatanss.edu.np
 www.cimaca.edu.np
 www.citycollege.edu.np
@@ -1675,6 +1695,7 @@ www.spd.edu.np
 www.spnc.edu.np
 www.srbv.edu.np
 www.srm.edu.np
+www.ssr.mbmc.edu.np
 www.stage.educonsult.edu.np
 www.staging.epark.edu.np
 www.staging.janakalyancampus.edu.np
