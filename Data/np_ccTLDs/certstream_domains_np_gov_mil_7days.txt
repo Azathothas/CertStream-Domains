@@ -17,6 +17,7 @@ api-rms.ndrrma.gov.np
 apps.mahankalmun.gov.np
 apps.sunchhaharimun.gov.np
 aqobhw.gov.np
+armis.pmamp.gov.np
 bahc.lumbini.gov.np
 bajrabarahihospital.bagamati.gov.np
 banke.akc.gov.np
@@ -230,6 +231,7 @@ www.akcarghakhanchi.gov.np
 www.akcmustang.gandaki.gov.np
 www.alaichibikash.gov.np
 www.aqobhw.gov.np
+www.armis.pmamp.gov.np
 www.banke.vethos.gov.np
 www.csidb.gov.np
 www.dfobajura.gov.np
