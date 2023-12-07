@@ -13,5 +13,6 @@ nast.gov.np
 ntacall.nta.gov.np
 pollution.gov.np
 recruitment.adbl.gov.np
+tanahun.swmo.gov.np
 www.getahospital.gov.np
 www.nast.gov.np
