@@ -21,6 +21,7 @@ autodiscover.primeglobalschool.edu.np
 autodiscover.reflectioneducational.edu.np
 axiscollege.edu.np
 baljagriti.edu.np
+bhagawatee.edu.np
 bhumedeviss.baraacademy.edu.np
 bhumedeviss.edu.np
 bim.bpcbirgunj.edu.np
@@ -94,6 +95,7 @@ cpcontacts.primeglobalschool.edu.np
 cpcontacts.reflectioneducational.edu.np
 cpcontacts.rtrk.edu.np
 cpcontacts.smcollege.edu.np
+damkadahss.edu.np
 deephighschool.edu.np
 deepjyotibs.edu.np
 demo.ims.edu.np
@@ -103,7 +105,10 @@ dev.pu.edu.np
 dmcampus.edu.np
 dreamland.edu.np
 emis.pusob.edu.np
+ems.gyanmarga.edu.np
+emssystem.gyanmarga.edu.np
 fass.edu.np
+favf.edu.np
 ggn.edu.np
 git.git.holyfamily.edu.np
 gjav.edu.np
@@ -159,8 +164,10 @@ mbman.edu.np
 minervaebs.edu.np
 minervaebs.edu.np.edu.sajilosikcha.com.np
 moonlight.edu.np
+mrbacademy.edu.np
 name.edu.np
 neelarjun.edu.np
+niharika.edu.np
 nitc.edu.np
 nps.edu.np
 nrfn.edu.np
@@ -187,6 +194,7 @@ sanjeevani.edu.np
 sanukimtang.edu.np.inspela.com
 saptakoshi.edu.np
 sasa.edu.np
+sejong.edu.np
 shivajanschool.edu.np
 shreeneraibm.edu.np
 smcollege.edu.np
@@ -196,6 +204,7 @@ staging.epark.edu.np
 thangpaldhapss.edu.np
 trilochanacademy.edu.np
 tu.bmc.edu.np
+viaeducation.edu.np
 viswadeep.edu.np
 wbsubdomain.a.bb.ccc.dddd.git.tore.adarsha.edu.np
 webdisk.adarshacollege.edu.np
