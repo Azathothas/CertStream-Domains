@@ -62,6 +62,7 @@ akun-pro-vietnam.pascalschool.edu.np
 alevel.ace.edu.np
 als.edu.np.globalfoodmartonline.com
 americaneducational.edu.np
+amv.edu.np
 anarmanipubliccampus.edu.np
 anilpokharel.citycollege.edu.np
 ankuram.edu.np
@@ -80,6 +81,7 @@ app.merotuki.edu.np
 apply.lbu.edu.np
 apt.edu.np
 arnikoschool.arnikofoundation.edu.np
+asahilink.edu.np
 ascend.ace.edu.np
 ashtanga.edu.np
 asia4d.holyangelschool.edu.np
@@ -110,6 +112,7 @@ autodiscover.nepaldela.edu.np
 autodiscover.nrns.edu.np
 autodiscover.old.maivalleyschool.edu.np
 autodiscover.openvisionacademy.edu.np
+autodiscover.reflectioneducational.edu.np
 autodiscover.rumjatarschool.edu.np
 autodiscover.sadhanapath.edu.np
 autodiscover.shivasecondary.edu.np
@@ -302,6 +305,7 @@ cpanel.professionalcareer.edu.np
 cpanel.rabicampus.edu.np
 cpanel.ran.edu.np
 cpanel.readmore.edu.np
+cpanel.reflectioneducational.edu.np
 cpanel.rtrk.edu.np
 cpanel.rumjatarschool.edu.np
 cpanel.rupitor.edu.np
@@ -413,6 +417,7 @@ cpcalendars.professionalcareer.edu.np
 cpcalendars.rabicampus.edu.np
 cpcalendars.ran.edu.np
 cpcalendars.readmore.edu.np
+cpcalendars.reflectioneducational.edu.np
 cpcalendars.rtrk.edu.np
 cpcalendars.rumjatarschool.edu.np
 cpcalendars.rupitor.edu.np
@@ -524,6 +529,7 @@ cpcontacts.professionalcareer.edu.np
 cpcontacts.rabicampus.edu.np
 cpcontacts.ran.edu.np
 cpcontacts.readmore.edu.np
+cpcontacts.reflectioneducational.edu.np
 cpcontacts.rtrk.edu.np
 cpcontacts.rumjatarschool.edu.np
 cpcontacts.rupitor.edu.np
@@ -553,6 +559,7 @@ cpcontacts.uniquecollegedamak.edu.np
 cpcontacts.yetiinternationalcollege.edu.np
 cpec.ku.edu.np
 cpn.edu.np
+creativeacademy.edu.np
 crm.greatedu.edu.np
 css.edu.np
 csschool.edu.np
@@ -567,6 +574,7 @@ dcan.edu.np
 deephighschool.edu.np
 deepjyotibs.edu.np
 demo.gyankunj.edu.np
+demo.ims.edu.np
 demo.mechicampus.edu.np
 demo.newsummit.edu.np
 design.matribhumischool.edu.np
@@ -678,6 +686,7 @@ hcoe.edu.np
 hes.edu.np
 hetaudaacademy.edu.np
 hhp.ku.edu.np
+highlandschool.edu.np
 hiis.edu.np
 himalayanglobal.edu.np
 himchhaya.edu.np
@@ -714,6 +723,7 @@ jmcampus.edu.np
 jobs.pusc.edu.np
 johndewey.edu.np
 journal.tucded.edu.np
+jubilantcollege.edu.np
 jyotipunja.edu.np
 jyotischool.edu.np
 kailalimodelschool.edu.np
@@ -725,6 +735,7 @@ kathmandulittleblossoms.edu.np
 kavreschool.edu.np
 kavresthalimavi.edu.np
 kbc.edu.np
+kbcampus.edu.np
 kdsvjvef.khimtiprojectschool.edu.np
 kennt.edu.np
 keu.org.np.kcs.edu.np
@@ -748,6 +759,7 @@ library.nepalwide.edu.np
 lifeeducation.edu.np
 lishaschool.edu.np
 littleangelsrapti.edu.np
+littlebud.edu.np
 littlestars.edu.np
 lms.biratmedicalcollege.edu.np
 lms.dpschool.edu.np
@@ -760,6 +772,7 @@ m.tpizxryg.hanabijapanese.edu.np
 macanasia88.holyangelschool.edu.np
 macanasia88.sukunass.edu.np
 macpokhara.edu.np
+madanashrit.edu.np
 madheshuniversity.edu.np
 mahendramemorialcollege.edu.np
 mahendrasecschool.edu.np
@@ -775,6 +788,7 @@ mail.anthropologytu.edu.np
 mail.apexlifeschool.edu.np
 mail.apollointcollege.edu.np
 mail.apt.edu.np
+mail.asahilink.edu.np
 mail.asian.edu.np
 mail.bagmatischool.edu.np
 mail.balmikischool.edu.np
@@ -864,6 +878,7 @@ mail.rabicampus.edu.np
 mail.raischool.edu.np
 mail.ran.edu.np
 mail.readmore.edu.np
+mail.reflectioneducational.edu.np
 mail.rtrk.edu.np
 mail.rumjatarschool.edu.np
 mail.rupitor.edu.np
@@ -1047,6 +1062,7 @@ rastriyanamunamavi.edu.np
 readmore.edu.np
 recast.edu.np
 ref.edu.np
+reflectioneducational.edu.np
 refrc.edu.np
 register.namuna.edu.np
 remote.tpizxryg.hanabijapanese.edu.np
@@ -1154,6 +1170,7 @@ test.gurukulbaylor.edu.np
 test.pucef.edu.np
 test.vidhyasagar.edu.np.vidhyasagar.edu.np
 theacmeacademy.edu.np
+themountviewschool.edu.np
 thesunshine.edu.np
 timeacademy.edu.np
 topuniversal.edu.np
@@ -1268,6 +1285,7 @@ webdisk.professionalcareer.edu.np
 webdisk.rabicampus.edu.np
 webdisk.ran.edu.np
 webdisk.readmore.edu.np
+webdisk.reflectioneducational.edu.np
 webdisk.rtrk.edu.np
 webdisk.rumjatarschool.edu.np
 webdisk.rupitor.edu.np
@@ -1380,6 +1398,7 @@ webmail.professionalcareer.edu.np
 webmail.rabicampus.edu.np
 webmail.ran.edu.np
 webmail.readmore.edu.np
+webmail.reflectioneducational.edu.np
 webmail.rtrk.edu.np
 webmail.rumjatarschool.edu.np
 webmail.rupitor.edu.np
@@ -1442,6 +1461,8 @@ www.app.merotuki.edu.np
 www.apply.lbu.edu.np
 www.apt.edu.np
 www.arnikoschool.arnikofoundation.edu.np
+www.asahilink.edu.np
+www.asdasd.zingschool.edu.np
 www.asian.edu.np
 www.assets.hiis.edu.np
 www.axiscollege.edu.np
@@ -1481,6 +1502,7 @@ www.citycollege.edu.np
 www.citycomputer.edu.np
 www.consultant.aeh.edu.np
 www.convocation.lbu.edu.np
+www.creativeacademy.edu.np
 www.css.edu.np
 www.daisyschool.edu.np
 www.davbusinessschool.edu.np
@@ -1488,6 +1510,7 @@ www.dcan.edu.np
 www.deephighschool.edu.np
 www.demo.educonsult.edu.np
 www.demo.gyankunj.edu.np
+www.demo.ims.edu.np
 www.demo.newsummit.edu.np
 www.dhan.eiec.edu.np
 www.dharanadarsha.edu.np
@@ -1536,6 +1559,7 @@ www.gvns.edu.np
 www.happykidsmontessori.himalayanglory.edu.np
 www.harbour.edu.np
 www.hchm.edu.np
+www.highlandschool.edu.np
 www.hiis.edu.np
 www.himchhaya.edu.np
 www.hmc.edu.np
@@ -1553,6 +1577,7 @@ www.jmcampus.edu.np
 www.johndewey.edu.np
 www.kalibhumemavi.edu.np
 www.kavreschool.edu.np
+www.kbcampus.edu.np
 www.kennt.edu.np
 www.keu.org.np.kcs.edu.np
 www.kingshospitality.edu.np
@@ -1566,12 +1591,14 @@ www.kyoudai.edu.np.pos.org.np
 www.learning.hetaudaacademy.edu.np
 www.learnwordpress.ml.afpi.edu.np
 www.lishaschool.edu.np
+www.littlebud.edu.np
 www.lms.biratmedicalcollege.edu.np
 www.lms.dpschool.edu.np
 www.loksewajobs.yaxis.edu.np
 www.lss.edu.np
 www.lumbinibrihaspati.edu.np
 www.macpokhara.edu.np
+www.madanashrit.edu.np
 www.madheshuniversity.edu.np
 www.mahendramemorialcollege.edu.np
 www.mail.aecg.edu.np
@@ -1649,6 +1676,7 @@ www.rampurnamuna.edu.np
 www.ran.edu.np
 www.readmore.edu.np
 www.ref.edu.np
+www.reflectioneducational.edu.np
 www.register.namuna.edu.np
 www.reports.pahs.edu.np
 www.result.hetaudaacademy.edu.np
@@ -1730,6 +1758,7 @@ www.unikotraders.com.jmssg.edu.np
 www.uniquec.edu.np
 www.uniquecollegedamak.edu.np
 www.valleykrishicampusnp.vkc.edu.np
+www.wdsd.zingschool.edu.np
 www.wiki.kingscollege.edu.np
 www.www.pebschool.edu.np
 www.yetiinternationalcollege.edu.np
@@ -1741,3 +1770,4 @@ yetiinternationalcollege.kennt.edu.np
 youmeinternational.edu.np
 youngkids.edu.np
 yunesh.miit.edu.np
+zingschool.edu.np

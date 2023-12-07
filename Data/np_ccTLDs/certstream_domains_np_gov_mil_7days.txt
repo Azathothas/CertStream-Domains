@@ -83,6 +83,7 @@ gorkha.akc.gov.np
 gov.np.rankglobe.com
 gov.np.siteindices.com
 gov.np.websitebiography.com
+grape.gov.np
 gulmi.vethos.gov.np
 gunaso.hetaudamun.gov.np
 gwrdb.gov.np
@@ -248,6 +249,7 @@ www.dol.gov.np
 www.doli.gov.np
 www.dtcolamjung.gov.np
 www.getahospital.gov.np
+www.grape.gov.np
 www.gunaso.hetaudamun.gov.np
 www.gwrdb.gov.np
 www.hobardiya.gov.np
