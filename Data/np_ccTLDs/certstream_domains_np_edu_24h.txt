@@ -8,6 +8,7 @@ amv.edu.np
 anilpokharel.citycollege.edu.np
 aone.edu.np
 aone.edu.np.moonlightsoftware.com.np
+apply.pec.edu.np
 apt.edu.np
 autoconfig.old.jitpursecondaryschool.edu.np
 autodiscover.apt.edu.np
@@ -165,6 +166,8 @@ nps.edu.np
 nrfn.edu.np
 old.jitpursecondaryschool.edu.np
 online.hmesbs.edu.np
+pbbs.edu.np
+pec.edu.np
 peu.citycollege.edu.np
 pimaltarmavinuwakot.baraacademy.edu.np
 pimaltarmavinuwakot.edu.np
@@ -182,6 +185,7 @@ sammaharjan.com.np.kasthamandapcollege.edu.np
 samurai.edu.np
 sanjeevani.edu.np
 sanukimtang.edu.np.inspela.com
+saptakoshi.edu.np
 sasa.edu.np
 shivajanschool.edu.np
 shreeneraibm.edu.np
@@ -242,6 +246,7 @@ www.als.edu.np.globalfoodmartonline.com
 www.anilpokharel.citycollege.edu.np
 www.aone.edu.np
 www.aone.edu.np.moonlightsoftware.com.np
+www.apply.pec.edu.np
 www.apt.edu.np
 www.asdasd.zingschool.edu.np
 www.axiscollege.edu.np
@@ -270,6 +275,8 @@ www.minervaebs.edu.np
 www.minervaebs.edu.np.edu.sajilosikcha.com.np
 www.old.jitpursecondaryschool.edu.np
 www.online.hmesbs.edu.np
+www.pbbs.edu.np
+www.pec.edu.np
 www.peu.citycollege.edu.np
 www.pimaltarmavinuwakot.baraacademy.edu.np
 www.pimaltarmavinuwakot.edu.np
