@@ -140,6 +140,7 @@ gjav.edu.np
 gjav.edu.np.mbbsmdinnepal.com
 gloryschool.edu.np
 gothatarschool.edu.np
+guinness.edu.np
 gyandev.edu.np
 immieducation.edu.np
 infomaxcollege.edu.np
@@ -202,6 +203,7 @@ mwu.edu.np
 name.edu.np
 neelarjun.edu.np
 niharika.edu.np
+nirc.afpi.edu.np
 nitc.edu.np
 nps.edu.np
 nrfn.edu.np
@@ -334,6 +336,7 @@ www.mbman.edu.np
 www.minervaebs.edu.np
 www.minervaebs.edu.np.edu.sajilosikcha.com.np
 www.mrbacademy.edu.np
+www.nirc.afpi.edu.np
 www.old.jitpursecondaryschool.edu.np
 www.online.hmesbs.edu.np
 www.pbbs.edu.np
