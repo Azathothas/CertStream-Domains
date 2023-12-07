@@ -1,3 +1,4 @@
+aagamanacademy.edu.np
 adarshacollege.edu.np
 als.edu.np.globalfoodmartonline.com
 anilpokharel.citycollege.edu.np
@@ -18,6 +19,7 @@ cpanel.deephighschool.edu.np
 cpanel.dreamland.edu.np
 cpanel.fass.edu.np
 cpanel.gjav.edu.np
+cpanel.gloryschool.edu.np
 cpanel.khandadevi.edu.np
 cpanel.littlekids.edu.np
 cpanel.mahendramemorialcollege.edu.np
@@ -30,6 +32,7 @@ cpcalendars.bhumedeviss.edu.np
 cpcalendars.dreamland.edu.np
 cpcalendars.fass.edu.np
 cpcalendars.gjav.edu.np
+cpcalendars.gloryschool.edu.np
 cpcalendars.khandadevi.edu.np
 cpcalendars.mahendramemorialcollege.edu.np
 cpcalendars.pimaltarmavinuwakot.edu.np
@@ -41,6 +44,7 @@ cpcontacts.bhumedeviss.edu.np
 cpcontacts.dreamland.edu.np
 cpcontacts.fass.edu.np
 cpcontacts.gjav.edu.np
+cpcontacts.gloryschool.edu.np
 cpcontacts.khandadevi.edu.np
 cpcontacts.mahendramemorialcollege.edu.np
 cpcontacts.pimaltarmavinuwakot.edu.np
@@ -55,11 +59,13 @@ fass.edu.np
 ggn.edu.np
 gjav.edu.np
 gjav.edu.np.mbbsmdinnepal.com
+gloryschool.edu.np
 immieducation.edu.np
 jyotischool.edu.np
 khandadevi.edu.np
 littlekids.edu.np
 mahendramemorialcollege.edu.np
+mahunyalcampus.edu.np
 mail.adarshacollege.edu.np
 mail.bhumedeviss.edu.np
 mail.bpcbirgunj.edu.np
@@ -67,6 +73,7 @@ mail.deephighschool.edu.np
 mail.dreamland.edu.np
 mail.fass.edu.np
 mail.gjav.edu.np
+mail.gloryschool.edu.np
 mail.immieducation.edu.np
 mail.khandadevi.edu.np
 mail.littlekids.edu.np
@@ -74,6 +81,7 @@ mail.mahendramemorialcollege.edu.np
 mail.pimaltarmavinuwakot.edu.np
 mail.primeglobalschool.edu.np
 mail.rtrk.edu.np
+mail.sanjeevani.edu.np
 mail.shivajanschool.edu.np
 mail.smcollege.edu.np
 name.edu.np
@@ -88,6 +96,7 @@ pu.bpcbirgunj.edu.np
 qr.globaleducationpark.edu.np
 rtrk.edu.np
 sammaharjan.com.np.kasthamandapcollege.edu.np
+sanjeevani.edu.np
 sanukimtang.edu.np.inspela.com
 sasa.edu.np
 shivajanschool.edu.np
@@ -100,6 +109,7 @@ webdisk.bhumedeviss.edu.np
 webdisk.dreamland.edu.np
 webdisk.fass.edu.np
 webdisk.gjav.edu.np
+webdisk.gloryschool.edu.np
 webdisk.khandadevi.edu.np
 webdisk.mahendramemorialcollege.edu.np
 webdisk.pimaltarmavinuwakot.edu.np
@@ -111,6 +121,7 @@ webmail.bhumedeviss.edu.np
 webmail.dreamland.edu.np
 webmail.fass.edu.np
 webmail.gjav.edu.np
+webmail.gloryschool.edu.np
 webmail.khandadevi.edu.np
 webmail.littlekids.edu.np
 webmail.mahendramemorialcollege.edu.np
@@ -130,6 +141,7 @@ www.dreamland.edu.np
 www.fass.edu.np
 www.gjav.edu.np
 www.gjav.edu.np.mbbsmdinnepal.com
+www.gloryschool.edu.np
 www.khandadevi.edu.np
 www.mahendramemorialcollege.edu.np
 www.online.hmesbs.edu.np
@@ -141,6 +153,7 @@ www.pu.bpcbirgunj.edu.np
 www.qr.globaleducationpark.edu.np
 www.rtrk.edu.np
 www.sammaharjan.com.np.kasthamandapcollege.edu.np
+www.sanjeevani.edu.np
 www.sanukimtang.edu.np.inspela.com
 www.shivajanschool.edu.np
 www.smcollege.edu.np
