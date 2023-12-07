@@ -4,12 +4,14 @@ als.edu.np.globalfoodmartonline.com
 anilpokharel.citycollege.edu.np
 autodiscover.dreamland.edu.np
 autodiscover.gjav.edu.np
+autodiscover.openvisionacademy.edu.np
 autodiscover.primeglobalschool.edu.np
 bhumedeviss.baraacademy.edu.np
 bhumedeviss.edu.np
 bim.bpcbirgunj.edu.np
 bpcbirgunj.edu.np
 broadwayeducation.edu.np
+bulbulecampus.edu.np
 caribbean.edu.np
 cityhubeducation.edu.np
 communityschool.edu.np
@@ -61,7 +63,9 @@ gjav.edu.np
 gjav.edu.np.mbbsmdinnepal.com
 gloryschool.edu.np
 immieducation.edu.np
+jyotikunjschool.edu.np
 jyotischool.edu.np
+khakhanass.edu.np
 khandadevi.edu.np
 littlekids.edu.np
 mahendramemorialcollege.edu.np
@@ -86,6 +90,7 @@ mail.shivajanschool.edu.np
 mail.smcollege.edu.np
 name.edu.np
 nitc.edu.np
+nrfn.edu.np
 online.hmesbs.edu.np
 peu.citycollege.edu.np
 pimaltarmavinuwakot.baraacademy.edu.np
@@ -96,12 +101,15 @@ pu.bpcbirgunj.edu.np
 qr.globaleducationpark.edu.np
 rtrk.edu.np
 sammaharjan.com.np.kasthamandapcollege.edu.np
+samurai.edu.np
 sanjeevani.edu.np
 sanukimtang.edu.np.inspela.com
 sasa.edu.np
 shivajanschool.edu.np
 smcollege.edu.np
+spna.easycare.edu.np
 trilochanacademy.edu.np
+tu.bmc.edu.np
 viswadeep.edu.np
 wbsubdomain.a.bb.ccc.dddd.git.tore.adarsha.edu.np
 webdisk.adarshacollege.edu.np
@@ -129,6 +137,7 @@ webmail.pimaltarmavinuwakot.edu.np
 webmail.primeglobalschool.edu.np
 webmail.rtrk.edu.np
 webmail.smcollege.edu.np
+whitefield.edu.np
 www.adarshacollege.edu.np
 www.als.edu.np.globalfoodmartonline.com
 www.anilpokharel.citycollege.edu.np
@@ -157,3 +166,7 @@ www.sanjeevani.edu.np
 www.sanukimtang.edu.np.inspela.com
 www.shivajanschool.edu.np
 www.smcollege.edu.np
+www.spna.easycare.edu.np
+www.tu.bmc.edu.np
+www.whitefield.edu.np
+youngkids.edu.np
