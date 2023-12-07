@@ -217,6 +217,7 @@ vhlscddl.sudurpashchim.gov.np
 vhlscdoti.sudurpashchim.gov.np
 vhlsecparsa.p2.gov.np
 vhlsecudayapur.p1.gov.np
+vhlsjhapa.koshi.gov.np
 ward14.baglungmun.gov.np
 ward2.tulsipurmun.gov.np
 wiedohumla.karnali.gov.np
