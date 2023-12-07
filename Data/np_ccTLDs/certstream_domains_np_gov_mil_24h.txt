@@ -1,5 +1,6 @@
 api-rms.ndrrma.gov.np
 bajrabarahihospital.bagamati.gov.np
+cms.mellekhmun.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 getahospital.gov.np
