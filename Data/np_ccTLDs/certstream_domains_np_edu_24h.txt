@@ -21,6 +21,7 @@ autodiscover.primeglobalschool.edu.np
 autodiscover.reflectioneducational.edu.np
 axiscollege.edu.np
 baljagriti.edu.np
+baltara.edu.np
 bhagawatee.edu.np
 bhumedeviss.baraacademy.edu.np
 bhumedeviss.edu.np
@@ -31,6 +32,7 @@ brightstep.edu.np
 broadwayeducation.edu.np
 bulbulecampus.edu.np
 caribbean.edu.np
+citycomputer.edu.np
 cityhubeducation.edu.np
 cmsnepal.edu.np
 communityschool.edu.np
@@ -53,6 +55,8 @@ cpanel.littlekids.edu.np
 cpanel.mahendramemorialcollege.edu.np
 cpanel.mbman.edu.np
 cpanel.minervaebs.edu.np
+cpanel.mrbacademy.edu.np
+cpanel.openvisionacademy.edu.np
 cpanel.pimaltarmavinuwakot.edu.np
 cpanel.primeglobalschool.edu.np
 cpanel.reflectioneducational.edu.np
@@ -75,6 +79,7 @@ cpcalendars.kvmcollege.edu.np
 cpcalendars.mahendramemorialcollege.edu.np
 cpcalendars.mbman.edu.np
 cpcalendars.minervaebs.edu.np
+cpcalendars.mrbacademy.edu.np
 cpcalendars.pimaltarmavinuwakot.edu.np
 cpcalendars.primeglobalschool.edu.np
 cpcalendars.reflectioneducational.edu.np
@@ -140,6 +145,7 @@ kvmcollege.edu.np
 kvmcollege.edu.np.edu.sajilosikcha.com.np
 learninghub.ace.edu.np
 lifeeducation.edu.np
+littleangelsrapti.edu.np
 littlekids.edu.np
 mahendramemorialcollege.edu.np
 mahunyalcampus.edu.np
@@ -164,6 +170,7 @@ mail.littlekids.edu.np
 mail.mahendramemorialcollege.edu.np
 mail.mbman.edu.np
 mail.minervaebs.edu.np
+mail.mrbacademy.edu.np
 mail.old.jitpursecondaryschool.edu.np
 mail.pimaltarmavinuwakot.edu.np
 mail.primeglobalschool.edu.np
@@ -237,6 +244,7 @@ webdisk.kvmcollege.edu.np
 webdisk.mahendramemorialcollege.edu.np
 webdisk.mbman.edu.np
 webdisk.minervaebs.edu.np
+webdisk.mrbacademy.edu.np
 webdisk.pimaltarmavinuwakot.edu.np
 webdisk.primeglobalschool.edu.np
 webdisk.reflectioneducational.edu.np
@@ -260,6 +268,7 @@ webmail.littlekids.edu.np
 webmail.mahendramemorialcollege.edu.np
 webmail.mbman.edu.np
 webmail.minervaebs.edu.np
+webmail.mrbacademy.edu.np
 webmail.old.jitpursecondaryschool.edu.np
 webmail.pimaltarmavinuwakot.edu.np
 webmail.primeglobalschool.edu.np
@@ -302,6 +311,7 @@ www.mahendramemorialcollege.edu.np
 www.mbman.edu.np
 www.minervaebs.edu.np
 www.minervaebs.edu.np.edu.sajilosikcha.com.np
+www.mrbacademy.edu.np
 www.old.jitpursecondaryschool.edu.np
 www.online.hmesbs.edu.np
 www.pbbs.edu.np
