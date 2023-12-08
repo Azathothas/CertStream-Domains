@@ -1,17 +1,24 @@
 abacus.edu.np
 aksharaaschool.edu.np
 apeuni.edu.np
+apply.libertycollege.edu.np
+archclub.ku.edu.np
 asahilink.edu.np
 autodiscover.lts.edu.np
 autodiscover.shinecareer.edu.np
+baijnath.edu.np
 baljagriti.edu.np
+balsansar.edu.np
 bhm.pkcampus.edu.np
 bihaniinstitute.edu.np
 bishwobhasa.edu.np
 blog.aksharaaschool.edu.np
 ccst.mwu.edu.np
+certificate.nshm.edu.np
+chiragrana.com.np.nawapravatschool.edu.np
 civic.edu.np
 cmsnepal.edu.np
+cpanel.baijnath.edu.np
 cpanel.bihaniinstitute.edu.np
 cpanel.cmsnepal.edu.np
 cpanel.dec.edu.np
@@ -21,6 +28,7 @@ cpanel.mrbacademy.edu.np
 cpanel.radiantmnr.edu.np
 cpanel.saraswatisec.edu.np
 cpanel.shinecareer.edu.np
+cpcalendars.baijnath.edu.np
 cpcalendars.bihaniinstitute.edu.np
 cpcalendars.cmsnepal.edu.np
 cpcalendars.dec.edu.np
@@ -30,6 +38,7 @@ cpcalendars.mrbacademy.edu.np
 cpcalendars.radiantmnr.edu.np
 cpcalendars.saraswatisec.edu.np
 cpcalendars.shinecareer.edu.np
+cpcontacts.baijnath.edu.np
 cpcontacts.bihaniinstitute.edu.np
 cpcontacts.cmsnepal.edu.np
 cpcontacts.dec.edu.np
@@ -39,6 +48,7 @@ cpcontacts.radiantmnr.edu.np
 cpcontacts.saraswatisec.edu.np
 cpcontacts.shinecareer.edu.np
 dec.edu.np
+dps.edu.np
 educarebanepa.edu.np
 emssystem.gyanmarga.edu.np
 foa.edu.np
@@ -52,6 +62,7 @@ kidshome.edu.np
 littleflower.edu.np
 lts.edu.np
 mail.asahilink.edu.np
+mail.baijnath.edu.np
 mail.bihaniinstitute.edu.np
 mail.cmsnepal.edu.np
 mail.dec.edu.np
@@ -64,6 +75,7 @@ mail.saraswatisec.edu.np
 mail.shinecareer.edu.np
 mrbacademy.edu.np
 mwu.edu.np
+nepaldvm.edu.np
 niharika.edu.np
 nirc.afpi.edu.np
 pjhss.edu.np
@@ -81,6 +93,7 @@ siddhajyoticampus.edu.np
 studyquest.edu.np
 support.kingscollege.edu.np
 ulci.edu.np
+webdisk.baijnath.edu.np
 webdisk.bihaniinstitute.edu.np
 webdisk.cmsnepal.edu.np
 webdisk.dec.edu.np
@@ -90,6 +103,7 @@ webdisk.mrbacademy.edu.np
 webdisk.radiantmnr.edu.np
 webdisk.saraswatisec.edu.np
 webdisk.shinecareer.edu.np
+webmail.baijnath.edu.np
 webmail.bihaniinstitute.edu.np
 webmail.cmsnepal.edu.np
 webmail.dec.edu.np
@@ -99,10 +113,14 @@ webmail.mrbacademy.edu.np
 webmail.radiantmnr.edu.np
 webmail.saraswatisec.edu.np
 webmail.shinecareer.edu.np
+www.apply.libertycollege.edu.np
 www.asahilink.edu.np
 www.attendance.hetaudaacademy.edu.np
+www.baijnath.edu.np
 www.bhm.pkcampus.edu.np
 www.bihaniinstitute.edu.np
+www.certificate.nshm.edu.np
+www.chiragrana.com.np.nawapravatschool.edu.np
 www.cmsnepal.edu.np
 www.dec.edu.np
 www.gajurmukhee.edu.np
