@@ -1,1 +1,3 @@
 automation.nettv.com.np
+ncell.axiata.com
+webapi.ncell.axiata.com
