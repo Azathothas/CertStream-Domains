@@ -12,6 +12,7 @@ akcdarchula.sudurpashchim.gov.np
 akckanchanpur.sudurpashchim.gov.np
 akcmustang.gandaki.gov.np
 alaichibikash.gov.np
+apf.gov.np
 api-rms.ndrrma.gov.np
 apps.mahankalmun.gov.np
 apps.sunchhaharimun.gov.np
@@ -20,6 +21,7 @@ armis.pmamp.gov.np
 bajrabarahihospital.bagamati.gov.np
 banke.akc.gov.np
 banke.vethos.gov.np
+bill929i2449ng.ddc.gov.np
 billing.ddc.gov.np
 cdmis.karnali.gov.np
 chatbot.dor.gov.np
@@ -58,6 +60,7 @@ ebps.mahalaxmimun.gov.np
 eehelp.aepc.gov.np
 ehmis.chatarahospital.p1.gov.np
 ehrpmis.nra.gov.np
+ero.gov.np
 eservice.madimunchitwan.gov.np
 etconline.lumbini.gov.np
 fansepmis.moald.gov.np
@@ -131,6 +134,7 @@ mis.nccsp.gov.np
 mis.palungtarmun.gov.np
 mobile.kvda.gov.np
 mohp.gandaki.gov.np
+moitfe.p1.gov.np
 moitfe.p2.gov.np
 molcpa.gandaki.gov.np
 molcpa.gov.np
@@ -148,6 +152,7 @@ nationalzoologicalgarden.gov.np
 nepaltrace.p5.gov.np
 nhtc.p5.gov.np
 nic.gov.np
+nitc.gov.np
 ntacall.nta.gov.np
 nwchelpline.gov.np
 nwfpchetauda.gov.np
@@ -158,6 +163,7 @@ ors.gandaki.gov.np
 pbcr.nhrc.gov.np
 pcgg.p1.gov.np
 pciug.gov.np
+pfddmis.karnali.gov.np
 phlmc.p5.gov.np
 piubardiya.pmamp.gov.np
 piudang.pmamp.gov.np
@@ -192,11 +198,13 @@ sifarish.phalgunandamun.gov.np
 siktaip.dwri.gov.np
 sindhulihospital.bagamati.gov.np
 software.wthc.gov.np
+soillab.madhesh.gov.np
 soillabjhumka.gov.np
 statistic.hetaudamun.gov.np
 stidh.gov.np
 swmosurkhet.gov.np
 tanahun.swmo.gov.np
+telemed.apf.gov.np
 tmpp.mofaga.gov.np
 umakundamun.gov.np
 vethospalpa.gov.np
@@ -234,6 +242,7 @@ www.dofsc.gov.np
 www.dol.gov.np
 www.doli.gov.np
 www.dtcolamjung.gov.np
+www.ero.gov.np
 www.getahospital.gov.np
 www.grape.gov.np
 www.gunaso.hetaudamun.gov.np
@@ -252,6 +261,7 @@ www.nast.gov.np
 www.nathm.gov.np
 www.nationalzoologicalgarden.gov.np
 www.nic.gov.np
+www.nitc.gov.np
 www.nwchelpline.gov.np
 www.nwfpchetauda.gov.np
 www.pciug.gov.np
