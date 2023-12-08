@@ -1,4 +1,5 @@
 aadimcollege.edu.np
+aayog.pragyanam.edu.np
 abacus.edu.np
 admin.rahtm.edu.np
 admin.tinyscholar.edu.np
@@ -18,6 +19,8 @@ autodiscover.sadbhav.edu.np
 autodiscover.shinecareer.edu.np
 autodiscover.tinyscholar.edu.np
 baijnath.edu.np
+balbikasschool.edu.np
+balbikasschool.edu.np.schoolwebnepal.com
 baljagriti.edu.np
 balsansar.edu.np
 base.edu.np
@@ -112,6 +115,7 @@ drmpi.edu.np
 eastwest.edu.np
 educarebanepa.edu.np
 emssystem.gyanmarga.edu.np
+enlightacademy.edu.np
 everestjapanese.edu.np
 famcolacademy.edu.np
 famouseducation.edu.np
@@ -206,6 +210,7 @@ sima.edu.np
 simplifybusiness.com.np.greenwind.edu.np
 sites2.ku.edu.np
 sivm.edu.np
+skytouch.edu.np
 southwestern.edu.np
 ssss.edu.np
 studentfolio.edu.np
@@ -271,6 +276,7 @@ www.apply.libertycollege.edu.np
 www.asahilink.edu.np
 www.attendance.hetaudaacademy.edu.np
 www.baijnath.edu.np
+www.balbikasschool.edu.np.schoolwebnepal.com
 www.balvikashmadi.edu.np
 www.base.edu.np
 www.bhm.pkcampus.edu.np
@@ -319,6 +325,7 @@ www.shinecareer.edu.np.mbbsmdinnepal.com
 www.shrijan.com.np.dharanadarsha.edu.np
 www.simplifybusiness.com.np.greenwind.edu.np
 www.sivm.edu.np
+www.skytouch.edu.np
 www.southwestern.edu.np
 www.studyquest.edu.np
 www.sunaulobhairabischool.edu.np

@@ -8,6 +8,7 @@ ehrpmis.nra.gov.np
 getahospital.gov.np
 motfe.p1.gov.np
 nic.gov.np
+nitc.gov.np
 ocmcm.p1.gov.np
 ocos.lumbini.gov.np
 pollution.gov.np
@@ -18,3 +19,4 @@ tanahun.swmo.gov.np
 telemed.apf.gov.np
 www.getahospital.gov.np
 www.nic.gov.np
+www.nitc.gov.np
