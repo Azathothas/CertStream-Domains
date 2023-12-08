@@ -7,6 +7,7 @@ getahospital.gov.np
 nic.gov.np
 ocos.lumbini.gov.np
 pollution.gov.np
+sifarish.bansgadhimun.gov.np
 tanahun.swmo.gov.np
 telemed.apf.gov.np
 www.getahospital.gov.np
