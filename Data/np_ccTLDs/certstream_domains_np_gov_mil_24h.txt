@@ -6,9 +6,12 @@ dartachalani.bansgadhimun.gov.np
 dold.karnali.gov.np
 ehrpmis.nra.gov.np
 getahospital.gov.np
+motfe.p1.gov.np
 nic.gov.np
+ocmcm.p1.gov.np
 ocos.lumbini.gov.np
 pollution.gov.np
+rims.mellekhmun.gov.np
 road.butwalmun.gov.np
 sifarish.bansgadhimun.gov.np
 tanahun.swmo.gov.np
