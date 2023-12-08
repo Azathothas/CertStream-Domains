@@ -54,11 +54,14 @@ mwu.edu.np
 niharika.edu.np
 pjhss.edu.np
 radiantmnr.edu.np
+registration.hritacademy.edu.np
 saraswatisec.edu.np
 saraswotinamuna.edu.np
 sess.edu.np
 sharadassthose.edu.np.inspela.com
 siddhajyoticampus.edu.np
+studyquest.edu.np
+support.kingscollege.edu.np
 webdisk.cmsnepal.edu.np
 webdisk.dec.edu.np
 webdisk.gajurmukhee.edu.np
@@ -82,6 +85,9 @@ www.ghuselmavi.shreenarayani.edu.np
 www.lts.edu.np
 www.mrbacademy.edu.np
 www.radiantmnr.edu.np
+www.registration.hritacademy.edu.np
 www.saraswatisec.edu.np
 www.savya.edu.np
 www.sharadassthose.edu.np.inspela.com
+www.studyquest.edu.np
+www.support.kingscollege.edu.np
