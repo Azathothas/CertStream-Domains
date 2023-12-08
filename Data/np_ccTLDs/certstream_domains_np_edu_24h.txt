@@ -26,6 +26,8 @@ blog.aksharaaschool.edu.np
 bvsbrt.edu.np
 ccst.mwu.edu.np
 certificate.nshm.edu.np
+chandrajyotiebs.edu.np
+chandrajyotiebs.edu.np.chakmakebazar.com.np
 chiragrana.com.np.nawapravatschool.edu.np
 civic.edu.np
 cmsnepal.edu.np
@@ -36,6 +38,7 @@ cpanel.baijnath.edu.np
 cpanel.base.edu.np
 cpanel.bihaniinstitute.edu.np
 cpanel.bvsbrt.edu.np
+cpanel.chandrajyotiebs.edu.np
 cpanel.cmsnepal.edu.np
 cpanel.dec.edu.np
 cpanel.gajurmukhee.edu.np
@@ -55,6 +58,7 @@ cpcalendars.baijnath.edu.np
 cpcalendars.base.edu.np
 cpcalendars.bihaniinstitute.edu.np
 cpcalendars.bvsbrt.edu.np
+cpcalendars.chandrajyotiebs.edu.np
 cpcalendars.cmsnepal.edu.np
 cpcalendars.dec.edu.np
 cpcalendars.gajurmukhee.edu.np
@@ -74,6 +78,7 @@ cpcontacts.baijnath.edu.np
 cpcontacts.base.edu.np
 cpcontacts.bihaniinstitute.edu.np
 cpcontacts.bvsbrt.edu.np
+cpcontacts.chandrajyotiebs.edu.np
 cpcontacts.cmsnepal.edu.np
 cpcontacts.dec.edu.np
 cpcontacts.gajurmukhee.edu.np
@@ -96,21 +101,26 @@ eastwest.edu.np
 educarebanepa.edu.np
 emssystem.gyanmarga.edu.np
 everestjapanese.edu.np
+famouseducation.edu.np
 fasttrack.edu.np
 foa.edu.np
 gajurmukhee.edu.np
 gama.edu.np
 getguidelines.edu.np
 ghuselmavi.shreenarayani.edu.np
+giec.edu.np
 git.git.git.git.holyfamily.edu.np
 grace.edu.np
 guinness.edu.np
 gyanmarga.edu.np
+haec.edu.np
 hetaudaacademy.edu.np
 hmc.edu.np
 iwkh.edu.np
 kalibhumemavi.edu.np
+kampeki.edu.np
 karnalicollege.edu.np
+kasthamandap.edu.np
 kedc.edu.np
 kidshome.edu.np
 littlebud.edu.np
@@ -122,6 +132,7 @@ mail.baijnath.edu.np
 mail.base.edu.np
 mail.bihaniinstitute.edu.np
 mail.bvsbrt.edu.np
+mail.chandrajyotiebs.edu.np
 mail.cmsnepal.edu.np
 mail.dec.edu.np
 mail.gajurmukhee.edu.np
@@ -141,6 +152,7 @@ mail.tinyscholar.edu.np
 megasoft.edu.np
 mrbacademy.edu.np
 mwu.edu.np
+neec.edu.np
 nepaldvm.edu.np
 new.globalhr.edu.np
 nicola.edu.np
@@ -190,6 +202,7 @@ webdisk.baijnath.edu.np
 webdisk.base.edu.np
 webdisk.bihaniinstitute.edu.np
 webdisk.bvsbrt.edu.np
+webdisk.chandrajyotiebs.edu.np
 webdisk.cmsnepal.edu.np
 webdisk.dec.edu.np
 webdisk.gajurmukhee.edu.np
@@ -209,6 +222,7 @@ webmail.baijnath.edu.np
 webmail.base.edu.np
 webmail.bihaniinstitute.edu.np
 webmail.bvsbrt.edu.np
+webmail.chandrajyotiebs.edu.np
 webmail.cmsnepal.edu.np
 webmail.dec.edu.np
 webmail.gajurmukhee.edu.np
@@ -234,6 +248,8 @@ www.bhm.pkcampus.edu.np
 www.bihaniinstitute.edu.np
 www.bvsbrt.edu.np
 www.certificate.nshm.edu.np
+www.chandrajyotiebs.edu.np
+www.chandrajyotiebs.edu.np.chakmakebazar.com.np
 www.chiragrana.com.np.nawapravatschool.edu.np
 www.cmsnepal.edu.np
 www.companion.edu.np.sandeshbasnet.com.np
