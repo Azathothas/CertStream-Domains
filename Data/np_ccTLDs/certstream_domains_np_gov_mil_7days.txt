@@ -24,6 +24,7 @@ banke.vethos.gov.np
 bill929i2449ng.ddc.gov.np
 billing.ddc.gov.np
 cdmis.karnali.gov.np
+certification.bansgadhimun.gov.np
 chatbot.dor.gov.np
 cis.cao.koshi.gov.np
 cms.mellekhmun.gov.np
@@ -33,6 +34,7 @@ csidb.gov.np
 dailekh.oicp.gov.np
 dang.postalservice.gov.np
 dang.superzone.gov.np
+dartachalani.bansgadhimun.gov.np
 dfobajura.gov.np
 dfogorkha.gov.np
 dfokanchanpur.gov.np
@@ -192,6 +194,7 @@ sddopyuthan.lumbini.gov.np
 sdodolpa.karnali.gov.np
 sftlhetauda.gov.np
 shuddhodhanmunrupandehi.gov.np
+sifarish.bansgadhimun.gov.np
 sifarish.kawilasimun.gov.np
 sifarish.nepalgunjmun.gov.np
 sifarish.phalgunandamun.gov.np

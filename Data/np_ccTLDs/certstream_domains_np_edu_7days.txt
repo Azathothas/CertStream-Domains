@@ -320,6 +320,7 @@ cpanel.shacademy.edu.np
 cpanel.shinecareer.edu.np
 cpanel.shivasecondary.edu.np
 cpanel.siddheshwori.edu.np
+cpanel.sivm.edu.np
 cpanel.smartopenacademy.edu.np
 cpanel.smcollege.edu.np
 cpanel.smstu.edu.np
@@ -426,6 +427,7 @@ cpcalendars.shacademy.edu.np
 cpcalendars.shinecareer.edu.np
 cpcalendars.shivasecondary.edu.np
 cpcalendars.siddheshwori.edu.np
+cpcalendars.sivm.edu.np
 cpcalendars.smartopenacademy.edu.np
 cpcalendars.smcollege.edu.np
 cpcalendars.smstu.edu.np
@@ -532,6 +534,7 @@ cpcontacts.shacademy.edu.np
 cpcontacts.shinecareer.edu.np
 cpcontacts.shivasecondary.edu.np
 cpcontacts.siddheshwori.edu.np
+cpcontacts.sivm.edu.np
 cpcontacts.smartopenacademy.edu.np
 cpcontacts.smcollege.edu.np
 cpcontacts.smstu.edu.np
@@ -884,6 +887,7 @@ mail.shivajanschool.edu.np
 mail.shivasecondary.edu.np
 mail.shreebiramarsinghss.edu.np
 mail.siddheshwori.edu.np
+mail.sivm.edu.np
 mail.skipi.edu.np
 mail.smartopenacademy.edu.np
 mail.smcollege.edu.np
@@ -1011,6 +1015,7 @@ pbbs.edu.np
 pebschool.edu.np
 pec.edu.np
 peu.citycollege.edu.np
+pfec.edu.np
 pgcampus.edu.np
 pimaltarmavinuwakot.baraacademy.edu.np
 pimaltarmavinuwakot.edu.np
@@ -1118,6 +1123,7 @@ siddheshwori.edu.np
 sima.edu.np
 simaracollege.edu.np
 simplifybusiness.com.np.greenwind.edu.np
+sivm.edu.np
 skytouch.edu.np
 smartopenacademy.edu.np
 smartopenacademy.edu.np.icas.edu.np
@@ -1282,6 +1288,7 @@ webdisk.shacademy.edu.np
 webdisk.shinecareer.edu.np
 webdisk.shivasecondary.edu.np
 webdisk.siddheshwori.edu.np
+webdisk.sivm.edu.np
 webdisk.smartopenacademy.edu.np
 webdisk.smcollege.edu.np
 webdisk.smstu.edu.np
@@ -1394,6 +1401,7 @@ webmail.shinecareer.edu.np
 webmail.shivasecondary.edu.np
 webmail.shreebiramarsinghss.edu.np
 webmail.siddheshwori.edu.np
+webmail.sivm.edu.np
 webmail.smartopenacademy.edu.np
 webmail.smcollege.edu.np
 webmail.smstu.edu.np
@@ -1692,6 +1700,7 @@ www.shreeneraibm.edu.np
 www.siddheshwori.edu.np
 www.simaracollege.edu.np
 www.simplifybusiness.com.np.greenwind.edu.np
+www.sivm.edu.np
 www.skytouch.edu.np
 www.smartopenacademy.edu.np.icas.edu.np
 www.smcollege.edu.np
