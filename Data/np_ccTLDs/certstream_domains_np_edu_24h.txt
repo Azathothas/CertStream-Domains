@@ -1,4 +1,5 @@
 abacus.edu.np
+admin.rahtm.edu.np
 aksharaaschool.edu.np
 apeuni.edu.np
 apply.libertycollege.edu.np
@@ -32,6 +33,7 @@ cpanel.mrbacademy.edu.np
 cpanel.radiantmnr.edu.np
 cpanel.saraswatisec.edu.np
 cpanel.shinecareer.edu.np
+cpanel.sivm.edu.np
 cpanel.sunaulobhairabischool.edu.np
 cpcalendars.baijnath.edu.np
 cpcalendars.bihaniinstitute.edu.np
@@ -45,6 +47,7 @@ cpcalendars.mrbacademy.edu.np
 cpcalendars.radiantmnr.edu.np
 cpcalendars.saraswatisec.edu.np
 cpcalendars.shinecareer.edu.np
+cpcalendars.sivm.edu.np
 cpcalendars.sunaulobhairabischool.edu.np
 cpcontacts.baijnath.edu.np
 cpcontacts.bihaniinstitute.edu.np
@@ -57,6 +60,7 @@ cpcontacts.lts.edu.np
 cpcontacts.radiantmnr.edu.np
 cpcontacts.saraswatisec.edu.np
 cpcontacts.shinecareer.edu.np
+cpcontacts.sivm.edu.np
 cpcontacts.sunaulobhairabischool.edu.np
 dec.edu.np
 dps.edu.np
@@ -89,6 +93,7 @@ mail.mrbacademy.edu.np
 mail.radiantmnr.edu.np
 mail.saraswatisec.edu.np
 mail.shinecareer.edu.np
+mail.sivm.edu.np
 mail.sunaulobhairabischool.edu.np
 mrbacademy.edu.np
 mwu.edu.np
@@ -111,6 +116,8 @@ sharadassthose.edu.np.inspela.com
 shinecareer.edu.np
 shinecareer.edu.np.mbbsmdinnepal.com
 siddhajyoticampus.edu.np
+simplifybusiness.com.np.greenwind.edu.np
+sivm.edu.np
 southwestern.edu.np
 studentfolio.edu.np
 studyquest.edu.np
@@ -118,6 +125,7 @@ sunaulobhairabischool.edu.np
 support.kingscollege.edu.np
 swifteducare.edu.np
 ulci.edu.np
+vijayapursecondaryschool.edu.np
 webdisk.baijnath.edu.np
 webdisk.bihaniinstitute.edu.np
 webdisk.bvsbrt.edu.np
@@ -130,6 +138,7 @@ webdisk.mrbacademy.edu.np
 webdisk.radiantmnr.edu.np
 webdisk.saraswatisec.edu.np
 webdisk.shinecareer.edu.np
+webdisk.sivm.edu.np
 webdisk.sunaulobhairabischool.edu.np
 webmail.baijnath.edu.np
 webmail.bihaniinstitute.edu.np
@@ -143,6 +152,7 @@ webmail.mrbacademy.edu.np
 webmail.radiantmnr.edu.np
 webmail.saraswatisec.edu.np
 webmail.shinecareer.edu.np
+webmail.sivm.edu.np
 webmail.sunaulobhairabischool.edu.np
 www.apply.libertycollege.edu.np
 www.asahilink.edu.np
@@ -174,6 +184,8 @@ www.savya.edu.np
 www.sharadassthose.edu.np.inspela.com
 www.shinecareer.edu.np
 www.shinecareer.edu.np.mbbsmdinnepal.com
+www.simplifybusiness.com.np.greenwind.edu.np
+www.sivm.edu.np
 www.southwestern.edu.np
 www.studyquest.edu.np
 www.sunaulobhairabischool.edu.np
