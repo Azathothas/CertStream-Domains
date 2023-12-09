@@ -47,8 +47,10 @@ cpanel.fikkalmavi.edu.np
 cpanel.hillsideacademy.edu.np
 cpanel.janavikash.edu.np
 cpanel.jjms.edu.np
+cpanel.kalidevischools.edu.np
 cpanel.kalikamujhung.edu.np
 cpanel.kalikasschool.edu.np
+cpanel.kamalaaavi.edu.np
 cpanel.mahendrapratap.edu.np
 cpanel.mastamabi.edu.np
 cpanel.mastesworimavi.edu.np
@@ -68,6 +70,7 @@ cpanel.ranischool.edu.np
 cpanel.rdss.edu.np
 cpanel.royalacademy.edu.np
 cpanel.sadbhav.edu.np
+cpanel.saraswatimaviramche.edu.np
 cpanel.seabird.edu.np
 cpanel.sevs.edu.np
 cpanel.shankhadevimavijyamrung.edu.np
@@ -95,8 +98,10 @@ cpcalendars.fikkalmavi.edu.np
 cpcalendars.hillsideacademy.edu.np
 cpcalendars.janavikash.edu.np
 cpcalendars.jjms.edu.np
+cpcalendars.kalidevischools.edu.np
 cpcalendars.kalikamujhung.edu.np
 cpcalendars.kalikasschool.edu.np
+cpcalendars.kamalaaavi.edu.np
 cpcalendars.mahendrapratap.edu.np
 cpcalendars.mastamabi.edu.np
 cpcalendars.mastesworimavi.edu.np
@@ -116,6 +121,7 @@ cpcalendars.ranischool.edu.np
 cpcalendars.rdss.edu.np
 cpcalendars.royalacademy.edu.np
 cpcalendars.sadbhav.edu.np
+cpcalendars.saraswatimaviramche.edu.np
 cpcalendars.seabird.edu.np
 cpcalendars.sevs.edu.np
 cpcalendars.shankhadevimavijyamrung.edu.np
@@ -143,8 +149,10 @@ cpcontacts.fikkalmavi.edu.np
 cpcontacts.hillsideacademy.edu.np
 cpcontacts.janavikash.edu.np
 cpcontacts.jjms.edu.np
+cpcontacts.kalidevischools.edu.np
 cpcontacts.kalikamujhung.edu.np
 cpcontacts.kalikasschool.edu.np
+cpcontacts.kamalaaavi.edu.np
 cpcontacts.mahendrapratap.edu.np
 cpcontacts.mastamabi.edu.np
 cpcontacts.mastesworimavi.edu.np
@@ -164,6 +172,7 @@ cpcontacts.ranischool.edu.np
 cpcontacts.rdss.edu.np
 cpcontacts.royalacademy.edu.np
 cpcontacts.sadbhav.edu.np
+cpcontacts.saraswatimaviramche.edu.np
 cpcontacts.seabird.edu.np
 cpcontacts.sevs.edu.np
 cpcontacts.shankhadevimavijyamrung.edu.np
@@ -186,6 +195,7 @@ dilpeshwormavi.edu.np.edu.sajilosikcha.com.np
 dolphin.edu.np
 dudhapokhariaavi.edu.np
 durga.edu.np
+e.scd.edu.np
 edutek.edu.np
 eecohm.edu.np
 elearning.triton.edu.np
@@ -206,14 +216,19 @@ hillsideacademy.edu.np
 hrm.ankuram.edu.np
 iic.edu.np
 janakalyanhss.edu.np
+janamodelschool.edu.np
 janavikash.edu.np
 janavikash.edu.np.edu.sajilosikcha.com.np
 jjms.edu.np
 jjms.edu.np.edu.sajilosikcha.com.np
+jssitahari.edu.np
+kalidevischools.edu.np
+kalidevischools.edu.np.edu.sajilosikcha.com.np
 kalikamujhung.edu.np
 kalikamujhung.edu.np.edu.sajilosikcha.com.np
 kalikasschool.edu.np
 kalikasschool.edu.np.edu.sajilosikcha.com.np
+kamalaaavi.edu.np
 kampeki.edu.np
 kasthamandap.edu.np
 mahadevmavischool.edu.np
@@ -233,8 +248,10 @@ mail.fikkalmavi.edu.np
 mail.hillsideacademy.edu.np
 mail.janavikash.edu.np
 mail.jjms.edu.np
+mail.kalidevischools.edu.np
 mail.kalikamujhung.edu.np
 mail.kalikasschool.edu.np
+mail.kamalaaavi.edu.np
 mail.mahendrapratap.edu.np
 mail.mastamabi.edu.np
 mail.mastesworimavi.edu.np
@@ -255,6 +272,7 @@ mail.ranischool.edu.np
 mail.rdss.edu.np
 mail.royalacademy.edu.np
 mail.sadbhav.edu.np
+mail.saraswatimaviramche.edu.np
 mail.seabird.edu.np
 mail.sevs.edu.np
 mail.shankhadevimavijyamrung.edu.np
@@ -311,6 +329,7 @@ rdss.edu.np.edu.sajilosikcha.com.np
 rkbpi.edu.np
 royalacademy.edu.np
 sadbhav.edu.np
+saraswatimaviramche.edu.np
 saraswatimaviramche.edu.np.edu.sajilosikcha.com.np
 sasa.edu.np
 sdssecondaryschool.edu.np
@@ -336,6 +355,7 @@ sms.edu.np
 soleducationconsultancy.edu.np
 ssessmechinagar.edu.np
 ssss.edu.np
+staging.goreto.edu.np
 student.lbu.edu.np
 suryachandra.edu.np
 suryachandra.edu.np.edu.sajilosikcha.com.np
@@ -361,8 +381,10 @@ webdisk.fikkalmavi.edu.np
 webdisk.hillsideacademy.edu.np
 webdisk.janavikash.edu.np
 webdisk.jjms.edu.np
+webdisk.kalidevischools.edu.np
 webdisk.kalikamujhung.edu.np
 webdisk.kalikasschool.edu.np
+webdisk.kamalaaavi.edu.np
 webdisk.mahendrapratap.edu.np
 webdisk.mastamabi.edu.np
 webdisk.mastesworimavi.edu.np
@@ -382,6 +404,7 @@ webdisk.ranischool.edu.np
 webdisk.rdss.edu.np
 webdisk.royalacademy.edu.np
 webdisk.sadbhav.edu.np
+webdisk.saraswatimaviramche.edu.np
 webdisk.seabird.edu.np
 webdisk.sevs.edu.np
 webdisk.shankhadevimavijyamrung.edu.np
@@ -409,8 +432,10 @@ webmail.fikkalmavi.edu.np
 webmail.hillsideacademy.edu.np
 webmail.janavikash.edu.np
 webmail.jjms.edu.np
+webmail.kalidevischools.edu.np
 webmail.kalikamujhung.edu.np
 webmail.kalikasschool.edu.np
+webmail.kamalaaavi.edu.np
 webmail.mahendrapratap.edu.np
 webmail.mastamabi.edu.np
 webmail.mastesworimavi.edu.np
@@ -431,6 +456,7 @@ webmail.ranischool.edu.np
 webmail.rdss.edu.np
 webmail.royalacademy.edu.np
 webmail.sadbhav.edu.np
+webmail.saraswatimaviramche.edu.np
 webmail.seabird.edu.np
 webmail.sevs.edu.np
 webmail.shankhadevimavijyamrung.edu.np
@@ -471,14 +497,18 @@ www.eurokidsnepal.edu.np
 www.fikkalmavi.edu.np
 www.fikkalmavi.edu.np.edu.sajilosikcha.com.np
 www.hillsideacademy.edu.np
+www.janamodelschool.edu.np
 www.janavikash.edu.np
 www.janavikash.edu.np.edu.sajilosikcha.com.np
 www.jjms.edu.np
 www.jjms.edu.np.edu.sajilosikcha.com.np
+www.kalidevischools.edu.np
+www.kalidevischools.edu.np.edu.sajilosikcha.com.np
 www.kalikamujhung.edu.np
 www.kalikamujhung.edu.np.edu.sajilosikcha.com.np
 www.kalikasschool.edu.np
 www.kalikasschool.edu.np.edu.sajilosikcha.com.np
+www.kamalaaavi.edu.np
 www.mahendrapratap.edu.np
 www.mahendrapratap.edu.np.edu.sajilosikcha.com.np
 www.mastamabi.edu.np
@@ -515,6 +545,7 @@ www.rdss.edu.np
 www.rdss.edu.np.edu.sajilosikcha.com.np
 www.royalacademy.edu.np
 www.sadbhav.edu.np
+www.saraswatimaviramche.edu.np
 www.saraswatimaviramche.edu.np.edu.sajilosikcha.com.np
 www.seabird.edu.np
 www.sevs.edu.np
@@ -536,6 +567,7 @@ www.skytouch.edu.np
 www.sms.edu.np
 www.soleducationconsultancy.edu.np
 www.ssessmechinagar.edu.np
+www.staging.goreto.edu.np
 www.student.lbu.edu.np
 www.suryachandra.edu.np
 www.suryachandra.edu.np.edu.sajilosikcha.com.np
