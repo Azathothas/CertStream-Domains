@@ -6,6 +6,7 @@ copomis.mocpa.gov.np
 dartachalani.bansgadhimun.gov.np
 dolfd.sudurpashchim.gov.np
 ebulletin.election.gov.np
+eddsp.gov.np
 karnalifrtc.gov.np
 moial.p1.gov.np
 motfe.p1.gov.np
@@ -15,6 +16,9 @@ ocmcm.p1.gov.np
 pms.karnali.gov.np
 profile.damakmun.gov.np
 sifarish.bansgadhimun.gov.np
+tourism.lmc.gov.np.yiiff.org
 vacancy.neb.gov.np
+www.eddsp.gov.np
 www.karnalifrtc.gov.np
 www.nitc.gov.np
+www.tourism.lmc.gov.np.yiiff.org
