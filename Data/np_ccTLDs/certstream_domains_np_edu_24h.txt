@@ -64,6 +64,7 @@ cpanel.dudhapokhariaavi.edu.np
 cpanel.eurokidsnepal.edu.np
 cpanel.fikkalmavi.edu.np
 cpanel.forwardacademicteam.edu.np
+cpanel.gantabya.edu.np
 cpanel.hillsideacademy.edu.np
 cpanel.janavikash.edu.np
 cpanel.jjms.edu.np
@@ -124,6 +125,7 @@ cpcalendars.dudhapokhariaavi.edu.np
 cpcalendars.eurokidsnepal.edu.np
 cpcalendars.fikkalmavi.edu.np
 cpcalendars.forwardacademicteam.edu.np
+cpcalendars.gantabya.edu.np
 cpcalendars.hillsideacademy.edu.np
 cpcalendars.janavikash.edu.np
 cpcalendars.jjms.edu.np
@@ -184,6 +186,7 @@ cpcontacts.dudhapokhariaavi.edu.np
 cpcontacts.eurokidsnepal.edu.np
 cpcontacts.fikkalmavi.edu.np
 cpcontacts.forwardacademicteam.edu.np
+cpcontacts.gantabya.edu.np
 cpcontacts.hillsideacademy.edu.np
 cpcontacts.janavikash.edu.np
 cpcontacts.jjms.edu.np
@@ -232,6 +235,7 @@ designlab.ku.edu.np
 dgstu.edu.np
 dilpeshwormavi.edu.np
 dilpeshwormavi.edu.np.edu.sajilosikcha.com.np
+divineas.edu.np
 dktuition.edu.np
 dolphin.edu.np
 dudhapokhariaavi.edu.np
@@ -251,6 +255,7 @@ fikkalmavi.edu.np.edu.sajilosikcha.com.np
 fortune100.edu.np
 forwardacademicteam.edu.np
 gama.edu.np
+gantabya.edu.np
 gaurishankarhss.edu.np
 getguidelines.edu.np
 globalacademy.edu.np
@@ -295,6 +300,7 @@ mail.dudhapokhariaavi.edu.np
 mail.eurokidsnepal.edu.np
 mail.fikkalmavi.edu.np
 mail.forwardacademicteam.edu.np
+mail.gantabya.edu.np
 mail.hillsideacademy.edu.np
 mail.janavikash.edu.np
 mail.jjms.edu.np
@@ -351,6 +357,7 @@ motimavi.edu.np
 motimavi.edu.np.edu.sajilosikcha.com.np
 mpiachham.edu.np
 ms.triton.edu.np
+namasteacademy.edu.np
 nawajeewan.edu.np
 nepaldvm.edu.np
 nepaldvm.edu.np.surajthakuri.com.np
@@ -445,6 +452,7 @@ webdisk.dudhapokhariaavi.edu.np
 webdisk.eurokidsnepal.edu.np
 webdisk.fikkalmavi.edu.np
 webdisk.forwardacademicteam.edu.np
+webdisk.gantabya.edu.np
 webdisk.hillsideacademy.edu.np
 webdisk.janavikash.edu.np
 webdisk.jjms.edu.np
@@ -505,6 +513,7 @@ webmail.dudhapokhariaavi.edu.np
 webmail.eurokidsnepal.edu.np
 webmail.fikkalmavi.edu.np
 webmail.forwardacademicteam.edu.np
+webmail.gantabya.edu.np
 webmail.hillsideacademy.edu.np
 webmail.janavikash.edu.np
 webmail.jjms.edu.np
@@ -580,6 +589,7 @@ www.eurokidsnepal.edu.np
 www.fikkalmavi.edu.np
 www.fikkalmavi.edu.np.edu.sajilosikcha.com.np
 www.forwardacademicteam.edu.np
+www.gantabya.edu.np
 www.hillsideacademy.edu.np
 www.janamodelschool.edu.np
 www.janavikash.edu.np
@@ -604,6 +614,7 @@ www.motimavi.edu.np
 www.motimavi.edu.np.edu.sajilosikcha.com.np
 www.mpiachham.edu.np
 www.ms.triton.edu.np
+www.namasteacademy.edu.np
 www.nawajeewan.edu.np
 www.nepaldvm.edu.np
 www.nepaldvm.edu.np.surajthakuri.com.np

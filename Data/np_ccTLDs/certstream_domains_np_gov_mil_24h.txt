@@ -4,12 +4,15 @@ certification.bansgadhimun.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 dartachalani.bansgadhimun.gov.np
+dolfd.sudurpashchim.gov.np
+ebulletin.election.gov.np
 karnalifrtc.gov.np
 moial.p1.gov.np
 motfe.p1.gov.np
 nbms.mec.gov.np
 nitc.gov.np
 ocmcm.p1.gov.np
+pms.karnali.gov.np
 profile.damakmun.gov.np
 sifarish.bansgadhimun.gov.np
 vacancy.neb.gov.np
