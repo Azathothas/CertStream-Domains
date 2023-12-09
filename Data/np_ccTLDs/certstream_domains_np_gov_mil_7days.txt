@@ -23,6 +23,7 @@ banke.akc.gov.np
 banke.vethos.gov.np
 bill929i2449ng.ddc.gov.np
 billing.ddc.gov.np
+cao.koshi.gov.np
 cdmis.karnali.gov.np
 certification.bansgadhimun.gov.np
 chatbot.dor.gov.np
@@ -53,6 +54,7 @@ doarkhajura.narc.gov.np
 doarskt.narc.gov.np
 dofsc.gov.np
 dol.gov.np
+dold.karnali.gov.np
 dolfd.bagamati.gov.np
 doli.gov.np
 dolpa.oicp.gov.np
@@ -141,6 +143,7 @@ moitfe.p2.gov.np
 molcpa.gandaki.gov.np
 molcpa.gov.np
 moless.gov.np
+motfe.p1.gov.np
 mugu.oicp.gov.np
 mustang.edcu.gov.np
 naksadata.dakshinkalimun.gov.np
@@ -158,6 +161,8 @@ nitc.gov.np
 ntacall.nta.gov.np
 nwchelpline.gov.np
 nwfpchetauda.gov.np
+ocmcm.p1.gov.np
+ocos.lumbini.gov.np
 ocs.p2.gov.np
 old.mof.gov.np
 oph.gandaki.gov.np
@@ -181,6 +186,8 @@ redd.gov.np
 registration.phidimmun.gov.np
 report.p5.gov.np
 ridorolpa.lumbini.gov.np
+rims.mellekhmun.gov.np
+road.butwalmun.gov.np
 rolpa.akc.gov.np
 rolpa.vethos.gov.np
 rukumpaschim.oicp.gov.np

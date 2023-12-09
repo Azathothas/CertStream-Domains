@@ -1,5 +1,8 @@
+automation.nettv.com.np
 cmpg.cgnet.com.np
 icewarp.subisu.net.np
 ledger.ntc.net.np
+ncell.axiata.com
 ns2.classic.com.np
 private.wlink.com.np
+webapi.ncell.axiata.com
