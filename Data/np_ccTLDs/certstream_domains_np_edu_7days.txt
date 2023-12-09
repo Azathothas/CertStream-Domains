@@ -102,6 +102,7 @@ autodiscover.nrns.edu.np
 autodiscover.old.jitpursecondaryschool.edu.np
 autodiscover.old.maivalleyschool.edu.np
 autodiscover.openvisionacademy.edu.np
+autodiscover.penacademy.edu.np
 autodiscover.primeglobalschool.edu.np
 autodiscover.reflectioneducational.edu.np
 autodiscover.rumjatarschool.edu.np
@@ -119,6 +120,7 @@ bachelors.ace.edu.np
 backup.bpcbirgunj.edu.np
 bagishwaryschool.edu.np
 bagmatischool.edu.np
+bahs.edu.np
 baijnath.edu.np
 bajra.edu.np
 bajrabarahicampus.edu.np
@@ -134,6 +136,7 @@ balvikashmadi.edu.np
 bandarqq.sukunass.edu.np
 baraha.edu.np
 base.edu.np
+bba.cosmoscollege.edu.np
 bdsschool.edu.np
 bebs.edu.np
 beesants.edu.np
@@ -312,6 +315,7 @@ cpanel.openvisionacademy.edu.np
 cpanel.orbital.edu.np
 cpanel.padmaischool.edu.np
 cpanel.pascalcollege.edu.np
+cpanel.penacademy.edu.np
 cpanel.pimaltarmavinuwakot.edu.np
 cpanel.primeglobalschool.edu.np
 cpanel.rabicampus.edu.np
@@ -431,6 +435,7 @@ cpcalendars.nshm.edu.np
 cpcalendars.nvess.edu.np
 cpcalendars.orbital.edu.np
 cpcalendars.padmaischool.edu.np
+cpcalendars.penacademy.edu.np
 cpcalendars.pimaltarmavinuwakot.edu.np
 cpcalendars.primeglobalschool.edu.np
 cpcalendars.rabicampus.edu.np
@@ -551,6 +556,7 @@ cpcontacts.nshm.edu.np
 cpcontacts.nvess.edu.np
 cpcontacts.orbital.edu.np
 cpcontacts.padmaischool.edu.np
+cpcontacts.penacademy.edu.np
 cpcontacts.pimaltarmavinuwakot.edu.np
 cpcontacts.primeglobalschool.edu.np
 cpcontacts.rabicampus.edu.np
@@ -610,6 +616,7 @@ dev.superset.dreamemt.edu.np
 dev.tpizxryg.hanabijapanese.edu.np
 dhulabarimavi.edu.np
 diktelboardingschool.edu.np
+divineas.edu.np
 dkniketan.edu.np
 dmanepal.edu.np
 dmcampus.edu.np
@@ -653,6 +660,7 @@ estrlab.ku.edu.np
 eurolinkeducation.edu.np
 everestacademy.edu.np
 everestjapanese.edu.np
+exam.hritacademy.edu.np
 faec.edu.np
 famcolacademy.edu.np
 famouseducation.edu.np
@@ -745,6 +753,7 @@ janajyoticampus.edu.np
 janajyoticampus.edu.np.rumjatarschool.edu.np
 janakalyancampus.edu.np
 janakalyanhss.edu.np
+janamodelschool.edu.np
 jbps.edu.np
 jiwanjyotischool.edu.np
 jkp.edu.np
@@ -922,6 +931,7 @@ mail.old.maivalleyschool.edu.np
 mail.orbital.edu.np
 mail.padmaischool.edu.np
 mail.pascalcollege.edu.np
+mail.penacademy.edu.np
 mail.pimaltarmavinuwakot.edu.np
 mail.primeglobalschool.edu.np
 mail.pushas.edu.np
@@ -1079,6 +1089,7 @@ payme.mbmc.edu.np
 pbbs.edu.np
 pebschool.edu.np
 pec.edu.np
+penacademy.edu.np
 peu.citycollege.edu.np
 pfec.edu.np
 pg.afu.edu.np
@@ -1159,6 +1170,7 @@ savs.sunriseahm.edu.np
 scg.edu.np
 school.sssbs.edu.np
 scid.edu.np
+sdssecondaryschool.edu.np
 secure.witsacademy.edu.np
 sejong.edu.np
 sess.edu.np
@@ -1350,6 +1362,7 @@ webdisk.nshm.edu.np
 webdisk.nvess.edu.np
 webdisk.orbital.edu.np
 webdisk.padmaischool.edu.np
+webdisk.penacademy.edu.np
 webdisk.pimaltarmavinuwakot.edu.np
 webdisk.primeglobalschool.edu.np
 webdisk.rabicampus.edu.np
@@ -1475,6 +1488,7 @@ webmail.old.maivalleyschool.edu.np
 webmail.orbital.edu.np
 webmail.padmaischool.edu.np
 webmail.pascalcollege.edu.np
+webmail.penacademy.edu.np
 webmail.pimaltarmavinuwakot.edu.np
 webmail.primeglobalschool.edu.np
 webmail.pushas.edu.np
@@ -1557,6 +1571,7 @@ www.balbikasschool.edu.np.schoolwebnepal.com
 www.balkumaricollege.edu.np
 www.balvikashmadi.edu.np
 www.base.edu.np
+www.bba.cosmoscollege.edu.np
 www.bdsschool.edu.np
 www.bhagawatimavi.edu.np
 www.bhagyodayac.edu.np
@@ -1670,6 +1685,7 @@ www.itdefence.miit.edu.np
 www.janajyoticampus.edu.np
 www.janajyoticampus.edu.np.rumjatarschool.edu.np
 www.janakalyancampus.edu.np
+www.janamodelschool.edu.np
 www.jbps.edu.np
 www.jkp.edu.np
 www.jls.edu.np
@@ -1760,6 +1776,7 @@ www.payme.mbmc.edu.np
 www.pbbs.edu.np
 www.pebschool.edu.np
 www.pec.edu.np
+www.penacademy.edu.np
 www.peu.citycollege.edu.np
 www.pimaltarmavinuwakot.baraacademy.edu.np
 www.pimaltarmavinuwakot.edu.np
