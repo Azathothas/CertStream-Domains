@@ -1,4 +1,10 @@
+api.neb.gov.np
 bajrabarahihospital.bagamati.gov.np
 certification.bansgadhimun.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
 dartachalani.bansgadhimun.gov.np
+motfe.p1.gov.np
+ocmcm.p1.gov.np
 sifarish.bansgadhimun.gov.np
+vacancy.neb.gov.np
