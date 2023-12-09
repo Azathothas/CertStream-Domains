@@ -106,6 +106,7 @@ ipf.plgsp.gov.np
 jajarkot.oicp.gov.np
 kapilvastu.vethos.gov.np
 karnali.gov.np
+karnalifrtc.gov.np
 kath.gov.np
 kavrepalanchok.akc.gov.np
 kms.aepc.gov.np
@@ -232,6 +233,7 @@ www.gwrdb.gov.np
 www.hobardiya.gov.np
 www.hsodailekh.gov.np
 www.idorautahat.gov.np
+www.karnalifrtc.gov.np
 www.kath.gov.np
 www.loe.moecdc.gov.np
 www.mediawage.gov.np
