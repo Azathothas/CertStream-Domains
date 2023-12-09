@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 18 days, 7 hours and 34 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 4.25 3.93 3.45
+       ..'''.            0Xxoc:,.  ...              Uptime: 18 days, 8 hours and 41 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 2.27 4.26 4.8
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,10 +17,10 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 138 MiB / 2048 MiB
+                                          ;l   ..   RAM: 137 MiB / 2048 MiB
                                            .o       Disk: 1.8 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
-                                             .'     WAN IP: 178.212.32.102
+                                             .'     WAN IP: 62.204.45.84
                                               .     
 [+] Storage:
 
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          656G    335M      0       0       0       0 
+          663G    337M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         17.9G    229M      0       0       0       0 
+         18.0G    231M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 18 days, 7 hours and 33 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 1.98 2.19 2.58
+       ..'''.            0Xxoc:,.  ...              Uptime: 18 days, 8 hours and 40 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 6.42 32.1 24.19
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,10 +60,10 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 134 MiB / 2048 MiB
+                                          ;l   ..   RAM: 136 MiB / 2048 MiB
                                            .o       Disk: 1.8 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
-                                             .'     WAN IP: 194.110.115.62
+                                             .'     WAN IP: 217.138.219.220
                                               .     
 [+] Storage:
 
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          666G    337M      0      24       0       0 
+          672G    339M      0      24       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         17.2G    214M      0       0       0       0 
+         17.3G    215M      0       0       0       0 
 
 
 
