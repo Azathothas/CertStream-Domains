@@ -103,10 +103,10 @@ fi
 #  #Start Server   
 #  nohup certstream-server-go -config "/data/data/com.termux/files/usr/tmp/server_config.yaml" >/dev/null 2>&1 &
  #Start client
- timeout -k 1m 66m certstream -url "wss://certstream-server.prashansa.com.np" -domains-only -insecure -quiet > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
- #timeout -k 1m 66m certstream -url "ws://localhost:8888" -domains-only -quiet > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
- #timeout -k 1m 66m certstream -url "wss://certstream.calidog.io" -domains-only -quiet > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
- #timeout -k 1m 66m certstream > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
+ timeout --preserve-status --foreground -k 1m 66m certstream -url "wss://certstream-server.prashansa.com.np" -domains-only -insecure -quiet > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
+ #timeout --preserve-status --foreground -k 1m 66m certstream -url "ws://localhost:8888" -domains-only -quiet > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
+ #timeout --preserve-status --foreground -k 1m 66m certstream -url "wss://certstream.calidog.io" -domains-only -quiet > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
+ #timeout --preserve-status --foreground -k 1m 66m certstream > "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
 #Filter & Parse
  #Remove Spaces
   sed -E '/^[[:space:]]*$/d' -i "/data/data/com.termux/files/usr/tmp/certstream_domains.txt"
