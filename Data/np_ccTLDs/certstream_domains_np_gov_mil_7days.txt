@@ -1,6 +1,7 @@
 aahc.p5.gov.np
 abpstc.p3.gov.np
 acalo.dnpwc.gov.np
+acc.butwalmun.gov.np
 aepc.gov.np
 akcachham.sudurpashchim.gov.np
 akcbaitadi.sudurpashchim.gov.np
@@ -98,6 +99,7 @@ lmis.naflqml.gov.np
 login.lgprofile.gov.np
 mail.csidb.gov.np
 mail.dol.gov.np
+mail.nast.gov.np
 mediawage.gov.np
 meetings.bagamati.gov.np
 melamchiwater.gov.np
@@ -163,9 +165,12 @@ sifarish.bansgadhimun.gov.np
 software.wthc.gov.np
 soillab.madhesh.gov.np
 soillabjhumka.gov.np
+sprta.sudurpashchim.gov.np
+sprta.sudurpashchim.gov.np.imagingtrade.com.np
 stidh.gov.np
 swmosurkhet.gov.np
 tanahun.swmo.gov.np
+tax.butwalmun.gov.np
 telemed.apf.gov.np
 tmpp.mofaga.gov.np
 tourism.lmc.gov.np.yiiff.org
@@ -224,6 +229,7 @@ www.pudbcjhapa.gov.np
 www.sftlhetauda.gov.np
 www.software.wthc.gov.np
 www.soillabjhumka.gov.np
+www.sprta.sudurpashchim.gov.np.imagingtrade.com.np
 www.stidh.gov.np
 www.swmosurkhet.gov.np
 www.tourism.lmc.gov.np.yiiff.org
