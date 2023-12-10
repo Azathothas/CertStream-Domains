@@ -3,6 +3,7 @@ acura.edu.np
 admin.chandrajyotischool.edu.np
 aecg.edu.np
 aeh.edu.np
+ahs.edu.np
 alux.edu.np
 api.hiis.edu.np
 apolloschool.edu.np
@@ -15,6 +16,7 @@ autodiscover.bishwashanticampus.edu.np
 autodiscover.iotaacademy.edu.np
 autodiscover.mnc.edu.np
 autodiscover.radijyula.edu.np
+autodiscover.shineeducationservices.edu.np
 autodiscover.ssha.edu.np
 autodiscover.wit.edu.np
 bahs.edu.np
@@ -32,6 +34,7 @@ chandrajyotischool.edu.np
 civictoursnepal.beershebaschool.edu.np
 cpanel.acura.edu.np
 cpanel.aeh.edu.np
+cpanel.ahs.edu.np
 cpanel.alux.edu.np
 cpanel.apolloschool.edu.np
 cpanel.appleseeds.edu.np
@@ -49,11 +52,13 @@ cpanel.ltma.edu.np
 cpanel.mcspl.edu.np
 cpanel.mnc.edu.np
 cpanel.radijyula.edu.np
+cpanel.shineeducationservices.edu.np
 cpanel.skyvisionfoundation.edu.np
 cpanel.techandtrendy.edu.np
 cpanel.wit.edu.np
 cpcalendars.acura.edu.np
 cpcalendars.aeh.edu.np
+cpcalendars.ahs.edu.np
 cpcalendars.alux.edu.np
 cpcalendars.apolloschool.edu.np
 cpcalendars.appleseeds.edu.np
@@ -72,12 +77,14 @@ cpcalendars.ltma.edu.np
 cpcalendars.mcspl.edu.np
 cpcalendars.mnc.edu.np
 cpcalendars.radijyula.edu.np
+cpcalendars.shineeducationservices.edu.np
 cpcalendars.skyvisionfoundation.edu.np
 cpcalendars.ssha.edu.np
 cpcalendars.techandtrendy.edu.np
 cpcalendars.wit.edu.np
 cpcontacts.acura.edu.np
 cpcontacts.aeh.edu.np
+cpcontacts.ahs.edu.np
 cpcontacts.alux.edu.np
 cpcontacts.apolloschool.edu.np
 cpcontacts.appleseeds.edu.np
@@ -96,6 +103,7 @@ cpcontacts.ltma.edu.np
 cpcontacts.mcspl.edu.np
 cpcontacts.mnc.edu.np
 cpcontacts.radijyula.edu.np
+cpcontacts.shineeducationservices.edu.np
 cpcontacts.skyvisionfoundation.edu.np
 cpcontacts.techandtrendy.edu.np
 cpcontacts.wit.edu.np
@@ -110,7 +118,9 @@ entrance.iaas.edu.np
 eprepclasses.uniglobecollege.edu.np
 fen.edu.np
 forwardacademicteam.edu.np
+fost.mwu.edu.np
 gadhimabi.edu.np
+goodstart.edu.np
 grammarschool.edu.np
 hajiri.ioepc.edu.np
 happy.vedascollege.edu.np
@@ -153,6 +163,7 @@ mail.mnc.edu.np
 mail.nationalacademylahan.edu.np
 mail.radijyula.edu.np
 mail.saradanamunaacademy.edu.np
+mail.shineeducationservices.edu.np
 mail.shishuwaricampus.edu.np
 mail.skyvisionfoundation.edu.np
 mail.ssha.edu.np
@@ -162,6 +173,7 @@ mcspl.edu.np
 mnc.edu.np
 mnc.edu.np.purevisionadventure.com
 moonlight.edu.np
+mwu.edu.np
 namasteacademy.edu.np
 namedemo.name.edu.np
 nast.edu.np
@@ -171,12 +183,15 @@ nistschool.edu.np
 old.lrischool.edu.np
 online.jaldevi.edu.np
 pdsmart.edu.np
+pea.edu.np
 pua.edu.np
 radijyula.edu.np
 s3.kebschool.edu.np
 sasthm.edu.np
 sayapatriboardingschool.edu.np
 sdssecondaryschool.edu.np
+shineeducationservices.edu.np
+shineeducationservices.edu.np.mbbsmdinnepal.com
 shramikshanticampus.edu.np
 shreemahakalischool.edu.np
 shreemavimandar.edu.np
@@ -186,6 +201,7 @@ sms.edigitalnepal.com.jmssg.edu.np
 soedelf.ku.edu.np
 ssha.edu.np
 sssschool.edu.np
+studyhub.edu.np
 sulove.com.np.uni.edu.np
 sys.millsberry.edu.np
 techandtrendy.edu.np
@@ -199,6 +215,7 @@ uief.edu.np
 viaeducation.edu.np
 webdisk.acura.edu.np
 webdisk.aeh.edu.np
+webdisk.ahs.edu.np
 webdisk.alux.edu.np
 webdisk.apolloschool.edu.np
 webdisk.appleseeds.edu.np
@@ -216,12 +233,14 @@ webdisk.ltma.edu.np
 webdisk.mcspl.edu.np
 webdisk.mnc.edu.np
 webdisk.radijyula.edu.np
+webdisk.shineeducationservices.edu.np
 webdisk.skyvisionfoundation.edu.np
 webdisk.ssha.edu.np
 webdisk.techandtrendy.edu.np
 webdisk.wit.edu.np
 webmail.acura.edu.np
 webmail.aeh.edu.np
+webmail.ahs.edu.np
 webmail.alux.edu.np
 webmail.apolloschool.edu.np
 webmail.appleseeds.edu.np
@@ -240,6 +259,7 @@ webmail.ltma.edu.np
 webmail.mcspl.edu.np
 webmail.mnc.edu.np
 webmail.radijyula.edu.np
+webmail.shineeducationservices.edu.np
 webmail.skyvisionfoundation.edu.np
 webmail.ssha.edu.np
 webmail.techandtrendy.edu.np
@@ -297,6 +317,8 @@ www.online.jaldevi.edu.np
 www.pua.edu.np
 www.radijyula.edu.np
 www.s3.kebschool.edu.np
+www.shineeducationservices.edu.np
+www.shineeducationservices.edu.np.mbbsmdinnepal.com
 www.skyvisionfoundation.edu.np
 www.sms.edigitalnepal.com.jmssg.edu.np
 www.ssemis.nast.edu.np
