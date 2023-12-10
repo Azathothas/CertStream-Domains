@@ -115,9 +115,11 @@ autodiscover.sadbhav.edu.np
 autodiscover.sadhanapath.edu.np
 autodiscover.seabird.edu.np
 autodiscover.shinecareer.edu.np
+autodiscover.shineeducationservices.edu.np
 autodiscover.srm.edu.np
 autodiscover.ssessmechinagar.edu.np
 autodiscover.ssha.edu.np
+autodiscover.studyfirst.edu.np
 autodiscover.tinyscholar.edu.np
 autodiscover.yetiinternationalcollege.edu.np
 autodiscover.zenithzone.edu.np
@@ -380,6 +382,7 @@ cpanel.sealink.edu.np
 cpanel.sevs.edu.np
 cpanel.shankhadevimavijyamrung.edu.np
 cpanel.shinecareer.edu.np
+cpanel.shineeducationservices.edu.np
 cpanel.shreepur.edu.np
 cpanel.siddharatnamavi.edu.np
 cpanel.siddheshwori.edu.np
@@ -394,6 +397,7 @@ cpanel.smstu.edu.np
 cpanel.snspokhara.edu.np
 cpanel.soleducationconsultancy.edu.np
 cpanel.srm.edu.np
+cpanel.studyfirst.edu.np
 cpanel.successworld.edu.np
 cpanel.sunaulobhairabischool.edu.np
 cpanel.sunriseahm.edu.np
@@ -546,6 +550,7 @@ cpcalendars.sealink.edu.np
 cpcalendars.sevs.edu.np
 cpcalendars.shankhadevimavijyamrung.edu.np
 cpcalendars.shinecareer.edu.np
+cpcalendars.shineeducationservices.edu.np
 cpcalendars.shreepur.edu.np
 cpcalendars.siddharatnamavi.edu.np
 cpcalendars.siddheshwori.edu.np
@@ -561,6 +566,7 @@ cpcalendars.snspokhara.edu.np
 cpcalendars.soleducationconsultancy.edu.np
 cpcalendars.srm.edu.np
 cpcalendars.ssha.edu.np
+cpcalendars.studyfirst.edu.np
 cpcalendars.successworld.edu.np
 cpcalendars.sunaulobhairabischool.edu.np
 cpcalendars.sunriseahm.edu.np
@@ -713,6 +719,7 @@ cpcontacts.sealink.edu.np
 cpcontacts.sevs.edu.np
 cpcontacts.shankhadevimavijyamrung.edu.np
 cpcontacts.shinecareer.edu.np
+cpcontacts.shineeducationservices.edu.np
 cpcontacts.shreepur.edu.np
 cpcontacts.siddharatnamavi.edu.np
 cpcontacts.siddheshwori.edu.np
@@ -727,6 +734,7 @@ cpcontacts.smstu.edu.np
 cpcontacts.snspokhara.edu.np
 cpcontacts.soleducationconsultancy.edu.np
 cpcontacts.srm.edu.np
+cpcontacts.studyfirst.edu.np
 cpcontacts.successworld.edu.np
 cpcontacts.sunaulobhairabischool.edu.np
 cpcontacts.sunriseahm.edu.np
@@ -838,6 +846,7 @@ forbid.edu.np.nswlandscaping.com
 forms.biratmedicalcollege.edu.np
 fortune100.edu.np
 forwardacademicteam.edu.np
+fost.mwu.edu.np
 gadhimabi.edu.np
 gajurmukhee.edu.np
 gama.edu.np
@@ -1151,6 +1160,7 @@ mail.sealink.edu.np
 mail.sevs.edu.np
 mail.shankhadevimavijyamrung.edu.np
 mail.shinecareer.edu.np
+mail.shineeducationservices.edu.np
 mail.shivajanschool.edu.np
 mail.shreebiramarsinghss.edu.np
 mail.shreepur.edu.np
@@ -1170,6 +1180,7 @@ mail.soleducationconsultancy.edu.np
 mail.srm.edu.np
 mail.ssessmechinagar.edu.np
 mail.ssha.edu.np
+mail.studyfirst.edu.np
 mail.successworld.edu.np
 mail.sunaulobhairabischool.edu.np
 mail.sunriseahm.edu.np
@@ -1402,6 +1413,8 @@ shankhadevimavijyamrung.edu.np.edu.sajilosikcha.com.np
 sharadassthose.edu.np.inspela.com
 shinecareer.edu.np
 shinecareer.edu.np.mbbsmdinnepal.com
+shineeducationservices.edu.np
+shineeducationservices.edu.np.mbbsmdinnepal.com
 shivajanschool.edu.np
 shreebiramarsinghss.edu.np
 shreemavimandar.edu.np
@@ -1452,6 +1465,7 @@ starglobal.edu.np
 streamlined.edu.np.digitaldeebesh.com
 student.lbu.edu.np
 studentfolio.edu.np
+studyfirst.edu.np
 studyquest.edu.np
 stx.edu.np
 successworld.edu.np
@@ -1652,6 +1666,7 @@ webdisk.sealink.edu.np
 webdisk.sevs.edu.np
 webdisk.shankhadevimavijyamrung.edu.np
 webdisk.shinecareer.edu.np
+webdisk.shineeducationservices.edu.np
 webdisk.shreepur.edu.np
 webdisk.siddharatnamavi.edu.np
 webdisk.siddheshwori.edu.np
@@ -1667,6 +1682,7 @@ webdisk.snspokhara.edu.np
 webdisk.soleducationconsultancy.edu.np
 webdisk.srm.edu.np
 webdisk.ssha.edu.np
+webdisk.studyfirst.edu.np
 webdisk.successworld.edu.np
 webdisk.sunaulobhairabischool.edu.np
 webdisk.sunriseahm.edu.np
@@ -1828,6 +1844,7 @@ webmail.sealink.edu.np
 webmail.sevs.edu.np
 webmail.shankhadevimavijyamrung.edu.np
 webmail.shinecareer.edu.np
+webmail.shineeducationservices.edu.np
 webmail.shreebiramarsinghss.edu.np
 webmail.shreepur.edu.np
 webmail.siddharatnamavi.edu.np
@@ -1845,6 +1862,7 @@ webmail.soleducationconsultancy.edu.np
 webmail.srm.edu.np
 webmail.ssessmechinagar.edu.np
 webmail.ssha.edu.np
+webmail.studyfirst.edu.np
 webmail.successworld.edu.np
 webmail.sunaulobhairabischool.edu.np
 webmail.sunriseahm.edu.np
@@ -2218,6 +2236,8 @@ www.shankhadevimavijyamrung.edu.np.edu.sajilosikcha.com.np
 www.sharadassthose.edu.np.inspela.com
 www.shinecareer.edu.np
 www.shinecareer.edu.np.mbbsmdinnepal.com
+www.shineeducationservices.edu.np
+www.shineeducationservices.edu.np.mbbsmdinnepal.com
 www.shivajanschool.edu.np
 www.shreebiramarsinghss.edu.np
 www.shreeneraibm.edu.np
@@ -2261,6 +2281,7 @@ www.staging.phoenixschool.edu.np
 www.streamlined.edu.np.digitaldeebesh.com
 www.student.lbu.edu.np
 www.students.geniusworld.edu.np
+www.studyfirst.edu.np
 www.studyquest.edu.np
 www.successworld.edu.np
 www.sujol.odectu.edu.np

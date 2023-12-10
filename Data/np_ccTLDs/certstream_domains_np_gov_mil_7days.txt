@@ -21,6 +21,7 @@ billing.ddc.gov.np
 cao.koshi.gov.np
 cdmis.karnali.gov.np
 certification.bansgadhimun.gov.np
+cfug.karnali.gov.np
 cms.mellekhmun.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
