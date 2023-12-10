@@ -1,2 +1,0 @@
-ncell.axiata.com
-webapi.ncell.axiata.com

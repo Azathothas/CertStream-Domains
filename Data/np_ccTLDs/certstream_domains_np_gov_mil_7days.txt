@@ -12,6 +12,7 @@ akckanchanpur.sudurpashchim.gov.np
 alaichibikash.gov.np
 apf.gov.np
 api-rms.ndrrma.gov.np
+api.neb.gov.np
 apps.mahankalmun.gov.np
 apps.sunchhaharimun.gov.np
 aqobhw.gov.np
@@ -50,11 +51,13 @@ dofsc.gov.np
 dol.gov.np
 dold.karnali.gov.np
 dolfd.bagamati.gov.np
+dolfd.sudurpashchim.gov.np
 doli.gov.np
 dolpa.oicp.gov.np
 dtcolamjung.gov.np
 ebps.chandragirimun.gov.np
 ebps.mahalaxmimun.gov.np
+ebulletin.election.gov.np
 eddsp.gov.np
 eehelp.aepc.gov.np
 ehmis.chatarahospital.p1.gov.np
@@ -127,6 +130,7 @@ mis.nccsp.gov.np
 mis.palungtarmun.gov.np
 mobile.kvda.gov.np
 mohp.gandaki.gov.np
+moial.p1.gov.np
 moitfe.p1.gov.np
 moitfe.p2.gov.np
 molcpa.gandaki.gov.np
@@ -142,6 +146,7 @@ nams.oag.gov.np
 nast.gov.np
 nathm.gov.np
 nationalzoologicalgarden.gov.np
+nbms.mec.gov.np
 nepaltrace.p5.gov.np
 nhtc.p5.gov.np
 nic.gov.np
@@ -161,8 +166,10 @@ phlmc.p5.gov.np
 piubardiya.pmamp.gov.np
 piutehrathum.pmamp.gov.np
 planning.phidimmun.gov.np
+pms.karnali.gov.np
 pollution.gov.np
 pradeshsabha.gandaki.gov.np
+profile.damakmun.gov.np
 ptuobirgunj.madhesh.gov.np
 pudbcjhapa.gov.np
 pyuthanhospital.lumbini.gov.np
@@ -192,6 +199,7 @@ tanahun.swmo.gov.np
 telemed.apf.gov.np
 tmpp.mofaga.gov.np
 tourism.lmc.gov.np.yiiff.org
+vacancy.neb.gov.np
 vethospalpa.gov.np
 vhlscachham.sudurpashchim.gov.np
 vhlscddl.sudurpashchim.gov.np
