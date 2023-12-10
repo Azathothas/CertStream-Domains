@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 19 days, 13 hours and 35 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 8.74 13.35 13.95
+       ..'''.            0Xxoc:,.  ...              Uptime: 19 days, 14 hours and 38 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 9.25 14.29 14.83
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -20,7 +20,7 @@
                                           ;l   ..   RAM: 135 MiB / 2048 MiB
                                            .o       Disk: 1.7 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
-                                             .'     WAN IP: 62.204.45.22
+                                             .'     WAN IP: No Address
                                               .     
 [+] Storage:
 
@@ -29,7 +29,7 @@
 ├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
 ├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 16.0G │ 8.3G │  7.7G │  51.6% │ fuse.[ │ [encfs-ZjMMz │
+│ /sec       │ 16.0G │ 8.3G │  7.7G │  52.0% │ fuse.[ │ [encfs-ZjMMz │
 │            │       │      │       │        │ encfs- │ UwYzl]       │
 │            │       │      │       │        │ ZjMMzU │              │
 │            │       │      │       │        │ wYzl]  │              │
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          803G    391M      0       0       0       0 
+          809G    393M      0       0       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         21.1G    269M      0       0       0       0 
+         21.3G    270M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 19 days, 13 hours and 34 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 3.83 4.32 4.41
+       ..'''.            0Xxoc:,.  ...              Uptime: 19 days, 14 hours and 37 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 16.53 14.9 10.57
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,10 +60,10 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 131 MiB / 2048 MiB
+                                          ;l   ..   RAM: 133 MiB / 2048 MiB
                                            .o       Disk: 1.8 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
-                                             .'     WAN IP: 194.110.115.62
+                                             .'     WAN IP: 217.138.219.220
                                               .     
 [+] Storage:
 
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          839G    409M      0      24       0       0 
+          843G    411M      0      24       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         21.0G    261M      0       0       0       0 
+         21.1G    262M      0       0       0       0 
 
 
 
