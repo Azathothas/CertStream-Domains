@@ -1,10 +1,15 @@
 acc.biratnagarmun.gov.np
+acc.butwalmun.gov.np
 cetmis.tourism.gov.np
 cfug.karnali.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 datacollection.kathmandu.gov.np
+dnpwc.gov.np
 gesimisstaging.moics.gov.np
 metronews.kathmandu.gov.np
 nagarikapp.gov.np
+pollution.gov.np
+rpm.gov.np
 tax.biratnagarmun.gov.np
+tax.butwalmun.gov.np
