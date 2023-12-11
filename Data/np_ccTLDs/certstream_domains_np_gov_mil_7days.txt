@@ -30,6 +30,7 @@ dailekh.oicp.gov.np
 dang.postalservice.gov.np
 dang.superzone.gov.np
 dartachalani.bansgadhimun.gov.np
+db929i2449ng.ddc.gov.np
 dfobajura.gov.np
 dfogorkha.gov.np
 dfokanchanpur.gov.np
@@ -146,6 +147,7 @@ piubardiya.pmamp.gov.np
 piutehrathum.pmamp.gov.np
 pms.karnali.gov.np
 pollution.gov.np
+ppsconline.p2.gov.np
 pradeshsabha.gandaki.gov.np
 profile.damakmun.gov.np
 ptuobirgunj.madhesh.gov.np
@@ -172,6 +174,7 @@ stidh.gov.np
 swmosurkhet.gov.np
 tanahun.swmo.gov.np
 tax.butwalmun.gov.np
+tax.triyugamun.gov.np
 telemed.apf.gov.np
 tmpp.mofaga.gov.np
 tourism.lmc.gov.np.yiiff.org
