@@ -106,6 +106,7 @@ krgss.edu.np
 ktmeducational.edu.np
 kucity.edu.np
 lms.bpcbirgunj.edu.np
+lms.wcevs.edu.np
 mahakalimavi.edu.np
 mahakalimavi.edu.np.edu.sajilosikcha.com.np
 mahendragulmi.edu.np
@@ -142,6 +143,7 @@ old.thomas.edu.np
 pioneers.edu.np
 pragatischool.edu.np
 pursuiteducation.gyaninstitute.edu.np
+pyc.edu.np
 rassociates.edu.np
 register.janamodelschool.edu.np
 saharacampus.edu.np
@@ -158,6 +160,7 @@ staging.phoenixschool.edu.np
 sterlingwells.edu.np
 studyfirst.edu.np
 supremecollege.edu.np
+swastikera.edu.np
 vishwajyoti.edu.np
 vrittechnologies.edu.np
 wcpnepal.ku.edu.np
@@ -193,6 +196,7 @@ webmail.shineeducationservices.edu.np
 webmail.studyfirst.edu.np
 webmail.supremecollege.edu.np
 www.acem.edu.np
+www.adarshsschoolnpj.edu.np
 www.admission.eemc.edu.np
 www.advance.ktmeducational.edu.np
 www.appdata.gbs.edu.np
@@ -233,6 +237,7 @@ www.staging.aecg.edu.np
 www.staging.phoenixschool.edu.np
 www.studyfirst.edu.np
 www.supremecollege.edu.np
+www.swastikera.edu.np
 www.test.ktmeducational.edu.np
 www.vishwajyoti.edu.np
 xenium.edu.np
