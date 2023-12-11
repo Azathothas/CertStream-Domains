@@ -3,5 +3,4 @@ automation.nettv.com.np
 cmpg.cgnet.com.np
 icewarp.subisu.net.np
 ncell.axiata.com
-private.wlink.com.np
 webapi.ncell.axiata.com

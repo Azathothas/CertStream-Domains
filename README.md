@@ -24,14 +24,14 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +54010344
+[+] New/ReNewed SSL Certs (ALL): +46492977
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +20196
-[+] New/ReNewed SSL Certs (Edu): +2463
-[+] New/ReNewed SSL Certs (Gov|Mil): +241
-[+] New/ReNewed SSL Certs (ISPs): +7
+[+] New/ReNewed SSL Certs (ALL): +17215
+[+] New/ReNewed SSL Certs (Edu): +2209
+[+] New/ReNewed SSL Certs (Gov|Mil): +141
+[+] New/ReNewed SSL Certs (ISPs): +6
 
 
 ```
