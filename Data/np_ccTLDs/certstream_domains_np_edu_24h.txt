@@ -12,6 +12,8 @@ autodiscover.gulmohar.edu.np
 autodiscover.shineeducationservices.edu.np
 autodiscover.studyfirst.edu.np
 biconsultancy.edu.np
+bmc.arnikofoundation.edu.np
+bpcbirgunj.edu.np
 brightapproach.edu.np
 candy.edu.np
 cdp.edu.np
@@ -63,11 +65,13 @@ dichmdharan.edu.np
 dichmdharan.edu.np.cubicaltech.com
 doas.pcampus.edu.np
 fost.mwu.edu.np
+futuretek.chance.edu.np
 genesecloudacademy.edu.np
 gpb.nidi.edu.np
 gulmohar.edu.np
 hamrolms.iimscollege.edu.np
 ict.cosmoscollege.edu.np
+idealmodel.edu.np
 ies.edu.np
 jjssmelamchi.edu.np
 jyotischool.edu.np
@@ -98,9 +102,11 @@ maiyadevigirlscollege.edu.np
 majesticmarketing.edu.np
 majesticmarketing.edu.np.majesticmarketing.com.np
 medhavicollege.edu.np
+milestonecollege.edu.np
 mis.thenext.edu.np
 mwu.edu.np
 neec.edu.np
+newsoftwarica.softwarica.edu.np
 old.thomas.edu.np
 pioneers.edu.np
 pragatischool.edu.np
@@ -113,6 +119,7 @@ sealink.edu.np
 shatakshee.edu.np
 shineeducationservices.edu.np
 shineeducationservices.edu.np.mbbsmdinnepal.com
+smartinfosys.edu.np
 staging.phoenixschool.edu.np
 sterlingwells.edu.np
 studyfirst.edu.np
@@ -149,11 +156,13 @@ webmail.supremecollege.edu.np
 www.acem.edu.np
 www.appdata.gbs.edu.np
 www.appletree.edu.np
+www.bmc.arnikofoundation.edu.np
 www.brightapproach.edu.np
 www.cdp.edu.np
 www.creativeintlacademy.edu.np
 www.dichmdharan.edu.np
 www.dichmdharan.edu.np.cubicaltech.com
+www.futuretek.chance.edu.np
 www.genesecloudacademy.edu.np
 www.gpb.nidi.edu.np
 www.gulmohar.edu.np
@@ -173,6 +182,7 @@ www.schoolabroad.edu.np
 www.sealink.edu.np
 www.shineeducationservices.edu.np
 www.shineeducationservices.edu.np.mbbsmdinnepal.com
+www.smartinfosys.edu.np
 www.staging.phoenixschool.edu.np
 www.studyfirst.edu.np
 www.supremecollege.edu.np

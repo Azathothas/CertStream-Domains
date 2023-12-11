@@ -5,5 +5,6 @@ copomis.gov.np
 copomis.mocpa.gov.np
 datacollection.kathmandu.gov.np
 gesimisstaging.moics.gov.np
+metronews.kathmandu.gov.np
 nagarikapp.gov.np
 tax.biratnagarmun.gov.np
