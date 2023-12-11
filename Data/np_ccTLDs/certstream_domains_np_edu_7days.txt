@@ -7,6 +7,7 @@ abacus.edu.np
 abc.skyvisionfoundation.edu.np
 abhayananda.edu.np
 academytimes.edu.np
+acem.edu.np
 acenetwork.edu.np
 acit.acme.edu.np
 acura.edu.np
@@ -39,6 +40,7 @@ alux.edu.np
 amv.edu.np
 anilpokharel.citycollege.edu.np
 annapurna.edu.np
+annapurnabtl.edu.np
 annapurnamv.edu.np
 anthropologytu.edu.np
 aone.edu.np
@@ -50,6 +52,8 @@ apollointcollege.edu.np
 apolloschool.edu.np
 app.cgwaesqk.alpinehigh.edu.np
 app.merotuki.edu.np
+app.stg.superset.holyfamily.edu.np
+appdata.gbs.edu.np
 appleseeds.edu.np
 appletree.edu.np
 apply.libertycollege.edu.np
@@ -176,8 +180,10 @@ caribbean.edu.np
 cca.edu.np
 ccst.mwu.edu.np
 cdctu.edu.np
+cdeetu.edu.np
 cdfatu.edu.np
 cdn.afu.edu.np
+cdp.edu.np
 cehrd.edu.np.admin-mcas-df.ms
 cehrd.edu.np.admin-mcas.ms
 cehrd.edu.np.mcas-df.ms
@@ -235,7 +241,9 @@ cpanel.brightlandcollege.edu.np
 cpanel.bs3.edu.np
 cpanel.bvsbrt.edu.np
 cpanel.cdctu.edu.np
+cpanel.cdeetu.edu.np
 cpanel.cdfatu.edu.np
+cpanel.cdp.edu.np
 cpanel.chandikaaavi.edu.np
 cpanel.chandrajyotiebs.edu.np
 cpanel.citycollege.edu.np
@@ -296,6 +304,7 @@ cpanel.madheshuniversity.edu.np
 cpanel.mahendramabi.edu.np
 cpanel.mahendramemorialcollege.edu.np
 cpanel.mahendrapratap.edu.np
+cpanel.majesticmarketing.edu.np
 cpanel.mastamabi.edu.np
 cpanel.mastesworimavi.edu.np
 cpanel.mbman.edu.np
@@ -406,6 +415,7 @@ cpcalendars.bs3.edu.np
 cpcalendars.bvsbrt.edu.np
 cpcalendars.cdctu.edu.np
 cpcalendars.cdfatu.edu.np
+cpcalendars.cdp.edu.np
 cpcalendars.chandikaaavi.edu.np
 cpcalendars.chandrajyotiebs.edu.np
 cpcalendars.citycollege.edu.np
@@ -463,6 +473,7 @@ cpcalendars.madheshuniversity.edu.np
 cpcalendars.mahendramabi.edu.np
 cpcalendars.mahendramemorialcollege.edu.np
 cpcalendars.mahendrapratap.edu.np
+cpcalendars.majesticmarketing.edu.np
 cpcalendars.mastamabi.edu.np
 cpcalendars.mastesworimavi.edu.np
 cpcalendars.mbman.edu.np
@@ -573,6 +584,7 @@ cpcontacts.bs3.edu.np
 cpcontacts.bvsbrt.edu.np
 cpcontacts.cdctu.edu.np
 cpcontacts.cdfatu.edu.np
+cpcontacts.cdp.edu.np
 cpcontacts.chandikaaavi.edu.np
 cpcontacts.chandrajyotiebs.edu.np
 cpcontacts.citycollege.edu.np
@@ -630,6 +642,7 @@ cpcontacts.madheshuniversity.edu.np
 cpcontacts.mahendramabi.edu.np
 cpcontacts.mahendramemorialcollege.edu.np
 cpcontacts.mahendrapratap.edu.np
+cpcontacts.majesticmarketing.edu.np
 cpcontacts.mastamabi.edu.np
 cpcontacts.mastesworimavi.edu.np
 cpcontacts.mbman.edu.np
@@ -770,6 +783,7 @@ elearning.odectu.edu.np
 elearning.triton.edu.np
 elibrary.tucl.edu.np
 ema.edu.np
+email.afu.edu.np
 emis.janamaitri.edu.np
 emis.pkcampus.edu.np
 emis.pusob.edu.np
@@ -799,6 +813,7 @@ foa.edu.np
 forbid.edu.np
 forbid.edu.np.nswlandscaping.com
 fortune100.edu.np
+forums.stg.superset.holyfamily.edu.np
 forwardacademicteam.edu.np
 fost.mwu.edu.np
 gadhimabi.edu.np
@@ -915,6 +930,7 @@ kusoede.edu.np
 kvmcollege.edu.np
 kvmcollege.edu.np.edu.sajilosikcha.com.np
 laxminarayan.edu.np
+lbu.edu.np
 learn.jantamavisoltee.edu.np
 learninghub.ace.edu.np
 lee.afu.edu.np
@@ -929,12 +945,14 @@ lms.bpcbirgunj.edu.np
 ltma.edu.np
 lts.edu.np
 m.tpizxryg.hanabijapanese.edu.np
+macaacademy.edu.np
 macpokhara.edu.np
 madanashrit.edu.np
 madheshuniversity.edu.np
 mahadevmavischool.edu.np
 mahendragulmi.edu.np
 mahendramabi.edu.np
+mahendramavi.edu.np
 mahendramemorialcollege.edu.np
 mahendrapratap.edu.np
 mahendrapratap.edu.np.edu.sajilosikcha.com.np
@@ -976,6 +994,7 @@ mail.bvsbrt.edu.np
 mail.careercounselling.edu.np
 mail.cdctu.edu.np
 mail.cdfatu.edu.np
+mail.cdp.edu.np
 mail.chandikaaavi.edu.np
 mail.chandrajyotiebs.edu.np
 mail.chandrajyotischool.edu.np
@@ -1043,6 +1062,7 @@ mail.madheshuniversity.edu.np
 mail.mahendramabi.edu.np
 mail.mahendramemorialcollege.edu.np
 mail.mahendrapratap.edu.np
+mail.majesticmarketing.edu.np
 mail.mastamabi.edu.np
 mail.mastesworimavi.edu.np
 mail.mbman.edu.np
@@ -1137,6 +1157,8 @@ mail.yetiinternationalcollege.edu.np
 mail.zenithzone.edu.np
 maintainence.schoolabroad.edu.np
 maiyadevigirlscollege.edu.np
+majesticmarketing.edu.np
+majesticmarketing.edu.np.majesticmarketing.com.np
 manakamanacollege.edu.np
 mangalaschool.edu.np
 mangalsinghmavi.edu.np
@@ -1148,6 +1170,7 @@ mastesworimavi.edu.np.edu.sajilosikcha.com.np
 mbman.edu.np
 mbtcdang.edu.np
 mcspl.edu.np
+medhavicollege.edu.np
 megasoft.edu.np
 meijinepal.edu.np
 merrylandbrt.edu.np
@@ -1157,6 +1180,7 @@ mil.edu.np
 minervaebs.edu.np
 minervaebs.edu.np.edu.sajilosikcha.com.np
 mis.csschool.edu.np
+mis.lbu.edu.np
 mitg.com.np.miit.edu.np
 mnc.edu.np
 mnc.edu.np.purevisionadventure.com
@@ -1217,6 +1241,7 @@ nsadmin.notredameschool.edu.np
 nvess.edu.np
 old.jitpursecondaryschool.edu.np
 old.lrischool.edu.np
+old.thomas.edu.np
 oldweb.nilkanthacampus.edu.np
 oldwebsite.nilkanthacampus.edu.np
 online.hmesbs.edu.np
@@ -1265,6 +1290,7 @@ publicmabisarlahi.edu.np
 pufoe.edu.np
 purwanchalschoolbiratnagar.edu.np
 pushpasadan.edu.np
+qaa.ioepc.edu.np
 qr.globaleducationpark.edu.np
 r1.radiantmnr.edu.np
 radiantmnr.edu.np
@@ -1292,6 +1318,7 @@ ritzhospitality.edu.np
 rkbpi.edu.np
 royalacademy.edu.np
 rtrk.edu.np
+rvss.edu.np
 s3.kebschool.edu.np
 sadbhav.edu.np
 sadhanapath.edu.np
@@ -1341,6 +1368,7 @@ shrijan.com.np.dharanadarsha.edu.np
 siddhajyoticampus.edu.np
 siddharatnamavi.edu.np
 siddharatnamavi.edu.np.edu.sajilosikcha.com.np
+siddharthahss.edu.np
 siddhidasschool.edu.np
 sidhharatnamavi.edu.np
 sidhharatnamavi.edu.np.edu.sajilosikcha.com.np
@@ -1363,11 +1391,13 @@ sms.edu.np
 snspokhara.edu.np
 soedelf.ku.edu.np
 soleducationconsultancy.edu.np
+sonicomputer.edu.np
 southpointrs.edu.np
 southwestern.edu.np
 spna.easycare.edu.np
 ssessmechinagar.edu.np
 ssha.edu.np
+ssmymcsiraha.edu.np
 ssr.mbmc.edu.np
 ssss.edu.np
 sssschool.edu.np
@@ -1376,6 +1406,8 @@ staging.epark.edu.np
 staging.goreto.edu.np
 staging.phoenixschool.edu.np
 starglobal.edu.np
+sterlingwells.edu.np
+stg.superset.holyfamily.edu.np
 streamlined.edu.np.digitaldeebesh.com
 student.lbu.edu.np
 studentfolio.edu.np
@@ -1388,6 +1420,7 @@ sujol.odectu.edu.np
 sulove.com.np.uni.edu.np
 sunaulobhairabischool.edu.np
 sunriseahm.edu.np
+superset.holyfamily.edu.np
 superset.production.axisacademy.edu.np
 support.kingscollege.edu.np
 suryachandra.edu.np
@@ -1440,6 +1473,7 @@ visioninternational.edu.np
 viswadeep.edu.np
 vsc.edu.np
 wbsubdomain.a.bb.ccc.dddd.git.tore.adarsha.edu.np
+wcpnepal.ku.edu.np
 webdisk.aaec.edu.np
 webdisk.acura.edu.np
 webdisk.adarshacollege.edu.np
@@ -1471,6 +1505,7 @@ webdisk.bs3.edu.np
 webdisk.bvsbrt.edu.np
 webdisk.cdctu.edu.np
 webdisk.cdfatu.edu.np
+webdisk.cdp.edu.np
 webdisk.chandikaaavi.edu.np
 webdisk.chandrajyotiebs.edu.np
 webdisk.citycollege.edu.np
@@ -1527,6 +1562,7 @@ webdisk.madheshuniversity.edu.np
 webdisk.mahendramabi.edu.np
 webdisk.mahendramemorialcollege.edu.np
 webdisk.mahendrapratap.edu.np
+webdisk.majesticmarketing.edu.np
 webdisk.mastamabi.edu.np
 webdisk.mastesworimavi.edu.np
 webdisk.mbman.edu.np
@@ -1637,6 +1673,7 @@ webmail.bs3.edu.np
 webmail.bvsbrt.edu.np
 webmail.cdctu.edu.np
 webmail.cdfatu.edu.np
+webmail.cdp.edu.np
 webmail.chandikaaavi.edu.np
 webmail.chandrajyotiebs.edu.np
 webmail.chandrajyotischool.edu.np
@@ -1697,6 +1734,7 @@ webmail.madheshuniversity.edu.np
 webmail.mahendramabi.edu.np
 webmail.mahendramemorialcollege.edu.np
 webmail.mahendrapratap.edu.np
+webmail.majesticmarketing.edu.np
 webmail.mastamabi.edu.np
 webmail.mastesworimavi.edu.np
 webmail.mbman.edu.np
@@ -1788,6 +1826,7 @@ www.aaec.edu.np
 www.aaec.edu.np.pravinkhatri.com.np
 www.abc.skyvisionfoundation.edu.np
 www.abhayananda.edu.np
+www.acem.edu.np
 www.acura.edu.np
 www.adarshacollege.edu.np
 www.admin.vinayaksiddhacollege.edu.np
@@ -1801,6 +1840,7 @@ www.akshar.edu.np
 www.als.edu.np.globalfoodmartonline.com
 www.alux.edu.np
 www.anilpokharel.citycollege.edu.np
+www.annapurnabtl.edu.np
 www.anthropologytu.edu.np
 www.aone.edu.np
 www.aone.edu.np.moonlightsoftware.com.np
@@ -1809,6 +1849,7 @@ www.api.hiis.edu.np
 www.apollointcollege.edu.np
 www.apolloschool.edu.np
 www.app.merotuki.edu.np
+www.appdata.gbs.edu.np
 www.appleseeds.edu.np
 www.appletree.edu.np
 www.apply.libertycollege.edu.np
@@ -1857,6 +1898,7 @@ www.bvsbrt.edu.np
 www.cca.edu.np
 www.cdctu.edu.np
 www.cdfatu.edu.np
+www.cdp.edu.np
 www.certificate.nshm.edu.np
 www.cgwaesqk.alpinehigh.edu.np
 www.chandikaaavi.edu.np
@@ -1989,16 +2031,20 @@ www.mahendrapratap.edu.np
 www.mahendrapratap.edu.np.edu.sajilosikcha.com.np
 www.mail.aecg.edu.np
 www.maintainence.schoolabroad.edu.np
+www.majesticmarketing.edu.np
+www.majesticmarketing.edu.np.majesticmarketing.com.np
 www.mastamabi.edu.np
 www.mastamabi.edu.np.edu.sajilosikcha.com.np
 www.mastesworimavi.edu.np
 www.mastesworimavi.edu.np.edu.sajilosikcha.com.np
 www.mbman.edu.np
 www.mcspl.edu.np
+www.medhavicollege.edu.np
 www.megasoft.edu.np
 www.mil.edu.np
 www.minervaebs.edu.np
 www.minervaebs.edu.np.edu.sajilosikcha.com.np
+www.mis.lbu.edu.np
 www.mitg.com.np.miit.edu.np
 www.mithilasamachar.miit.edu.np
 www.mnc.edu.np
@@ -2154,6 +2200,7 @@ www.staging.goreto.edu.np
 www.staging.phoenixschool.edu.np
 www.streamlined.edu.np.digitaldeebesh.com
 www.student.lbu.edu.np
+www.students.sonicomputer.edu.np
 www.studyfirst.edu.np
 www.studyquest.edu.np
 www.successworld.edu.np
@@ -2179,6 +2226,7 @@ www.tinyscholar.edu.np
 www.tour.hetaudaacademy.edu.np
 www.tradingview.cctdharan.edu.np
 www.triton.edu.np
+www.triven.edu.np
 www.tss.edu.np
 www.tti.edu.np
 www.tu.bmc.edu.np
