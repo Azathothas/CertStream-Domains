@@ -816,6 +816,7 @@ fortune100.edu.np
 forums.stg.superset.holyfamily.edu.np
 forwardacademicteam.edu.np
 fost.mwu.edu.np
+futuretek.chance.edu.np
 gadhimabi.edu.np
 gajurmukhee.edu.np
 gama.edu.np
@@ -1200,6 +1201,7 @@ name.edu.np
 namedemo.name.edu.np
 nasacollege.edu.np
 nast.edu.np
+nationalcreationacademy.edu.np
 nawajeewan.edu.np
 nbc.edu.np
 ncebschool.edu.np
@@ -1961,6 +1963,7 @@ www.fikkalmavi.edu.np.edu.sajilosikcha.com.np
 www.forbid.edu.np
 www.forbid.edu.np.nswlandscaping.com
 www.forwardacademicteam.edu.np
+www.futuretek.chance.edu.np
 www.gadhimabi.edu.np
 www.gajurmukhee.edu.np
 www.gantabya.edu.np
@@ -1985,6 +1988,7 @@ www.hvtcampus.edu.np
 www.iotaacademy.edu.np
 www.itdefence.miit.edu.np
 www.iwkh.edu.np
+www.janahit.edu.np
 www.janakalyancampus.edu.np
 www.janamodelschool.edu.np
 www.janavikash.edu.np
