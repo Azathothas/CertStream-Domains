@@ -22,6 +22,7 @@ avantgarde.edu.np
 bagisworischool.edu.np
 balprabhat.edu.np
 biconsultancy.edu.np
+bishnudevishikshasadan.edu.np
 bmc.arnikofoundation.edu.np
 bostoneducation.edu.np
 bpcbirgunj.edu.np
@@ -128,6 +129,7 @@ lms.wcevs.edu.np
 mahakalimavi.edu.np
 mahakalimavi.edu.np.edu.sajilosikcha.com.np
 mahendragulmi.edu.np
+mahendramavi.edu.np
 mail.brightapproach.edu.np
 mail.ccm.edu.np
 mail.cdp.edu.np
@@ -183,6 +185,7 @@ sealink.edu.np
 shatakshee.edu.np
 shineeducationservices.edu.np
 shineeducationservices.edu.np.mbbsmdinnepal.com
+siddharthahss.edu.np
 siddhiganesh.edu.np
 smarikaschool.edu.np
 smartinfosys.edu.np
@@ -190,6 +193,7 @@ staging.aecg.edu.np
 staging.mitnepal.edu.np
 staging.phoenixschool.edu.np
 sterlingwells.edu.np
+stg.superset.holyfamily.edu.np
 studyfirst.edu.np
 sungloryschool.edu.np
 supremecollege.edu.np

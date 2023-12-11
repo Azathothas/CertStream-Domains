@@ -8,6 +8,7 @@ datacollection.kathmandu.gov.np
 dnpwc.gov.np
 ehrpmis.nra.gov.np
 gesimisstaging.moics.gov.np
+heritage.tarakeshwormun.gov.np
 metronews.kathmandu.gov.np
 nagarikapp.gov.np
 pollution.gov.np
