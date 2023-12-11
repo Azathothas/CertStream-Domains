@@ -1,0 +1,5 @@
+api.nettv.com.np
+kube.nettv.com.np
+nettv.com.np
+stage.nettv.com.np
+stream.nettv.com.np

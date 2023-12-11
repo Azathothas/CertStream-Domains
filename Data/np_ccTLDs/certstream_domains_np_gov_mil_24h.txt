@@ -1,3 +1,9 @@
+acc.biratnagarmun.gov.np
+cetmis.tourism.gov.np
 cfug.karnali.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+datacollection.kathmandu.gov.np
+gesimisstaging.moics.gov.np
+nagarikapp.gov.np
+tax.biratnagarmun.gov.np
