@@ -77,6 +77,7 @@ ocs.p2.gov.np
 oph.gandaki.gov.np
 parsa.pmamp.gov.np
 pbcr.nhrc.gov.np
+pension.gov.np
 pfddmis.karnali.gov.np
 pms.karnali.gov.np
 pollution.gov.np
@@ -119,6 +120,7 @@ www.nic.gov.np
 www.nitc.gov.np
 www.nwchelpline.gov.np
 www.parsa.pmamp.gov.np
+www.pension.gov.np
 www.sprta.sudurpashchim.gov.np.imagingtrade.com.np
 www.stidh.gov.np
 www.tourism.lmc.gov.np.yiiff.org

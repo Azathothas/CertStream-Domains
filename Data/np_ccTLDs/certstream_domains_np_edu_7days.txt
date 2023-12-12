@@ -912,9 +912,11 @@ kidshome.edu.np
 kidsmerryland.edu.np
 kistmedicalcollege.edu.np
 kmcen.edu.np
+koshicollege.edu.np
 krgss.edu.np
 krishnamali.eemc.edu.np
 ktmeducational.edu.np
+ktmimmigration.com.np.ktmeducational.edu.np
 ktmmodelcollege.edu.np
 kts.edu.np
 kucity.edu.np
@@ -2015,6 +2017,7 @@ www.khandadevi.edu.np
 www.kistmedicalcollege.edu.np
 www.krgss.edu.np
 www.krishnamali.eemc.edu.np
+www.ktmimmigration.com.np.ktmeducational.edu.np
 www.ktmmodelcollege.edu.np
 www.kts.edu.np
 www.kvmcollege.edu.np
