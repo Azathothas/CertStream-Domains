@@ -6,6 +6,7 @@ admin.rahtm.edu.np
 admin.riaschool.edu.np
 afpi.edu.np
 ahs.edu.np
+aimsabroad.edu.np
 ankuranschool.edu.np
 api.citycommunity.edu.np
 api.emis.muodgsm.edu.np
@@ -104,6 +105,7 @@ exam.citycommunity.edu.np
 git.ns1.nneapt.edu.np
 gsacademy.edu.np
 guideline.edu.np
+gyandayamavi.edu.np
 haec.edu.np
 harmonic.edu.np
 hospitalitycollegebtl.edu.np
@@ -126,6 +128,7 @@ kantipuracademy.edu.np
 kasthamandap.edu.np
 kistcollege.edu.np
 klc.edu.np
+krishnarg.edu.np
 ktmeducational.edu.np
 ktmmodelcollege.edu.np
 lalitpurlanguagecenter.edu.np
@@ -195,6 +198,7 @@ smilekmschool.edu.np
 staging.aecg.edu.np
 staging.mitnepal.edu.np
 stg.superset.holyfamily.edu.np
+stories.pma.edu.np
 student.rti.edu.np
 sundarisec.edu.np
 superset.holyfamily.edu.np
@@ -247,6 +251,7 @@ webmail.sundarisec.edu.np
 webmail.toddlerszone.edu.np
 webmail.ueaschool.edu.np
 webmail.vidyaniketan.edu.np
+website.adarshaschool.edu.np
 whm.ueaschool.edu.np
 www.accede.edu.np
 www.admin.riaschool.edu.np
@@ -305,4 +310,5 @@ www.test.dreamland.edu.np
 www.toddlerszone.edu.np
 www.ueaschool.edu.np
 www.vidyaniketan.edu.np
+www.website.adarshaschool.edu.np
 youme.edu.np
