@@ -3,6 +3,8 @@ accede.edu.np
 adarshaschool.edu.np
 admin.evc.edu.np
 admin.rahtm.edu.np
+admin.riaschool.edu.np
+afpi.edu.np
 ankuranschool.edu.np
 api.citycommunity.edu.np
 api.emis.muodgsm.edu.np
@@ -23,7 +25,9 @@ brilliant.edu.np
 bvs.edu.np
 careerwings.edu.np
 chautarimart.com.greenwind.edu.np
+checkeligibility.academic.edu.np
 cpanel.accede.edu.np
+cpanel.afpi.edu.np
 cpanel.brilliant.edu.np
 cpanel.bvs.edu.np
 cpanel.egs.edu.np
@@ -40,6 +44,7 @@ cpanel.toddlerszone.edu.np
 cpanel.ueaschool.edu.np
 cpanel.vidyaniketan.edu.np
 cpcalendars.accede.edu.np
+cpcalendars.afpi.edu.np
 cpcalendars.brilliant.edu.np
 cpcalendars.bvs.edu.np
 cpcalendars.egs.edu.np
@@ -56,6 +61,7 @@ cpcalendars.toddlerszone.edu.np
 cpcalendars.ueaschool.edu.np
 cpcalendars.vidyaniketan.edu.np
 cpcontacts.accede.edu.np
+cpcontacts.afpi.edu.np
 cpcontacts.brilliant.edu.np
 cpcontacts.bvs.edu.np
 cpcontacts.egs.edu.np
@@ -74,6 +80,7 @@ cpcontacts.vidyaniketan.edu.np
 demo.amc.edu.np
 demo.chandragirishikshalaya.edu.np
 dev.chandragirishikshalaya.edu.np
+drs.edu.np
 edu.sssbs.edu.np
 edulaya.slcc.edu.np
 egs.edu.np
@@ -106,9 +113,11 @@ ktmmodelcollege.edu.np
 lalitpurlanguagecenter.edu.np
 lbu.edu.np
 lfschitwan.edu.np
+lmckailali.edu.np
 mahamanjushreeschool.edu.np
 mahendramavi.edu.np
 mail.accede.edu.np
+mail.afpi.edu.np
 mail.brilliant.edu.np
 mail.bvs.edu.np
 mail.egs.edu.np
@@ -146,6 +155,7 @@ qaa.ioepc.edu.np
 rahtm.edu.np
 ranipauwasec.edu.np
 register.janamodelschool.edu.np
+rukminimodel.edu.np
 sakuraeducare.edu.np
 sanjiwanicollege.edu.np
 school.sssbs.edu.np
@@ -171,6 +181,7 @@ ubbs.edu.np
 ueaschool.edu.np
 vidyaniketan.edu.np
 webdisk.accede.edu.np
+webdisk.afpi.edu.np
 webdisk.brilliant.edu.np
 webdisk.bvs.edu.np
 webdisk.egs.edu.np
@@ -187,6 +198,7 @@ webdisk.toddlerszone.edu.np
 webdisk.ueaschool.edu.np
 webdisk.vidyaniketan.edu.np
 webmail.accede.edu.np
+webmail.afpi.edu.np
 webmail.brilliant.edu.np
 webmail.egs.edu.np
 webmail.kakarvittacampus.edu.np
@@ -203,6 +215,8 @@ webmail.ueaschool.edu.np
 webmail.vidyaniketan.edu.np
 whm.ueaschool.edu.np
 www.accede.edu.np
+www.admin.riaschool.edu.np
+www.afpi.edu.np
 www.ankuranschool.edu.np
 www.apply.iacer.edu.np
 www.baec.edu.np
@@ -210,9 +224,11 @@ www.bhimodaya.edu.np
 www.brilliant.edu.np
 www.bvs.edu.np
 www.chautarimart.com.greenwind.edu.np
+www.checkeligibility.academic.edu.np
 www.demo.amc.edu.np
 www.demo.chandragirishikshalaya.edu.np
 www.dev.chandragirishikshalaya.edu.np
+www.drs.edu.np
 www.edu.sssbs.edu.np
 www.edulaya.slcc.edu.np
 www.egs.edu.np
