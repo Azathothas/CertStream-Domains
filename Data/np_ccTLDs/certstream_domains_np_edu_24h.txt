@@ -19,10 +19,12 @@ autodiscover.sgmess.edu.np
 avantgarde.edu.np
 baec.edu.np
 baghbhairabbhs.edu.np
+bansbarimss.edu.np
 bostoneducation.edu.np
 brahmi.edu.np
 brightertomorrow.edu.np
 brilliant.edu.np
+brothercomputer.edu.np
 bvs.edu.np
 careerwings.edu.np
 chautarimart.com.greenwind.edu.np
@@ -148,6 +150,7 @@ mail.toddlerszone.edu.np
 mail.ueaschool.edu.np
 mail.vidyaniketan.edu.np
 malikamodel.edu.np
+merotuki.edu.np
 micgd.edu.np
 mis.lbu.edu.np
 mu.edu.np
@@ -158,6 +161,7 @@ nayagaunschool.edu.np
 nbs.edu.np
 neec.edu.np
 newhopeintlschool.edu.np
+nhcs.edu.np
 onlineform.bset.edu.np
 pahs.edu.np
 parbatmultiplecampus.edu.np
@@ -171,6 +175,7 @@ register.janamodelschool.edu.np
 rukminimodel.edu.np
 sakuraeducare.edu.np
 sanjiwanicollege.edu.np
+saraswotinamuna.edu.np
 school.sssbs.edu.np
 sgmess.edu.np
 siddharthahss.edu.np
@@ -188,6 +193,7 @@ swastikera.edu.np
 sympi.edu.np
 tbjebs.edu.np
 techfest.sagarmathacollege.edu.np
+test.dreamland.edu.np
 thedreamschool.edu.np
 toddlerszone.edu.np
 ubbs.edu.np
@@ -261,6 +267,7 @@ www.klc.edu.np
 www.ktmmodelcollege.edu.np
 www.lfschitwan.edu.np
 www.malikamodel.edu.np
+www.merotuki.edu.np
 www.mis.lbu.edu.np
 www.neec.edu.np
 www.newhopeintlschool.edu.np
@@ -280,6 +287,8 @@ www.staging.aecg.edu.np
 www.staging.mitnepal.edu.np
 www.sundarisec.edu.np
 www.swastikera.edu.np
+www.test.dreamland.edu.np
 www.toddlerszone.edu.np
 www.ueaschool.edu.np
 www.vidyaniketan.edu.np
+youme.edu.np
