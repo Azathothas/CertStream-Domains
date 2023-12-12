@@ -44,6 +44,7 @@ heritage.tarakeshwormun.gov.np
 idokavre.p3.gov.np
 idoramechhap.p3.gov.np
 imis.doind.gov.np
+jstc.gov.np
 kapilvastu.vethos.gov.np
 karnali.gov.np
 karnalifrtc.gov.np
@@ -103,7 +104,9 @@ tax.triyugamun.gov.np
 telemed.apf.gov.np
 tourism.lmc.gov.np.yiiff.org
 vacancy.neb.gov.np
+vaccine2.mohp.gov.np
 vhlsjhapa.koshi.gov.np
+webmail.narc.gov.np
 wiedokalikot.karnali.gov.np
 www.armis.pmamp.gov.np
 www.dfokanchanpur.gov.np
@@ -112,6 +115,7 @@ www.eddsp.gov.np
 www.ero.gov.np
 www.getahospital.gov.np
 www.grape.gov.np
+www.jstc.gov.np
 www.karnalifrtc.gov.np
 www.kath.gov.np
 www.molcpa.gov.np
