@@ -55,6 +55,7 @@ app.stg.superset.holyfamily.edu.np
 appdata.gbs.edu.np
 appleseeds.edu.np
 appletree.edu.np
+apply.iacer.edu.np
 apply.libertycollege.edu.np
 apply.pec.edu.np
 apps.afu.edu.np
@@ -111,6 +112,7 @@ avantgarde.edu.np
 axiscollege.edu.np
 ayurvedacampus.edu.np
 backup.bpcbirgunj.edu.np
+baghbhairabbhs.edu.np
 baghbhairabss.edu.np
 bagishwaryschool.edu.np
 bagisworischool.edu.np
@@ -809,6 +811,7 @@ epiccareer.edu.np
 eprepclasses.uniglobecollege.edu.np
 erp.gyanbatika.edu.np
 erp.namasteacademy.edu.np
+esn.edu.np
 eurokidsnepal.edu.np
 everestenglishschool.edu.np
 everestjapanese.edu.np
@@ -1422,6 +1425,7 @@ sitajsmavi.edu.np
 sitajsmavi.edu.np.edu.sajilosikcha.com.np
 sites2.ku.edu.np
 sivm.edu.np
+sjkmss.edu.np
 skytouch.edu.np
 skyvisionfoundation.edu.np
 smarikaschool.edu.np
@@ -1504,6 +1508,7 @@ tu.bmc.edu.np
 tuta.pcampus.edu.np
 tvetnepal2023.kusoed.edu.np
 twlan.edu.np
+ubbs.edu.np
 udayakharkamavi.edu.np
 udayakharkamavi.edu.np.edu.sajilosikcha.com.np
 uief.edu.np
@@ -1907,6 +1912,7 @@ www.apolloschool.edu.np
 www.appdata.gbs.edu.np
 www.appleseeds.edu.np
 www.appletree.edu.np
+www.apply.iacer.edu.np
 www.apply.libertycollege.edu.np
 www.apply.pec.edu.np
 www.apt.edu.np
@@ -2237,6 +2243,7 @@ www.shinecareer.edu.np.mbbsmdinnepal.com
 www.shineeducationservices.edu.np
 www.shineeducationservices.edu.np.mbbsmdinnepal.com
 www.shivajanschool.edu.np
+www.shivalayass.edu.np
 www.shreebiramarsinghss.edu.np
 www.shreeneraibm.edu.np
 www.shreepur.edu.np
