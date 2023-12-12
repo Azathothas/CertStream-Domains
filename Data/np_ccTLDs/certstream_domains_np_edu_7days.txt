@@ -724,6 +724,7 @@ deepjyotibs.edu.np
 demo.amc.edu.np
 demo.cosmoscollege.edu.np
 demo.harbour.edu.np
+demo.ideaupstairs.edu.np
 demo.ims.edu.np
 demo.mechicampus.edu.np
 demo.pahslnc.edu.np
@@ -759,6 +760,7 @@ e.scd.edu.np
 eastwest.edu.np
 edu.np.siteindices.com
 edu.npk-phz.ru
+edu.sssbs.edu.np
 educarebanepa.edu.np
 educationsanchar.edu.np
 educonsult.edu.np
@@ -1412,6 +1414,7 @@ starglobal.edu.np
 sterlingwells.edu.np
 stg.superset.holyfamily.edu.np
 student.lbu.edu.np
+student.rti.edu.np
 studentfolio.edu.np
 studyfirst.edu.np
 studyhub.edu.np
@@ -1815,6 +1818,7 @@ webmail.tti.edu.np
 webmail.udayakharkamavi.edu.np
 webmail.wit.edu.np
 webmail.zenithzone.edu.np
+welfareenglishboardingschool.edu.np
 wendyhouse.edu.np
 whitefield.edu.np
 wit.edu.np
@@ -1917,6 +1921,7 @@ www.demo.amc.edu.np
 www.demo.cosmoscollege.edu.np
 www.demo.educonsult.edu.np
 www.demo.harbour.edu.np
+www.demo.ideaupstairs.edu.np
 www.demo.ims.edu.np
 www.demo.pahslnc.edu.np
 www.demo.sindhulicampus.edu.np
@@ -1935,6 +1940,7 @@ www.drmpi.edu.np
 www.dudhapokhariaavi.edu.np
 www.dynamic.edu.np
 www.edu.npk-phz.ru
+www.edu.sssbs.edu.np
 www.educationsanchar.edu.np
 www.educrope.edu.np
 www.edusys.patancollege.edu.np

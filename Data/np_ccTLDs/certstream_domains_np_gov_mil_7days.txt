@@ -48,6 +48,7 @@ kapilvastu.vethos.gov.np
 karnali.gov.np
 karnalifrtc.gov.np
 kath.gov.np
+labreport.apf.gov.np
 login.lgprofile.gov.np
 mail.dol.gov.np
 mail.nast.gov.np
@@ -90,6 +91,7 @@ road.butwalmun.gov.np
 rpm.gov.np
 sddokapilvastu.lumbini.gov.np
 sifarish.bansgadhimun.gov.np
+sifarish.rajapurmun.gov.np
 soillab.madhesh.gov.np
 sprta.sudurpashchim.gov.np
 sprta.sudurpashchim.gov.np.imagingtrade.com.np
