@@ -10,6 +10,7 @@ ankuranschool.edu.np
 api.citycommunity.edu.np
 api.emis.muodgsm.edu.np
 api.erps.muodgsm.edu.np
+api.nepathyacollege.edu.np
 app.ehwa.edu.np
 apply.iacer.edu.np
 arcomputer.edu.np
@@ -41,6 +42,7 @@ cpanel.ktmmodelcollege.edu.np
 cpanel.malikamodel.edu.np
 cpanel.newhopeintlschool.edu.np
 cpanel.parbatmultiplecampus.edu.np
+cpanel.pbpi.edu.np
 cpanel.ranipauwasec.edu.np
 cpanel.sgmess.edu.np
 cpanel.smilekmschool.edu.np
@@ -60,6 +62,7 @@ cpcalendars.ktmmodelcollege.edu.np
 cpcalendars.malikamodel.edu.np
 cpcalendars.newhopeintlschool.edu.np
 cpcalendars.parbatmultiplecampus.edu.np
+cpcalendars.pbpi.edu.np
 cpcalendars.ranipauwasec.edu.np
 cpcalendars.sgmess.edu.np
 cpcalendars.smilekmschool.edu.np
@@ -79,6 +82,7 @@ cpcontacts.ktmmodelcollege.edu.np
 cpcontacts.malikamodel.edu.np
 cpcontacts.newhopeintlschool.edu.np
 cpcontacts.parbatmultiplecampus.edu.np
+cpcontacts.pbpi.edu.np
 cpcontacts.ranipauwasec.edu.np
 cpcontacts.sgmess.edu.np
 cpcontacts.smilekmschool.edu.np
@@ -97,6 +101,7 @@ emis.muodgsm.edu.np
 epiccareer.edu.np
 evc.edu.np
 exam.citycommunity.edu.np
+git.ns1.nneapt.edu.np
 gsacademy.edu.np
 guideline.edu.np
 haec.edu.np
@@ -141,6 +146,7 @@ mail.ktmmodelcollege.edu.np
 mail.malikamodel.edu.np
 mail.newhopeintlschool.edu.np
 mail.parbatmultiplecampus.edu.np
+mail.pbpi.edu.np
 mail.ranipauwasec.edu.np
 mail.sgmess.edu.np
 mail.smarikaschool.edu.np
@@ -165,6 +171,7 @@ nhcs.edu.np
 onlineform.bset.edu.np
 pahs.edu.np
 parbatmultiplecampus.edu.np
+pbpi.edu.np
 pea.edu.np
 pursuiteducation.gyaninstitute.edu.np
 pyc.edu.np
@@ -177,10 +184,12 @@ sakuraeducare.edu.np
 sanjiwanicollege.edu.np
 saraswotinamuna.edu.np
 school.sssbs.edu.np
+server.padmaischool.edu.np
 sgmess.edu.np
 siddharthahss.edu.np
 siddharthamv.edu.np
 smarikaschool.edu.np
+smartacademy.edu.np
 smartinfosys.edu.np
 smilekmschool.edu.np
 staging.aecg.edu.np
@@ -211,6 +220,7 @@ webdisk.ktmmodelcollege.edu.np
 webdisk.malikamodel.edu.np
 webdisk.newhopeintlschool.edu.np
 webdisk.parbatmultiplecampus.edu.np
+webdisk.pbpi.edu.np
 webdisk.ranipauwasec.edu.np
 webdisk.sgmess.edu.np
 webdisk.smilekmschool.edu.np
@@ -229,6 +239,7 @@ webmail.ktmmodelcollege.edu.np
 webmail.malikamodel.edu.np
 webmail.newhopeintlschool.edu.np
 webmail.parbatmultiplecampus.edu.np
+webmail.pbpi.edu.np
 webmail.ranipauwasec.edu.np
 webmail.sgmess.edu.np
 webmail.smilekmschool.edu.np
@@ -241,6 +252,7 @@ www.accede.edu.np
 www.admin.riaschool.edu.np
 www.afpi.edu.np
 www.ankuranschool.edu.np
+www.api.nepathyacollege.edu.np
 www.apply.iacer.edu.np
 www.baec.edu.np
 www.bhimodaya.edu.np
@@ -274,11 +286,13 @@ www.newhopeintlschool.edu.np
 www.onlineform.bset.edu.np
 www.pahs.edu.np
 www.parbatmultiplecampus.edu.np
+www.pbpi.edu.np
 www.pea.edu.np
 www.pursuiteducation.gyaninstitute.edu.np
 www.rahtm.edu.np
 www.ranipauwasec.edu.np
 www.school.sssbs.edu.np
+www.server.padmaischool.edu.np
 www.sgmess.edu.np
 www.smarikaschool.edu.np
 www.smartinfosys.edu.np
