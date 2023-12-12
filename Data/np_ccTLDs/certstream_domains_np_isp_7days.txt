@@ -5,6 +5,7 @@ cmpg.cgnet.com.np
 icewarp.subisu.net.np
 kube.nettv.com.np
 ncell.axiata.com
+nettv.com.np
 stage.nettv.com.np
 stream.nettv.com.np
 webapi.ncell.axiata.com
