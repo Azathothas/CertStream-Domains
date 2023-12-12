@@ -95,6 +95,7 @@ cpcontacts.ueaschool.edu.np
 cpcontacts.vidyaniketan.edu.np
 demo.amc.edu.np
 demo.chandragirishikshalaya.edu.np
+demo.ideaupstairs.edu.np
 dev.chandragirishikshalaya.edu.np
 drs.edu.np
 edu.sssbs.edu.np
@@ -130,8 +131,10 @@ kantipuracademy.edu.np
 kasthamandap.edu.np
 kistcollege.edu.np
 klc.edu.np
+koshicollege.edu.np
 krishnarg.edu.np
 ktmeducational.edu.np
+ktmimmigration.com.np.ktmeducational.edu.np
 ktmmodelcollege.edu.np
 lalitpurlanguagecenter.edu.np
 lbu.edu.np
@@ -269,6 +272,7 @@ www.chautarimart.com.greenwind.edu.np
 www.checkeligibility.academic.edu.np
 www.demo.amc.edu.np
 www.demo.chandragirishikshalaya.edu.np
+www.demo.ideaupstairs.edu.np
 www.dev.chandragirishikshalaya.edu.np
 www.drs.edu.np
 www.edu.sssbs.edu.np
@@ -284,6 +288,7 @@ www.jpi.edu.np
 www.kakarvittacampus.edu.np
 www.kasthamandap.edu.np
 www.klc.edu.np
+www.ktmimmigration.com.np.ktmeducational.edu.np
 www.ktmmodelcollege.edu.np
 www.lfschitwan.edu.np
 www.malikamodel.edu.np
