@@ -1511,6 +1511,7 @@ ulci.edu.np
 update.amazon.com-payment.scholarshomebss.edu.np
 vc.triton.edu.np
 viaeducation.edu.np
+vibrantmbbs.edu.np
 vijayapursecondaryschool.edu.np
 vishwajyoti.edu.np
 visioninternational.edu.np
@@ -2241,6 +2242,7 @@ www.shreeneraibm.edu.np
 www.shreepur.edu.np
 www.shreepur.edu.np.edu.sajilosikcha.com.np
 www.shrijan.com.np.dharanadarsha.edu.np
+www.shukra.edu.np
 www.siddharatnamavi.edu.np
 www.siddharatnamavi.edu.np.edu.sajilosikcha.com.np
 www.sidhharatnamavi.edu.np
