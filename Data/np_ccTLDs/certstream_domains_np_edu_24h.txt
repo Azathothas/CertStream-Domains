@@ -5,6 +5,7 @@ admin.evc.edu.np
 admin.rahtm.edu.np
 admin.riaschool.edu.np
 afpi.edu.np
+ahs.edu.np
 ankuranschool.edu.np
 api.citycommunity.edu.np
 api.emis.muodgsm.edu.np
@@ -28,9 +29,11 @@ chautarimart.com.greenwind.edu.np
 checkeligibility.academic.edu.np
 cpanel.accede.edu.np
 cpanel.afpi.edu.np
+cpanel.ahs.edu.np
 cpanel.brilliant.edu.np
 cpanel.bvs.edu.np
 cpanel.egs.edu.np
+cpanel.ideaupstairs.edu.np
 cpanel.kakarvittacampus.edu.np
 cpanel.ktmmodelcollege.edu.np
 cpanel.malikamodel.edu.np
@@ -45,9 +48,11 @@ cpanel.ueaschool.edu.np
 cpanel.vidyaniketan.edu.np
 cpcalendars.accede.edu.np
 cpcalendars.afpi.edu.np
+cpcalendars.ahs.edu.np
 cpcalendars.brilliant.edu.np
 cpcalendars.bvs.edu.np
 cpcalendars.egs.edu.np
+cpcalendars.ideaupstairs.edu.np
 cpcalendars.kakarvittacampus.edu.np
 cpcalendars.ktmmodelcollege.edu.np
 cpcalendars.malikamodel.edu.np
@@ -62,9 +67,11 @@ cpcalendars.ueaschool.edu.np
 cpcalendars.vidyaniketan.edu.np
 cpcontacts.accede.edu.np
 cpcontacts.afpi.edu.np
+cpcontacts.ahs.edu.np
 cpcontacts.brilliant.edu.np
 cpcontacts.bvs.edu.np
 cpcontacts.egs.edu.np
+cpcontacts.ideaupstairs.edu.np
 cpcontacts.kakarvittacampus.edu.np
 cpcontacts.ktmmodelcollege.edu.np
 cpcontacts.malikamodel.edu.np
@@ -91,6 +98,7 @@ exam.citycommunity.edu.np
 gsacademy.edu.np
 guideline.edu.np
 haec.edu.np
+harmonic.edu.np
 hospitalitycollegebtl.edu.np
 hr.academy.united.edu.np
 hr.college.united.edu.np
@@ -100,13 +108,16 @@ hrms.academy.united.edu.np
 hrms.college.united.edu.np
 hrms.unitedschool.united.edu.np
 hrms.universal.united.edu.np
+ideaupstairs.edu.np
 janapremmavi.edu.np
 janpriya.edu.np
 jjssmelamchi.edu.np
 jlcc.gyaninstitute.edu.np
+jpi.edu.np
 kakarvittacampus.edu.np
 kantipuracademy.edu.np
 kasthamandap.edu.np
+kistcollege.edu.np
 klc.edu.np
 ktmeducational.edu.np
 ktmmodelcollege.edu.np
@@ -121,6 +132,7 @@ mail.afpi.edu.np
 mail.brilliant.edu.np
 mail.bvs.edu.np
 mail.egs.edu.np
+mail.ideaupstairs.edu.np
 mail.kakarvittacampus.edu.np
 mail.kgpi.edu.np
 mail.ktmmodelcollege.edu.np
@@ -139,6 +151,7 @@ malikamodel.edu.np
 micgd.edu.np
 mis.lbu.edu.np
 mu.edu.np
+mx.mx.mx.kaligandakiacademy.edu.np
 napfs.edu.np
 nationalcreationacademy.edu.np
 nayagaunschool.edu.np
@@ -182,9 +195,11 @@ ueaschool.edu.np
 vidyaniketan.edu.np
 webdisk.accede.edu.np
 webdisk.afpi.edu.np
+webdisk.ahs.edu.np
 webdisk.brilliant.edu.np
 webdisk.bvs.edu.np
 webdisk.egs.edu.np
+webdisk.ideaupstairs.edu.np
 webdisk.kakarvittacampus.edu.np
 webdisk.ktmmodelcollege.edu.np
 webdisk.malikamodel.edu.np
@@ -199,8 +214,10 @@ webdisk.ueaschool.edu.np
 webdisk.vidyaniketan.edu.np
 webmail.accede.edu.np
 webmail.afpi.edu.np
+webmail.ahs.edu.np
 webmail.brilliant.edu.np
 webmail.egs.edu.np
+webmail.ideaupstairs.edu.np
 webmail.kakarvittacampus.edu.np
 webmail.ktmmodelcollege.edu.np
 webmail.malikamodel.edu.np
@@ -235,7 +252,9 @@ www.egs.edu.np
 www.evc.edu.np
 www.guideline.edu.np
 www.haec.edu.np
+www.ideaupstairs.edu.np
 www.jlcc.gyaninstitute.edu.np
+www.jpi.edu.np
 www.kakarvittacampus.edu.np
 www.kasthamandap.edu.np
 www.klc.edu.np
