@@ -1,4 +1,5 @@
 aadimcollege.edu.np
+aakashdeep.edu.np
 accede.edu.np
 adarshaschool.edu.np
 admin.evc.edu.np
@@ -22,6 +23,7 @@ avantgarde.edu.np
 baec.edu.np
 baghbhairabbhs.edu.np
 bansbarimss.edu.np
+bca.eiccollege.edu.np
 bostoneducation.edu.np
 brahmi.edu.np
 brightertomorrow.edu.np
@@ -276,6 +278,7 @@ www.evc.edu.np
 www.guideline.edu.np
 www.haec.edu.np
 www.ideaupstairs.edu.np
+www.jjssmelamchi.edu.np
 www.jlcc.gyaninstitute.edu.np
 www.jpi.edu.np
 www.kakarvittacampus.edu.np
