@@ -184,6 +184,7 @@ analytics.awadheshgupta.com.np
 analytics.bishalraj.com.np
 analytics.dev.annapurnahelicopters.com.np
 analytics.dev.asheesh.com.np
+analytics.dev.birbal.com.np
 analytics.dev.bishnupaudyal.com.np
 analytics.prod.ajitakarki.com.np
 analytics.prod.anishojha.com.np
@@ -1025,6 +1026,7 @@ digitalkarigarh.hotelnana.com.np
 digitalzone.com.np
 digitek.com.np
 dikeshmaharjan.com.np
+diligentinternational.com.np
 dimplemag.kushwahadipesh.com.np
 dineshb.com.np
 dineshthakali.com.np
@@ -2028,6 +2030,7 @@ sameepsigdel.com.np
 sameergurung.com.np
 samirbajracharya.com.np
 samirlamsal.com.np
+samraggi.com.np
 samriddhieduservices.com.kishorgartaula.com.np
 samta.com.np
 sandbox.ranjanyadav.com.np
@@ -2232,6 +2235,7 @@ subin-maharjan.com.np
 sudanshrestha.com.np
 sudarshankhabar.com.np
 sudeepparajuli.com.np
+sudeeptamrakar.com.np
 sudhirlamsal.com.np
 sudipacharya456.com.np
 sudipdhungana.com.np
