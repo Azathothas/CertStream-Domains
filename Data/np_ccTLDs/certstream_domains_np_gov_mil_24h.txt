@@ -4,6 +4,7 @@ changunarayanmun.bipadportal.gov.np
 cjcc.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+dls.gov.np
 ilars.gov.np
 ims-admin.melamchimun.gov.np
 ims.melamchimun.gov.np
@@ -14,5 +15,6 @@ sifarish.ghodaghodimun.gov.np
 vsdrl.gov.np
 webmail.narc.gov.np
 www.cjcc.gov.np
+www.dls.gov.np
 www.ilars.gov.np
 www.vsdrl.gov.np
