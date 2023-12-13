@@ -4,6 +4,7 @@ admin.reasons.edu.np
 admin.riaschool.edu.np
 aemc.edu.np
 aimsabroad.edu.np
+api.nepathyacollege.edu.np
 app.merotuki.edu.np
 apply.iacer.edu.np
 applyonline.mbman.edu.np
@@ -16,6 +17,7 @@ batase.edu.np
 bca.eiccollege.edu.np
 bloomingbuds.edu.np
 brahmi.edu.np
+bstcollege.edu.np
 cdltu.edu.np
 cm.mil.edu.np
 cpanel.batase.edu.np
@@ -102,6 +104,7 @@ mis.eemc.edu.np
 montessori.xavier.edu.np
 msc.ioepas.edu.np
 namunamachhindra.edu.np
+ncmt.edu.np
 ncts.edu.np
 openvision.edu.np
 optigma.edu.np
@@ -124,6 +127,7 @@ successpath.edu.np
 tamorenglishschool.edu.np
 test.aceinstitute.edu.np
 test.khec.edu.np
+tuiost.edu.np.bimal1412.com.np
 ubbs.edu.np
 viaeducation.edu.np
 vibrantmbbs.edu.np
@@ -159,6 +163,7 @@ webmail.xavier.edu.np
 website.adarshaschool.edu.np
 welfareenglishboardingschool.edu.np
 www.admin.riaschool.edu.np
+www.api.nepathyacollege.edu.np
 www.app.merotuki.edu.np
 www.apply.iacer.edu.np
 www.applyonline.mbman.edu.np
@@ -181,6 +186,7 @@ www.merotuki.edu.np
 www.micd.edu.np
 www.montessori.xavier.edu.np
 www.namunamachhindra.edu.np
+www.ncmt.edu.np
 www.ncts.edu.np
 www.openvision.edu.np
 www.pokharacademy.edu.np
