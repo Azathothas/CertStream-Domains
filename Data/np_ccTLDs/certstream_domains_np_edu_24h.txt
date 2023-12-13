@@ -33,6 +33,7 @@ cpanel.sanskrittu.edu.np
 cpanel.seaford.edu.np
 cpanel.successpath.edu.np
 cpanel.tamorenglishschool.edu.np
+cpanel.vidhyasagar.edu.np
 cpanel.wave.edu.np
 cpanel.xavier.edu.np
 cpcalendars.batase.edu.np
@@ -46,6 +47,7 @@ cpcalendars.sanskrittu.edu.np
 cpcalendars.seaford.edu.np
 cpcalendars.successpath.edu.np
 cpcalendars.tamorenglishschool.edu.np
+cpcalendars.vidhyasagar.edu.np
 cpcalendars.wave.edu.np
 cpcalendars.xavier.edu.np
 cpcontacts.batase.edu.np
@@ -59,6 +61,7 @@ cpcontacts.sanskrittu.edu.np
 cpcontacts.seaford.edu.np
 cpcontacts.successpath.edu.np
 cpcontacts.tamorenglishschool.edu.np
+cpcontacts.vidhyasagar.edu.np
 cpcontacts.wave.edu.np
 cpcontacts.xavier.edu.np
 devbhumischool.edu.np
@@ -78,6 +81,7 @@ harmonic.edu.np
 ideaupstairs.edu.np
 jalapadevi.edu.np
 jpi.edu.np
+kalideviss.edu.np
 kallabarimavi.edu.np
 kistcollege.edu.np
 ktmimmigration.com.np.ktmeducational.edu.np
@@ -111,6 +115,8 @@ msc.ioepas.edu.np
 namunamachhindra.edu.np
 ncmt.edu.np
 ncts.edu.np
+nssbaitadi.edu.np
+old.saim.edu.np
 openvision.edu.np
 optigma.edu.np
 panchamukhi.edu.np
@@ -137,6 +143,8 @@ tuiost.edu.np.bimal1412.com.np
 ubbs.edu.np
 viaeducation.edu.np
 vibrantmbbs.edu.np
+vidhyasagar.edu.np
+vocovisionacademy.edu.np
 wave.edu.np
 webdisk.batase.edu.np
 webdisk.cdltu.edu.np
@@ -149,6 +157,7 @@ webdisk.sanskrittu.edu.np
 webdisk.seaford.edu.np
 webdisk.successpath.edu.np
 webdisk.tamorenglishschool.edu.np
+webdisk.vidhyasagar.edu.np
 webdisk.wave.edu.np
 webdisk.xavier.edu.np
 webmail.batase.edu.np

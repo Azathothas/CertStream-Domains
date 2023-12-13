@@ -1,10 +1,12 @@
 api-rms.ndrrma.gov.np
+bajhang.edcu.gov.np
 changunarayanmun.bipadportal.gov.np
 cjcc.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 ilars.gov.np
 ims-admin.melamchimun.gov.np
+ims.melamchimun.gov.np
 kalimatimarket.gov.np
 medpa.moics.gov.np
 ntacall.nta.gov.np
