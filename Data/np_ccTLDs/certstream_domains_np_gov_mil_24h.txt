@@ -1,2 +1,6 @@
 api-rms.ndrrma.gov.np
 changunarayanmun.bipadportal.gov.np
+ilars.gov.np
+kalimatimarket.gov.np
+webmail.narc.gov.np
+www.ilars.gov.np
