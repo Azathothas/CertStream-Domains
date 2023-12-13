@@ -80,7 +80,6 @@ naksapass-api.dhulikhelmun.gov.np
 naksapass.dhulikhelmun.gov.np
 nast.gov.np
 nathm.gov.np
-nationalzoologicalgarden.gov.np
 nbms.mec.gov.np
 nhtc.p5.gov.np
 nic.gov.np
@@ -89,7 +88,6 @@ ntacall.nta.gov.np
 nwchelpline.gov.np
 ocmcm.p1.gov.np
 ocos.lumbini.gov.np
-ocs.p2.gov.np
 oph.gandaki.gov.np
 parsa.pmamp.gov.np
 pbcr.nhrc.gov.np
@@ -106,7 +104,6 @@ rev.kathmandu.gov.np
 rims.mellekhmun.gov.np
 road.butwalmun.gov.np
 rpm.gov.np
-sddokapilvastu.lumbini.gov.np
 sifarish.bansgadhimun.gov.np
 sifarish.rajapurmun.gov.np
 sims.gov.np
@@ -142,7 +139,6 @@ www.kath.gov.np
 www.molcpa.gov.np
 www.nast.gov.np
 www.nathm.gov.np
-www.nationalzoologicalgarden.gov.np
 www.nic.gov.np
 www.nitc.gov.np
 www.nwchelpline.gov.np
