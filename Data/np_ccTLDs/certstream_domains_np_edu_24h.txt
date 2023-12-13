@@ -1,5 +1,8 @@
+admin.devbhumischool.edu.np
 admin.riaschool.edu.np
 apply.iacer.edu.np
+autoconfig.devbhumischool.edu.np
+autodiscover.devbhumischool.edu.np
 baghbhairabbhs.edu.np
 bansbarimss.edu.np
 batase.edu.np
@@ -32,6 +35,7 @@ cpcontacts.openvision.edu.np
 cpcontacts.sanskrittu.edu.np
 cpcontacts.seaford.edu.np
 cpcontacts.successpath.edu.np
+devbhumischool.edu.np
 dreamnextfoundation.edu.np
 emis.himalayakpc.edu.np
 esn.edu.np
@@ -40,6 +44,7 @@ ftp.namunamachhindra.edu.np
 git.ns1.nneapt.edu.np
 gitlab.git.gitlab.wp.dreamemt.edu.np
 gorkhacampus.edu.np
+grabslot.careerhub.edu.np
 harmonic.edu.np
 ideaupstairs.edu.np
 jalapadevi.edu.np
@@ -48,6 +53,7 @@ kallabarimavi.edu.np
 kistcollege.edu.np
 mail.batase.edu.np
 mail.cdltu.edu.np
+mail.devbhumischool.edu.np
 mail.gorkhacampus.edu.np
 mail.ideaupstairs.edu.np
 mail.kallabarimavi.edu.np
@@ -60,6 +66,7 @@ mail.seaford.edu.np
 mail.successpath.edu.np
 micd.edu.np
 montessori.xavier.edu.np
+msc.ioepas.edu.np
 namunamachhindra.edu.np
 ncts.edu.np
 openvision.edu.np
@@ -90,6 +97,7 @@ webdisk.seaford.edu.np
 webdisk.successpath.edu.np
 webmail.batase.edu.np
 webmail.cdltu.edu.np
+webmail.devbhumischool.edu.np
 webmail.ideaupstairs.edu.np
 webmail.kallabarimavi.edu.np
 webmail.namunamachhindra.edu.np
@@ -104,9 +112,11 @@ www.admin.riaschool.edu.np
 www.apply.iacer.edu.np
 www.batase.edu.np
 www.cdltu.edu.np
+www.devbhumischool.edu.np
 www.dreamnextfoundation.edu.np
 www.emis.himalayakpc.edu.np
 www.gorkhacampus.edu.np
+www.grabslot.careerhub.edu.np
 www.holyfamily.edu.np
 www.ideaupstairs.edu.np
 www.jpi.edu.np
