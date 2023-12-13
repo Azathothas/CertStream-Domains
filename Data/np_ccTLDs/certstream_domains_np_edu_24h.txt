@@ -24,6 +24,7 @@ cpanel.batase.edu.np
 cpanel.cdltu.edu.np
 cpanel.ideaupstairs.edu.np
 cpanel.kallabarimavi.edu.np
+cpanel.len.edu.np
 cpanel.merotuki.edu.np
 cpanel.namunamachhindra.edu.np
 cpanel.ncts.edu.np
@@ -38,6 +39,7 @@ cpcalendars.batase.edu.np
 cpcalendars.cdltu.edu.np
 cpcalendars.ideaupstairs.edu.np
 cpcalendars.kallabarimavi.edu.np
+cpcalendars.len.edu.np
 cpcalendars.ncts.edu.np
 cpcalendars.openvision.edu.np
 cpcalendars.sanskrittu.edu.np
@@ -50,6 +52,7 @@ cpcontacts.batase.edu.np
 cpcontacts.cdltu.edu.np
 cpcontacts.ideaupstairs.edu.np
 cpcontacts.kallabarimavi.edu.np
+cpcontacts.len.edu.np
 cpcontacts.ncts.edu.np
 cpcontacts.openvision.edu.np
 cpcontacts.sanskrittu.edu.np
@@ -80,6 +83,7 @@ kistcollege.edu.np
 ktmimmigration.com.np.ktmeducational.edu.np
 learn.dipendrasecondaryschool.edu.np
 learning.dipendrasecondaryschool.edu.np
+len.edu.np
 lmckailali.edu.np
 mail.batase.edu.np
 mail.cdltu.edu.np
@@ -87,6 +91,7 @@ mail.devbhumischool.edu.np
 mail.gorkhacampus.edu.np
 mail.ideaupstairs.edu.np
 mail.kallabarimavi.edu.np
+mail.len.edu.np
 mail.merotuki.edu.np
 mail.micd.edu.np
 mail.namunamachhindra.edu.np
@@ -122,6 +127,7 @@ shodasha.edu.np
 sjkmss.edu.np
 sm.rti.edu.np
 smtp.gorkhacampus.edu.np
+souvenir.edu.np
 student.patancollege.edu.np
 successpath.edu.np
 tamorenglishschool.edu.np
@@ -136,6 +142,7 @@ webdisk.batase.edu.np
 webdisk.cdltu.edu.np
 webdisk.ideaupstairs.edu.np
 webdisk.kallabarimavi.edu.np
+webdisk.len.edu.np
 webdisk.ncts.edu.np
 webdisk.openvision.edu.np
 webdisk.sanskrittu.edu.np
@@ -149,6 +156,7 @@ webmail.cdltu.edu.np
 webmail.devbhumischool.edu.np
 webmail.ideaupstairs.edu.np
 webmail.kallabarimavi.edu.np
+webmail.len.edu.np
 webmail.merotuki.edu.np
 webmail.namunamachhindra.edu.np
 webmail.ncts.edu.np
@@ -162,6 +170,7 @@ webmail.worldandtrinity.edu.np
 webmail.xavier.edu.np
 website.adarshaschool.edu.np
 welfareenglishboardingschool.edu.np
+westzone.edu.np
 www.admin.riaschool.edu.np
 www.api.nepathyacollege.edu.np
 www.app.merotuki.edu.np
@@ -182,6 +191,7 @@ www.kallabarimavi.edu.np
 www.ktmimmigration.com.np.ktmeducational.edu.np
 www.learn.dipendrasecondaryschool.edu.np
 www.learning.dipendrasecondaryschool.edu.np
+www.len.edu.np
 www.merotuki.edu.np
 www.micd.edu.np
 www.montessori.xavier.edu.np
