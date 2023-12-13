@@ -20,6 +20,7 @@ bloomingbuds.edu.np
 brahmi.edu.np
 bstcollege.edu.np
 cdltu.edu.np
+chitrawan.edu.np
 cm.mil.edu.np
 cpanel.ahs.edu.np
 cpanel.batase.edu.np
@@ -81,6 +82,7 @@ dronachalcampus.edu.np
 edu.npk-enel.ru
 edulife.edu.np
 emis.himalayakpc.edu.np
+emis.kapancampus.edu.np.mrds.org.np
 esn.edu.np
 ftp.gorkhacampus.edu.np
 ftp.merotuki.edu.np
@@ -227,6 +229,7 @@ www.dms.asthm.edu.np
 www.dreamnextfoundation.edu.np
 www.dronachalcampus.edu.np
 www.emis.himalayakpc.edu.np
+www.emis.kapancampus.edu.np.mrds.org.np
 www.gorkhacampus.edu.np
 www.grabslot.careerhub.edu.np
 www.holyfamily.edu.np
