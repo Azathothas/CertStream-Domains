@@ -43,6 +43,7 @@ eoffice.kathmandu.gov.np
 ero.gov.np
 eservice.kathmandu.gov.np
 eservice.madimunchitwan.gov.np
+gandaki.ppbmis.gov.np
 gesimisstaging.moics.gov.np
 getahospital.gov.np
 gmalinuwakot.nra.gov.np
@@ -64,6 +65,7 @@ labreport.apf.gov.np
 login.lgprofile.gov.np
 mail.dol.gov.np
 mail.nast.gov.np
+medpa.moics.gov.np
 meetings.bagamati.gov.np
 metronews.kathmandu.gov.np
 moial.p1.gov.np
@@ -105,6 +107,7 @@ rims.mellekhmun.gov.np
 road.butwalmun.gov.np
 rpm.gov.np
 sifarish.bansgadhimun.gov.np
+sifarish.ghodaghodimun.gov.np
 sifarish.rajapurmun.gov.np
 sims.gov.np
 soillab.madhesh.gov.np
@@ -122,6 +125,7 @@ tourism.lmc.gov.np.yiiff.org
 vacancy.neb.gov.np
 vaccine2.mohp.gov.np
 vhlsjhapa.koshi.gov.np
+vsdrl.gov.np
 webmail.narc.gov.np
 wiedokalikot.karnali.gov.np
 www.armis.pmamp.gov.np
@@ -148,3 +152,4 @@ www.sims.gov.np
 www.sprta.sudurpashchim.gov.np.imagingtrade.com.np
 www.stidh.gov.np
 www.tourism.lmc.gov.np.yiiff.org
+www.vsdrl.gov.np
