@@ -53,6 +53,7 @@ heritage.tarakeshwormun.gov.np
 idokavre.p3.gov.np
 idoramechhap.p3.gov.np
 imis.doind.gov.np
+ims.melamchimun.gov.np
 imucovid19.mohp.gov.np
 jstc.gov.np
 kapilvastu.pmamp.gov.np
@@ -78,7 +79,9 @@ mosd.p2.gov.np
 motfe.p1.gov.np
 nagarikapp.gov.np
 naksadata.dakshinkalimun.gov.np
+naksadata.mandandeupurmun.gov.np
 naksapass-api.dhulikhelmun.gov.np
+naksapass-api.mandandeupurmun.gov.np
 naksapass.dhulikhelmun.gov.np
 nast.gov.np
 nathm.gov.np

@@ -1449,6 +1449,7 @@ ress.edu.np
 result.myanglungcampus.edu.np
 rightpath.edu.np
 risefuture.edu.np
+risingstar.edu.np
 ritamvaraschool.edu.np
 ritzhospitality.edu.np
 rkbpi.edu.np
@@ -1600,6 +1601,7 @@ test.dreamland.edu.np
 test.eplanet.edu.np
 test.gsc.edu.np
 test.khec.edu.np
+test.pro.edu.np
 thangpaldhapss.edu.np
 thearyanschool.edu.np
 thedreamschool.edu.np
@@ -1613,6 +1615,7 @@ triton.edu.np
 tsdschool.edu.np
 tss.edu.np
 tu.bmc.edu.np
+tuiost.edu.np.bimal1412.com.np
 tuta.pcampus.edu.np
 twlan.edu.np
 ubbs.edu.np
