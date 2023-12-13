@@ -53,6 +53,7 @@ grape.gov.np
 heritage.tarakeshwormun.gov.np
 idokavre.p3.gov.np
 idoramechhap.p3.gov.np
+ilars.gov.np
 imis.doind.gov.np
 ims.melamchimun.gov.np
 imucovid19.mohp.gov.np
@@ -142,6 +143,7 @@ www.eddsp.gov.np
 www.ero.gov.np
 www.getahospital.gov.np
 www.grape.gov.np
+www.ilars.gov.np
 www.jstc.gov.np
 www.kapilvastu.pmamp.gov.np
 www.karnalifrtc.gov.np

@@ -840,6 +840,7 @@ durga.edu.np
 e.scd.edu.np
 eastwest.edu.np
 edu.np.siteindices.com
+edu.npk-enel.ru
 edu.npk-phz.ru
 edu.sssbs.edu.np
 educarebanepa.edu.np
@@ -974,6 +975,7 @@ itmeet.kucc.ku.edu.np
 iwkh.edu.np
 jalapadevi.edu.np
 janabodhmavi.edu.np
+janachetanass.edu.np
 janakalyancampus.edu.np
 janakalyanhss.edu.np
 janamodelschool.edu.np
@@ -1056,6 +1058,7 @@ littlekids.edu.np
 lmckailali.edu.np
 lms.bpcbirgunj.edu.np
 lms.wcevs.edu.np
+login.nilkanthamultiplecampus.edu.np
 ltma.edu.np
 lts.edu.np
 macaacademy.edu.np
@@ -1297,6 +1300,7 @@ majesticmarketing.edu.np.majesticmarketing.com.np
 malikamodel.edu.np
 manakamanacollege.edu.np
 mangalaschool.edu.np
+maple.edu.np
 mari.edu.np
 mastamabi.edu.np
 mastamabi.edu.np.edu.sajilosikcha.com.np
@@ -1602,6 +1606,7 @@ sungloryschool.edu.np
 sunriseahm.edu.np
 superset.holyfamily.edu.np
 superset.production.axisacademy.edu.np
+support.dynamicsolution.edu.np
 support.kingscollege.edu.np
 supremecollege.edu.np
 suryachandra.edu.np
@@ -1619,10 +1624,12 @@ techfest.sagarmathacollege.edu.np
 techosys.lmc.edu.np
 techspire.edu.np
 test.aceinstitute.edu.np
+test.dav.edu.np
 test.dreamland.edu.np
 test.eplanet.edu.np
 test.gsc.edu.np
 test.khec.edu.np
+test.motherland.edu.np
 test.pro.edu.np
 thangpaldhapss.edu.np
 thearyanschool.edu.np
@@ -2042,6 +2049,7 @@ webmail.zenithzone.edu.np
 website.adarshaschool.edu.np
 welfareenglishboardingschool.edu.np
 wendyhouse.edu.np
+westzone.edu.np
 whitefield.edu.np
 whm.ueaschool.edu.np
 wit.edu.np
@@ -2318,6 +2326,7 @@ www.namasteacademy.edu.np
 www.namunamachhindra.edu.np
 www.nastss.nast.edu.np
 www.nawajeewan.edu.np
+www.nawaneetfoundation.edu.np.sandeshbasnet.com.np
 www.ncts.edu.np
 www.neec.edu.np
 www.nepalavalancheacademy.edu.np
@@ -2493,9 +2502,11 @@ www.tathastu.edu.np
 www.techandtrendy.edu.np
 www.techosys.lmc.edu.np
 www.test.aceinstitute.edu.np
+www.test.dav.edu.np
 www.test.dreamland.edu.np
 www.test.gsc.edu.np
 www.test.ktmeducational.edu.np
+www.test.motherland.edu.np
 www.thangpaldhapss.edu.np
 www.themountviewschool.edu.np
 www.tikapurkaruna.edu.np
