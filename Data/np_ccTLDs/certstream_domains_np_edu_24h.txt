@@ -25,7 +25,9 @@ cm.mil.edu.np
 cpanel.ahs.edu.np
 cpanel.batase.edu.np
 cpanel.cdltu.edu.np
+cpanel.exploreihm.edu.np
 cpanel.ideaupstairs.edu.np
+cpanel.indrachandra.edu.np
 cpanel.kaasthamandapacademy.edu.np
 cpanel.kallabarimavi.edu.np
 cpanel.len.edu.np
@@ -44,7 +46,9 @@ cpanel.xavier.edu.np
 cpcalendars.ahs.edu.np
 cpcalendars.batase.edu.np
 cpcalendars.cdltu.edu.np
+cpcalendars.exploreihm.edu.np
 cpcalendars.ideaupstairs.edu.np
+cpcalendars.indrachandra.edu.np
 cpcalendars.kaasthamandapacademy.edu.np
 cpcalendars.kallabarimavi.edu.np
 cpcalendars.len.edu.np
@@ -61,7 +65,9 @@ cpcalendars.xavier.edu.np
 cpcontacts.ahs.edu.np
 cpcontacts.batase.edu.np
 cpcontacts.cdltu.edu.np
+cpcontacts.exploreihm.edu.np
 cpcontacts.ideaupstairs.edu.np
+cpcontacts.indrachandra.edu.np
 cpcontacts.kaasthamandapacademy.edu.np
 cpcontacts.kallabarimavi.edu.np
 cpcontacts.len.edu.np
@@ -84,6 +90,7 @@ edulife.edu.np
 emis.himalayakpc.edu.np
 emis.kapancampus.edu.np.mrds.org.np
 esn.edu.np
+exploreihm.edu.np
 ftp.gorkhacampus.edu.np
 ftp.merotuki.edu.np
 ftp.namunamachhindra.edu.np
@@ -95,6 +102,8 @@ grabslot.careerhub.edu.np
 harmonic.edu.np
 hrms.ghen.edu.np
 ideaupstairs.edu.np
+ilearn.ace.edu.np
+indrachandra.edu.np
 jalapadevi.edu.np
 janachetanass.edu.np
 jpi.edu.np
@@ -112,8 +121,10 @@ lmckailali.edu.np
 mail.batase.edu.np
 mail.cdltu.edu.np
 mail.devbhumischool.edu.np
+mail.exploreihm.edu.np
 mail.gorkhacampus.edu.np
 mail.ideaupstairs.edu.np
+mail.indrachandra.edu.np
 mail.kaasthamandapacademy.edu.np
 mail.kallabarimavi.edu.np
 mail.len.edu.np
@@ -155,7 +166,9 @@ pouexam.edu.np
 prince.edu.np
 prod.analytics.citycomputer.edu.np
 quantumleap.edu.np
+rassociates.edu.np
 reasons.edu.np
+risefuture.edu.np
 risingstar.edu.np
 sanskrittu.edu.np
 scarlethandicraft.beershebaschool.edu.np
@@ -181,7 +194,9 @@ wave.edu.np
 webdisk.ahs.edu.np
 webdisk.batase.edu.np
 webdisk.cdltu.edu.np
+webdisk.exploreihm.edu.np
 webdisk.ideaupstairs.edu.np
+webdisk.indrachandra.edu.np
 webdisk.kaasthamandapacademy.edu.np
 webdisk.kallabarimavi.edu.np
 webdisk.len.edu.np
@@ -199,7 +214,9 @@ webmail.ahs.edu.np
 webmail.batase.edu.np
 webmail.cdltu.edu.np
 webmail.devbhumischool.edu.np
+webmail.exploreihm.edu.np
 webmail.ideaupstairs.edu.np
+webmail.indrachandra.edu.np
 webmail.kaasthamandapacademy.edu.np
 webmail.kallabarimavi.edu.np
 webmail.len.edu.np
@@ -231,10 +248,12 @@ www.dreamnextfoundation.edu.np
 www.dronachalcampus.edu.np
 www.emis.himalayakpc.edu.np
 www.emis.kapancampus.edu.np.mrds.org.np
+www.exploreihm.edu.np
 www.gorkhacampus.edu.np
 www.grabslot.careerhub.edu.np
 www.holyfamily.edu.np
 www.ideaupstairs.edu.np
+www.indrachandra.edu.np
 www.jpi.edu.np
 www.kaasthamandapacademy.edu.np
 www.kallabarimavi.edu.np
@@ -254,6 +273,7 @@ www.ncts.edu.np
 www.openvision.edu.np
 www.pokharacademy.edu.np
 www.quantumleap.edu.np
+www.rassociates.edu.np
 www.reasons.edu.np
 www.sanskrittu.edu.np
 www.scarlethandicraft.beershebaschool.edu.np
