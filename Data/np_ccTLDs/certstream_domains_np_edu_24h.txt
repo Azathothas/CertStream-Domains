@@ -2,7 +2,9 @@ admin.riaschool.edu.np
 apply.iacer.edu.np
 baghbhairabbhs.edu.np
 bansbarimss.edu.np
+batase.edu.np
 cdltu.edu.np
+cpanel.batase.edu.np
 cpanel.cdltu.edu.np
 cpanel.ideaupstairs.edu.np
 cpanel.kallabarimavi.edu.np
@@ -11,6 +13,8 @@ cpanel.ncts.edu.np
 cpanel.openvision.edu.np
 cpanel.sanskrittu.edu.np
 cpanel.seaford.edu.np
+cpanel.successpath.edu.np
+cpcalendars.batase.edu.np
 cpcalendars.cdltu.edu.np
 cpcalendars.ideaupstairs.edu.np
 cpcalendars.kallabarimavi.edu.np
@@ -18,6 +22,8 @@ cpcalendars.ncts.edu.np
 cpcalendars.openvision.edu.np
 cpcalendars.sanskrittu.edu.np
 cpcalendars.seaford.edu.np
+cpcalendars.successpath.edu.np
+cpcontacts.batase.edu.np
 cpcontacts.cdltu.edu.np
 cpcontacts.ideaupstairs.edu.np
 cpcontacts.kallabarimavi.edu.np
@@ -25,6 +31,7 @@ cpcontacts.ncts.edu.np
 cpcontacts.openvision.edu.np
 cpcontacts.sanskrittu.edu.np
 cpcontacts.seaford.edu.np
+cpcontacts.successpath.edu.np
 dreamnextfoundation.edu.np
 emis.himalayakpc.edu.np
 esn.edu.np
@@ -39,15 +46,19 @@ jalapadevi.edu.np
 jpi.edu.np
 kallabarimavi.edu.np
 kistcollege.edu.np
+mail.batase.edu.np
 mail.cdltu.edu.np
 mail.gorkhacampus.edu.np
 mail.ideaupstairs.edu.np
 mail.kallabarimavi.edu.np
+mail.micd.edu.np
 mail.namunamachhindra.edu.np
 mail.ncts.edu.np
 mail.openvision.edu.np
 mail.sanskrittu.edu.np
 mail.seaford.edu.np
+mail.successpath.edu.np
+micd.edu.np
 montessori.xavier.edu.np
 namunamachhindra.edu.np
 ncts.edu.np
@@ -62,11 +73,13 @@ shodasha.edu.np
 sjkmss.edu.np
 smtp.gorkhacampus.edu.np
 student.patancollege.edu.np
+successpath.edu.np
 test.aceinstitute.edu.np
 test.khec.edu.np
 ubbs.edu.np
 viaeducation.edu.np
 vibrantmbbs.edu.np
+webdisk.batase.edu.np
 webdisk.cdltu.edu.np
 webdisk.ideaupstairs.edu.np
 webdisk.kallabarimavi.edu.np
@@ -74,6 +87,8 @@ webdisk.ncts.edu.np
 webdisk.openvision.edu.np
 webdisk.sanskrittu.edu.np
 webdisk.seaford.edu.np
+webdisk.successpath.edu.np
+webmail.batase.edu.np
 webmail.cdltu.edu.np
 webmail.ideaupstairs.edu.np
 webmail.kallabarimavi.edu.np
@@ -82,9 +97,12 @@ webmail.ncts.edu.np
 webmail.openvision.edu.np
 webmail.sanskrittu.edu.np
 webmail.seaford.edu.np
+webmail.successpath.edu.np
 webmail.worldandtrinity.edu.np
+welfareenglishboardingschool.edu.np
 www.admin.riaschool.edu.np
 www.apply.iacer.edu.np
+www.batase.edu.np
 www.cdltu.edu.np
 www.dreamnextfoundation.edu.np
 www.emis.himalayakpc.edu.np
@@ -93,6 +111,7 @@ www.holyfamily.edu.np
 www.ideaupstairs.edu.np
 www.jpi.edu.np
 www.kallabarimavi.edu.np
+www.micd.edu.np
 www.montessori.xavier.edu.np
 www.namunamachhindra.edu.np
 www.ncts.edu.np
@@ -103,5 +122,6 @@ www.seaford.edu.np
 www.shivalayass.edu.np
 www.shukra.edu.np
 www.student.patancollege.edu.np
+www.successpath.edu.np
 www.test.aceinstitute.edu.np
 youme.edu.np

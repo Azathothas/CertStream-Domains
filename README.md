@@ -6,12 +6,12 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +3503607
+[+] New/ReNewed SSL Certs (ALL): +3886211
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +984
-[+] New/ReNewed SSL Certs (Edu): +107
+[+] New/ReNewed SSL Certs (ALL): +1085
+[+] New/ReNewed SSL Certs (Edu): +127
 [+] New/ReNewed SSL Certs (Gov|Mil): +6
 [+] New/ReNewed SSL Certs (ISPs): +65
 
@@ -44,6 +44,7 @@
 > - [**What? | Why?**](https://github.com/Azathothas/CertStream-Domains/tree/main#rationale)
 > - [**Enriching/Investigating the Data**](https://github.com/Azathothas/CertStream-Domains/tree/main#data)
 > - [**Sources**](https://github.com/Azathothas/CertStream-Domains/tree/main#sources)
+> - [**In The Wild**](https://github.com/Azathothas/CertStream-Domains/tree/main#elsewhere)
 > - [**Future Ideas**](https://github.com/Azathothas/CertStream-Domains/tree/main#ideas)
 > - [**Thanks & Appreciation**](https://github.com/Azathothas/CertStream-Domains/tree/main#thanks)
 ---
@@ -185,6 +186,9 @@
 > ~1. [certstream.calidog.io](https://certstream.calidog.io) uses it's own [Server](https://github.com/CaliDog/certstream-server) to fetch [all logs](https://www.gstatic.com/ct/log_list/v3/all_logs_list.json) exposing **`wss://certstream.calidog.io`** for [libraries](https://github.com/search?q=org%3ACaliDog+certstream&type=repositories). [Azathothas/certstream](https://github.com/Azathothas/Arsenal/tree/main/certstream) is a simple cli that uses the [go library](https://github.com/CaliDog/certstream-go).~
 > > [certstream.calidog.io](https://certstream.calidog.io) has been dropped in favour of a [completely self-hosted solution](https://github.com/Azathothas/Arsenal/tree/main/certstream). See: https://github.com/Azathothas/CertStream-Domains/issues/6
 > 2. List of logs monitored: **https://www.gstatic.com/ct/log_list/v3/all_logs_list.json**
+---
+- #### **Elsewhere**
+> - [Seeing how fast people will probe you after you get a new TLS certificate](https://utcc.utoronto.ca/~cks/space/blog/web/WebProbeSpeedNewTLSCertificate)
 ---
 - #### **Ideas**
 > 1. Use something like [mouday/domain-admin](https://github.com/mouday/domain-admin) if looking to monitor only specific domains.
