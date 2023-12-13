@@ -5,6 +5,7 @@ cjcc.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 dls.gov.np
+dms-onlinesystem.doit.gov.np
 ilars.gov.np
 ims-admin.melamchimun.gov.np
 ims.melamchimun.gov.np
