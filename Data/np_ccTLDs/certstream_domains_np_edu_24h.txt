@@ -1,7 +1,9 @@
 admin.devbhumischool.edu.np
 admin.quantumleap.edu.np
+admin.reasons.edu.np
 admin.riaschool.edu.np
 aemc.edu.np
+aimsabroad.edu.np
 app.merotuki.edu.np
 apply.iacer.edu.np
 applyonline.mbman.edu.np
@@ -11,9 +13,11 @@ autodiscover.wave.edu.np
 baghbhairabbhs.edu.np
 bansbarimss.edu.np
 batase.edu.np
+bca.eiccollege.edu.np
 bloomingbuds.edu.np
 brahmi.edu.np
 cdltu.edu.np
+cm.mil.edu.np
 cpanel.batase.edu.np
 cpanel.cdltu.edu.np
 cpanel.ideaupstairs.edu.np
@@ -60,6 +64,7 @@ esn.edu.np
 ftp.gorkhacampus.edu.np
 ftp.merotuki.edu.np
 ftp.namunamachhindra.edu.np
+fusiongroup.edu.np
 git.ns1.nneapt.edu.np
 gitlab.git.gitlab.wp.dreamemt.edu.np
 gorkhacampus.edu.np
@@ -70,6 +75,10 @@ jalapadevi.edu.np
 jpi.edu.np
 kallabarimavi.edu.np
 kistcollege.edu.np
+ktmimmigration.com.np.ktmeducational.edu.np
+learn.dipendrasecondaryschool.edu.np
+learning.dipendrasecondaryschool.edu.np
+lmckailali.edu.np
 mail.batase.edu.np
 mail.cdltu.edu.np
 mail.devbhumischool.edu.np
@@ -101,6 +110,7 @@ pokharacademy.edu.np
 pop.gorkhacampus.edu.np
 prod.analytics.citycomputer.edu.np
 quantumleap.edu.np
+reasons.edu.np
 risingstar.edu.np
 sanskrittu.edu.np
 scarlethandicraft.beershebaschool.edu.np
@@ -146,6 +156,7 @@ webmail.tamorenglishschool.edu.np
 webmail.wave.edu.np
 webmail.worldandtrinity.edu.np
 webmail.xavier.edu.np
+website.adarshaschool.edu.np
 welfareenglishboardingschool.edu.np
 www.admin.riaschool.edu.np
 www.app.merotuki.edu.np
@@ -163,6 +174,9 @@ www.holyfamily.edu.np
 www.ideaupstairs.edu.np
 www.jpi.edu.np
 www.kallabarimavi.edu.np
+www.ktmimmigration.com.np.ktmeducational.edu.np
+www.learn.dipendrasecondaryschool.edu.np
+www.learning.dipendrasecondaryschool.edu.np
 www.merotuki.edu.np
 www.micd.edu.np
 www.montessori.xavier.edu.np
@@ -171,6 +185,7 @@ www.ncts.edu.np
 www.openvision.edu.np
 www.pokharacademy.edu.np
 www.quantumleap.edu.np
+www.reasons.edu.np
 www.sanskrittu.edu.np
 www.scarlethandicraft.beershebaschool.edu.np
 www.seaford.edu.np
@@ -181,6 +196,7 @@ www.successpath.edu.np
 www.tamorenglishschool.edu.np
 www.test.aceinstitute.edu.np
 www.wave.edu.np
+www.website.adarshaschool.edu.np
 www.xavier.edu.np
 www.youplay.vmebschool.edu.np
 xavier.edu.np

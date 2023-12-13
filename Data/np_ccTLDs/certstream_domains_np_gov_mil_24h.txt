@@ -1,5 +1,6 @@
 api-rms.ndrrma.gov.np
 changunarayanmun.bipadportal.gov.np
+cjcc.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 ilars.gov.np
@@ -7,5 +8,8 @@ kalimatimarket.gov.np
 medpa.moics.gov.np
 ntacall.nta.gov.np
 sifarish.ghodaghodimun.gov.np
+vsdrl.gov.np
 webmail.narc.gov.np
+www.cjcc.gov.np
 www.ilars.gov.np
+www.vsdrl.gov.np
