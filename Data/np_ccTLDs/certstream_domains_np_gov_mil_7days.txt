@@ -9,6 +9,7 @@ api.neb.gov.np
 apps.mahankalmun.gov.np
 apps.sunchhaharimun.gov.np
 armis.pmamp.gov.np
+bajhang.edcu.gov.np
 bajrabarahihospital.bagamati.gov.np
 banke.akc.gov.np
 barhabisehospital.bagamati.gov.np
@@ -83,6 +84,7 @@ naksadata.mandandeupurmun.gov.np
 naksapass-api.dhulikhelmun.gov.np
 naksapass-api.mandandeupurmun.gov.np
 naksapass.dhulikhelmun.gov.np
+naksapass.mandandeupurmun.gov.np
 nast.gov.np
 nathm.gov.np
 nbms.mec.gov.np
@@ -98,6 +100,7 @@ parsa.pmamp.gov.np
 pbcr.nhrc.gov.np
 pension.gov.np
 pfddmis.karnali.gov.np
+piurupandehi.pmamp.gov.np
 pms.karnali.gov.np
 pollution.gov.np
 ppsconline.karnali.gov.np
@@ -151,6 +154,7 @@ www.nitc.gov.np
 www.nwchelpline.gov.np
 www.parsa.pmamp.gov.np
 www.pension.gov.np
+www.piurupandehi.pmamp.gov.np
 www.sims.gov.np
 www.sprta.sudurpashchim.gov.np.imagingtrade.com.np
 www.stidh.gov.np
