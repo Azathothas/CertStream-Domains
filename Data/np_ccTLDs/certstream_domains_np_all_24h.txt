@@ -60,6 +60,7 @@ admin.avesolution.com.np
 admin.crystalsoft.com.np
 admin.devbhumischool.edu.np
 admin.freeseotools.sapnaa.com.np
+admin.mohitbhatt.com.np
 admin.quantumleap.edu.np
 admin.reasons.edu.np
 admin.riaschool.edu.np
@@ -116,6 +117,7 @@ analytics.staging.dhrubalamsal.com.np
 analytics.staging.gubhaju.com.np
 analytics.stg.birbal.com.np
 analytics.stg.dipakregmi.com.np
+analytics.stg.gudduojha.com.np
 analytics.uat.dipakmahatara.com.np
 analytics.uat.grg.com.np
 anidcl.com.np
@@ -154,6 +156,7 @@ arogyamagar.com.np
 aroshan.com.np
 arrownet.com.np
 arscargonepal.com.np
+arunkabeli.com.np
 aryalrajan.com.np
 aseeuntrade.com.np
 ashish111.com.np
@@ -211,6 +214,7 @@ backend.icash.com.np
 baghbhairabbhs.edu.np
 bajhang.edcu.gov.np
 bajracharyaprabin.com.np
+baniyasabin3.com.np
 bansbarimss.edu.np
 banup.com.np
 barala.com.np
@@ -263,6 +267,7 @@ bloomingbuds.edu.np
 bluebellnepal.com.np
 blueocean.com.np
 bma.org.np
+bobis.org.np
 bpo.com.np
 bpo.com.np.pravinkhatri.com.np
 brahmi.edu.np
@@ -668,6 +673,7 @@ d85a404940b336d8d69e44d8746b9327.cloutik.wlink.com.np
 dahalsantosh.com.np
 dairytrainingcentre.com.np
 damberbokati.com.np
+dangalbinod.com.np
 dangolgaurav.com.np
 danishpuri.com.np
 dashboard.pmh.com.np
@@ -687,6 +693,7 @@ deepakthakur.com.np
 deepshreekrishna.com.np
 delightit.com.np
 delightit.com.np.ditsoftnepal.com
+delphicnepal.org.np
 demo.dignep.com.np
 demo.hotelcitypark.com.np
 demo.jeevanbikas.org.np
@@ -722,6 +729,7 @@ divanconstruction.com.np
 diwashrestha.com.np
 dls.gov.np
 dm.helpnepaltax.com.np
+dms.asthm.edu.np
 dmticket.helpnepaltax.com.np
 docs.aaryanpoudel.com.np
 docs.prod.analytics.dineshbhattarai.com.np
@@ -822,6 +830,7 @@ git.git.gitlab.snepali.com.np
 git.git.govindbdhami.com.np
 git.git.krj.com.np
 git.git.sitemap.ghimirenabin.com.np
+git.git.sudiplamichhane.com.np
 git.gitlab.admin.avesolution.com.np
 git.gitlab.git.krishnapaudel.com.np
 git.gitlab.subhashbista.com.np
@@ -1196,6 +1205,7 @@ megaseed.com.np
 meghauliserofero.com.urbannepol.com.np
 melinathapa.com.np
 memo.com.np
+memoh.com.np
 menu.saitsolution.com.np
 merotuki.edu.np
 metahightech.com.np
@@ -1425,6 +1435,7 @@ rscpl.com.np
 rsi.com.np
 rth.birajp.com.np
 rtifederation.org.np
+rtn.org.np
 rupeshtimalsina.com.np
 rupeshuprety.com.np
 s.sujalpradhan.com.np
@@ -1456,6 +1467,7 @@ sandeepsada.com.np
 sandeshjamkatel.com.np
 sanjan.com.np
 sanjibchaudhary.com.np
+sankarshan.com.np
 sanskrittu.edu.np
 santo.com.np
 sapanaayurved.com.np
@@ -1547,6 +1559,7 @@ ssapkota.com.np
 ssgrp.com.np
 ssh.5bd689f1fe78.narayanigauli.com.np
 staging.analytics.deepeshdhakal.com.np
+staging.hostmaster.www1.sauravmoktan.com.np
 staging.wzmzr.mesh.mmsclouytics.dev.bishnupaudyal.com.np
 staging2.tvt.com.np
 staging3.tvt.com.np
@@ -1627,6 +1640,7 @@ temp-deploy-to-temp.preview.sharmaprakash.com.np
 tenzinnorbu.com.np
 test.aceinstitute.edu.np
 test.citcomputer.com.np
+test.hostmaster.www1.sauravmoktan.com.np
 test.jnmilan.com.np
 test.khec.edu.np
 test.mitsolution.com.np
@@ -1646,6 +1660,7 @@ tracking.pagodalabs.com.np
 trailokyabuilders.com.np
 traveldesk.com.np
 tribhujkhabar.com.np
+trikonschool.edu.np
 try.sujalpradhan.com.np
 tuiost.edu.np.bimal1412.com.np
 uat.analytics.avesolution.com.np
@@ -2035,6 +2050,7 @@ www.dibas.com.np
 www.digitalkarkhana.allbreedpet.com.np
 www.dls.gov.np
 www.dm.helpnepaltax.com.np
+www.dms.asthm.edu.np
 www.dmticket.helpnepaltax.com.np
 www.dokonepal.com.np
 www.donation.kioch.org.np
@@ -2177,6 +2193,7 @@ www.mijarlawassociates.com.np
 www.mithilanchal.grandintl.com.np
 www.mitjee.com.np
 www.mitnepal.edu.np
+www.momo.rtn.org.np
 www.montessori.xavier.edu.np
 www.moundrpl.kool.com.np
 www.mukundshah.com.np
@@ -2357,6 +2374,7 @@ www.tribhujkhabar.com.np
 www.tripurafurniture.shailamitra.com.np
 www.trishaktimetals.com.np
 www.ujjwalgiri.com.np
+www.upload.bobis.org.np
 www.uttamdawadi.com.np
 www.uttamprasai.com.np
 www.uwmanpower.miligan.com.np

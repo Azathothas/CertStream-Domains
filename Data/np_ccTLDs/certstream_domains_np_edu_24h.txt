@@ -69,6 +69,7 @@ cpcontacts.vidhyasagar.edu.np
 cpcontacts.wave.edu.np
 cpcontacts.xavier.edu.np
 devbhumischool.edu.np
+dms.asthm.edu.np
 dreamnextfoundation.edu.np
 dronachalcampus.edu.np
 edu.npk-enel.ru
@@ -149,6 +150,7 @@ successpath.edu.np
 tamorenglishschool.edu.np
 test.aceinstitute.edu.np
 test.khec.edu.np
+trikonschool.edu.np
 tuiost.edu.np.bimal1412.com.np
 ubbs.edu.np
 viaeducation.edu.np
@@ -200,6 +202,7 @@ www.applyonline.mbman.edu.np
 www.batase.edu.np
 www.cdltu.edu.np
 www.devbhumischool.edu.np
+www.dms.asthm.edu.np
 www.dreamnextfoundation.edu.np
 www.dronachalcampus.edu.np
 www.emis.himalayakpc.edu.np
