@@ -63,6 +63,7 @@ apps.afu.edu.np
 apt.edu.np
 archclub.ku.edu.np
 arcomputer.edu.np
+arunima.edu.np
 asahilink.edu.np
 asahinepal.edu.np
 atc.edu.np
@@ -134,6 +135,7 @@ baneshworcampus.edu.np
 bansbarimss.edu.np
 base.edu.np
 batase.edu.np
+bauddha.arunima.edu.np
 bba.cosmoscollege.edu.np
 bca.eiccollege.edu.np
 bdcollege.edu.np
@@ -1366,6 +1368,7 @@ pws.edu.np
 pyc.edu.np
 qaa.ioepc.edu.np
 quantumleap.edu.np
+quiz.dipendrasecondaryschool.edu.np
 r1.radiantmnr.edu.np
 radhikamabi.edu.np
 radiantmnr.edu.np
@@ -1974,6 +1977,7 @@ www.apply.iacer.edu.np
 www.apply.libertycollege.edu.np
 www.applyonline.mbman.edu.np
 www.apt.edu.np
+www.arunima.edu.np
 www.asahilink.edu.np
 www.asdasd.zingschool.edu.np
 www.attendance.hetaudaacademy.edu.np
@@ -2254,6 +2258,7 @@ www.pua.edu.np
 www.pursuiteducation.gyaninstitute.edu.np
 www.pushpasadan.edu.np
 www.quantumleap.edu.np
+www.quiz.dipendrasecondaryschool.edu.np
 www.r1.radiantmnr.edu.np
 www.radhikamabi.edu.np
 www.radiantmnr.edu.np
