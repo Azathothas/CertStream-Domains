@@ -15,6 +15,7 @@ certification.bansgadhimun.gov.np
 cetmis.tourism.gov.np
 cfug.karnali.gov.np
 changunarayanmun.bipadportal.gov.np
+chis.dohs.gov.np
 cjcc.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -35,6 +36,7 @@ eoffice.kathmandu.gov.np
 ero.gov.np
 eserv.kathmandu.gov.np
 eservice.kathmandu.gov.np
+fdcmirmi.gandaki.gov.np
 gandaki.ppbmis.gov.np
 gesimisstaging.moics.gov.np
 getahospital.gov.np
@@ -76,6 +78,7 @@ ocos.lumbini.gov.np
 parsa.pmamp.gov.np
 pension.gov.np
 pfddmis.karnali.gov.np
+piurautahat.pmamp.gov.np
 piurupandehi.pmamp.gov.np
 pms.karnali.gov.np
 pollution.gov.np
@@ -112,6 +115,7 @@ www.cjcc.gov.np
 www.dls.gov.np
 www.eddsp.gov.np
 www.ero.gov.np
+www.fdcmirmi.gandaki.gov.np
 www.getahospital.gov.np
 www.grape.gov.np
 www.ilars.gov.np
