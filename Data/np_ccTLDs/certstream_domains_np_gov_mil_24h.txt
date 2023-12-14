@@ -1,3 +1,4 @@
+api-rms.ndrrma.gov.np
 chis.dohs.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -5,6 +6,7 @@ crime.kaligandakimunsyangja.gov.np
 dls.gov.np
 ehrpmis.nra.gov.np
 eserv.kathmandu.gov.np
+gandaki.ppbmis.gov.np
 health.kaligandakimunsyangja.gov.np
 inventory.kaligandakimunsyangja.gov.np
 kalimatimarket.gov.np
@@ -12,5 +14,6 @@ parsanationalpark.gov.np
 revenue.kaligandakimunsyangja.gov.np
 school.kaligandakimunsyangja.gov.np
 sifarish.ghodaghodimun.gov.np
+techtransfer.mcsipc.gov.np
 www.dls.gov.np
 www.parsanationalpark.gov.np
