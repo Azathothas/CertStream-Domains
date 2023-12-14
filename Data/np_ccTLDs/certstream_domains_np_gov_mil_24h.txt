@@ -1,5 +1,13 @@
 copomis.gov.np
 copomis.mocpa.gov.np
+crime.kaligandakimunsyangja.gov.np
 dls.gov.np
+eserv.kathmandu.gov.np
+health.kaligandakimunsyangja.gov.np
+inventory.kaligandakimunsyangja.gov.np
 kalimatimarket.gov.np
+parsanationalpark.gov.np
+revenue.kaligandakimunsyangja.gov.np
+school.kaligandakimunsyangja.gov.np
 www.dls.gov.np
+www.parsanationalpark.gov.np
