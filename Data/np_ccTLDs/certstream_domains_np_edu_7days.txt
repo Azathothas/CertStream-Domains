@@ -144,6 +144,7 @@ bhairabnavadeepmavi.edu.np
 bhairabnavadeepmavi.edu.np.edu.sajilosikcha.com.np
 bhanuboardingschool.edu.np
 bhassara.edu.np
+bhimsen.edu.np
 bhm.pkcampus.edu.np
 biconsultancy.edu.np
 bihaniinstitute.edu.np
@@ -228,6 +229,7 @@ cpanel.bhairabnavadeep.edu.np
 cpanel.bhairabnavadeepmavi.edu.np
 cpanel.bhanuboardingschool.edu.np
 cpanel.bhassara.edu.np
+cpanel.bhimsen.edu.np
 cpanel.bihaniinstitute.edu.np
 cpanel.bishwashanticampus.edu.np
 cpanel.bpi.edu.np
@@ -399,6 +401,7 @@ cpcalendars.bhairabnavadeep.edu.np
 cpcalendars.bhairabnavadeepmavi.edu.np
 cpcalendars.bhanuboardingschool.edu.np
 cpcalendars.bhassara.edu.np
+cpcalendars.bhimsen.edu.np
 cpcalendars.bihaniinstitute.edu.np
 cpcalendars.bishwashanticampus.edu.np
 cpcalendars.bpi.edu.np
@@ -567,6 +570,7 @@ cpcontacts.bhairabnavadeep.edu.np
 cpcontacts.bhairabnavadeepmavi.edu.np
 cpcontacts.bhanuboardingschool.edu.np
 cpcontacts.bhassara.edu.np
+cpcontacts.bhimsen.edu.np
 cpcontacts.bihaniinstitute.edu.np
 cpcontacts.bishwashanticampus.edu.np
 cpcontacts.bpi.edu.np
@@ -992,6 +996,7 @@ mail.bengkateshwarss.edu.np
 mail.bhairabnavadeep.edu.np
 mail.bhairabnavadeepmavi.edu.np
 mail.bhanuboardingschool.edu.np
+mail.bhimsen.edu.np
 mail.bihaniinstitute.edu.np
 mail.biomedical.edu.np
 mail.bishwashanticampus.edu.np
@@ -1311,6 +1316,7 @@ pua.edu.np
 pursuiteducation.gyaninstitute.edu.np
 purwanchalschoolbiratnagar.edu.np
 pushpasadan.edu.np
+pws.edu.np
 pyc.edu.np
 qaa.ioepc.edu.np
 quantumleap.edu.np
@@ -1441,12 +1447,14 @@ staging.epark.edu.np
 staging.goreto.edu.np
 staging.mitnepal.edu.np
 staging.phoenixschool.edu.np
+stateschoolsurkhet.edu.np
 sterlingwells.edu.np
 stg.superset.holyfamily.edu.np
 stories.pma.edu.np
 student.lbu.edu.np
 student.patancollege.edu.np
 student.rti.edu.np
+student.stunning.edu.np
 studentfolio.edu.np
 studyfirst.edu.np
 studyhub.edu.np
@@ -1541,6 +1549,7 @@ webdisk.bhairabnavadeep.edu.np
 webdisk.bhairabnavadeepmavi.edu.np
 webdisk.bhanuboardingschool.edu.np
 webdisk.bhassara.edu.np
+webdisk.bhimsen.edu.np
 webdisk.bihaniinstitute.edu.np
 webdisk.bishwashanticampus.edu.np
 webdisk.bpi.edu.np
@@ -1709,6 +1718,7 @@ webmail.bhairabnavadeep.edu.np
 webmail.bhairabnavadeepmavi.edu.np
 webmail.bhanuboardingschool.edu.np
 webmail.bhassara.edu.np
+webmail.bhimsen.edu.np
 webmail.bihaniinstitute.edu.np
 webmail.bishwashanticampus.edu.np
 webmail.bpi.edu.np
@@ -1926,6 +1936,7 @@ www.bhairabnavadeepmavi.edu.np.edu.sajilosikcha.com.np
 www.bhanuboardingschool.edu.np
 www.bhassara.edu.np
 www.bhimodaya.edu.np
+www.bhimsen.edu.np
 www.bhm.pkcampus.edu.np
 www.bihaniinstitute.edu.np
 www.bindhyabasini.edu.np
