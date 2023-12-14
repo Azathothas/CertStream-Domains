@@ -762,6 +762,7 @@ api.nyctest.srisathyasai.org.np
 api.onecinemas.com.np
 api.ottr.com.np
 api.siliconcare.com.np
+api.sims.gov.np
 api.stage.levelup.com.np
 api.stg.analytics.bishalraj.com.np
 api.sumantgupta.com.np
@@ -975,6 +976,7 @@ author.shresthaanil.com.np
 auto-admin.bizpro.com.np
 autoconfig.creativeintlacademy.edu.np
 autoconfig.devbhumischool.edu.np
+autoconfig.fr.prod.analytics.mdnadimakber.com.np
 autoconfig.muannepal.org.np
 autoconfig.nationalpathlabs.com.np
 autoconfig.priyankasharma.com.np
@@ -2231,7 +2233,9 @@ cloud.saurabhmishra.com.np
 cloud.superset.dev.tejbdrkhadka.com.np
 cloud.superset.prod.crabi.com.np
 cloud.support.boudhafc.com.np
+cloud.support.pharmakonmedisales.com.np
 cloud.sushantpandey.com.np
+cloud.uat.analytics.saradpoudel.com.np
 cloudconsult.com.np
 cloudstorage.beeraz.com.np
 cloudtech.com.np
@@ -3400,6 +3404,7 @@ cpanel.whitearchdental.com.np
 cpanel.wit.edu.np
 cpanel.wits.com.np
 cpanel.wlit.org.np
+cpanel.worldfriends.com.np
 cpanel.xavier.edu.np
 cpanel.yadavmanoj.com.np
 cpanel.yashinternational.com.np
@@ -4441,6 +4446,7 @@ cpcalendars.whitearchdental.com.np
 cpcalendars.wit.edu.np
 cpcalendars.wits.com.np
 cpcalendars.wlit.org.np
+cpcalendars.worldfriends.com.np
 cpcalendars.xavier.edu.np
 cpcalendars.yadavmanoj.com.np
 cpcalendars.yashinternational.com.np
@@ -5481,6 +5487,7 @@ cpcontacts.whitearchdental.com.np
 cpcontacts.wit.edu.np
 cpcontacts.wits.com.np
 cpcontacts.wlit.org.np
+cpcontacts.worldfriends.com.np
 cpcontacts.xavier.edu.np
 cpcontacts.yadavmanoj.com.np
 cpcontacts.yashinternational.com.np
@@ -5732,6 +5739,7 @@ dentalhubnepal.com.np
 dentalhubnepal.com.np.arsdental.com.np
 desar.com.np
 deshbandhubasnet.com.np
+design.laccos.org.np
 design.nepalfinance.com.np
 designcube.com.np
 designlab.ku.edu.np
@@ -5911,6 +5919,7 @@ dipta.com.np
 dipuchaudhary.com.np
 discountpharmacy.com.np
 disneyland.beetechsolution.com.np
+districtcoopunion.coop.np
 divanconstruction.com.np
 diversepatterns.com.np
 divineas.edu.np
@@ -7703,6 +7712,7 @@ krgss.edu.np
 kripakatuwal.com.np
 kripakatuwal.kirankatuwal.com.np
 kripastha.com.np
+kripeshkhanal.com.np
 kripeshkharel.com.np
 krishalluitel.com.np
 krishanbikram.com.np
@@ -7927,6 +7937,7 @@ login.clinic.rajkumarsahsonar.com.np
 login.cloutik.wlink.com.np
 login.deepaklamichhane.com.np
 login.forum.prakashpaudyal.com.np
+login.fr.prod.analytics.mdnadimakber.com.np
 login.freestylefitness.com.np
 login.gatewayservices.com.np
 login.gautamyoges.com.np
@@ -9384,6 +9395,7 @@ mail.wingsentertainment.com.np
 mail.wit.edu.np
 mail.wits.com.np
 mail.wlit.org.np
+mail.worldfriends.com.np
 mail.wowfashionschool.com.np
 mail.wqclawebmail.chetnathbhattarai.com.np
 mail.www.eec-nepal.org.np
@@ -9468,6 +9480,7 @@ manju.com.np
 manjudevibhatta.com.np
 manmohanmchospital.org.np
 manoharstha.com.np
+manojbk.com.np
 manojkumar.com.np
 manojregmi.com.np
 manojshakya.com.np
@@ -9683,6 +9696,7 @@ mobileinfo.npav.net
 mochwo19.kias.org.np
 moctca.eattendance.com.np
 modulasfurniture.com.np
+moea.sudurpashchim.gov.np
 mogulmedia.com.np
 mohamadfiroz.com.np
 mohammadsajjad.com.np
@@ -9781,6 +9795,7 @@ municipality.scodus.com.np
 musicplus.com.np
 musikotsschool.edu.np
 muskanbista.com.np
+muslimcommission.gov.np
 mutextech.com.np
 mvdtestemail.creatudevelopers.com.np
 mwu.edu.np
@@ -9799,12 +9814,14 @@ myip.sunilprasad.com.np
 mymail.roadhouse.com.np
 myomsapi.globaltechsolution.com.np
 myportfolio.kriticapital.com.np
+mysql.analytics.uat.ric.org.np
 mysql.autodiscover.sujannepal.com.np
 mysql.prod.superset.bikash12.com.np
 mysql.production.analytics.govindbdhami.com.np
 mysql.superset.production.deepaklamichhane.com.np
 mysql.superset.stg.lukashtamang.com.np
 mysql.support.familydentalclinic.com.np
+mysql.support.pharmakonmedisales.com.np
 mysql.uat.superset.anojbaniya.com.np
 mysql.vpn.stg.analytics.bishalraj.com.np
 mysticenergy.com.np
@@ -10128,6 +10145,7 @@ nilkanthamavi.edu.np
 nilkanthamavi.edu.np.edu.sajilosikcha.com.np
 nime.com.np
 nimpun.com.np
+ninc.gov.np
 ninglashainiconstruction.balatripuraimportexport.com.np
 ninglashainiconstruction.com.np
 ninglashainiconstruction.com.np.balatripuraimportexport.com.np
@@ -10281,6 +10299,8 @@ nssbaitadi.edu.np
 nsulav.com.np
 ntacall.nta.gov.np
 ntdf.org.np
+nttv.com.np
+nttv.com.np.rbpl.com.np
 numberlines.sasi.com.np
 numbertheory.bhandaribijay.com.np
 numbertheory.sagarpandey.com.np
@@ -10536,6 +10556,7 @@ paudelanish.com.np
 paudelayush007.com.np
 paudeldhirendra.com.np
 paudelkrishna.com.np
+paudelm.com.np
 paudelnabin.com.np
 paudyalsushan.com.np
 pavitracooperative.com.np
@@ -10592,6 +10613,7 @@ phanindrakumarmishra.com.np
 pharmedica.amtrixtech.com.np
 pharmedica.chiragthapa.com.np
 phen.org.np
+phlmc.sudurpashchim.gov.np
 phonesansar.goinfosys.com.np
 phonrajgurung.com.np
 photoeverest.com.np
@@ -10735,6 +10757,7 @@ pouexam.edu.np
 powersummit.com.np
 ppa.org.np
 ppdl.com.np
+pphl.sudurpashchim.gov.np
 ppsconline.karnali.gov.np
 ppsconline.p2.gov.np
 ppuknepal.org.np
@@ -10790,6 +10813,7 @@ prakashbhandari.name.np
 prakashmahara.com.np
 prakashnayak.com.np
 prakashpant.com.np
+prakashtimalsina.com.np
 prakritipandey.com.np
 prameshrai.com.np
 pramishmaharjan.com.np
@@ -10985,6 +11009,7 @@ ps.youngminds.com.np
 psagar.com.np
 pselectricals.com.np
 psg.com.np
+psportsc.sudurpashchim.gov.np
 pssk.edu.np
 pssk.edu.np.edu.sajilosikcha.com.np
 pstha.com.np
@@ -11693,6 +11718,7 @@ samraggi.com.np
 samratexim.com.np
 samratkhadka.com.np
 samratneupane.com.np
+samratojha.com.np
 samrattandoori.com.np
 samrid.com.np
 samriddhieduservices.com.kishorgartaula.com.np
@@ -11959,6 +11985,8 @@ segway.com.np
 seint.com.np
 sejaladhikari.com.np
 sekai.com.np
+selfcare.sky.net.np
+selfcare.websurfer.com.np
 semcopvtltd.com.np
 semestertech.com.np
 semislowmanageraurora.sandbox.com.np
@@ -12419,6 +12447,7 @@ snuranw.com.np
 soberecovery.namuda.org.np
 soberecovery.org.np
 sobitneupane.com.np
+sodang.nsonepal.gov.np
 sodep.org.np
 soedelf.ku.edu.np
 soenja.com.np
@@ -12432,8 +12461,10 @@ softwear.com.np
 soga.org.np
 soham.org.np
 soillab.madhesh.gov.np
+sokanchanpur.nsonepal.gov.np
 sokrinkoirala.com.np
 soleducationconsultancy.edu.np
+somakawanpur.nsonepal.gov.np
 some.suyashnepal.com.np
 somitram.com.np
 somnathtimsina.com.np
@@ -12460,6 +12491,7 @@ southwestern.edu.np
 souvenir.edu.np
 sowcos.org.np
 soyaj.com.np
+spa.sudurpashchim.gov.np
 spaa.org.np
 space.shahiupendra.com.np
 spandann.com.np
@@ -12601,6 +12633,7 @@ stg.superset.tac.com.np
 stg.tshiringtamang.com.np
 stha-roshan.com.np
 sthaanish.com.np
+sthabijan.com.np
 sthabishal.com.np
 sthajagan.com.np
 sthamadhukar.com.np
@@ -12949,6 +12982,7 @@ support.govindakandel.com.np
 support.hariramale.com.np
 support.janaki.net.np
 support.jaygaha.com.np
+support.khadgaoli.com.np
 support.kingscollege.edu.np
 support.madhavgautam.com.np
 support.mirmirebank.com.np
@@ -13081,6 +13115,7 @@ swiftholidays.kunwarsalawon.com.np
 swiftnetwork.com.np
 swikarneupane.com.np
 swikritadhikari.com.np
+switch-api.softbenz.com.np
 switchon.com.np
 swnepal.com.np
 swoniga.eattendance.com.np
@@ -13617,6 +13652,7 @@ vogue.com.np
 voith.com.np
 volunteer.bobis.org.np
 volunteergardener-net.npt8.org
+voot.com.np
 vpm-rhinorack.dev.omnicommediagroup.com.np
 vpn.app.analytics.gaurabpaudyal.com.np
 vpn.arm.rajm.com.np
@@ -14704,6 +14740,7 @@ webdisk.whitearchdental.com.np
 webdisk.wit.edu.np
 webdisk.wits.com.np
 webdisk.wlit.org.np
+webdisk.worldfriends.com.np
 webdisk.xavier.edu.np
 webdisk.yadavmanoj.com.np
 webdisk.yashinternational.com.np
@@ -15813,6 +15850,7 @@ webmail.wit.edu.np
 webmail.wits.com.np
 webmail.wlit.org.np
 webmail.worldandtrinity.edu.np
+webmail.worldfriends.com.np
 webmail.xavier.edu.np
 webmail.yadavmanoj.com.np
 webmail.yashinternational.com.np
@@ -15871,6 +15909,7 @@ wiki.5bd689f1fe78.narayanigauli.com.np
 wiki.cdg.com.np
 wiki.chat.superset-prod.sushantshah.com.np
 wiki.forum.prakashpaudyal.com.np
+wiki.ns2.prod.analytics.mdnadimakber.com.np
 wiki.progresssharma.com.np
 wiki.suprinceshakya.com.np
 wildlife-nepal.com.np
@@ -15892,6 +15931,8 @@ wordproblems.gayatrishrestha.com.np
 wordproblems.goodlifebiscuits.com.np
 wordproblems.icen.com.np
 worksuite.ininepal.com.np
+worldfriends.com.np
+worldfriends.com.np.kutoorganics.com
 worldlink.glassdust.com.np
 wowfashionschool.com.np
 wp.chapagainashik.com.np
@@ -16848,6 +16889,7 @@ www.dentaldelights.com.np
 www.dentalhubnepal.com.np.arsdental.com.np
 www.deoparsa.dynamic.net.np
 www.deorautahat.dynamic.net.np
+www.design.laccos.org.np
 www.design.nepalfinance.com.np
 www.designcube.com.np
 www.deutiorganic.com.np
@@ -18160,6 +18202,7 @@ www.munaa.com.np
 www.munabhusal.com.np
 www.munaloptical.com.urbannepol.com.np
 www.municipality.scodus.com.np
+www.muslimcommission.gov.np
 www.mvdtestemail.creatudevelopers.com.np
 www.myblogs.sujan1919.com.np
 www.myclicc.org.np
@@ -18282,6 +18325,7 @@ www.nepalpressunion.org.np
 www.nepalsa.org.np.kaveriinn.com
 www.nepalsamacharpatra.milandulal.com.np
 www.nepalshooting.org.np
+www.nepalstock.com.np
 www.nepaltravel.com.np
 www.nepfi.com.gets.com.np
 www.nepfi.gets.com.np
@@ -18354,6 +18398,7 @@ www.nilkanthamavi.edu.np
 www.nilkanthamavi.edu.np.edu.sajilosikcha.com.np
 www.nimanorbusherpa.com.np
 www.nimpun.com.np
+www.ninc.gov.np
 www.ninglashainiconstruction.balatripuraimportexport.com.np
 www.ninglashainiconstruction.com.np
 www.ninglashainiconstruction.com.np.balatripuraimportexport.com.np
@@ -18403,6 +18448,7 @@ www.npsolutions.info.npsolutions.fr
 www.nrnparajuli.com.np
 www.nsep.org.np
 www.nstha.com.np
+www.nttv.com.np.rbpl.com.np
 www.numbur.com.np.spikenard.net
 www.numu.com.np.khaptadmedia.com
 www.nuptrix.com.biotechnepal.com.np
@@ -19397,6 +19443,7 @@ www.store.sujan1919.com.np
 www.store.tejendradangaura.com.np
 www.store.vogue.com.np
 www.store.yesventure.com.np
+www.storyscape.prajwolneupane.com.np
 www.strivefoodresearch.com.np
 www.stts.shekhardulal.com.np
 www.student.lbu.edu.np
@@ -19867,6 +19914,8 @@ www.wonaw.origamitechnology.com.np
 www.wordpress.annapurna.edu.np
 www.wordpress.yescolony.com.np
 www.worksuite.ininepal.com.np
+www.worldfriends.com.np
+www.worldfriends.com.np.kutoorganics.com
 www.wowfashionschool.com.np
 www.wp.dibyarani.com.np
 www.wp.saurajthapa.com.np
@@ -20001,6 +20050,7 @@ yudeeprajbhandari.com.np
 yudippaudel.com.np
 yugasambad.com.np
 yugeshwarkumarmajhi.com.np
+yukeshupadhyaya.com.np
 yukohandicraft.com.np
 yumishniroula.com.np
 yunishshakya.com.np

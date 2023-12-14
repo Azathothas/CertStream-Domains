@@ -4,6 +4,7 @@ administrator.nepalacademy.gov.np
 apf.gov.np
 api-rms.ndrrma.gov.np
 api.neb.gov.np
+api.sims.gov.np
 armis.pmamp.gov.np
 bajhang.edcu.gov.np
 bajrabarahihospital.bagamati.gov.np
@@ -63,6 +64,7 @@ mail.nast.gov.np
 medpa.moics.gov.np
 meetings.bagamati.gov.np
 metronews.kathmandu.gov.np
+moea.sudurpashchim.gov.np
 moial.p1.gov.np
 moitfe.p1.gov.np
 moitfesp.sudurpashchim.gov.np
@@ -70,6 +72,7 @@ molcpa.gov.np
 mosd.madhesh.gov.np
 mosd.p2.gov.np
 motfe.p1.gov.np
+muslimcommission.gov.np
 nagarikapp.gov.np
 naksadata.dakshinkalimun.gov.np
 naksadata.mandandeupurmun.gov.np
@@ -77,6 +80,7 @@ naksapass-api.mandandeupurmun.gov.np
 naksapass.mandandeupurmun.gov.np
 nbms.mec.gov.np
 nic.gov.np
+ninc.gov.np
 nitc.gov.np
 ntacall.nta.gov.np
 ocmcm.p1.gov.np
@@ -84,13 +88,16 @@ ocos.lumbini.gov.np
 parsa.pmamp.gov.np
 pension.gov.np
 pfddmis.karnali.gov.np
+phlmc.sudurpashchim.gov.np
 piurautahat.pmamp.gov.np
 piurupandehi.pmamp.gov.np
 pms.karnali.gov.np
 pollution.gov.np
+pphl.sudurpashchim.gov.np
 ppsconline.karnali.gov.np
 ppsconline.p2.gov.np
 profile.damakmun.gov.np
+psportsc.sudurpashchim.gov.np
 rev.kathmandu.gov.np
 rims.mellekhmun.gov.np
 road.butwalmun.gov.np
@@ -99,7 +106,11 @@ sifarish.bansgadhimun.gov.np
 sifarish.ghodaghodimun.gov.np
 sifarish.rajapurmun.gov.np
 sims.gov.np
+sodang.nsonepal.gov.np
 soillab.madhesh.gov.np
+sokanchanpur.nsonepal.gov.np
+somakawanpur.nsonepal.gov.np
+spa.sudurpashchim.gov.np
 sprta.sudurpashchim.gov.np
 sprta.sudurpashchim.gov.np.imagingtrade.com.np
 startup.npc.gov.np
@@ -132,7 +143,9 @@ www.jstc.gov.np
 www.kapilvastu.pmamp.gov.np
 www.karnalifrtc.gov.np
 www.molcpa.gov.np
+www.muslimcommission.gov.np
 www.nic.gov.np
+www.ninc.gov.np
 www.nitc.gov.np
 www.parsa.pmamp.gov.np
 www.pension.gov.np
