@@ -1,4 +1,6 @@
+accounts.gioms.gov.np
 api-rms.ndrrma.gov.np
+bajhang.edcu.gov.np
 chis.dohs.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -12,10 +14,19 @@ inventory.kaligandakimunsyangja.gov.np
 kaikemun.bipadportal.gov.np
 kalimatimarket.gov.np
 kumakhmalikamun.bipadportal.gov.np
+medpa.moics.gov.np
+mil.np.gov-co.org
+mod.gov.np.gov-co.org
+moh.p1.gov.np
+moiac.p1.gov.np
+mowsie.p1.gov.np
+naksapass.mandandeupurmun.gov.np
 parsanationalpark.gov.np
 revenue.kaligandakimunsyangja.gov.np
+saarcrsu.gov.np
 school.kaligandakimunsyangja.gov.np
 sifarish.ghodaghodimun.gov.np
 techtransfer.mcsipc.gov.np
 www.dls.gov.np
 www.parsanationalpark.gov.np
+www.saarcrsu.gov.np
