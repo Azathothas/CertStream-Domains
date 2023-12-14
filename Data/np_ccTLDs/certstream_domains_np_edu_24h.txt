@@ -92,6 +92,7 @@ cpcontacts.bhadreshworaavi.edu.np
 cpcontacts.cosmoscollege.edu.np
 cpcontacts.deepblueeducation.edu.np
 cpcontacts.exploreihm.edu.np
+cpcontacts.gitlab.superset.production.axisacademy.edu.np
 cpcontacts.gyanjyotibanke.edu.np
 cpcontacts.hvn.edu.np
 cpcontacts.ihts.edu.np
@@ -156,7 +157,9 @@ kanyacampus.edu.np
 kasturi.edu.np
 kathmandunistschool.edu.np
 kaushal.edu.np
+klc.edu.np
 kusom.edu.np
+la.edu.np
 learn.dipendrasecondaryschool.edu.np
 learning.dipendrasecondaryschool.edu.np
 len.edu.np
@@ -204,8 +207,10 @@ msc.ioepas.edu.np
 mscadmission.ioepas.edu.np
 mukundasenschool.edu.np
 mulms.edu.np
+nasaschool.edu.np
 nawaneetfoundation.edu.np.sandeshbasnet.com.np
 nbpi.edu.np
+nca.edu.np
 nccs.edu.np
 ncmt.edu.np
 nssbaitadi.edu.np
