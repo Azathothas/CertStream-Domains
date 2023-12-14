@@ -1,3 +1,4 @@
+chis.dohs.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 crime.kaligandakimunsyangja.gov.np
@@ -9,5 +10,6 @@ kalimatimarket.gov.np
 parsanationalpark.gov.np
 revenue.kaligandakimunsyangja.gov.np
 school.kaligandakimunsyangja.gov.np
+sifarish.ghodaghodimun.gov.np
 www.dls.gov.np
 www.parsanationalpark.gov.np
