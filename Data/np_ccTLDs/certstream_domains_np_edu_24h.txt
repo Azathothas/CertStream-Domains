@@ -4,6 +4,8 @@ admin.quantumleap.edu.np
 admin.reasons.edu.np
 ahs.edu.np
 almightyassociates.edu.np
+app.merotuki.edu.np
+applyonline.mbman.edu.np
 arnikoschool.edu.np
 autoconfig.devbhumischool.edu.np
 autodiscover.banshagopal.edu.np
@@ -41,6 +43,7 @@ cpanel.ihts.edu.np
 cpanel.indrachandra.edu.np
 cpanel.kaasthamandapacademy.edu.np
 cpanel.kanyacampus.edu.np
+cpanel.merotuki.edu.np
 cpanel.mohanyalmavijoshipur.edu.np
 cpanel.mukundasenschool.edu.np
 cpanel.nbpi.edu.np
@@ -90,6 +93,7 @@ cpcontacts.xavier.edu.np
 cpcontacts.zingschool.edu.np
 ctfmontessori.edu.np
 deepblueeducation.edu.np
+demo.davnepal.edu.np
 demo.kuglacier.edu.np
 devbhumischool.edu.np
 dharanmodelcollege.edu.np
@@ -109,6 +113,7 @@ exam.cosmoscollege.edu.np
 examsection.cosmoscollege.edu.np
 exploreihm.edu.np
 fair2021.professional.edu.np
+ftp.merotuki.edu.np
 gandakiuniversity.edu.np
 goes.edu.np
 grabslot.careerhub.edu.np
@@ -147,6 +152,7 @@ mail.ihts.edu.np
 mail.indrachandra.edu.np
 mail.kaasthamandapacademy.edu.np
 mail.kanyacampus.edu.np
+mail.merotuki.edu.np
 mail.mohanyalmavijoshipur.edu.np
 mail.mukundasenschool.edu.np
 mail.nbpi.edu.np
@@ -158,6 +164,7 @@ mail.zingschool.edu.np
 manakamanaboarding.edu.np
 maple.edu.np
 medhavi.edu.np
+merotuki.edu.np
 micgd.edu.np
 mihs.edu.np
 mirdtu.edu.np
@@ -175,6 +182,7 @@ ncmt.edu.np
 nssbaitadi.edu.np
 optigma.edu.np
 oscar.edu.np
+patannist.edu.np
 pokharacademy.edu.np
 pouexam.edu.np
 pragatisheelschool.edu.np
@@ -191,13 +199,16 @@ rohini.edu.np
 school.tribhuwan.edu.np
 shishuvidyashram.edu.np
 siddharthamavihetauda.edu.np
+skps.edu.np
 sm.rti.edu.np
 souvenir.edu.np
 staging.mitnepal.edu.np
+steamnepal.edu.np
 sxs.edu.np
 tamorenglishschool.edu.np
 test.dav.edu.np
 triton.edu.np
+tuiost.edu.np.bimal1412.com.np
 velopers.khimtiprojectschool.edu.np
 viaeducation.edu.np
 vocovisionacademy.edu.np
@@ -236,6 +247,7 @@ webmail.ihts.edu.np
 webmail.indrachandra.edu.np
 webmail.kaasthamandapacademy.edu.np
 webmail.kanyacampus.edu.np
+webmail.merotuki.edu.np
 webmail.mohanyalmavijoshipur.edu.np
 webmail.mukundasenschool.edu.np
 webmail.nbpi.edu.np
@@ -247,6 +259,8 @@ webmail.zingschool.edu.np
 whm.hvn.edu.np
 www.academy.united.edu.np
 www.almightyassociates.edu.np
+www.app.merotuki.edu.np
+www.applyonline.mbman.edu.np
 www.balbikasbajura.edu.np
 www.banshagopal.edu.np
 www.banshagopal.edu.np.a7services.com.au
@@ -274,12 +288,14 @@ www.kanyacampus.edu.np
 www.koshimv.edu.np
 www.learn.dipendrasecondaryschool.edu.np
 www.learning.dipendrasecondaryschool.edu.np
+www.merotuki.edu.np
 www.mitnepal.edu.np
 www.mohanyalmavijoshipur.edu.np
 www.mukundasenschool.edu.np
 www.nawaneetfoundation.edu.np.sandeshbasnet.com.np
 www.nbpi.edu.np
 www.ncmt.edu.np
+www.patannist.edu.np
 www.pokharacademy.edu.np
 www.punic.edu.np
 www.quantumleap.edu.np
