@@ -18,6 +18,7 @@ bdcollege.edu.np
 bhadreshworaavi.edu.np
 bigapple.edu.np
 bikalpa.edu.np
+birtamodeducation.edu.np
 bloomingbuds.edu.np
 brahmi.edu.np
 chitrawan.edu.np
@@ -90,6 +91,8 @@ edu.np.statscrop.com
 edu.npk-enel.ru
 edulife.edu.np
 edutroniceducation.edu.np
+emcs.ku.edu.np
+emis.kapancampus.edu.np.mrds.org.np
 everestflorida.edu.np
 exam.cosmoscollege.edu.np
 examsection.cosmoscollege.edu.np
@@ -106,8 +109,10 @@ ilearn.ace.edu.np
 indrachandra.edu.np
 journal.tcioe.edu.np
 kaasthamandapacademy.edu.np
+kailalimodelschool.edu.np
 kalideviss.edu.np
 kanyacampus.edu.np
+kathmandunistschool.edu.np
 kaushal.edu.np
 kusom.edu.np
 learn.dipendrasecondaryschool.edu.np
@@ -160,10 +165,12 @@ school.tribhuwan.edu.np
 shishuvidyashram.edu.np
 siddharthamavihetauda.edu.np
 sm.rti.edu.np
+souvenir.edu.np
 staging.mitnepal.edu.np
 sxs.edu.np
 tamorenglishschool.edu.np
 test.dav.edu.np
+viaeducation.edu.np
 vocovisionacademy.edu.np
 wave.edu.np
 webdisk.balbikasbajura.edu.np
@@ -215,6 +222,7 @@ www.deepblueeducation.edu.np
 www.demo.kuglacier.edu.np
 www.devbhumischool.edu.np
 www.dronachalcampus.edu.np
+www.emis.kapancampus.edu.np.mrds.org.np
 www.exam.cosmoscollege.edu.np
 www.examsection.cosmoscollege.edu.np
 www.exploreihm.edu.np
