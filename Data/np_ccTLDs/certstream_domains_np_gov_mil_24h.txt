@@ -2,6 +2,7 @@ accounts.gioms.gov.np
 api-rms.ndrrma.gov.np
 bajhang.edcu.gov.np
 chis.dohs.gov.np
+cjcc.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 crime.kaligandakimunsyangja.gov.np
@@ -10,6 +11,7 @@ ehrpmis.nra.gov.np
 eserv.kathmandu.gov.np
 gandaki.ppbmis.gov.np
 health.kaligandakimunsyangja.gov.np
+ims-admin.melamchimun.gov.np
 ims.melamchimun.gov.np
 inventory.kaligandakimunsyangja.gov.np
 kaikemun.bipadportal.gov.np
@@ -29,6 +31,7 @@ saarcrsu.gov.np
 school.kaligandakimunsyangja.gov.np
 sifarish.ghodaghodimun.gov.np
 techtransfer.mcsipc.gov.np
+www.cjcc.gov.np
 www.dls.gov.np
 www.ktdc.gov.np
 www.parsanationalpark.gov.np

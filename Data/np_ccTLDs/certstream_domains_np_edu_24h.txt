@@ -2,9 +2,12 @@ academy.united.edu.np
 admin.devbhumischool.edu.np
 admin.quantumleap.edu.np
 admin.reasons.edu.np
+admin.superset.production.axisacademy.edu.np
+afuexam.edu.np
 ahs.edu.np
 almightyassociates.edu.np
 app.merotuki.edu.np
+apply.pec.edu.np
 applyonline.mbman.edu.np
 arnikoschool.edu.np
 autoconfig.devbhumischool.edu.np
@@ -188,6 +191,8 @@ nssbaitadi.edu.np
 optigma.edu.np
 oscar.edu.np
 patannist.edu.np
+pbbs.edu.np
+pec.edu.np
 pokharacademy.edu.np
 pouexam.edu.np
 pragatisheelschool.edu.np
@@ -209,6 +214,7 @@ sm.rti.edu.np
 souvenir.edu.np
 staging.mitnepal.edu.np
 steamnepal.edu.np
+support.nesfield.edu.np
 sxs.edu.np
 tamorenglishschool.edu.np
 test.dav.edu.np
@@ -267,6 +273,7 @@ whm.hvn.edu.np
 www.academy.united.edu.np
 www.almightyassociates.edu.np
 www.app.merotuki.edu.np
+www.apply.pec.edu.np
 www.applyonline.mbman.edu.np
 www.balbikasbajura.edu.np
 www.banshagopal.edu.np
@@ -304,6 +311,8 @@ www.nawaneetfoundation.edu.np.sandeshbasnet.com.np
 www.nbpi.edu.np
 www.ncmt.edu.np
 www.patannist.edu.np
+www.pbbs.edu.np
+www.pec.edu.np
 www.pokharacademy.edu.np
 www.punic.edu.np
 www.quantumleap.edu.np
@@ -312,6 +321,7 @@ www.rassociates.edu.np
 www.reasons.edu.np
 www.siddharthamavihetauda.edu.np.easyaccessnp.com
 www.staging.mitnepal.edu.np
+www.support.nesfield.edu.np
 www.tamorenglishschool.edu.np
 www.test.dav.edu.np
 www.wave.edu.np
