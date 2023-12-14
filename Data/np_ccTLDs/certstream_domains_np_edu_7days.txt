@@ -1353,6 +1353,7 @@ pop.gorkhacampus.edu.np
 portal.afu.edu.np
 pouexam.edu.np
 pragatischool.edu.np
+pragatisheel.edu.np
 pragatisheelschool.edu.np
 pragik.edu.np
 preschool.millsberry.edu.np
