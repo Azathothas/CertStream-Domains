@@ -1,6 +1,8 @@
 admin.devbhumischool.edu.np
 admin.quantumleap.edu.np
+admin.reasons.edu.np
 almightyassociates.edu.np
+arnikoschool.edu.np
 autoconfig.devbhumischool.edu.np
 autodiscover.banshagopal.edu.np
 autodiscover.devbhumischool.edu.np
@@ -51,13 +53,17 @@ edu.np.statscrop.com
 edu.npk-enel.ru
 everestflorida.edu.np
 fair2021.professional.edu.np
+gandakiuniversity.edu.np
 goes.edu.np
 grabslot.careerhub.edu.np
 gyanjyotibanke.edu.np
 hrms.ghen.edu.np
+journal.tcioe.edu.np
 kaasthamandapacademy.edu.np
 kalideviss.edu.np
 kusom.edu.np
+learn.dipendrasecondaryschool.edu.np
+learning.dipendrasecondaryschool.edu.np
 mail.banshagopal.edu.np
 mail.bhadreshworaavi.edu.np
 mail.devbhumischool.edu.np
@@ -86,6 +92,8 @@ quantumleap.edu.np
 rajdevimavi.edu.np
 school.tribhuwan.edu.np
 siddharthamavihetauda.edu.np
+sm.rti.edu.np
+sxs.edu.np
 tamorenglishschool.edu.np
 test.dav.edu.np
 wave.edu.np
@@ -120,6 +128,8 @@ www.fair2021.professional.edu.np
 www.grabslot.careerhub.edu.np
 www.gyanjyotibanke.edu.np
 www.kaasthamandapacademy.edu.np
+www.learn.dipendrasecondaryschool.edu.np
+www.learning.dipendrasecondaryschool.edu.np
 www.mitnepal.edu.np
 www.mohanyalmavijoshipur.edu.np
 www.mukundasenschool.edu.np

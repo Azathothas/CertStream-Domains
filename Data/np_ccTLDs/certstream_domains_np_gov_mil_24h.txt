@@ -3,6 +3,7 @@ copomis.gov.np
 copomis.mocpa.gov.np
 crime.kaligandakimunsyangja.gov.np
 dls.gov.np
+ehrpmis.nra.gov.np
 eserv.kathmandu.gov.np
 health.kaligandakimunsyangja.gov.np
 inventory.kaligandakimunsyangja.gov.np
