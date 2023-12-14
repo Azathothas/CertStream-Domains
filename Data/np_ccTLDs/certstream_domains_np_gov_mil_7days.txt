@@ -20,6 +20,7 @@ certification.bansgadhimun.gov.np
 cetmis.tourism.gov.np
 cfug.karnali.gov.np
 changunarayanmun.bipadportal.gov.np
+cjcc.gov.np
 cms.mellekhmun.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -29,6 +30,8 @@ dartachalani.bansgadhimun.gov.np
 datacollection.kathmandu.gov.np
 db929i2449ng.ddc.gov.np
 dfokanchanpur.gov.np
+dls.gov.np
+dms-onlinesystem.doit.gov.np
 dnpwc.gov.np
 doad.p3.gov.np
 dol.gov.np
@@ -42,6 +45,7 @@ ehmis.hetaudamun.gov.np
 ehrpmis.nra.gov.np
 eoffice.kathmandu.gov.np
 ero.gov.np
+eserv.kathmandu.gov.np
 eservice.kathmandu.gov.np
 eservice.madimunchitwan.gov.np
 gandaki.ppbmis.gov.np
@@ -55,9 +59,11 @@ idokavre.p3.gov.np
 idoramechhap.p3.gov.np
 ilars.gov.np
 imis.doind.gov.np
+ims-admin.melamchimun.gov.np
 ims.melamchimun.gov.np
 imucovid19.mohp.gov.np
 jstc.gov.np
+kalimatimarket.gov.np
 kapilvastu.pmamp.gov.np
 kapilvastu.vethos.gov.np
 karnali.gov.np
@@ -137,7 +143,9 @@ webmail.narc.gov.np
 wiedokalikot.karnali.gov.np
 www.armis.pmamp.gov.np
 www.bmcicdp.gov.np.hubit.com.np
+www.cjcc.gov.np
 www.dfokanchanpur.gov.np
+www.dls.gov.np
 www.dol.gov.np
 www.eddsp.gov.np
 www.ero.gov.np
