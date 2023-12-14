@@ -7,6 +7,7 @@ admin.superset.production.axisacademy.edu.np
 afuexam.edu.np
 ahs.edu.np
 almightyassociates.edu.np
+analytics.staging.nilkanthamultiplecampus.edu.np
 app.merotuki.edu.np
 apply.pec.edu.np
 applyonline.mbman.edu.np
@@ -57,6 +58,7 @@ cpanel.mukundasenschool.edu.np
 cpanel.nbpi.edu.np
 cpanel.sarlahicampus.edu.np
 cpanel.tamorenglishschool.edu.np
+cpanel.vidhyasagar.edu.np
 cpanel.wave.edu.np
 cpanel.xavier.edu.np
 cpanel.zingschool.edu.np
@@ -79,6 +81,7 @@ cpcalendars.mukundasenschool.edu.np
 cpcalendars.nbpi.edu.np
 cpcalendars.sarlahicampus.edu.np
 cpcalendars.tamorenglishschool.edu.np
+cpcalendars.vidhyasagar.edu.np
 cpcalendars.wave.edu.np
 cpcalendars.xavier.edu.np
 cpcalendars.zingschool.edu.np
@@ -101,6 +104,7 @@ cpcontacts.mukundasenschool.edu.np
 cpcontacts.nbpi.edu.np
 cpcontacts.sarlahicampus.edu.np
 cpcontacts.tamorenglishschool.edu.np
+cpcontacts.vidhyasagar.edu.np
 cpcontacts.wave.edu.np
 cpcontacts.xavier.edu.np
 cpcontacts.zingschool.edu.np
@@ -208,6 +212,7 @@ nssbaitadi.edu.np
 old.stpaulsenglishschool.edu.np
 optigma.edu.np
 oscar.edu.np
+padmodayaschool.edu.np
 patannist.edu.np
 pbbs.edu.np
 pec.edu.np
@@ -237,6 +242,7 @@ souvenir.edu.np
 srv.edu.np
 staging.mitnepal.edu.np
 steamnepal.edu.np
+support.gitlab.superset.production.axisacademy.edu.np
 support.nesfield.edu.np
 sxs.edu.np
 tamorenglishschool.edu.np
@@ -246,6 +252,7 @@ triton.edu.np
 tuiost.edu.np.bimal1412.com.np
 velopers.khimtiprojectschool.edu.np
 viaeducation.edu.np
+vidhyasagar.edu.np
 vocovisionacademy.edu.np
 wave.edu.np
 webdisk.ahs.edu.np
@@ -267,6 +274,7 @@ webdisk.mukundasenschool.edu.np
 webdisk.nbpi.edu.np
 webdisk.sarlahicampus.edu.np
 webdisk.tamorenglishschool.edu.np
+webdisk.vidhyasagar.edu.np
 webdisk.wave.edu.np
 webdisk.xavier.edu.np
 webdisk.zingschool.edu.np
