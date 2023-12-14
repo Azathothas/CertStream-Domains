@@ -43,6 +43,7 @@ cpanel.ihts.edu.np
 cpanel.indrachandra.edu.np
 cpanel.kaasthamandapacademy.edu.np
 cpanel.kanyacampus.edu.np
+cpanel.len.edu.np
 cpanel.merotuki.edu.np
 cpanel.mohanyalmavijoshipur.edu.np
 cpanel.mukundasenschool.edu.np
@@ -64,6 +65,7 @@ cpcalendars.ihts.edu.np
 cpcalendars.indrachandra.edu.np
 cpcalendars.kaasthamandapacademy.edu.np
 cpcalendars.kanyacampus.edu.np
+cpcalendars.len.edu.np
 cpcalendars.mohanyalmavijoshipur.edu.np
 cpcalendars.mukundasenschool.edu.np
 cpcalendars.nbpi.edu.np
@@ -84,6 +86,7 @@ cpcontacts.ihts.edu.np
 cpcontacts.indrachandra.edu.np
 cpcontacts.kaasthamandapacademy.edu.np
 cpcontacts.kanyacampus.edu.np
+cpcontacts.len.edu.np
 cpcontacts.mohanyalmavijoshipur.edu.np
 cpcontacts.mukundasenschool.edu.np
 cpcontacts.nbpi.edu.np
@@ -137,6 +140,7 @@ kaushal.edu.np
 kusom.edu.np
 learn.dipendrasecondaryschool.edu.np
 learning.dipendrasecondaryschool.edu.np
+len.edu.np
 lmckailali.edu.np
 mail.balbikasbajura.edu.np
 mail.banshagopal.edu.np
@@ -152,6 +156,7 @@ mail.ihts.edu.np
 mail.indrachandra.edu.np
 mail.kaasthamandapacademy.edu.np
 mail.kanyacampus.edu.np
+mail.len.edu.np
 mail.merotuki.edu.np
 mail.mohanyalmavijoshipur.edu.np
 mail.mukundasenschool.edu.np
@@ -226,6 +231,7 @@ webdisk.ihts.edu.np
 webdisk.indrachandra.edu.np
 webdisk.kaasthamandapacademy.edu.np
 webdisk.kanyacampus.edu.np
+webdisk.len.edu.np
 webdisk.mohanyalmavijoshipur.edu.np
 webdisk.mukundasenschool.edu.np
 webdisk.nbpi.edu.np
@@ -247,6 +253,7 @@ webmail.ihts.edu.np
 webmail.indrachandra.edu.np
 webmail.kaasthamandapacademy.edu.np
 webmail.kanyacampus.edu.np
+webmail.len.edu.np
 webmail.merotuki.edu.np
 webmail.mohanyalmavijoshipur.edu.np
 webmail.mukundasenschool.edu.np
@@ -288,6 +295,7 @@ www.kanyacampus.edu.np
 www.koshimv.edu.np
 www.learn.dipendrasecondaryschool.edu.np
 www.learning.dipendrasecondaryschool.edu.np
+www.len.edu.np
 www.merotuki.edu.np
 www.mitnepal.edu.np
 www.mohanyalmavijoshipur.edu.np

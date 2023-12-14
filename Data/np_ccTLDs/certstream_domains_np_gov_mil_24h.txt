@@ -10,9 +10,11 @@ ehrpmis.nra.gov.np
 eserv.kathmandu.gov.np
 gandaki.ppbmis.gov.np
 health.kaligandakimunsyangja.gov.np
+ims.melamchimun.gov.np
 inventory.kaligandakimunsyangja.gov.np
 kaikemun.bipadportal.gov.np
 kalimatimarket.gov.np
+ktdc.gov.np
 kumakhmalikamun.bipadportal.gov.np
 medpa.moics.gov.np
 mil.np.gov-co.org
@@ -28,5 +30,6 @@ school.kaligandakimunsyangja.gov.np
 sifarish.ghodaghodimun.gov.np
 techtransfer.mcsipc.gov.np
 www.dls.gov.np
+www.ktdc.gov.np
 www.parsanationalpark.gov.np
 www.saarcrsu.gov.np
