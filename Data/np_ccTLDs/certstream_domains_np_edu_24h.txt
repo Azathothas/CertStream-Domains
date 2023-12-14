@@ -5,6 +5,7 @@ almightyassociates.edu.np
 arnikoschool.edu.np
 autoconfig.devbhumischool.edu.np
 autodiscover.banshagopal.edu.np
+autodiscover.cosmoscollege.edu.np
 autodiscover.devbhumischool.edu.np
 autodiscover.wave.edu.np
 baghbhairabbhs.edu.np
@@ -12,11 +13,15 @@ balmandir.edu.np
 banshagopal.edu.np
 banshagopal.edu.np.a7services.com.au
 bhadreshworaavi.edu.np
+bigapple.edu.np
+bikalpa.edu.np
 bloomingbuds.edu.np
 brahmi.edu.np
 chitrawan.edu.np
+cosmoscollege.edu.np
 cpanel.banshagopal.edu.np
 cpanel.bhadreshworaavi.edu.np
+cpanel.cosmoscollege.edu.np
 cpanel.gyanjyotibanke.edu.np
 cpanel.kaasthamandapacademy.edu.np
 cpanel.mohanyalmavijoshipur.edu.np
@@ -27,6 +32,7 @@ cpanel.xavier.edu.np
 cpanel.zingschool.edu.np
 cpcalendars.banshagopal.edu.np
 cpcalendars.bhadreshworaavi.edu.np
+cpcalendars.cosmoscollege.edu.np
 cpcalendars.gyanjyotibanke.edu.np
 cpcalendars.kaasthamandapacademy.edu.np
 cpcalendars.mohanyalmavijoshipur.edu.np
@@ -37,6 +43,7 @@ cpcalendars.xavier.edu.np
 cpcalendars.zingschool.edu.np
 cpcontacts.banshagopal.edu.np
 cpcontacts.bhadreshworaavi.edu.np
+cpcontacts.cosmoscollege.edu.np
 cpcontacts.gyanjyotibanke.edu.np
 cpcontacts.kaasthamandapacademy.edu.np
 cpcontacts.mohanyalmavijoshipur.edu.np
@@ -45,13 +52,17 @@ cpcontacts.tamorenglishschool.edu.np
 cpcontacts.wave.edu.np
 cpcontacts.xavier.edu.np
 cpcontacts.zingschool.edu.np
+ctfmontessori.edu.np
 devbhumischool.edu.np
 dharanmodelcollege.edu.np
 dronachalcampus.edu.np
 edu.np.easyaccessnp.com
 edu.np.statscrop.com
 edu.npk-enel.ru
+edulife.edu.np
 everestflorida.edu.np
+exam.cosmoscollege.edu.np
+examsection.cosmoscollege.edu.np
 fair2021.professional.edu.np
 gandakiuniversity.edu.np
 goes.edu.np
@@ -61,11 +72,14 @@ hrms.ghen.edu.np
 journal.tcioe.edu.np
 kaasthamandapacademy.edu.np
 kalideviss.edu.np
+kaushal.edu.np
 kusom.edu.np
 learn.dipendrasecondaryschool.edu.np
 learning.dipendrasecondaryschool.edu.np
 mail.banshagopal.edu.np
 mail.bhadreshworaavi.edu.np
+mail.bigapple.edu.np
+mail.cosmoscollege.edu.np
 mail.devbhumischool.edu.np
 mail.gyanjyotibanke.edu.np
 mail.kaasthamandapacademy.edu.np
@@ -90,6 +104,7 @@ prince.edu.np
 prod.analytics.citycomputer.edu.np
 quantumleap.edu.np
 rajdevimavi.edu.np
+reasons.edu.np
 school.tribhuwan.edu.np
 siddharthamavihetauda.edu.np
 sm.rti.edu.np
@@ -99,6 +114,7 @@ test.dav.edu.np
 wave.edu.np
 webdisk.banshagopal.edu.np
 webdisk.bhadreshworaavi.edu.np
+webdisk.cosmoscollege.edu.np
 webdisk.gyanjyotibanke.edu.np
 webdisk.kaasthamandapacademy.edu.np
 webdisk.mohanyalmavijoshipur.edu.np
@@ -109,6 +125,7 @@ webdisk.xavier.edu.np
 webdisk.zingschool.edu.np
 webmail.banshagopal.edu.np
 webmail.bhadreshworaavi.edu.np
+webmail.cosmoscollege.edu.np
 webmail.devbhumischool.edu.np
 webmail.gyanjyotibanke.edu.np
 webmail.kaasthamandapacademy.edu.np
@@ -122,8 +139,12 @@ www.almightyassociates.edu.np
 www.banshagopal.edu.np
 www.banshagopal.edu.np.a7services.com.au
 www.bhadreshworaavi.edu.np
+www.bigapple.edu.np
+www.cosmoscollege.edu.np
 www.devbhumischool.edu.np
 www.dronachalcampus.edu.np
+www.exam.cosmoscollege.edu.np
+www.examsection.cosmoscollege.edu.np
 www.fair2021.professional.edu.np
 www.grabslot.careerhub.edu.np
 www.gyanjyotibanke.edu.np
@@ -137,6 +158,7 @@ www.nawaneetfoundation.edu.np.sandeshbasnet.com.np
 www.pokharacademy.edu.np
 www.quantumleap.edu.np
 www.rajdevimavi.edu.np.easyaccessnp.com
+www.reasons.edu.np
 www.siddharthamavihetauda.edu.np.easyaccessnp.com
 www.tamorenglishschool.edu.np
 www.test.dav.edu.np
