@@ -21,6 +21,7 @@ bikalpa.edu.np
 birtamodeducation.edu.np
 bloomingbuds.edu.np
 brahmi.edu.np
+bstcollege.edu.np
 chitrawan.edu.np
 cm.mil.edu.np
 cosmoscollege.edu.np
@@ -148,6 +149,7 @@ mscadmission.ioepas.edu.np
 mukundasenschool.edu.np
 nawaneetfoundation.edu.np.sandeshbasnet.com.np
 nbpi.edu.np
+ncmt.edu.np
 nssbaitadi.edu.np
 oscar.edu.np
 pokharacademy.edu.np
@@ -170,6 +172,7 @@ staging.mitnepal.edu.np
 sxs.edu.np
 tamorenglishschool.edu.np
 test.dav.edu.np
+triton.edu.np
 viaeducation.edu.np
 vocovisionacademy.edu.np
 wave.edu.np
@@ -241,6 +244,7 @@ www.mohanyalmavijoshipur.edu.np
 www.mukundasenschool.edu.np
 www.nawaneetfoundation.edu.np.sandeshbasnet.com.np
 www.nbpi.edu.np
+www.ncmt.edu.np
 www.pokharacademy.edu.np
 www.quantumleap.edu.np
 www.rajdevimavi.edu.np.easyaccessnp.com

@@ -9,7 +9,9 @@ eserv.kathmandu.gov.np
 gandaki.ppbmis.gov.np
 health.kaligandakimunsyangja.gov.np
 inventory.kaligandakimunsyangja.gov.np
+kaikemun.bipadportal.gov.np
 kalimatimarket.gov.np
+kumakhmalikamun.bipadportal.gov.np
 parsanationalpark.gov.np
 revenue.kaligandakimunsyangja.gov.np
 school.kaligandakimunsyangja.gov.np
