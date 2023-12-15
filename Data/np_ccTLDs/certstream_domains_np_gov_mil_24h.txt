@@ -7,6 +7,7 @@ dhbajura.sudurpashchim.gov.np
 dhdoti.sudurpashchim.gov.np
 dmli.gov.np
 dudbc.gov.np
+ehrpmis.nra.gov.np
 etc.sudurpashchim.gov.np
 gis.bagamati.gov.np
 hd.sudurpashchim.gov.np
@@ -15,6 +16,7 @@ hokailali.sudurpashchim.gov.np
 hpc.sudurpashchim.gov.np
 htc.sudurpashchim.gov.np
 ims-admin.melamchimun.gov.np
+inventory.kaligandakimunsyangja.gov.np
 languagecommission.gov.np
 mil.np.gov-co.org
 mod.gov.np.gov-co.org
