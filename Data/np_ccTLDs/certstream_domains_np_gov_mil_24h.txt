@@ -5,6 +5,7 @@ chatbot.giwms.gov.np
 ciciig.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+crime.kaligandakimunsyangja.gov.np
 dhachham.sudurpashchim.gov.np
 dhbaitadi.sudurpashchim.gov.np
 dhbajura.sudurpashchim.gov.np
@@ -17,6 +18,7 @@ etc.sudurpashchim.gov.np
 gis.bagamati.gov.np
 gov.np.statscrop.com
 hd.sudurpashchim.gov.np
+health.kaligandakimunsyangja.gov.np
 hoachham.sudurpashchim.gov.np
 hokailali.sudurpashchim.gov.np
 hpc.sudurpashchim.gov.np
@@ -31,14 +33,18 @@ moh.p1.gov.np
 mows.gov.np
 muslimcommission.gov.np
 naksapass.mandandeupurmun.gov.np
+ngpm.amrsurveillance.gov.np
 ninc.gov.np
 nscsec.gov.np
 ntacall.nta.gov.np
 ntpco.dudbc.gov.np
+oop.amrsurveillance.gov.np
 phlmc.sudurpashchim.gov.np
 pollution.gov.np
 pphl.sudurpashchim.gov.np
 psportsc.sudurpashchim.gov.np
+pve.amrsurveillance.gov.np
+rabbitmq.amrsurveillance.gov.np
 rabvac.nidept.gov.np
 rac.gov.np
 sdodarchula.sudurpashchim.gov.np
