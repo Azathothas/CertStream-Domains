@@ -19,6 +19,7 @@ dmli.gov.np
 dms-onlinesystem.doit.gov.np
 dudbc.gov.np
 ehrpmis.nra.gov.np
+eserv.kathmandu.gov.np
 etc.sudurpashchim.gov.np
 feb.gov.np
 gesimis.moics.gov.np
@@ -70,6 +71,7 @@ somorang.nsonepal.gov.np
 sosurkhet.nsonepal.gov.np
 spa.sudurpashchim.gov.np
 sudurpashchim.gov.np
+talenthunt.mofaga.gov.np
 testattendanceltp.akc.gov.np
 vlbiratnagar.gov.np
 www.ciciig.gov.np
