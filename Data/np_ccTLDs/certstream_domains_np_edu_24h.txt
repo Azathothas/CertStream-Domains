@@ -19,6 +19,7 @@ autoconfig.joontaraebs.edu.np
 autoconfig.old.joontaraebs.edu.np
 autodiscover.anticorruption.edu.np
 autodiscover.banshagopal.edu.np
+autodiscover.cpe.edu.np
 autodiscover.joontaraebs.edu.np
 autodiscover.lmc.edu.np
 autodiscover.muse.edu.np
@@ -52,6 +53,7 @@ cpanel.banshagopal.edu.np
 cpanel.baraacademy.edu.np
 cpanel.bhadreshworaavi.edu.np
 cpanel.bhimsen.edu.np
+cpanel.cpe.edu.np
 cpanel.exploreihm.edu.np
 cpanel.gyanjyotibanke.edu.np
 cpanel.indrachandra.edu.np
@@ -79,6 +81,7 @@ cpcalendars.banshagopal.edu.np
 cpcalendars.baraacademy.edu.np
 cpcalendars.bhadreshworaavi.edu.np
 cpcalendars.bhimsen.edu.np
+cpcalendars.cpe.edu.np
 cpcalendars.exploreihm.edu.np
 cpcalendars.gyanjyotibanke.edu.np
 cpcalendars.indrachandra.edu.np
@@ -106,6 +109,7 @@ cpcontacts.banshagopal.edu.np
 cpcontacts.baraacademy.edu.np
 cpcontacts.bhadreshworaavi.edu.np
 cpcontacts.bhimsen.edu.np
+cpcontacts.cpe.edu.np
 cpcontacts.exploreihm.edu.np
 cpcontacts.gyanjyotibanke.edu.np
 cpcontacts.indrachandra.edu.np
@@ -126,17 +130,20 @@ cpcontacts.snrbspipara.edu.np
 cpcontacts.vidhyasagar.edu.np
 cpcontacts.yangrima.edu.np
 cpcontacts.zingschool.edu.np
+cpe.edu.np
 dela.edu.np
 demo.davnepal.edu.np
 dharanmodelcollege.edu.np
 divyaacademy2077.edu.np
 divyajyoti.edu.np
 dms.asthm.edu.np
+docs.staging.analytics.worldandtrinity.edu.np
 durgalaxmi.edu.np
 durgasecondaryschool.edu.np
 edu.np.easyaccessnp.com
 edu.np.statscrop.com
 edulife.edu.np
+elibrary.tucl.edu.np
 emcs.ku.edu.np
 entrance.iof.edu.np
 equalsintl.edu.np
@@ -150,6 +157,7 @@ fair2021.professional.edu.np
 fishtailmountain.edu.np
 forum.superset.production.axisacademy.edu.np
 gandakiuniversity.edu.np
+gbms.edu.np
 gci.edu.np
 gitlab.superset.production.axisacademy.edu.np
 gmc.edu.np
@@ -173,6 +181,7 @@ kalideviss.edu.np
 kanyacampus.edu.np
 kasturi.edu.np
 kaushal.edu.np
+kdsspyutar.edu.np
 kidsplanet.baraacademy.edu.np
 kidsplanet.edu.np
 kistmcth.edu.np
@@ -181,6 +190,7 @@ kmclalitpur.edu.np
 kshitizcollege.edu.np
 kusom.edu.np
 learning.cehrd.edu.np
+lekhnath.tucded.edu.np
 letseapply.universityguide.edu.np
 liverpool.edu.np
 lmc.edu.np
@@ -193,6 +203,7 @@ mail.banshagopal.edu.np
 mail.baraacademy.edu.np
 mail.bhadreshworaavi.edu.np
 mail.bhimsen.edu.np
+mail.cpe.edu.np
 mail.exploreihm.edu.np
 mail.gyanjyotibanke.edu.np
 mail.indrachandra.edu.np
@@ -264,6 +275,7 @@ rainbowschool.edu.np.dailyinfomedia.com
 raineducation.edu.np
 rajbirajpolytechnic.edu.np
 rajdevimavi.edu.np
+rameshwormavi.edu.np
 rps.edu.np
 rsmv.edu.np
 rtsti.com.icas.edu.np
@@ -289,10 +301,13 @@ snrbspipara.edu.np
 snrbspipara.edu.np.baraacademy.edu.np
 souvenir.edu.np
 srv.edu.np
+staging.analytics.worldandtrinity.edu.np
 staging.mitnepal.edu.np
 staging.patharicampus.edu.np
 stateschoolsurkhet.edu.np
 student.tufohss.edu.np
+stxavierschitwan.edu.np
+stxavierschitwan.edu.np.neupanebibek.com.np
 sulavprasain.baraacademy.edu.np
 support.dynamicsolution.edu.np
 sxs.edu.np
@@ -311,6 +326,7 @@ webdisk.banshagopal.edu.np
 webdisk.baraacademy.edu.np
 webdisk.bhadreshworaavi.edu.np
 webdisk.bhimsen.edu.np
+webdisk.cpe.edu.np
 webdisk.exploreihm.edu.np
 webdisk.gyanjyotibanke.edu.np
 webdisk.indrachandra.edu.np
@@ -338,6 +354,7 @@ webmail.banshagopal.edu.np
 webmail.baraacademy.edu.np
 webmail.bhadreshworaavi.edu.np
 webmail.bhimsen.edu.np
+webmail.cpe.edu.np
 webmail.exploreihm.edu.np
 webmail.gyanjyotibanke.edu.np
 webmail.indrachandra.edu.np
@@ -381,6 +398,7 @@ www.ccc.mihs.edu.np
 www.cms.davcollege.edu.np
 www.college.mav.edu.np
 www.cpanawards.nccs.edu.np
+www.cpe.edu.np
 www.dms.asthm.edu.np
 www.equalsintl.edu.np
 www.essence.nccs.edu.np
@@ -402,6 +420,7 @@ www.kidsplanet.baraacademy.edu.np
 www.kidsplanet.edu.np
 www.kmclalitpur.edu.np
 www.kshitizcollege.edu.np
+www.lekhnath.tucded.edu.np
 www.liverpool.edu.np
 www.lmc.edu.np
 www.loyaltyacademy.edu.np
@@ -444,6 +463,7 @@ www.sqc.edu.np
 www.srv.edu.np
 www.staging.mitnepal.edu.np
 www.staging.patharicampus.edu.np
+www.stxavierschitwan.edu.np.neupanebibek.com.np
 www.sulavprasain.baraacademy.edu.np
 www.test.dav.edu.np
 www.test.motherland.edu.np
@@ -451,5 +471,6 @@ www.wltti.edu.np
 www.yangrima.edu.np
 www.zingschool.edu.np
 yangrima.edu.np
+yarsa.edu.np
 zenithiss.edu.np
 zingschool.edu.np
