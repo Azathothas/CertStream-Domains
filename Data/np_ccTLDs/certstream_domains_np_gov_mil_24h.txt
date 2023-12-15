@@ -1,6 +1,10 @@
 api.sims.gov.np
+bajhang.edcu.gov.np
+barhabisehospital.bagamati.gov.np
 chatbot.giwms.gov.np
 ciciig.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
 dhachham.sudurpashchim.gov.np
 dhbaitadi.sudurpashchim.gov.np
 dhbajura.sudurpashchim.gov.np
@@ -10,6 +14,7 @@ dudbc.gov.np
 ehrpmis.nra.gov.np
 etc.sudurpashchim.gov.np
 gis.bagamati.gov.np
+gov.np.statscrop.com
 hd.sudurpashchim.gov.np
 hoachham.sudurpashchim.gov.np
 hokailali.sudurpashchim.gov.np
@@ -24,11 +29,13 @@ moea.sudurpashchim.gov.np
 moh.p1.gov.np
 mows.gov.np
 muslimcommission.gov.np
+naksapass.mandandeupurmun.gov.np
 ninc.gov.np
 nscsec.gov.np
 ntacall.nta.gov.np
 ntpco.dudbc.gov.np
 phlmc.sudurpashchim.gov.np
+pollution.gov.np
 pphl.sudurpashchim.gov.np
 psportsc.sudurpashchim.gov.np
 rac.gov.np
@@ -41,6 +48,7 @@ somorang.nsonepal.gov.np
 sosurkhet.nsonepal.gov.np
 spa.sudurpashchim.gov.np
 sudurpashchim.gov.np
+testattendanceltp.akc.gov.np
 vlbiratnagar.gov.np
 www.ciciig.gov.np
 www.dmli.gov.np
