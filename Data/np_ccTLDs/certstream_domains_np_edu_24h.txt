@@ -12,6 +12,7 @@ api.davcollege.edu.np
 app.rassociates.edu.np
 apply.gci.edu.np
 apply.pec.edu.np
+arnikoschool.edu.np
 arubari.arunima.edu.np
 arunima.edu.np
 autoconfig.joontaraebs.edu.np
@@ -56,6 +57,7 @@ cpanel.gyanjyotibanke.edu.np
 cpanel.indrachandra.edu.np
 cpanel.jdjmv.edu.np
 cpanel.kaasthamandapacademy.edu.np
+cpanel.kanyacampus.edu.np
 cpanel.kidsplanet.edu.np
 cpanel.kshitizcollege.edu.np
 cpanel.lmc.edu.np
@@ -82,6 +84,7 @@ cpcalendars.gyanjyotibanke.edu.np
 cpcalendars.indrachandra.edu.np
 cpcalendars.jdjmv.edu.np
 cpcalendars.kaasthamandapacademy.edu.np
+cpcalendars.kanyacampus.edu.np
 cpcalendars.kidsplanet.edu.np
 cpcalendars.kshitizcollege.edu.np
 cpcalendars.lmc.edu.np
@@ -108,6 +111,7 @@ cpcontacts.gyanjyotibanke.edu.np
 cpcontacts.indrachandra.edu.np
 cpcontacts.jdjmv.edu.np
 cpcontacts.kaasthamandapacademy.edu.np
+cpcontacts.kanyacampus.edu.np
 cpcontacts.kidsplanet.edu.np
 cpcontacts.kshitizcollege.edu.np
 cpcontacts.lmc.edu.np
@@ -129,6 +133,7 @@ divyaacademy2077.edu.np
 divyajyoti.edu.np
 dms.asthm.edu.np
 durgalaxmi.edu.np
+durgasecondaryschool.edu.np
 edu.np.easyaccessnp.com
 edu.np.statscrop.com
 edulife.edu.np
@@ -148,19 +153,23 @@ gci.edu.np
 gitlab.superset.production.axisacademy.edu.np
 gmc.edu.np
 gpu.edu.np
+gyanjyotiawasiyaschool.edu.np
 gyanjyotibanke.edu.np
 hamrosunshine.edu.np
 hemsschool.edu.np
 hrms.ghen.edu.np
 idealacademy.edu.np
+ilearn.ace.edu.np
 indrachandra.edu.np
 ipv6.anticorruption.edu.np
 ismt.edu.np
 janachetanass.edu.np
 jdjmv.edu.np
 joontaraebs.edu.np
+journal.tcioe.edu.np
 kaasthamandapacademy.edu.np
 kalideviss.edu.np
+kanyacampus.edu.np
 kasturi.edu.np
 kaushal.edu.np
 kidsplanet.baraacademy.edu.np
@@ -190,6 +199,7 @@ mail.iomexam.edu.np
 mail.jdjmv.edu.np
 mail.joontaraebs.edu.np
 mail.kaasthamandapacademy.edu.np
+mail.kanyacampus.edu.np
 mail.kidsplanet.edu.np
 mail.kshitizcollege.edu.np
 mail.lmc.edu.np
@@ -304,6 +314,7 @@ webdisk.gyanjyotibanke.edu.np
 webdisk.indrachandra.edu.np
 webdisk.jdjmv.edu.np
 webdisk.kaasthamandapacademy.edu.np
+webdisk.kanyacampus.edu.np
 webdisk.kidsplanet.edu.np
 webdisk.kshitizcollege.edu.np
 webdisk.lmc.edu.np
@@ -331,6 +342,7 @@ webmail.indrachandra.edu.np
 webmail.jdjmv.edu.np
 webmail.joontaraebs.edu.np
 webmail.kaasthamandapacademy.edu.np
+webmail.kanyacampus.edu.np
 webmail.kidsplanet.edu.np
 webmail.kshitizcollege.edu.np
 webmail.lmc.edu.np
@@ -383,6 +395,7 @@ www.jdjmv.edu.np
 www.joontaraebs.edu.np
 www.kaasthamandapacademy.edu.np
 www.kaligandakiacademy.edu.np
+www.kanyacampus.edu.np
 www.kidsplanet.baraacademy.edu.np
 www.kidsplanet.edu.np
 www.kmclalitpur.edu.np

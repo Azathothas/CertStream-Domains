@@ -5,6 +5,7 @@ barhabisehospital.bagamati.gov.np
 cag.karnali.gov.np
 certify.covid19.gov.np
 chatbot.giwms.gov.np
+chis.dohs.gov.np
 ciciig.gov.np
 cmscag.karnali.gov.np
 copomis.gov.np
