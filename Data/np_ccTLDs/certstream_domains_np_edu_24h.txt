@@ -1,6 +1,7 @@
 academy.united.edu.np
 admin.joontaraebs.edu.np
 admin.old.joontaraebs.edu.np
+ahs.edu.np
 almightyassociates.edu.np
 apply.gci.edu.np
 apply.pec.edu.np
@@ -27,6 +28,7 @@ broadwayinfosys.edu.np
 bscollege.edu.np
 cnastu.edu.np
 college.mav.edu.np
+cpanel.ahs.edu.np
 cpanel.balbikasbajura.edu.np
 cpanel.banshagopal.edu.np
 cpanel.baraacademy.edu.np
@@ -42,6 +44,7 @@ cpanel.sarlahicampus.edu.np
 cpanel.vidhyasagar.edu.np
 cpanel.yangrima.edu.np
 cpanel.zingschool.edu.np
+cpcalendars.ahs.edu.np
 cpcalendars.balbikasbajura.edu.np
 cpcalendars.banshagopal.edu.np
 cpcalendars.baraacademy.edu.np
@@ -57,6 +60,7 @@ cpcalendars.sarlahicampus.edu.np
 cpcalendars.vidhyasagar.edu.np
 cpcalendars.yangrima.edu.np
 cpcalendars.zingschool.edu.np
+cpcontacts.ahs.edu.np
 cpcontacts.balbikasbajura.edu.np
 cpcontacts.banshagopal.edu.np
 cpcontacts.baraacademy.edu.np
@@ -76,10 +80,12 @@ dela.edu.np
 demo.davnepal.edu.np
 durgalaxmi.edu.np
 edu.np.easyaccessnp.com
+edu.np.statscrop.com
 edulife.edu.np
 emcs.ku.edu.np
 entrance.iof.edu.np
 equalsintl.edu.np
+everestsmartschool.edu.np
 forum.superset.production.axisacademy.edu.np
 gci.edu.np
 gitlab.superset.production.axisacademy.edu.np
@@ -125,6 +131,7 @@ maple.edu.np
 mihs.edu.np
 mirdtu.edu.np
 mismsc.tcioe.edu.np
+mitnepal.edu.np
 mitrashree.edu.np
 mohanyalmavijoshipur.edu.np
 mscadmission.tcioe.edu.np
@@ -138,6 +145,7 @@ old.joontaraebs.edu.np
 orientcollege.edu.np
 oscar.edu.np
 pbbs.edu.np
+pearlsecondaryschool.edu.np
 pec.edu.np
 pioneeracademysaptari.edu.np
 pouexam.edu.np
@@ -170,6 +178,7 @@ triton.edu.np
 velopers.khimtiprojectschool.edu.np
 vidhyasagar.edu.np
 vocovisionacademy.edu.np
+webdisk.ahs.edu.np
 webdisk.balbikasbajura.edu.np
 webdisk.banshagopal.edu.np
 webdisk.baraacademy.edu.np
@@ -185,6 +194,7 @@ webdisk.sarlahicampus.edu.np
 webdisk.vidhyasagar.edu.np
 webdisk.yangrima.edu.np
 webdisk.zingschool.edu.np
+webmail.ahs.edu.np
 webmail.balbikasbajura.edu.np
 webmail.banshagopal.edu.np
 webmail.baraacademy.edu.np
@@ -229,6 +239,7 @@ www.kaligandakiacademy.edu.np
 www.kmclalitpur.edu.np
 www.kshitizcollege.edu.np
 www.loyaltyacademy.edu.np
+www.mitnepal.edu.np
 www.mitrashree.edu.np
 www.mohanyalmavijoshipur.edu.np
 www.nabaratna.edu.np

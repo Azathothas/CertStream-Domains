@@ -1,10 +1,13 @@
 api.sims.gov.np
 bajhang.edcu.gov.np
 barhabisehospital.bagamati.gov.np
+cag.karnali.gov.np
 chatbot.giwms.gov.np
 ciciig.gov.np
+cmscag.karnali.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+covid19.ndrrma.gov.np
 crime.kaligandakimunsyangja.gov.np
 dhachham.sudurpashchim.gov.np
 dhbaitadi.sudurpashchim.gov.np
@@ -47,6 +50,8 @@ pve.amrsurveillance.gov.np
 rabbitmq.amrsurveillance.gov.np
 rabvac.nidept.gov.np
 rac.gov.np
+revenue.kaligandakimunsyangja.gov.np
+school.kaligandakimunsyangja.gov.np
 sdodarchula.sudurpashchim.gov.np
 sodang.nsonepal.gov.np
 sodhanusa.nsonepal.gov.np
