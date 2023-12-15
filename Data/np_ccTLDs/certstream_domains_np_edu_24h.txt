@@ -149,6 +149,7 @@ exploreihm.edu.np
 fair2021.professional.edu.np
 fishtailmountain.edu.np
 forum.superset.production.axisacademy.edu.np
+gandakiuniversity.edu.np
 gci.edu.np
 gitlab.superset.production.axisacademy.edu.np
 gmc.edu.np
@@ -288,6 +289,7 @@ snrbspipara.edu.np
 snrbspipara.edu.np.baraacademy.edu.np
 souvenir.edu.np
 srv.edu.np
+staging.mitnepal.edu.np
 staging.patharicampus.edu.np
 stateschoolsurkhet.edu.np
 student.tufohss.edu.np
@@ -440,6 +442,7 @@ www.snrbspipara.edu.np
 www.snrbspipara.edu.np.baraacademy.edu.np
 www.sqc.edu.np
 www.srv.edu.np
+www.staging.mitnepal.edu.np
 www.staging.patharicampus.edu.np
 www.sulavprasain.baraacademy.edu.np
 www.test.dav.edu.np

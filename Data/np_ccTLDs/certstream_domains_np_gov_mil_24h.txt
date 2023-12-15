@@ -40,6 +40,7 @@ hpc.sudurpashchim.gov.np
 htc.sudurpashchim.gov.np
 ims-admin.melamchimun.gov.np
 inventory.kaligandakimunsyangja.gov.np
+ipc.dohs.gov.np
 languagecommission.gov.np
 learning.covid19.gov.np
 madhesh.gov.np
@@ -61,6 +62,7 @@ ntacall.nta.gov.np
 ntpco.dudbc.gov.np
 ocmcm.p2.gov.np
 ohp.amrsurveillance.gov.np
+onlinecpd.dohs.gov.np
 oop.amrsurveillance.gov.np
 p2.gov.np
 parsanationalpark.gov.np
