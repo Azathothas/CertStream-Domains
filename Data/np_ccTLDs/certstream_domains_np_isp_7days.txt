@@ -132,6 +132,8 @@ kube.nettv.com.np
 login.cloutik.wlink.com.np
 ncell.axiata.com
 nettv.com.np
+pmportal.ncell.axiata.com
 stage.nettv.com.np
 stream.nettv.com.np
 webapi.ncell.axiata.com
+www.pmportal.ncell.axiata.com
