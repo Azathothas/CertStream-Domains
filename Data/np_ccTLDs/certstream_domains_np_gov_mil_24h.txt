@@ -9,6 +9,7 @@ dhachham.sudurpashchim.gov.np
 dhbaitadi.sudurpashchim.gov.np
 dhbajura.sudurpashchim.gov.np
 dhdoti.sudurpashchim.gov.np
+dls.gov.np
 dmli.gov.np
 dudbc.gov.np
 ehrpmis.nra.gov.np
@@ -38,6 +39,7 @@ phlmc.sudurpashchim.gov.np
 pollution.gov.np
 pphl.sudurpashchim.gov.np
 psportsc.sudurpashchim.gov.np
+rabvac.nidept.gov.np
 rac.gov.np
 sdodarchula.sudurpashchim.gov.np
 sodang.nsonepal.gov.np
@@ -51,6 +53,7 @@ sudurpashchim.gov.np
 testattendanceltp.akc.gov.np
 vlbiratnagar.gov.np
 www.ciciig.gov.np
+www.dls.gov.np
 www.dmli.gov.np
 www.dudbc.gov.np
 www.etc.sudurpashchim.gov.np

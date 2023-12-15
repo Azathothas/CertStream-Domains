@@ -12,14 +12,19 @@ autodiscover.old.joontaraebs.edu.np
 bachhaulimavi.edu.np
 balbikasbajura.edu.np
 balmandir.edu.np
+baraacademy.edu.np
 bauddha.arunima.edu.np
+bhadreshworaavi.edu.np
 bostoneducation.edu.np
 bpmemorial.edu.np
+brightfuture.edu.np
 broadwayinfosys.edu.np
 bscollege.edu.np
 cnastu.edu.np
 college.mav.edu.np
 cpanel.balbikasbajura.edu.np
+cpanel.baraacademy.edu.np
+cpanel.bhadreshworaavi.edu.np
 cpanel.gyanjyotibanke.edu.np
 cpanel.jdjmv.edu.np
 cpanel.kaasthamandapacademy.edu.np
@@ -31,6 +36,8 @@ cpanel.vidhyasagar.edu.np
 cpanel.yangrima.edu.np
 cpanel.zingschool.edu.np
 cpcalendars.balbikasbajura.edu.np
+cpcalendars.baraacademy.edu.np
+cpcalendars.bhadreshworaavi.edu.np
 cpcalendars.gyanjyotibanke.edu.np
 cpcalendars.jdjmv.edu.np
 cpcalendars.kaasthamandapacademy.edu.np
@@ -42,6 +49,8 @@ cpcalendars.vidhyasagar.edu.np
 cpcalendars.yangrima.edu.np
 cpcalendars.zingschool.edu.np
 cpcontacts.balbikasbajura.edu.np
+cpcontacts.baraacademy.edu.np
+cpcontacts.bhadreshworaavi.edu.np
 cpcontacts.gyanjyotibanke.edu.np
 cpcontacts.jdjmv.edu.np
 cpcontacts.kaasthamandapacademy.edu.np
@@ -65,6 +74,7 @@ gitlab.superset.production.axisacademy.edu.np
 gpu.edu.np
 gyanjyotibanke.edu.np
 hamrosunshine.edu.np
+hrms.ghen.edu.np
 idealacademy.edu.np
 ismt.edu.np
 janachetanass.edu.np
@@ -74,6 +84,7 @@ kaasthamandapacademy.edu.np
 kalideviss.edu.np
 kasturi.edu.np
 kaushal.edu.np
+kistmcth.edu.np
 kmc.edu.np
 kmclalitpur.edu.np
 kshitizcollege.edu.np
@@ -81,6 +92,8 @@ kusom.edu.np
 login.nilkanthamultiplecampus.edu.np
 loyaltyacademy.edu.np
 mail.balbikasbajura.edu.np
+mail.baraacademy.edu.np
+mail.bhadreshworaavi.edu.np
 mail.gyanjyotibanke.edu.np
 mail.jdjmv.edu.np
 mail.joontaraebs.edu.np
@@ -106,9 +119,11 @@ nawaneetfoundation.edu.np.sandeshbasnet.com.np
 nccs.edu.np
 newmalashreeschool.edu.np
 old.joontaraebs.edu.np
+oscar.edu.np
 pbbs.edu.np
 pec.edu.np
 pioneeracademysaptari.edu.np
+pouexam.edu.np
 pragatisheel.edu.np
 pragatisheelschool.edu.np
 prarambhaacademy.edu.np
@@ -124,6 +139,7 @@ sarlahicampus.edu.np
 sarlahicampus.edu.np.nareshsah.com.np
 scholarship.spacampus.edu.np
 siddhiganesh.edu.np
+smarteduservices.baraacademy.edu.np
 souvenir.edu.np
 srv.edu.np
 staging.patharicampus.edu.np
@@ -136,6 +152,8 @@ velopers.khimtiprojectschool.edu.np
 vidhyasagar.edu.np
 vocovisionacademy.edu.np
 webdisk.balbikasbajura.edu.np
+webdisk.baraacademy.edu.np
+webdisk.bhadreshworaavi.edu.np
 webdisk.gyanjyotibanke.edu.np
 webdisk.jdjmv.edu.np
 webdisk.kaasthamandapacademy.edu.np
@@ -147,6 +165,8 @@ webdisk.vidhyasagar.edu.np
 webdisk.yangrima.edu.np
 webdisk.zingschool.edu.np
 webmail.balbikasbajura.edu.np
+webmail.baraacademy.edu.np
+webmail.bhadreshworaavi.edu.np
 webmail.gyanjyotibanke.edu.np
 webmail.jdjmv.edu.np
 webmail.joontaraebs.edu.np
@@ -166,7 +186,9 @@ www.alumni.rps.edu.np
 www.apply.pec.edu.np
 www.arunima.edu.np
 www.balbikasbajura.edu.np
+www.baraacademy.edu.np
 www.bbmsdb.nccs.edu.np
+www.bhadreshworaavi.edu.np
 www.bostoneducation.edu.np
 www.college.mav.edu.np
 www.cpanawards.nccs.edu.np
@@ -195,6 +217,7 @@ www.rtsti.com.icas.edu.np
 www.sarlahicampus.edu.np
 www.sarlahicampus.edu.np.nareshsah.com.np
 www.scholarship.spacampus.edu.np
+www.smarteduservices.baraacademy.edu.np
 www.sqc.edu.np
 www.srv.edu.np
 www.staging.patharicampus.edu.np
