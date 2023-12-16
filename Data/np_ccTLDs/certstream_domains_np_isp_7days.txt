@@ -132,4 +132,5 @@ nettv.com.np
 pmportal.ncell.axiata.com
 stage.nettv.com.np
 stream.nettv.com.np
+ticket.ntc.net.np
 www.pmportal.ncell.axiata.com

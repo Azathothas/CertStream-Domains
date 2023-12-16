@@ -1,6 +1,7 @@
 acc.biratnagarmun.gov.np
 acc.butwalmun.gov.np
 accounts.gioms.gov.np
+admin.nepalcopyright.gov.np
 administrator.nepalacademy.gov.np
 api-rms.ndrrma.gov.np
 api.sims.gov.np
@@ -39,6 +40,7 @@ dccbajura.gov.np
 dccbanke.gov.np
 dccbara.gov.np
 dccbardiya.gov.np
+dccbhaktapur.gov.np
 dccbhojpur.gov.np
 dccchitwan.gov.np
 dccdadeldhura.gov.np
@@ -46,6 +48,7 @@ dccdang.gov.np
 dccdarchula.gov.np
 dccdhading.gov.np
 dccdhankuta.gov.np
+dccdhanusha.gov.np
 dccdolakha.gov.np
 dccdolpa.gov.np
 dccdoti.gov.np
@@ -124,6 +127,7 @@ ehrpmis.nra.gov.np
 eoffice.kathmandu.gov.np
 eserv.kathmandu.gov.np
 eservice.kathmandu.gov.np
+etbppm.ntpmis.gov.np
 etc.sudurpashchim.gov.np
 eutip.moics.gov.np
 fdcmirmi.gandaki.gov.np
@@ -162,6 +166,7 @@ karnalifrtc.gov.np
 kathmandu.gov.np
 ktdc.gov.np
 kumakhmalikamun.bipadportal.gov.np
+kvda.gov.np
 labreport.apf.gov.np
 languagecommission.gov.np
 learning.covid19.gov.np
@@ -180,6 +185,7 @@ mofald.gov.np
 moh.p1.gov.np
 moiac.p1.gov.np
 moial.p1.gov.np
+moialdemo.bagamati.gov.np
 moitfesp.sudurpashchim.gov.np
 mosd.madhesh.gov.np
 mosd.p2.gov.np
@@ -260,6 +266,7 @@ sprta.sudurpashchim.gov.np
 sprta.sudurpashchim.gov.np.imagingtrade.com.np
 startup.npc.gov.np
 sudurpashchim.gov.np
+sunapatikrishi.gov.np
 talenthunt.mofaga.gov.np
 tax.biratnagarmun.gov.np
 tax.butwalmun.gov.np
@@ -287,6 +294,7 @@ www.dccbajura.gov.np
 www.dccbanke.gov.np
 www.dccbara.gov.np
 www.dccbardiya.gov.np
+www.dccbhaktapur.gov.np
 www.dccbhojpur.gov.np
 www.dccchitwan.gov.np
 www.dccdadeldhura.gov.np
@@ -294,6 +302,7 @@ www.dccdang.gov.np
 www.dccdarchula.gov.np
 www.dccdhading.gov.np
 www.dccdhankuta.gov.np
+www.dccdhanusha.gov.np
 www.dccdolakha.gov.np
 www.dccdolpa.gov.np
 www.dccdoti.gov.np
@@ -365,6 +374,7 @@ www.jstc.gov.np
 www.kapilvastu.pmamp.gov.np
 www.karnalifrtc.gov.np
 www.ktdc.gov.np
+www.kvda.gov.np
 www.languagecommission.gov.np
 www.lpbmis.gov.np
 www.mofaga.gov.np
@@ -383,6 +393,8 @@ www.saarcrsu.gov.np
 www.sims.gov.np
 www.sprta.sudurpashchim.gov.np.imagingtrade.com.np
 www.sudurpashchim.gov.np
+www.sunapatikrishi.gov.np
 www.tourism.lmc.gov.np.yiiff.org
 www.vlbiratnagar.gov.np
 www.vsdrl.gov.np
+yojana.sarumaranimun.gov.np
