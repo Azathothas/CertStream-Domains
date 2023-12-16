@@ -62,6 +62,7 @@ gxmis.ntpmis.gov.np
 ipc.dohs.gov.np
 janakimunkailali.bipadportal.gov.np
 mil.np.statscrop.com
+mis.centralaglab.gov.np
 mofaga.gov.np
 mofald.gov.np
 mtef.npc.gov.np
