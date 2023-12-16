@@ -74,7 +74,7 @@ else
          #Export PATH
          cd "./CertStream-Domains" && CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd
     else
-         pushd "/sec/root/CertStream-Domains" ; git fetch origin && git reset --hard origin/main ; git checkout HEAD -- ; git pull origin main
+         pushd "/sec/root/CertStream-Domains" ; git fetch origin && git reset --hard origin/main ; git checkout HEAD -- ; git pull origin main -m "Merge & Sync" || git pull origin main --no-edit
          CERTSTREAM_REPO="$(realpath .)" ; export CERTSTREAM_REPO="$CERTSTREAM_REPO" ; popd
     fi
 fi
@@ -255,7 +255,7 @@ export -f tgbot_push_failed
 #----------------------------------------------------------------------------# 
 #GitOps
 #Git Pull
- pushd "$CERTSTREAM_REPO" && git pull origin main ; popd   
+ pushd "$CERTSTREAM_REPO" && git pull origin main -m "Merge & Sync" || git pull origin main --no-edit ; popd   
 #Add To Repo
  mkdir -p "$CERTSTREAM_REPO/Raw/Latest"
  SAFE_END_TIME_NPT="$(echo $END_TIME_NPT | sed 's/[ -]/_/g; s/:/_/g')"
@@ -267,13 +267,13 @@ export -f tgbot_push_failed
  git config user.name "Azathothas"
 # Pull to sync updates
  git config --global pull.rebase true
- git pull origin main
+ git pull origin main -m "Merge & Sync" || git pull origin main --no-edit
 # Add everything
  git add --all --verbose
  git commit -m "Segfault ($HOST_IP) --> CertStreamed SSL|TLS Certs ($SF_HOSTNAME)" 
 # Pull one last time
  git config --global pull.rebase true
- git pull origin main
+ git pull origin main -m "Merge & Sync" || git pull origin main --no-edit
 # Finally push 
  # Try pushing
  if git push -u origin main; then
@@ -286,7 +286,7 @@ export -f tgbot_push_failed
     #Wait few mins
     sleep 120
     git config --global pull.rebase true
-    git pull origin main
+    git pull origin main -m "Merge & Sync" || git pull origin main --no-edit
     # Check again
     if git push -u origin main; then
        echo "GIT_PUSH_PASSED" > "/tmp/gh_push.txt"
