@@ -98,7 +98,6 @@ cf2b9b9eda02538d1da7b6382df61fe8.cloutik.wlink.com.np
 clk168296452.cloutik.wlink.com.np
 clk168296453.cloutik.wlink.com.np
 cloutik.wlink.com.np
-cmpg.cgnet.com.np
 d158b2c3631604b334b82884ae4c75f1.cloutik.wlink.com.np
 d2a305daa3f5fb395ca0118a15f9d411.cloutik.wlink.com.np
 d7cadc5b0533fcdef0e84ec723dd5ab5.cloutik.wlink.com.np
@@ -129,10 +128,8 @@ icewarp.subisu.net.np
 int-elk.cloutik.wlink.com.np
 kube.nettv.com.np
 login.cloutik.wlink.com.np
-ncell.axiata.com
 nettv.com.np
 pmportal.ncell.axiata.com
 stage.nettv.com.np
 stream.nettv.com.np
-webapi.ncell.axiata.com
 www.pmportal.ncell.axiata.com

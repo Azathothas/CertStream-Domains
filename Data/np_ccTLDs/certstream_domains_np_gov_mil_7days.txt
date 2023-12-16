@@ -2,20 +2,16 @@ acc.biratnagarmun.gov.np
 acc.butwalmun.gov.np
 accounts.gioms.gov.np
 administrator.nepalacademy.gov.np
-apf.gov.np
 api-rms.ndrrma.gov.np
-api.neb.gov.np
 api.sims.gov.np
 baithak.naraharinathmun.gov.np
 bajhang.edcu.gov.np
 bajrabarahihospital.bagamati.gov.np
 barbardiyamun.bipadportal.gov.np
 barhabisehospital.bagamati.gov.np
-bill929i2449ng.ddc.gov.np
 bmcicdp.gov.np.hubit.com.np
 byawasaya.naraharinathmun.gov.np
 cag.karnali.gov.np
-certification.bansgadhimun.gov.np
 certify.covid19.gov.np
 cetmis.tourism.gov.np
 cfug.karnali.gov.np
@@ -31,7 +27,6 @@ copomis.mocpa.gov.np
 covid19.ndrrma.gov.np
 covid19hd.gandaki.gov.np
 crime.kaligandakimunsyangja.gov.np
-dartachalani.bansgadhimun.gov.np
 data.birgunjmun.gov.np
 datacollection.kathmandu.gov.np
 db929i2449ng.ddc.gov.np
@@ -119,7 +114,6 @@ dms-onlinesystem.doit.gov.np
 dms.birgunjmun.gov.np
 dnpwc.gov.np
 document.nra.gov.np
-dolfd.sudurpashchim.gov.np
 dscid.naraharinathmun.gov.np
 dudbc.gov.np
 ebps.kathmandu.gov.np
@@ -128,7 +122,6 @@ eddsp.gov.np
 ehmis.hetaudamun.gov.np
 ehrpmis.nra.gov.np
 eoffice.kathmandu.gov.np
-ero.gov.np
 eserv.kathmandu.gov.np
 eservice.kathmandu.gov.np
 etc.sudurpashchim.gov.np
@@ -187,11 +180,9 @@ mofald.gov.np
 moh.p1.gov.np
 moiac.p1.gov.np
 moial.p1.gov.np
-moitfe.p1.gov.np
 moitfesp.sudurpashchim.gov.np
 mosd.madhesh.gov.np
 mosd.p2.gov.np
-motfe.p1.gov.np
 mows.gov.np
 mowsie.p1.gov.np
 muslimcommission.gov.np
@@ -201,18 +192,15 @@ naksadata.butwalmun.gov.np
 naksadata.mandandeupurmun.gov.np
 naksapass-api.mandandeupurmun.gov.np
 naksapass.mandandeupurmun.gov.np
-nbms.mec.gov.np
 nc.amrsurveillance.gov.np
 ngpm.amrsurveillance.gov.np
 ninc.gov.np
-nitc.gov.np
 njst.gov.np
 npbmis.npc.gov.np
 nscsec.gov.np
 ntacall.nta.gov.np
 ntpco.dudbc.gov.np
 nyayik.naraharinathmun.gov.np
-ocmcm.p1.gov.np
 ocmcm.p2.gov.np
 odk.ndrrma.gov.np
 ohp.amrsurveillance.gov.np
@@ -223,7 +211,6 @@ p2.gov.np
 parsa.pmamp.gov.np
 parsanationalpark.gov.np
 pension.gov.np
-pfddmis.karnali.gov.np
 pgadmin.amrsurveillance.gov.np
 phlmc.sudurpashchim.gov.np
 piurautahat.pmamp.gov.np
@@ -256,7 +243,6 @@ school.kaligandakimunsyangja.gov.np
 sdodarchula.sudurpashchim.gov.np
 sifaris.naraharinathmun.gov.np
 sifaris.sinjamun.gov.np
-sifarish.bansgadhimun.gov.np
 sifarish.ghodaghodimun.gov.np
 sifarish.rajapurmun.gov.np
 sims.gov.np
@@ -265,7 +251,6 @@ sodhanusa.nsonepal.gov.np
 software.dhunibeshimun.gov.np
 software.naraharinathmun.gov.np
 software.sinjamun.gov.np
-soillab.madhesh.gov.np
 sokanchanpur.nsonepal.gov.np
 somakawanpur.nsonepal.gov.np
 somorang.nsonepal.gov.np
@@ -283,11 +268,9 @@ tax.naraharinathmun.gov.np
 tax.sinjamun.gov.np
 tax.triyugamun.gov.np
 techtransfer.mcsipc.gov.np
-telemed.apf.gov.np
 testattendanceltp.akc.gov.np
 thakurbabamun.bipadportal.gov.np
 tourism.lmc.gov.np.yiiff.org
-vacancy.neb.gov.np
 vaccine2.mohp.gov.np
 vlbiratnagar.gov.np
 vsdrl.gov.np
@@ -373,7 +356,6 @@ www.dls.gov.np
 www.dmli.gov.np
 www.dudbc.gov.np
 www.eddsp.gov.np
-www.ero.gov.np
 www.etc.sudurpashchim.gov.np
 www.fdcmirmi.gandaki.gov.np
 www.feb.gov.np
@@ -390,7 +372,6 @@ www.mofald.gov.np
 www.mows.gov.np
 www.muslimcommission.gov.np
 www.ninc.gov.np
-www.nitc.gov.np
 www.njst.gov.np
 www.nscsec.gov.np
 www.parsa.pmamp.gov.np

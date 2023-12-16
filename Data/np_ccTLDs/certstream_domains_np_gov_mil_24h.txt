@@ -1,8 +1,10 @@
 admin.nepalcopyright.gov.np
 api-rms.ndrrma.gov.np
+apply.mcsipc.gov.np
 baithak.naraharinathmun.gov.np
 bajrabarahihospital.bagamati.gov.np
 barbardiyamun.bipadportal.gov.np
+barhabisehospital.bagamati.gov.np
 byawasaya.naraharinathmun.gov.np
 censusapi.cbs.gov.np
 certify.covid19.gov.np
@@ -51,6 +53,7 @@ ddcpanchthar.gov.np
 ddctaplejung.gov.np
 dhis2.ntpmis.gov.np
 dms.lekbeshimun.gov.np
+drms.mohp.gov.np
 ebps.kageshworimanoharamun.gov.np
 etbregister.ntpmis.gov.np
 eutip.moics.gov.np
