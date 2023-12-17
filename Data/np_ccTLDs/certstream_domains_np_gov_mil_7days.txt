@@ -189,6 +189,7 @@ mofaga.gov.np
 mofald.gov.np
 moh.p1.gov.np
 moiac.p1.gov.np
+moial.gandaki.gov.np
 moialdemo.bagamati.gov.np
 moitfesp.sudurpashchim.gov.np
 mosd.madhesh.gov.np
@@ -203,6 +204,7 @@ naksadata.butwalmun.gov.np
 naksadata.mandandeupurmun.gov.np
 naksapass-api.mandandeupurmun.gov.np
 naksapass.mandandeupurmun.gov.np
+narc.gov.np
 nc.amrsurveillance.gov.np
 ngpm.amrsurveillance.gov.np
 ninc.gov.np
@@ -231,6 +233,7 @@ piurupandehi.pmamp.gov.np
 plan.bihadimun.gov.np
 plan.khaptadchhannamun.gov.np
 plan.silichongmun.gov.np
+planning.triyugamun.gov.np
 pmis.nlsip.gov.np
 pollution.gov.np
 portal.mofaga.gov.np
@@ -382,6 +385,7 @@ www.mofaga.gov.np
 www.mofald.gov.np
 www.mows.gov.np
 www.muslimcommission.gov.np
+www.narc.gov.np
 www.ninc.gov.np
 www.njst.gov.np
 www.nscsec.gov.np
