@@ -67,6 +67,7 @@ kumultimedia.edu.np
 kusom.edu.np
 livenepal.edu.np
 lms.janamaitri.edu.np
+lubhupathshala.edu.np
 maheshwory.edu.np
 mail.acie.edu.np
 mail.apexschool.edu.np
@@ -98,6 +99,7 @@ msc.mbman.edu.np
 mwu.edu.np
 narayanipublic.edu.np
 nccs.edu.np
+ndec.edu.np
 nepaaruinstitute.edu.np
 nepalec.edu.np
 nepalinsights.com.icas.edu.np
@@ -110,6 +112,7 @@ pinnacleschool.edu.np
 pvihm.edu.np
 rabicampus.edu.np
 rahtm.edu.np
+reschedule-delivery.pttrc.edu.np
 robotics.ioepc.edu.np
 rosters.mbman.edu.np
 safekids.edu.np
@@ -184,12 +187,14 @@ www.npsdhading.edu.np
 www.pinnacleschool.edu.np
 www.profile.koshihealth.edu.np
 www.rameshwormavi.edu.np
+www.reschedule-delivery.pttrc.edu.np
 www.rosters.mbman.edu.np
 www.safekids.edu.np
 www.shreesaraswoti.edu.np
 www.soti.edu.np
 www.students.mbman.edu.np
 www.sub.jmcampus.edu.np
+www.test.lubhupathshala.edu.np
 www.tribhuwanacademy.edu.np
 www.vc.triton.edu.np
 www.vedascollege.edu.np
