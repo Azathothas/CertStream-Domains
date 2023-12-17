@@ -17,6 +17,7 @@ ntacall.nta.gov.np
 planning.triyugamun.gov.np
 pollution.gov.np
 rmsdoed.gov.np
+tsc.gov.np
 www.adbl.gov.np
 www.dccdhanusha.gov.np
 www.edcd.gov.np
