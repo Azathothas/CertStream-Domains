@@ -1,6 +1,15 @@
 adbl.gov.np
 api.misreed.moald.gov.np
+apply.mcsipc.gov.np
+barhabisehospital.bagamati.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
+drms.mohp.gov.np
+ehrpmis.nra.gov.np
 misreed.moald.gov.np
+narc.gov.np
+planning.triyugamun.gov.np
 rmsdoed.gov.np
 www.adbl.gov.np
+www.narc.gov.np
 www.rmsdoed.gov.np
