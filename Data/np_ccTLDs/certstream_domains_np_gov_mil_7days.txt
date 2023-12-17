@@ -6,6 +6,7 @@ administrator.nepalacademy.gov.np
 api-rms.ndrrma.gov.np
 api.sims.gov.np
 apply.mcsipc.gov.np
+apps.lungrimun.gov.np
 baithak.naraharinathmun.gov.np
 bajhang.edcu.gov.np
 bajrabarahihospital.bagamati.gov.np
@@ -126,11 +127,14 @@ dscid.naraharinathmun.gov.np
 dudbc.gov.np
 ebps.kageshworimanoharamun.gov.np
 ebps.kathmandu.gov.np
+edcd.gov.np
 ehmis.hetaudamun.gov.np
 ehrpmis.nra.gov.np
 eoffice.kathmandu.gov.np
 eserv.kathmandu.gov.np
+eservice.birgunjmun.gov.np
 eservice.kathmandu.gov.np
+eservice.khairahanimun.gov.np
 etbppm.ntpmis.gov.np
 etbregister.ntpmis.gov.np
 etc.sudurpashchim.gov.np
@@ -370,6 +374,7 @@ www.ddctaplejung.gov.np
 www.dls.gov.np
 www.dmli.gov.np
 www.dudbc.gov.np
+www.edcd.gov.np
 www.etc.sudurpashchim.gov.np
 www.fdcmirmi.gandaki.gov.np
 www.feb.gov.np
