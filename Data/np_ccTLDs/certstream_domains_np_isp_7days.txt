@@ -128,7 +128,6 @@ icewarp.subisu.net.np
 int-elk.cloutik.wlink.com.np
 kube.nettv.com.np
 login.cloutik.wlink.com.np
-nettv.com.np
 pmportal.ncell.axiata.com
 stage.nettv.com.np
 stream.nettv.com.np

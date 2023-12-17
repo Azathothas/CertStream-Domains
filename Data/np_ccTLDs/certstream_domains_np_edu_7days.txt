@@ -153,7 +153,6 @@ balprabhat.edu.np
 baneshworcampus.edu.np
 bansbarimss.edu.np
 banshagopal.edu.np
-banshagopal.edu.np.a7services.com.au
 baraacademy.edu.np
 baraha.edu.np
 baseeducation.edu.np
@@ -184,7 +183,6 @@ bnrs.edu.np
 bostoneducation.edu.np
 bpcbirgunj.edu.np
 bpklcos.edu.np
-bpklcos.edu.np.purevisionadventure.com
 bpmemorial.edu.np
 brahmi.edu.np
 brightangels.edu.np
@@ -213,10 +211,6 @@ cdeetu.edu.np
 cdltu.edu.np
 cdp.edu.np
 cdps.edu.np
-cehrd.edu.np.admin-mcas-df.ms
-cehrd.edu.np.admin-mcas.ms
-cehrd.edu.np.mcas-df.ms
-cehrd.edu.np.mcas.ms
 cha.edu.np
 chandrajyotischool.edu.np
 chautarimart.com.greenwind.edu.np
@@ -722,7 +716,6 @@ deviss.edu.np
 dhangadhimodel.edu.np
 dharanmodelcollege.edu.np
 dichmdharan.edu.np
-dichmdharan.edu.np.cubicaltech.com
 diktelcampus.edu.np
 divineas.edu.np
 divyaacademy2077.edu.np
@@ -740,11 +733,6 @@ durgalaxmi.edu.np
 durgasecondaryschool.edu.np
 dvc.edu.np
 easylink.edu.np
-edu.np.easyaccessnp.com
-edu.np.statscrop.com
-edu.npk-enel.ru
-edu.npk-phz.ru
-edu.npu.ac.th
 edu.sssbs.edu.np
 educarinternational.edu.np
 educationsanchar.edu.np
@@ -762,7 +750,6 @@ email.may.edu.np
 emcs.ku.edu.np
 emis.himalayakpc.edu.np
 emis.janamaitri.edu.np
-emis.kapancampus.edu.np.mrds.org.np
 emis.muodgsm.edu.np
 emis.musom.mu.edu.np
 emmanuel.edu.np
@@ -876,7 +863,6 @@ incentive.pcampus.edu.np
 indrachandra.edu.np
 indrachandracampus.edu.np
 indrayanibs.edu.np
-indrayanitechnicalss.edu.np.inspela.com
 indrodaya.edu.np
 infoconsultant.edu.np
 internationalcollege.edu.np
@@ -919,7 +905,6 @@ kaasthamandapacademy.edu.np
 kailalimodelschool.edu.np
 kakarvittacampus.edu.np
 kalideviss.edu.np
-kalikasskakani3.edu.np.inspela.com
 kallabarimavi.edu.np
 kantipuracademy.edu.np
 kanyacampus.edu.np
@@ -995,7 +980,6 @@ macaacademy.edu.np
 maep.edu.np
 magstu.edu.np
 mahakalimavi.edu.np
-mahakalimavi.edu.np.edu.sajilosikcha.com.np
 mahamanjushreeschool.edu.np
 mahankal.arunima.edu.np
 mahansiddhartha.edu.np
@@ -1200,7 +1184,6 @@ mailadmin.iomexam.edu.np
 maintainence.schoolabroad.edu.np
 maiyadevigirlscollege.edu.np
 majesticmarketing.edu.np
-majesticmarketing.edu.np.majesticmarketing.com.np
 malikamodel.edu.np
 manakamanaboarding.edu.np
 manakamanahss.edu.np
@@ -1235,13 +1218,11 @@ mist.edu.np
 mitnepal.edu.np
 mitrashree.edu.np
 mnc.edu.np
-mnc.edu.np.purevisionadventure.com
 mohanyalmavijoshipur.edu.np
 monastic.edu.np
 montessori.xavier.edu.np
 moonlight.edu.np
 morgancollege.edu.np
-morgancollege.edu.np.businessacb.com
 mpiachham.edu.np
 mrec.edu.np
 mrmcampusilam.edu.np
@@ -1271,7 +1252,6 @@ nationalcreationacademy.edu.np
 nationalsiddhartha.edu.np
 nawajeewan.edu.np
 nawaneetfoundation.edu.np
-nawaneetfoundation.edu.np.sandeshbasnet.com.np
 nayagaunschool.edu.np
 nayakharkaschool.edu.np
 nbpi.edu.np
@@ -1284,7 +1264,6 @@ ncts.edu.np
 neec.edu.np
 neem.edu.np
 nepalcollegeofnursing.edu.np
-nepalcollegeofnursing.edu.np.impactit.com.np
 nepalinsights.com.icas.edu.np
 netsuite.lmc.edu.np
 new.ayurvedacampus.edu.np
@@ -1384,7 +1363,6 @@ radhikamabi.edu.np
 radijyula.edu.np
 rahtm.edu.np
 rainbowschool.edu.np
-rainbowschool.edu.np.dailyinfomedia.com
 raineducation.edu.np
 rajbirajpolytechnic.edu.np
 rajdevimavi.edu.np
@@ -1427,7 +1405,6 @@ saralink.edu.np
 saraswatimavichokmagu.edu.np
 saraswotinamuna.edu.np
 sarlahicampus.edu.np
-sarlahicampus.edu.np.nareshsah.com.np
 sasthm.edu.np
 savya.edu.np
 sayapatriboardingschool.edu.np
@@ -1452,7 +1429,6 @@ sgmess.edu.np
 sharadashishusadan.edu.np
 shatakshee.edu.np
 shineeducationservices.edu.np
-shineeducationservices.edu.np.mbbsmdinnepal.com
 shishuvidyashram.edu.np
 shivalayass.edu.np
 shivamavi.edu.np
@@ -1461,7 +1437,6 @@ shramikshanticampus.edu.np
 shreemahakalischool.edu.np
 shreemavimandar.edu.np
 shreesaraswoti.edu.np
-siddhababaschool.edu.np.tamatechno.com
 siddhartha.edu.np
 siddharthahss.edu.np
 siddharthamavihetauda.edu.np
@@ -1517,7 +1492,6 @@ student.tufohss.edu.np
 studyfirst.edu.np
 studyhub.edu.np
 stxavierschitwan.edu.np
-stxavierschitwan.edu.np.neupanebibek.com.np
 successpath.edu.np
 sujol.odectu.edu.np
 sulavprasain.baraacademy.edu.np
@@ -1557,7 +1531,6 @@ thearyanschool.edu.np
 thedreamschool.edu.np
 theweedpal.com.icas.edu.np
 tikapurkaruna.edu.np
-tikapurkaruna.edu.np.gamecodehub.com
 tmssbelatari.edu.np
 toddlerszone.edu.np
 tracking-delivery.evri.cisat.edu.np
@@ -1572,7 +1545,6 @@ tsdschool.edu.np
 tss.edu.np
 tssbelatari.edu.np
 tts.edu.np
-tuiost.edu.np.bimal1412.com.np
 twlan.edu.np
 ubbs.edu.np
 ueaschool.edu.np
@@ -1971,7 +1943,6 @@ www.baec.edu.np
 www.bajarangabali-com-np.nacolnist.edu.np
 www.balbikasbajura.edu.np
 www.banshagopal.edu.np
-www.banshagopal.edu.np.a7services.com.au
 www.baraacademy.edu.np
 www.batase.edu.np
 www.bba.cosmoscollege.edu.np
@@ -1989,7 +1960,6 @@ www.bluebird.edu.np
 www.bmc.arnikofoundation.edu.np
 www.bostoneducation.edu.np
 www.bpklcos.edu.np
-www.bpklcos.edu.np.purevisionadventure.com
 www.brightangels.edu.np
 www.brightapproach.edu.np
 www.brightlandcollege.edu.np
@@ -2032,14 +2002,12 @@ www.devashree.com.np.lmc.edu.np
 www.devbhumischool.edu.np
 www.dhangadhimodel.edu.np
 www.dichmdharan.edu.np
-www.dichmdharan.edu.np.cubicaltech.com
 www.dktuition.edu.np
 www.dms.asthm.edu.np
 www.dolphin.edu.np
 www.dreamnextfoundation.edu.np
 www.dronachalcampus.edu.np
 www.drs.edu.np
-www.edu.npk-phz.ru
 www.edu.sssbs.edu.np
 www.educarinternational.edu.np
 www.educationsanchar.edu.np
@@ -2051,7 +2019,6 @@ www.einsteinacademy.edu.np
 www.ema.edu.np
 www.email.may.edu.np
 www.emis.himalayakpc.edu.np
-www.emis.kapancampus.edu.np.mrds.org.np
 www.emis.koshihealth.edu.np
 www.emis.nast.edu.np
 www.entrance.grandacademy.edu.np
@@ -2101,7 +2068,6 @@ www.ideaupstairs.edu.np
 www.ihts.edu.np
 www.indrachandra.edu.np
 www.indrachandracampus.edu.np
-www.indrayanitechnicalss.edu.np.inspela.com
 www.iotaacademy.edu.np
 www.irjmmc.edu.np
 www.islingtoncollege.edu.np
@@ -2119,7 +2085,6 @@ www.kaasthamandap.edu.np
 www.kaasthamandapacademy.edu.np
 www.kakarvittacampus.edu.np
 www.kaligandakiacademy.edu.np
-www.kalikasskakani3.edu.np.inspela.com
 www.kallabarimavi.edu.np
 www.kanyacampus.edu.np
 www.kasthamandap.edu.np
@@ -2154,14 +2119,12 @@ www.ltma.edu.np
 www.ltu.edu.np
 www.maep.edu.np
 www.mahakalimavi.edu.np
-www.mahakalimavi.edu.np.edu.sajilosikcha.com.np
 www.mahansiddhartha.edu.np
 www.mahendramabi.edu.np
 www.mail.careercounselling.edu.np
 www.mail.nmcbir.edu.np
 www.maintainence.schoolabroad.edu.np
 www.majesticmarketing.edu.np
-www.majesticmarketing.edu.np.majesticmarketing.com.np
 www.malikamodel.edu.np
 www.mcspl.edu.np
 www.medhaschool.edu.np
@@ -2174,12 +2137,10 @@ www.mis.thenext.edu.np
 www.mitnepal.edu.np
 www.mitrashree.edu.np
 www.mnc.edu.np
-www.mnc.edu.np.purevisionadventure.com
 www.mohanyalmavijoshipur.edu.np
 www.montessori.xavier.edu.np
 www.moodle.baneshworcampus.edu.np
 www.morgancollege.edu.np
-www.morgancollege.edu.np.businessacb.com
 www.mpiachham.edu.np
 www.mrec.edu.np
 www.mrmcampusilam.edu.np
@@ -2194,14 +2155,12 @@ www.nastss.nast.edu.np
 www.nationalsiddhartha.edu.np
 www.nawajeewan.edu.np
 www.nawaneetfoundation.edu.np
-www.nawaneetfoundation.edu.np.sandeshbasnet.com.np
 www.nbpi.edu.np
 www.ncmt.edu.np
 www.ncts.edu.np
 www.neec.edu.np
 www.neem.edu.np
 www.nepalcollegeofnursing.edu.np
-www.nepalcollegeofnursing.edu.np.impactit.com.np
 www.nepalinsights.com.icas.edu.np
 www.netsuite.lmc.edu.np
 www.new.ayurvedacampus.edu.np
@@ -2255,8 +2214,6 @@ www.quiz.dipendrasecondaryschool.edu.np
 www.radhikamabi.edu.np
 www.radijyula.edu.np
 www.rahtm.edu.np
-www.rainbowschool.edu.np.dailyinfomedia.com
-www.rajdevimavi.edu.np.easyaccessnp.com
 www.ranipauwasec.edu.np
 www.rassociates.edu.np
 www.reasons.edu.np
@@ -2275,7 +2232,6 @@ www.sanskrittu.edu.np
 www.saralink.edu.np
 www.saraswatimavichokmagu.edu.np
 www.sarlahicampus.edu.np
-www.sarlahicampus.edu.np.nareshsah.com.np
 www.savya.edu.np
 www.scarlethandicraft.beershebaschool.edu.np
 www.scholarship.spacampus.edu.np
@@ -2288,12 +2244,9 @@ www.server.padmaischool.edu.np
 www.sgmess.edu.np
 www.sharadashishusadan.edu.np
 www.shineeducationservices.edu.np
-www.shineeducationservices.edu.np.mbbsmdinnepal.com
 www.shivalayass.edu.np
 www.shreesaraswoti.edu.np
 www.shukra.edu.np
-www.siddhababaschool.edu.np.tamatechno.com
-www.siddharthamavihetauda.edu.np.easyaccessnp.com
 www.siddhiganeshss.edu.np
 www.skyvisionfoundation.edu.np
 www.smarikaschool.edu.np
@@ -2319,7 +2272,6 @@ www.staging.phoenixschool.edu.np
 www.student.patancollege.edu.np
 www.students.sonicomputer.edu.np
 www.studyfirst.edu.np
-www.stxavierschitwan.edu.np.neupanebibek.com.np
 www.successpath.edu.np
 www.sujol.odectu.edu.np
 www.sulavprasain.baraacademy.edu.np
@@ -2345,7 +2297,6 @@ www.test.motherland.edu.np
 www.testroot.afpi.edu.np
 www.theweedpal.com.icas.edu.np
 www.tikapurkaruna.edu.np
-www.tikapurkaruna.edu.np.gamecodehub.com
 www.tmssbelatari.edu.np
 www.toddlerszone.edu.np
 www.tracking-delivery.evri.cisat.edu.np

@@ -410,7 +410,6 @@ dtownbistro.com.np
 durgabahadurthapa.com.np
 durlavparajuli.info.np
 ecom.a1soft.com.np
-edu.npu.ac.th
 ehrpmis.nra.gov.np
 election.nikas.com.np
 eliteoutsource.com.np
@@ -605,7 +604,6 @@ m.shikharbasnet.com.np
 madibazar.com.np
 magarsamajsewakendra.org.np
 magnificenthotel.com.np
-magnificenthotel.com.np.athenaeduconsultancy.com
 mahadevrajbanshi.com.np
 mahalaxmisanitary.com.np
 maharjansahej.com.np
@@ -920,7 +918,6 @@ rabinkunwar.com.np
 radhikamaharjan.com.np
 radiancedentalhome.com.np
 radical.com.np
-radiomadiaawaj.org.np.samayamag.com
 radionarayani.org.np
 radiotalchuigadi.com.np
 rahtm.edu.np
@@ -968,7 +965,6 @@ saathsadhaiko.vimvoxlab.com.np
 saayamitech.com.np
 sabjandhakall.com.np
 sacar.com.np
-sachmis.com.npicpet-jp.co
 sadednepal.org.np
 safekids.edu.np
 sagarkarki20.com.np
@@ -976,7 +972,6 @@ sagunpaudel.com.np
 saharasociety.org.np
 sahbikash.com.np
 sahilbhatta21.com.np
-saileshkitchencorner.com.np.nepalrevives.com
 sainoresortandlodge.com.np
 sakarparajuli.name.np
 sakchyamta.org.np
@@ -986,7 +981,6 @@ samirshrestha23.com.np
 samirsilwal.com.np
 samuhanepal.org.np
 san.org.np
-sandiplamichhane.com.np.bishweshworsushilafoundation.org
 sangitaa.com.np
 sanjayaupreti.com.np
 sanjaysunar.com.np
@@ -1006,7 +1000,6 @@ sarojt.com.np
 sarukhoteja.com.np
 sarwotamsah.com.np
 sauravuprety.com.np
-sauravuprety.com.np.sathipasal.com
 savetheplanet.org.np
 sazan.com.np
 school.penciltechnologies.com.np
@@ -1057,10 +1050,8 @@ sonsik.org.np
 soti.edu.np
 spbhandari.com.np
 spd.com.np
-speedtest.hons.net.np.prod.hosts.ooklaserver.net
 srinavgroup.com.np
 srjsudikutti.org.np
-srv-sp.hons.net.np.prod.hosts.ooklaserver.net
 ss.gubhaju.com.np
 ssjurists.com.np
 staging-pccims.naxa.com.np
@@ -1119,7 +1110,6 @@ tikathebe.com.np
 timescarehospital.com.np
 tirtharajchapagain.com.np
 tks.org.np
-tks.org.np.kisanict.com
 towerganics.com.np
 towerganics.com.np.gajendramagar.com.np
 toyoeducation.com.np
@@ -1417,7 +1407,6 @@ www.loonivachild.org.np
 www.lpeuroschool.edu.np
 www.ls.geoneer.com.np
 www.magnificenthotel.com.np
-www.magnificenthotel.com.np.athenaeduconsultancy.com
 www.mahilachautari.org.np
 www.mail.careercounselling.edu.np
 www.mail.software.advanceaccounting.com.np
@@ -1495,7 +1484,6 @@ www.primosecurities.com.np
 www.printcommunication.com.np
 www.profile.koshihealth.edu.np
 www.rabindranepali.com.np
-www.radiomadiaawaj.org.np.samayamag.com
 www.rahulkumar.com.np
 www.rajankandel.com.np
 www.rameshwormavi.edu.np
@@ -1513,20 +1501,16 @@ www.rprateek.com.np
 www.rsr.com.np
 www.rupeshbhandari.com.np
 www.sabinlm.com.np
-www.sachmis.com.npicpet-jp.co
 www.sadednepal.org.np
 www.safekids.edu.np
 www.sagar.name.np
 www.sagunpaudel.com.np
-www.saileshkitchencorner.com.np.nepalrevives.com
 www.sakarsharma.com.np
 www.sakchyamta.org.np
 www.samirshrestha23.com.np
 www.samuhanepal.org.np
-www.sandiplamichhane.com.np.bishweshworsushilafoundation.org
 www.sangitaa.com.np
 www.sauravuprety.com.np
-www.sauravuprety.com.np.sathipasal.com
 www.sazan.com.np
 www.school.penciltechnologies.com.np
 www.seecs.sakchyamta.org.np
@@ -1567,7 +1551,6 @@ www.tecnepal.com.np
 www.tenet.com.np
 www.test.lubhupathshala.edu.np
 www.test.rightchoiceacademy.com.np
-www.tks.org.np.kisanict.com
 www.towerganics.com.np.gajendramagar.com.np
 www.toyoeducation.com.np
 www.tribhuwanacademy.edu.np
