@@ -33,7 +33,6 @@ data.birgunjmun.gov.np
 data.gandaki.gov.np
 data.lekbeshimun.gov.np
 datacollection.kathmandu.gov.np
-db929i2449ng.ddc.gov.np
 dccachham.gov.np
 dccarghakhanchi.gov.np
 dccbaglung.gov.np
@@ -127,8 +126,6 @@ dscid.naraharinathmun.gov.np
 dudbc.gov.np
 ebps.kageshworimanoharamun.gov.np
 ebps.kathmandu.gov.np
-ebulletin.election.gov.np
-eddsp.gov.np
 ehmis.hetaudamun.gov.np
 ehrpmis.nra.gov.np
 eoffice.kathmandu.gov.np
@@ -172,7 +169,6 @@ jstc.gov.np
 kaikemun.bipadportal.gov.np
 kalimatimarket.gov.np
 kapilvastu.pmamp.gov.np
-karnalifrtc.gov.np
 kathmandu.gov.np
 ktdc.gov.np
 kumakhmalikamun.bipadportal.gov.np
@@ -193,7 +189,6 @@ mofaga.gov.np
 mofald.gov.np
 moh.p1.gov.np
 moiac.p1.gov.np
-moial.p1.gov.np
 moialdemo.bagamati.gov.np
 moitfesp.sudurpashchim.gov.np
 mosd.madhesh.gov.np
@@ -237,15 +232,12 @@ plan.bihadimun.gov.np
 plan.khaptadchhannamun.gov.np
 plan.silichongmun.gov.np
 pmis.nlsip.gov.np
-pms.karnali.gov.np
 pollution.gov.np
 portal.mofaga.gov.np
 portal.nra.gov.np
 pphl.sudurpashchim.gov.np
 ppsconline.karnali.gov.np
-ppsconline.p2.gov.np
 pragati.sinjamun.gov.np
-profile.damakmun.gov.np
 projects.karnali.gov.np
 psportsc.sudurpashchim.gov.np
 pve.amrsurveillance.gov.np
@@ -286,7 +278,6 @@ tax.butwalmun.gov.np
 tax.kathmandu.gov.np
 tax.naraharinathmun.gov.np
 tax.sinjamun.gov.np
-tax.triyugamun.gov.np
 techtransfer.mcsipc.gov.np
 testattendanceltp.akc.gov.np
 thakurbabamun.bipadportal.gov.np
@@ -376,7 +367,6 @@ www.ddctaplejung.gov.np
 www.dls.gov.np
 www.dmli.gov.np
 www.dudbc.gov.np
-www.eddsp.gov.np
 www.etc.sudurpashchim.gov.np
 www.fdcmirmi.gandaki.gov.np
 www.feb.gov.np
@@ -384,7 +374,6 @@ www.gesimis.moics.gov.np
 www.ilars.gov.np
 www.jstc.gov.np
 www.kapilvastu.pmamp.gov.np
-www.karnalifrtc.gov.np
 www.ktdc.gov.np
 www.kvda.gov.np
 www.languagecommission.gov.np
