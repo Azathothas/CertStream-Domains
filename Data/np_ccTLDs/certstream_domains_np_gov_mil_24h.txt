@@ -1,7 +1,9 @@
 api-rms.ndrrma.gov.np
+app.ag.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 dang.vethos.gov.np
+monastery.gov.np
 noc.moest.gov.np
 nocbackend.moest.gov.np
 photo.ntb.gov.np
@@ -9,3 +11,4 @@ pollution.gov.np
 reed.moald.gov.np
 soft.jhapamun.gov.np
 www.dang.vethos.gov.np
+www.monastery.gov.np
