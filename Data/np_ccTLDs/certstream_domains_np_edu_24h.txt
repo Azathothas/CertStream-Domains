@@ -1,3 +1,4 @@
+acpay.tcioe.edu.np
 amarss.edu.np
 aristo.edu.np
 arnikoschool.edu.np
@@ -27,6 +28,7 @@ hrms.ghen.edu.np
 ios.edu.np
 irc.kmcen.edu.np
 jeevanjyotiss.edu.np
+journal.tcioe.edu.np
 kumaricollege.edu.np
 lba.edu.np
 lpeuroschool.edu.np
@@ -44,6 +46,7 @@ pascalcollege.edu.np
 pbmb.edu.np
 recast.edu.np
 sarceducationnetwork.edu.np
+tcioe.edu.np
 tcschool.edu.np
 webdisk.hchm.edu.np
 webdisk.ios.edu.np
@@ -61,3 +64,4 @@ www.kumaricollege.edu.np
 www.lpeuroschool.edu.np
 www.myfarm.sqc.edu.np
 www.result.paramountschool.edu.np
+www.tcioe.edu.np
