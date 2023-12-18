@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 27 days, 17 hours and 35 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 8.22 12.91 13.33
+       ..'''.            0Xxoc:,.  ...              Uptime: 27 days, 18 hours and 34 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 11.91 11.14 11.6
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.66T    705M      0      95       0       0 
+         1.67T    707M      0      95       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         39.3G    483M      0       0       0       0 
+         39.5G    484M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 27 days, 17 hours and 34 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 5.72 5.88 17.9
+       ..'''.            0Xxoc:,.  ...              Uptime: 27 days, 18 hours and 34 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 2.53 1.86 1.99
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -63,7 +63,7 @@
                                           ;l   ..   RAM: 125 MiB / 2048 MiB
                                            .o       Disk: 2.1 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
-                                             .'     WAN IP: 37.120.217.76
+                                             .'     WAN IP: 45.134.212.91
                                               .     
 [+] Storage:
 
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.03T    860M      0      24       0       0 
+         2.03T    862M      0      24       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         45.3G    556M      0       0       0       0 
+         45.4G    557M      0       0       0       0 
 
 
 
