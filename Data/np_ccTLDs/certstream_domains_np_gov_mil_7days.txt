@@ -1,5 +1,4 @@
 acc.biratnagarmun.gov.np
-acc.butwalmun.gov.np
 accounts.gioms.gov.np
 adbl.gov.np
 admin.nepalcopyright.gov.np
@@ -19,7 +18,6 @@ cag.karnali.gov.np
 censusapi.cbs.gov.np
 certify.covid19.gov.np
 cetmis.tourism.gov.np
-cfug.karnali.gov.np
 changunarayanmun.bipadportal.gov.np
 chatbot.adbl.gov.np
 chatbot.giwms.gov.np
@@ -35,7 +33,6 @@ crime.kaligandakimunsyangja.gov.np
 data.birgunjmun.gov.np
 data.gandaki.gov.np
 data.lekbeshimun.gov.np
-datacollection.kathmandu.gov.np
 dccachham.gov.np
 dccarghakhanchi.gov.np
 dccbaglung.gov.np
@@ -150,7 +147,6 @@ forms.nlc.gov.np
 gandaki.ppbmis.gov.np
 geoserver.nra.gov.np
 gesimis.moics.gov.np
-gesimisstaging.moics.gov.np
 gis.bagamati.gov.np
 gis.ntpmis.gov.np
 glass.amrsurveillance.gov.np
@@ -183,13 +179,9 @@ kvda.gov.np
 labreport.apf.gov.np
 languagecommission.gov.np
 learning.covid19.gov.np
-login.lgprofile.gov.np
 lpbmis.gov.np
 madhesh.gov.np
-mail.nast.gov.np
 medpa.moics.gov.np
-meetings.bagamati.gov.np
-metronews.kathmandu.gov.np
 mis.centralaglab.gov.np
 misreed.moald.gov.np
 moea.sudurpashchim.gov.np
@@ -206,7 +198,6 @@ mows.gov.np
 mowsie.p1.gov.np
 mtef.npc.gov.np
 muslimcommission.gov.np
-nagarikapp.gov.np
 naksadata-api.butwalmun.gov.np
 naksadata.butwalmun.gov.np
 naksadata.mandandeupurmun.gov.np
@@ -258,7 +249,6 @@ rac.gov.np
 rev.kathmandu.gov.np
 revenue.kaligandakimunsyangja.gov.np
 rmsdoed.gov.np
-rpm.gov.np
 rvs.ndrrma.gov.np
 saarcrsu.gov.np
 saruwa.mofaga.gov.np
@@ -279,14 +269,11 @@ somakawanpur.nsonepal.gov.np
 somorang.nsonepal.gov.np
 sosurkhet.nsonepal.gov.np
 spa.sudurpashchim.gov.np
-sprta.sudurpashchim.gov.np
 startup.npc.gov.np
 sudurpashchim.gov.np
 sunapatikrishi.gov.np
 system.nepalcopyright.gov.np
 talenthunt.mofaga.gov.np
-tax.biratnagarmun.gov.np
-tax.butwalmun.gov.np
 tax.kathmandu.gov.np
 tax.naraharinathmun.gov.np
 tax.sinjamun.gov.np
