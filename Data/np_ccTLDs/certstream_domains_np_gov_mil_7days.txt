@@ -1,9 +1,11 @@
 acc.biratnagarmun.gov.np
 acc.butwalmun.gov.np
 accounts.gioms.gov.np
+adbl.gov.np
 admin.nepalcopyright.gov.np
 administrator.nepalacademy.gov.np
 api-rms.ndrrma.gov.np
+api.misreed.moald.gov.np
 api.sims.gov.np
 apply.mcsipc.gov.np
 apps.lungrimun.gov.np
@@ -130,6 +132,7 @@ ebps.kathmandu.gov.np
 edcd.gov.np
 ehmis.hetaudamun.gov.np
 ehrpmis.nra.gov.np
+elgpis.tilottamamun.gov.np
 eoffice.kathmandu.gov.np
 eserv.kathmandu.gov.np
 eservice.birgunjmun.gov.np
@@ -188,6 +191,7 @@ medpa.moics.gov.np
 meetings.bagamati.gov.np
 metronews.kathmandu.gov.np
 mis.centralaglab.gov.np
+misreed.moald.gov.np
 moea.sudurpashchim.gov.np
 mofaga.gov.np
 mofald.gov.np
@@ -253,6 +257,7 @@ rabvac.nidept.gov.np
 rac.gov.np
 rev.kathmandu.gov.np
 revenue.kaligandakimunsyangja.gov.np
+rmsdoed.gov.np
 rpm.gov.np
 rvs.ndrrma.gov.np
 saarcrsu.gov.np
@@ -289,10 +294,12 @@ techtransfer.mcsipc.gov.np
 testattendanceltp.akc.gov.np
 thakurbabamun.bipadportal.gov.np
 tracker.hivaids.gov.np
+tsc.gov.np
 vaccine2.mohp.gov.np
 vlbiratnagar.gov.np
 vsdrl.gov.np
 webmail.narc.gov.np
+www.adbl.gov.np
 www.ciciig.gov.np
 www.cjcc.gov.np
 www.dccachham.gov.np
@@ -400,6 +407,7 @@ www.pashupati.gov.np
 www.pension.gov.np
 www.piurupandehi.pmamp.gov.np
 www.rac.gov.np
+www.rmsdoed.gov.np
 www.saarcrsu.gov.np
 www.sims.gov.np
 www.sudurpashchim.gov.np
