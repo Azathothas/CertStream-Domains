@@ -1,3 +1,8 @@
 api-rms.ndrrma.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
+noc.moest.gov.np
+nocbackend.moest.gov.np
+photo.ntb.gov.np
+reed.moald.gov.np
+soft.jhapamun.gov.np
