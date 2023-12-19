@@ -1,8 +1,6 @@
-acc.biratnagarmun.gov.np
 accounts.gioms.gov.np
 adbl.gov.np
 admin.nepalcopyright.gov.np
-administrator.nepalacademy.gov.np
 ahclamjung.gandaki.gov.np
 api-rms.ndrrma.gov.np
 api.misreed.moald.gov.np
@@ -22,7 +20,6 @@ cag.karnali.gov.np
 ccwb.gov.np
 censusapi.cbs.gov.np
 certify.covid19.gov.np
-cetmis.tourism.gov.np
 cfsc.gov.np
 changunarayanmun.bipadportal.gov.np
 chatbot.adbl.gov.np
@@ -131,7 +128,6 @@ dms-onlinesystem.doit.gov.np
 dms.birgunjmun.gov.np
 dms.lekbeshimun.gov.np
 dms.tulsipurmun.gov.np
-dnpwc.gov.np
 document.nra.gov.np
 dolfd.p1.gov.np
 drms.mohp.gov.np
@@ -139,15 +135,11 @@ dscid.naraharinathmun.gov.np
 dudbc.gov.np
 dwandapidit.karnali.gov.np
 ebps.kageshworimanoharamun.gov.np
-ebps.kathmandu.gov.np
 edcd.gov.np
-ehmis.hetaudamun.gov.np
 ehrpmis.nra.gov.np
 elgpis.tilottamamun.gov.np
-eoffice.kathmandu.gov.np
 eserv.kathmandu.gov.np
 eservice.birgunjmun.gov.np
-eservice.kathmandu.gov.np
 eservice.khairahanimun.gov.np
 etbppm.ntpmis.gov.np
 etbregister.ntpmis.gov.np
@@ -170,7 +162,6 @@ gxmis.ntpmis.gov.np
 harnamadi.hetaudamun.gov.np
 hd.sudurpashchim.gov.np
 health.kaligandakimunsyangja.gov.np
-heritage.tarakeshwormun.gov.np
 hoachham.sudurpashchim.gov.np
 hokailali.sudurpashchim.gov.np
 homyagdi.gandaki.gov.np
@@ -188,7 +179,6 @@ ifmis.mofe.gov.np
 ilars.gov.np
 ims-admin.melamchimun.gov.np
 ims.melamchimun.gov.np
-imucovid19.mohp.gov.np
 innovationnepal.nast.gov.np
 inventory.kaligandakimunsyangja.gov.np
 ipc.dohs.gov.np
@@ -197,8 +187,6 @@ janakimunkailali.bipadportal.gov.np
 jstc.gov.np
 kaikemun.bipadportal.gov.np
 kalimatimarket.gov.np
-kapilvastu.pmamp.gov.np
-kathmandu.gov.np
 kawasotikrishi.gov.np
 khaptadnationalpark.gov.np
 ktdc.gov.np
@@ -225,11 +213,8 @@ moi.gov.np
 moiac.p1.gov.np
 moial.gandaki.gov.np
 moialdemo.bagamati.gov.np
-moitfesp.sudurpashchim.gov.np
 monastery.gov.np
 morang.aqo.gov.np
-mosd.madhesh.gov.np
-mosd.p2.gov.np
 mows.gov.np
 mowsie.p1.gov.np
 moys.gandaki.gov.np
@@ -263,7 +248,6 @@ onlineppsc.gandaki.gov.np
 oop.amrsurveillance.gov.np
 p2.gov.np
 parsa.akc.gov.np
-parsa.pmamp.gov.np
 parsanationalpark.gov.np
 pashupati.gov.np
 pc.p2.gov.np
@@ -285,7 +269,6 @@ portal.nra.gov.np
 pphl.bagamati.gov.np
 pphl.p5.gov.np
 pphl.sudurpashchim.gov.np
-ppsconline.karnali.gov.np
 pragati.sinjamun.gov.np
 pri.gov.np
 projects.karnali.gov.np
@@ -297,7 +280,6 @@ rabvac.nidept.gov.np
 rac.gov.np
 rautahat.akc.gov.np
 reed.moald.gov.np
-rev.kathmandu.gov.np
 revenue.kaligandakimunsyangja.gov.np
 rmsdoed.gov.np
 rvs.ndrrma.gov.np
@@ -310,7 +292,6 @@ sifaris.naraharinathmun.gov.np
 sifaris.sinjamun.gov.np
 sifarish.ghodaghodimun.gov.np
 sifarish.rajapurmun.gov.np
-sims.gov.np
 sodang.nsonepal.gov.np
 sodhanusa.nsonepal.gov.np
 soft.jhapamun.gov.np
@@ -323,13 +304,11 @@ somorang.nsonepal.gov.np
 sosurkhet.nsonepal.gov.np
 spa.sudurpashchim.gov.np
 spsc.sudurpashchim.gov.np
-startup.npc.gov.np
 sudurpashchim.gov.np
 sunapatikrishi.gov.np
 surkhet.akc.gov.np
 system.nepalcopyright.gov.np
 talenthunt.mofaga.gov.np
-tax.kathmandu.gov.np
 tax.naraharinathmun.gov.np
 tax.sinjamun.gov.np
 techtransfer.mcsipc.gov.np
@@ -448,7 +427,6 @@ www.gdfchitlang.gov.np
 www.gesimis.moics.gov.np
 www.ilars.gov.np
 www.jstc.gov.np
-www.kapilvastu.pmamp.gov.np
 www.kawasotikrishi.gov.np
 www.khaptadnationalpark.gov.np
 www.ktdc.gov.np
@@ -468,7 +446,6 @@ www.ninc.gov.np
 www.njst.gov.np
 www.nlc.gov.np
 www.nscsec.gov.np
-www.parsa.pmamp.gov.np
 www.parsanationalpark.gov.np
 www.pashupati.gov.np
 www.pension.gov.np
@@ -480,7 +457,6 @@ www.rac.gov.np
 www.rmsdoed.gov.np
 www.saarcrsu.gov.np
 www.sdosalyan.gov.np
-www.sims.gov.np
 www.sudurpashchim.gov.np
 www.sunapatikrishi.gov.np
 www.vftc.gov.np
