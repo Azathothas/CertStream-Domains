@@ -7,6 +7,7 @@ ahclamjung.gandaki.gov.np
 api-rms.ndrrma.gov.np
 api.misreed.moald.gov.np
 api.sims.gov.np
+app.ag.gov.np
 apply.mcsipc.gov.np
 apps.lungrimun.gov.np
 baithak.naraharinathmun.gov.np
@@ -37,6 +38,7 @@ covid19.ndrrma.gov.np
 covid19hd.gandaki.gov.np
 crime.kaligandakimunsyangja.gov.np
 ctevt.karnali.gov.np
+dang.vethos.gov.np
 data.birgunjmun.gov.np
 data.gandaki.gov.np
 data.lekbeshimun.gov.np
@@ -224,6 +226,7 @@ moiac.p1.gov.np
 moial.gandaki.gov.np
 moialdemo.bagamati.gov.np
 moitfesp.sudurpashchim.gov.np
+monastery.gov.np
 morang.aqo.gov.np
 mosd.madhesh.gov.np
 mosd.p2.gov.np
@@ -293,6 +296,7 @@ rabbitmq.amrsurveillance.gov.np
 rabvac.nidept.gov.np
 rac.gov.np
 rautahat.akc.gov.np
+reed.moald.gov.np
 rev.kathmandu.gov.np
 revenue.kaligandakimunsyangja.gov.np
 rmsdoed.gov.np
@@ -353,6 +357,7 @@ www.cfsc.gov.np
 www.chckirtipur.gov.np
 www.ciciig.gov.np
 www.cjcc.gov.np
+www.dang.vethos.gov.np
 www.dccachham.gov.np
 www.dccarghakhanchi.gov.np
 www.dccbaglung.gov.np
@@ -454,6 +459,7 @@ www.mhl.gov.np
 www.mofaga.gov.np
 www.mofald.gov.np
 www.moi.gov.np
+www.monastery.gov.np
 www.mows.gov.np
 www.muslimcommission.gov.np
 www.narc.gov.np
