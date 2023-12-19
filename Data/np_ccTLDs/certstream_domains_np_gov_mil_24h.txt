@@ -1,7 +1,12 @@
+app.ag.gov.np
+bajrabarahihospital.bagamati.gov.np
+ehrpmis.nra.gov.np
+health.dhangadhimaimun.gov.np
 moewri.gov.np
 moics.gov.np
 mowcsc.gov.np
 moys.gov.np
+plgsp.gov.np
 www.moewri.gov.np
 www.moics.gov.np
 www.mowcsc.gov.np
