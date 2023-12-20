@@ -12,6 +12,7 @@ admin.freeseotools.sapnaa.com.np
 admin.trmc.edu.np
 admin.www.hemantak.com.np
 ag.eeye.com.np
+agileinstitute.com.np
 ahpl.com.np
 alon.com.np
 alpastechnology.com.np
@@ -36,6 +37,7 @@ assk.edu.np
 atccontruction.com.np
 atmanhealing.com.winfinitysolutions.com.np
 attendance-api.padhnekotha.com.np
+autodiscover.agileinstitute.com.np
 autodiscover.alpastechnology.com.np
 autodiscover.ankurinfotech.com.np
 autodiscover.assk.edu.np
@@ -104,6 +106,7 @@ brindawan-api.addon.com.np
 bsd.com.np
 bus.nste.com.np
 butwalkrishiupaj.org.np
+cellzen.com.np
 chirayuhospital.com.np
 cim.org.np
 classichospitality.com.np
@@ -113,6 +116,7 @@ columbia.origamitechnology.com.np
 columbiasportswear.origamitechnology.com.np
 communitypower.com.np
 coretreks.com.np
+cpanel.agileinstitute.com.np
 cpanel.alpastechnology.com.np
 cpanel.anilkandel.com.np
 cpanel.ankurinfotech.com.np
@@ -165,6 +169,7 @@ cpanel.visioncomputersolution.com.np
 cpanel.visionplus.com.np
 cpanel.vsrp.org.np
 cpanel.weinspire.org.np
+cpcalendars.agileinstitute.com.np
 cpcalendars.alpastechnology.com.np
 cpcalendars.anilkandel.com.np
 cpcalendars.ankurinfotech.com.np
@@ -217,6 +222,7 @@ cpcalendars.visioncomputersolution.com.np
 cpcalendars.visionplus.com.np
 cpcalendars.vsrp.org.np
 cpcalendars.weinspire.org.np
+cpcontacts.agileinstitute.com.np
 cpcontacts.alpastechnology.com.np
 cpcontacts.anilkandel.com.np
 cpcontacts.ankurinfotech.com.np
@@ -303,6 +309,7 @@ evetech.com.np
 farindrabahadurbhandari.com.np
 file.sbist.com.np
 fishtailparking.com.np
+fnbi.org.np
 focalpoint.edu.np
 freeseotools.sapnaa.com.np
 ftp.chhabidhakal.com.np
@@ -332,14 +339,17 @@ hitech.com.np
 hitech.com.np.torontoeduconsulting.com.np
 hnglobalagrotourism.com.np
 homdhakal.com.np
+home.bhandarianjan.com.np
 hopefertility.com.np
 hp.candidnepal.com.np
 hp1.candid.com.np
+hpfn.org.np
 ibsc.seedcode.com.np
 idp-nast.nren.net.np
 infoconsultant.edu.np
 internationalcollege.edu.np
 ishworsapkota.com.np
+isprd.com.np
 jafar.com.np
 janabhawana.edu.np
 jebisan.com.np
@@ -361,13 +371,16 @@ kmc.antarikchya.org.np
 krishank.com.np
 krishnakadayat.com.np
 kunwars.com.np
+kushalshah.com.np
 kushwahadp.com.np
 lalitpuri.com.np
+laundrynepal.com.np
 lcci.lisno.com.np
 leadexpress.com.np
 lico.org.np
 lrims.dolrm.gov.np
 madhavhumagain.com.np
+mail.agileinstitute.com.np
 mail.alpastechnology.com.np
 mail.anilkandel.com.np
 mail.ankurinfotech.com.np
@@ -390,6 +403,7 @@ mail.focalpoint.edu.np
 mail.freeseotools.sapnaa.com.np
 mail.gulmoharfamilydentistry.com.np
 mail.himalayanfiber.com.np
+mail.hpfn.org.np
 mail.janabhawana.edu.np
 mail.jhalakmidhun.com.np
 mail.krishank.com.np
@@ -474,6 +488,7 @@ pageturner.com.np
 palsvoice.com.np
 pasal.com.np
 paschimanchalschool.edu.np
+patsystem.shrestharukesh.com.np
 paudelmohit.com.np
 paudelroshan.com.np
 paurakhkarki.com.np
@@ -635,6 +650,7 @@ visioncomputersolution.com.np
 visionplus.com.np
 vpn.bhandarianjan.com.np
 vsrp.org.np
+webdisk.agileinstitute.com.np
 webdisk.alpastechnology.com.np
 webdisk.anilkandel.com.np
 webdisk.ankurinfotech.com.np
@@ -689,6 +705,7 @@ webdisk.visioncomputersolution.com.np
 webdisk.visionplus.com.np
 webdisk.vsrp.org.np
 webdisk.weinspire.org.np
+webmail.agileinstitute.com.np
 webmail.alpastechnology.com.np
 webmail.anilkandel.com.np
 webmail.ankurinfotech.com.np
@@ -711,6 +728,7 @@ webmail.focalpoint.edu.np
 webmail.freeseotools.sapnaa.com.np
 webmail.gulmoharfamilydentistry.com.np
 webmail.himalayanfiber.com.np
+webmail.hpfn.org.np
 webmail.janabhawana.edu.np
 webmail.jhalakmidhun.com.np
 webmail.krishank.com.np
@@ -755,6 +773,7 @@ wtr.com.np
 www.admin.amitkarn.com.np
 www.admin.trmc.edu.np
 www.ag.eeye.com.np
+www.agileinstitute.com.np
 www.alpastechnology.com.np
 www.anilkandel.com.np
 www.ankit-poudel.com.np
@@ -813,6 +832,7 @@ www.hitech.com.np
 www.hitech.com.np.torontoeduconsulting.com.np
 www.hp.candidnepal.com.np
 www.hp1.candid.com.np
+www.hpfn.org.np
 www.ibsc.seedcode.com.np
 www.janabhawana.edu.np
 www.janamkhatiwada.com.np
@@ -845,6 +865,7 @@ www.nimbhatta.com.np
 www.nirc.com.np
 www.nirc.com.np.afpi.edu.np
 www.nkkda.org.np
+www.opencart.cellzen.com.np
 www.orphanscare.org.np
 www.pageturner.com.np
 www.palsvoice.com.np
