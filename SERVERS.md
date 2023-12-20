@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 29 days, 8 hours and 37 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 15.54 16.08 18.24
+       ..'''.            0Xxoc:,.  ...              Uptime: 29 days, 9 hours and 39 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 9.92 13.4 12.76
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -20,7 +20,7 @@
                                           ;l   ..   RAM: 128 MiB / 2048 MiB
                                            .o       Disk: 2.6 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
-                                             .'     WAN IP: 37.120.232.44
+                                             .'     WAN IP: 91.242.248.181
                                               .     
 [+] Storage:
 
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.92T    804M      0      95       0       0 
+         1.92T    806M      0      95       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         44.4G    540M      0       0       0       0 
+         44.5G    542M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 29 days, 8 hours and 36 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 2.57 2.27 2.51
+       ..'''.            0Xxoc:,.  ...              Uptime: 29 days, 9 hours and 38 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 5.7 5.3 5.11
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.28T    950M      0      24       0       0 
+         2.29T    952M      0      24       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         50.3G    616M      0       0       0       0 
+         50.4G    617M      0       0       0       0 
 
 
 
