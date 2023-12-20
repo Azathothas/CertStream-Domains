@@ -1312,6 +1312,7 @@ result.hillside.edu.np
 result.iomexam.edu.np
 result.muodgsm.edu.np
 result.thebritishcollege.edu.np
+results.usebs.edu.np
 resungass.edu.np
 rhyme.sdes.edu.np
 richhills.edu.np
@@ -1845,6 +1846,7 @@ www.bhadreshworaavi.edu.np
 www.bhasker.edu.np
 www.bhimsen.edu.np
 www.bigapple.edu.np
+www.bls.edu.np
 www.bluebird.edu.np
 www.bluespark.edu.np
 www.bluitel.kusoed.edu.np
