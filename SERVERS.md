@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 29 days, 7 hours and 37 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 15.0 14.88 18.87
+       ..'''.            0Xxoc:,.  ...              Uptime: 29 days, 8 hours and 37 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 15.54 16.08 18.24
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,10 +17,10 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 130 MiB / 2048 MiB
-                                           .o       Disk: 2.5 TiB / 3.4 TiB
+                                          ;l   ..   RAM: 128 MiB / 2048 MiB
+                                           .o       Disk: 2.6 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
-                                             .'     WAN IP: 91.242.248.181
+                                             .'     WAN IP: 37.120.232.44
                                               .     
 [+] Storage:
 
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.91T    801M      0      95       0       0 
+         1.92T    804M      0      95       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         44.3G    538M      0       0       0       0 
+         44.4G    540M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 29 days, 7 hours and 36 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 22.52 43.05 22.2
+       ..'''.            0Xxoc:,.  ...              Uptime: 29 days, 8 hours and 36 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 2.57 2.27 2.51
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,7 +60,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 130 MiB / 2048 MiB
+                                          ;l   ..   RAM: 125 MiB / 2048 MiB
                                            .o       Disk: 2.1 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
                                              .'     WAN IP: 45.134.212.78
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.28T    947M      0      24       0       0 
+         2.28T    950M      0      24       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         50.1G    614M      0       0       0       0 
+         50.3G    616M      0       0       0       0 
 
 
 
