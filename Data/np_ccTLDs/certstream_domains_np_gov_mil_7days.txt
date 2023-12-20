@@ -1,5 +1,7 @@
+abpstc.gandaki.gov.np
 accounts.gioms.doit.gov.np
 accounts.gioms.gov.np
+achham.edcu.gov.np
 adbl.gov.np
 admin.nepalcopyright.gov.np
 ahclamjung.gandaki.gov.np
@@ -10,13 +12,18 @@ api.sims.gov.np
 app.ag.gov.np
 apply.mcsipc.gov.np
 apps.lungrimun.gov.np
+arghakhanchi.edcu.gov.np
+baglung.edcu.gov.np
 baithak.naraharinathmun.gov.np
 bajhang.edcu.gov.np
 bajrabarahihospital.bagamati.gov.np
+bajura.edcu.gov.np
+banke.edcu.gov.np
 barbardiyamun.bipadportal.gov.np
 barhabisehospital.bagamati.gov.np
 bcalfmis.panautimun.gov.np
 bhaktapurhospital.gov.np
+bhojpur.edcu.gov.np
 bhp.gov.np
 byawasaya.naraharinathmun.gov.np
 cag.karnali.gov.np
@@ -24,7 +31,6 @@ ccwb.gov.np
 censusapi.cbs.gov.np
 certify.covid19.gov.np
 cfsc.gov.np
-changunarayanmun.bipadportal.gov.np
 chatbot.adbl.gov.np
 chatbot.giwms.gov.np
 chckirtipur.gov.np
@@ -40,7 +46,9 @@ covid19hd.gandaki.gov.np
 crime.kaligandakimunsyangja.gov.np
 csiokavre.bagamati.gov.np
 ctevt.karnali.gov.np
+dang.edcu.gov.np
 dang.vethos.gov.np
+darchula.edcu.gov.np
 data.birgunjmun.gov.np
 data.gandaki.gov.np
 data.lekbeshimun.gov.np
@@ -124,6 +132,7 @@ demo.ptomb.bagamati.gov.np
 dfokalikot.karnali.gov.np
 dhachham.sudurpashchim.gov.np
 dhading.akc.gov.np
+dhanusha.edcu.gov.np
 dhbaitadi.sudurpashchim.gov.np
 dhbajura.sudurpashchim.gov.np
 dhdoti.sudurpashchim.gov.np
@@ -142,6 +151,7 @@ dolfd.p2.gov.np
 dolma.gov.np
 dphobara.gov.np
 dphojhapa.gov.np
+dpojhapa.gov.np
 drms.mohp.gov.np
 dscid.naraharinathmun.gov.np
 dudbc.gov.np
@@ -172,6 +182,7 @@ gesimis.moics.gov.np
 gis.bagamati.gov.np
 gis.ntpmis.gov.np
 glass.amrsurveillance.gov.np
+gorkha.edcu.gov.np
 gxmis.ntpmis.gov.np
 harnamadi.hetaudamun.gov.np
 hd.sudurpashchim.gov.np
@@ -180,6 +191,7 @@ health.kaligandakimunsyangja.gov.np
 hoachham.sudurpashchim.gov.np
 hokailali.sudurpashchim.gov.np
 homyagdi.gandaki.gov.np
+horolpa.lumbini.gov.np
 horolpa.p5.gov.np
 household.covid19.gov.np
 hpc.sudurpashchim.gov.np
@@ -191,6 +203,7 @@ hvapmis.asdp.gov.np
 idokanchanpur.sudurpashchim.gov.np
 idomugu.karnali.gov.np
 ifmis.mofe.gov.np
+ilam.edcu.gov.np
 ilars.gov.np
 ims-admin.melamchimun.gov.np
 ims.melamchimun.gov.np
@@ -198,8 +211,8 @@ innovationnepal.nast.gov.np
 inventory.kaligandakimunsyangja.gov.np
 ipc.dohs.gov.np
 jajarkot.akc.gov.np
+jajarkot.edcu.gov.np
 janakimunkailali.bipadportal.gov.np
-jstc.gov.np
 kaikemun.bipadportal.gov.np
 kalimatimarket.gov.np
 kawasotikrishi.gov.np
@@ -208,7 +221,6 @@ koshi.ppbmis.gov.np
 ktdc.gov.np
 kumakhmalikamun.bipadportal.gov.np
 kvda.gov.np
-labreport.apf.gov.np
 languagecommission.gov.np
 learning.covid19.gov.np
 lib.dmgnepal.gov.np
@@ -244,6 +256,7 @@ mows.gov.np
 mowsie.p1.gov.np
 moys.gandaki.gov.np
 moys.gov.np
+mpdsr.fwd.gov.np
 mtef.npc.gov.np
 muslimcommission.gov.np
 naksadata-api.butwalmun.gov.np
@@ -279,7 +292,6 @@ parsa.akc.gov.np
 parsanationalpark.gov.np
 pashupati.gov.np
 pc.p2.gov.np
-pension.gov.np
 pgadmin.amrsurveillance.gov.np
 phlmc.sudurpashchim.gov.np
 photo.ntb.gov.np
@@ -317,6 +329,7 @@ rac.gov.np
 rajaswo.bihadimun.gov.np
 rautahat.akc.gov.np
 reed.moald.gov.np
+result.psc.koshi.gov.np
 revenue.kaligandakimunsyangja.gov.np
 rmsdoed.gov.np
 rvs.ndrrma.gov.np
@@ -329,7 +342,6 @@ sdosalyan.gov.np
 sifaris.naraharinathmun.gov.np
 sifaris.sinjamun.gov.np
 sifarish.ghodaghodimun.gov.np
-sifarish.rajapurmun.gov.np
 sodang.nsonepal.gov.np
 sodhanusa.nsonepal.gov.np
 soft.jhapamun.gov.np
@@ -357,7 +369,6 @@ tracker.hivaids.gov.np
 tsc.gov.np
 udbo.p3.gov.np
 uoktdp.bagamati.gov.np
-vaccine2.mohp.gov.np
 vftc.gov.np
 vftchetauda.gov.np
 vhlsecmahottari.p2.gov.np
@@ -367,7 +378,6 @@ visitnepal2020.gov.np
 vlbiratnagar.gov.np
 vsdrl.gov.np
 vsdtchetauda.bagamati.gov.np
-webmail.narc.gov.np
 wriddodang.gov.np
 wssdochitwan.gov.np
 www.adbl.gov.np
@@ -473,7 +483,6 @@ www.feb.gov.np
 www.gdfchitlang.gov.np
 www.gesimis.moics.gov.np
 www.ilars.gov.np
-www.jstc.gov.np
 www.kawasotikrishi.gov.np
 www.khaptadnationalpark.gov.np
 www.ktdc.gov.np
@@ -502,7 +511,6 @@ www.nlc.gov.np
 www.nscsec.gov.np
 www.parsanationalpark.gov.np
 www.pashupati.gov.np
-www.pension.gov.np
 www.piurupandehi.pmamp.gov.np
 www.pmp.gov.np
 www.pri.gov.np
