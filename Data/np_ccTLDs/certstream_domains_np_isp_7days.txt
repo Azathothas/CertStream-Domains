@@ -50,6 +50,9 @@ access.worldlink.com.np
 afbf5a0fc5142912c36ff674cb15ef99.cloutik.wlink.com.np
 b6b4fcc2d9c44214cfb9757e3f323c0f.cloutik.wlink.com.np
 b9e50b4288d03eff197cf1250b58077b.cloutik.wlink.com.np
+beta-cms.ntc.net.np
+beta-socket.ntc.net.np
+beta.ntc.net.np
 c1b657a6df4d5aa996164c0c384bb62a.cloutik.wlink.com.np
 cd1be161f83a9118c65d88aa4192687e.cloutik.wlink.com.np
 cf04ef24f00e1fd69b91ca24c60dd5a3.cloutik.wlink.com.np

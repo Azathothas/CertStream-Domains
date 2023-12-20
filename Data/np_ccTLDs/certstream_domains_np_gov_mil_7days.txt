@@ -1,3 +1,4 @@
+accounts.gioms.doit.gov.np
 accounts.gioms.gov.np
 adbl.gov.np
 admin.nepalcopyright.gov.np
@@ -138,6 +139,7 @@ dms.tulsipurmun.gov.np
 document.nra.gov.np
 dolfd.p1.gov.np
 dolfd.p2.gov.np
+dolma.gov.np
 dphobara.gov.np
 dphojhapa.gov.np
 drms.mohp.gov.np
@@ -173,6 +175,7 @@ glass.amrsurveillance.gov.np
 gxmis.ntpmis.gov.np
 harnamadi.hetaudamun.gov.np
 hd.sudurpashchim.gov.np
+health.dhangadhimaimun.gov.np
 health.kaligandakimunsyangja.gov.np
 hoachham.sudurpashchim.gov.np
 hokailali.sudurpashchim.gov.np
@@ -212,6 +215,7 @@ lib.dmgnepal.gov.np
 licenseportal.gov.np
 lidpo.p2.gov.np
 lpbmis.gov.np
+lrims.dolrm.gov.np
 madhesh.gov.np
 medpa.moics.gov.np
 mhl.gov.np
@@ -222,6 +226,7 @@ mocat.bagamati.gov.np
 moea.sudurpashchim.gov.np
 moeap.bagamati.gov.np
 moest.gov.np
+moewri.gov.np
 mofaga.gov.np
 mofald.gov.np
 mofe.gov.np
@@ -230,11 +235,15 @@ moi.gov.np
 moiac.p1.gov.np
 moial.gandaki.gov.np
 moialdemo.bagamati.gov.np
+moics.gov.np
 monastery.gov.np
 morang.aqo.gov.np
+mosd.bagamati.gov.np
+mowcsc.gov.np
 mows.gov.np
 mowsie.p1.gov.np
 moys.gandaki.gov.np
+moys.gov.np
 mtef.npc.gov.np
 muslimcommission.gov.np
 naksadata-api.butwalmun.gov.np
@@ -258,6 +267,7 @@ ntacall.nta.gov.np
 ntpco.dudbc.gov.np
 ntpmis.gov.np
 nyayik.naraharinathmun.gov.np
+ocmcm.koshi.gov.np
 ocmcm.p2.gov.np
 odk.ndrrma.gov.np
 ohp.amrsurveillance.gov.np
@@ -280,6 +290,7 @@ plan.bihadimun.gov.np
 plan.khaptadchhannamun.gov.np
 plan.silichongmun.gov.np
 planning.triyugamun.gov.np
+plgsp.gov.np
 pmis.nlsip.gov.np
 pmp.gov.np
 pollution.gov.np
@@ -294,13 +305,16 @@ pri.gov.np
 profile.aiselukharkamun.gov.np
 projects.karnali.gov.np
 provincehospital.karnali.gov.np
+psc.sudurpashchim.gov.np
 psportsc.sudurpashchim.gov.np
 ptco.p3.gov.np
 ptomb.bagamati.gov.np
+public.dolma.gov.np
 pve.amrsurveillance.gov.np
 rabbitmq.amrsurveillance.gov.np
 rabvac.nidept.gov.np
 rac.gov.np
+rajaswo.bihadimun.gov.np
 rautahat.akc.gov.np
 reed.moald.gov.np
 revenue.kaligandakimunsyangja.gov.np
@@ -445,6 +459,7 @@ www.ddctaplejung.gov.np
 www.dls.gov.np
 www.dmli.gov.np
 www.dolfd.p1.gov.np
+www.dolma.gov.np
 www.dphobara.gov.np
 www.dphojhapa.gov.np
 www.dudbc.gov.np
@@ -465,14 +480,19 @@ www.ktdc.gov.np
 www.kvda.gov.np
 www.languagecommission.gov.np
 www.lpbmis.gov.np
+www.lrims.dolrm.gov.np
 www.mhl.gov.np
 www.moest.gov.np
+www.moewri.gov.np
 www.mofaga.gov.np
 www.mofald.gov.np
 www.mofe.gov.np
 www.moi.gov.np
+www.moics.gov.np
 www.monastery.gov.np
+www.mowcsc.gov.np
 www.mows.gov.np
+www.moys.gov.np
 www.muslimcommission.gov.np
 www.narc.gov.np
 www.nbsm.gov.np
@@ -487,6 +507,7 @@ www.piurupandehi.pmamp.gov.np
 www.pmp.gov.np
 www.pri.gov.np
 www.ptomb.bagamati.gov.np
+www.public.dolma.gov.np
 www.rac.gov.np
 www.rmsdoed.gov.np
 www.saarcrsu.gov.np
