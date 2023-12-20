@@ -1,9 +1,11 @@
 accounts.gioms.doit.gov.np
 achham.edcu.gov.np
+akcsiraha.p2.gov.np
 api-rms.ndrrma.gov.np
 arghakhanchi.edcu.gov.np
 baglung.edcu.gov.np
 baitadi.edcu.gov.np
+bajrabarahihospital.bagamati.gov.np
 bajura.edcu.gov.np
 banke.edcu.gov.np
 bara.edcu.gov.np
@@ -27,6 +29,7 @@ dhanusha.edcu.gov.np
 dolma.gov.np
 doti.edcu.gov.np
 eastrukum.edcu.gov.np
+eservice.gokarneshwormun.gov.np
 gorkha.edcu.gov.np
 gulmi.edcu.gov.np
 gunaso.dhangadhimun.gov.np
@@ -77,6 +80,7 @@ panchthar.edcu.gov.np
 parasi.edcu.gov.np
 parbat.edcu.gov.np
 parsa.edcu.gov.np
+poshanapp.fwd.gov.np
 pprofile.assembly.lumbini.gov.np
 public.dolma.gov.np
 pyuthan.edcu.gov.np
