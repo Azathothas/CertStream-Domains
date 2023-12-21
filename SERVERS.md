@@ -6,51 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 30 days, 14 hours and 40 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 6.62 10.36 10.19
-  .                   OMo           ':do.           Processes: 17
-                     dMc               :OO;         Window Manager: Not detected
-                     0M.                 .:o.       Desktop Environment: Not detected
-                     ;Wd                            Shell: /bin/zsh
-                      ;XO,                          Terminal: Not detected
-                        ,d0Odlc;,..                 Packages: 5717
-                            ..',;:cdOOd::,.         Temperature: Not detected
-                                     .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
-                                        'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 129 MiB / 2048 MiB
-                                           .o       Disk: 2.5 TiB / 3.4 TiB
-                                             c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
-                                             .'     WAN IP: 193.142.201.159
-                                              .     
-[+] Storage:
-
-╭────────────────────────────────────────────────────────────────────╮
-│ 1 fuse device                                                      │
-├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
-│ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
-├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 16.0G │ 6.4G │  9.6G │  40.1% │ fuse.[ │ [encfs-ZjMMz │
-│            │       │      │       │        │ encfs- │ UwYzl]       │
-│            │       │      │       │        │ ZjMMzU │              │
-│            │       │      │       │        │ wYzl]  │              │
-╰────────────┴───────┴──────┴───────┴────────┴────────┴──────────────╯
-
-[+] BandWidth
-    RX:  bytes packets errors dropped  missed   mcast           
-         2.12T    874M      0      95       0       0 
-    TX:  bytes packets errors dropped carrier collsns           
-         48.8G    591M      0       0       0       0 
-
-
-
-[+] Metadata
-      ,.....                                        User: root
-  ----`     `..,;:ccc,.                             Hostname: StorySmooth
-           ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
- .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
-            .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 30 days, 14 hours and 39 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 3.34 3.69 3.91
+       ..'''.            0Xxoc:,.  ...              Uptime: 30 days, 15 hours and 39 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 18.39 15.48 13.46
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -61,9 +18,9 @@
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
                                           ;l   ..   RAM: 124 MiB / 2048 MiB
-                                           .o       Disk: 2.2 TiB / 3.4 TiB
-                                             c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
-                                             .'     WAN IP: 45.134.212.78
+                                           .o       Disk: 2.5 TiB / 3.4 TiB
+                                             c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
+                                             .'     WAN IP: 37.120.232.44
                                               .     
 [+] Storage:
 
@@ -72,7 +29,50 @@
 ├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
 ├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 12.0G │ 8.2G │  3.8G │  68.2% │ fuse.[ │ [encfs-ODlmN │
+│ /sec       │ 16.0G │ 6.3G │  9.7G │  39.2% │ fuse.[ │ [encfs-ZjMMz │
+│            │       │      │       │        │ encfs- │ UwYzl]       │
+│            │       │      │       │        │ ZjMMzU │              │
+│            │       │      │       │        │ wYzl]  │              │
+╰────────────┴───────┴──────┴───────┴────────┴────────┴──────────────╯
+
+[+] BandWidth
+    RX:  bytes packets errors dropped  missed   mcast           
+         2.12T    877M      0     584       0       0 
+    TX:  bytes packets errors dropped carrier collsns           
+         48.9G    592M      0       0       0       0 
+
+
+
+[+] Metadata
+      ,.....                                        User: root
+  ----`     `..,;:ccc,.                             Hostname: StorySmooth
+           ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
+ .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
+            .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
+       ..'''.            0Xxoc:,.  ...              Uptime: 30 days, 15 hours and 38 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 3.12 3.51 3.73
+  .                   OMo           ':do.           Processes: 17
+                     dMc               :OO;         Window Manager: Not detected
+                     0M.                 .:o.       Desktop Environment: Not detected
+                     ;Wd                            Shell: /bin/zsh
+                      ;XO,                          Terminal: Not detected
+                        ,d0Odlc;,..                 Packages: 5717
+                            ..',;:cdOOd::,.         Temperature: Not detected
+                                     .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
+                                        'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
+                                          ;l   ..   RAM: 115 MiB / 2048 MiB
+                                           .o       Disk: 2.2 TiB / 3.4 TiB
+                                             c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
+                                             .'     WAN IP: 217.138.219.220
+                                              .     
+[+] Storage:
+
+╭────────────────────────────────────────────────────────────────────╮
+│ 1 fuse device                                                      │
+├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
+│ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
+├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
+│ /sec       │ 12.0G │ 8.0G │  4.0G │  67.1% │ fuse.[ │ [encfs-ODlmN │
 │            │       │      │       │        │ encfs- │ TJjMz]       │
 │            │       │      │       │        │ ODlmNT │              │
 │            │       │      │       │        │ JjMz]  │              │
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         2.48T   1.02G      0      24       0       0 
+         2.49T   1.02G      0      24       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         54.2G    663M      0       0       0       0 
+         54.3G    664M      0       0       0       0 
 
 
 

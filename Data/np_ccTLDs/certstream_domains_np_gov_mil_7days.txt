@@ -350,6 +350,7 @@ piubajhang.pmamp.gov.np
 piuokhaldhunga.pmamp.gov.np
 piurautahat.pmamp.gov.np
 piurupandehi.pmamp.gov.np
+piusalyan.pmamp.gov.np
 plan.bihadimun.gov.np
 plan.khaptadchhannamun.gov.np
 plan.silichongmun.gov.np
@@ -383,6 +384,7 @@ rabvac.nidept.gov.np
 rac.gov.np
 rajaswo.bihadimun.gov.np
 ramechhap.edcu.gov.np
+ratnanagarkrishi.gov.np
 rautahat.akc.gov.np
 rautahat.edcu.gov.np
 reed.moald.gov.np
@@ -591,6 +593,7 @@ www.pri.gov.np
 www.ptomb.bagamati.gov.np
 www.public.dolma.gov.np
 www.rac.gov.np
+www.ratnanagarkrishi.gov.np
 www.rmsdoed.gov.np
 www.sdomugu.karnali.gov.np
 www.sdosalyan.gov.np
