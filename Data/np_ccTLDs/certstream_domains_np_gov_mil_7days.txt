@@ -1,6 +1,5 @@
 abpstc.gandaki.gov.np
 accounts.gioms.doit.gov.np
-accounts.gioms.gov.np
 achham.edcu.gov.np
 adbl.gov.np
 admin.nepalcopyright.gov.np
@@ -43,7 +42,6 @@ chis.dohs.gov.np
 chitwan.akc.gov.np
 chitwan.edcu.gov.np
 ciciig.gov.np
-cjcc.gov.np
 cmscag.karnali.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -237,7 +235,6 @@ idokanchanpur.sudurpashchim.gov.np
 idomugu.karnali.gov.np
 ifmis.mofe.gov.np
 ilam.edcu.gov.np
-ilars.gov.np
 ims-admin.melamchimun.gov.np
 ims.melamchimun.gov.np
 innovationnepal.nast.gov.np
@@ -248,10 +245,8 @@ jajarkot.edcu.gov.np
 janakimunkailali.bipadportal.gov.np
 jhapa.edcu.gov.np
 jumla.edcu.gov.np
-kaikemun.bipadportal.gov.np
 kailali.edcu.gov.np
 kalikot.edcu.gov.np
-kalimatimarket.gov.np
 kanchanpur.edcu.gov.np
 kapilvastu.edcu.gov.np
 kaski.edcu.gov.np
@@ -260,8 +255,6 @@ kawasotikrishi.gov.np
 khaptadnationalpark.gov.np
 khotang.edcu.gov.np
 koshi.ppbmis.gov.np
-ktdc.gov.np
-kumakhmalikamun.bipadportal.gov.np
 kvda.gov.np
 lalitpur.edcu.gov.np
 languagecommission.gov.np
@@ -275,7 +268,6 @@ madhesh.gov.np
 mahottari.edcu.gov.np
 mail.nddb.gov.np
 map.laljhadimun.gov.np
-medpa.moics.gov.np
 mhl.gov.np
 mis.centralaglab.gov.np
 mis.mowcsc.gov.np
@@ -291,7 +283,6 @@ mofald.gov.np
 mofe.gov.np
 moh.p1.gov.np
 moi.gov.np
-moiac.p1.gov.np
 moial.gandaki.gov.np
 moialdemo.bagamati.gov.np
 moics.gov.np
@@ -302,7 +293,6 @@ mosd.bagamati.gov.np
 motfe.koshi.gov.np
 mowcsc.gov.np
 mows.gov.np
-mowsie.p1.gov.np
 moys.gandaki.gov.np
 moys.gov.np
 mpdsr.fwd.gov.np
@@ -402,7 +392,6 @@ rmsdoed.gov.np
 rolpa.edcu.gov.np
 rupandehi.edcu.gov.np
 rvs.ndrrma.gov.np
-saarcrsu.gov.np
 salyan.edcu.gov.np
 sankhuwasabha.edcu.gov.np
 saptari.edcu.gov.np
@@ -414,7 +403,6 @@ sdomugu.karnali.gov.np
 sdosalyan.gov.np
 sifaris.naraharinathmun.gov.np
 sifaris.sinjamun.gov.np
-sifarish.ghodaghodimun.gov.np
 sindhuli.edcu.gov.np
 sindhupalchok.edcu.gov.np
 siraha.edcu.gov.np
@@ -444,7 +432,6 @@ tanahu.edcu.gov.np
 taplejung.edcu.gov.np
 tax.naraharinathmun.gov.np
 tax.sinjamun.gov.np
-techtransfer.mcsipc.gov.np
 terhathum.edcu.gov.np
 testattendanceltp.akc.gov.np
 thakurbabamun.bipadportal.gov.np
@@ -461,7 +448,6 @@ vhlsecnawalpureast.gandaki.gov.np
 vhlsmorang.gov.np
 visitnepal2020.gov.np
 vlbiratnagar.gov.np
-vsdrl.gov.np
 vsdtchetauda.bagamati.gov.np
 webdisk.nddb.gov.np
 webmail.nddb.gov.np
@@ -476,7 +462,6 @@ www.cfsc.gov.np
 www.chckirtipur.gov.np
 www.chitwan.akc.gov.np
 www.ciciig.gov.np
-www.cjcc.gov.np
 www.dang.vethos.gov.np
 www.dccachham.gov.np
 www.dccarghakhanchi.gov.np
@@ -571,10 +556,8 @@ www.feb.gov.np
 www.gdfchitlang.gov.np
 www.gesimis.moics.gov.np
 www.ialdopyuthan.lumbini.gov.np
-www.ilars.gov.np
 www.kawasotikrishi.gov.np
 www.khaptadnationalpark.gov.np
-www.ktdc.gov.np
 www.kvda.gov.np
 www.languagecommission.gov.np
 www.lpbmis.gov.np
@@ -609,7 +592,6 @@ www.ptomb.bagamati.gov.np
 www.public.dolma.gov.np
 www.rac.gov.np
 www.rmsdoed.gov.np
-www.saarcrsu.gov.np
 www.sdomugu.karnali.gov.np
 www.sdosalyan.gov.np
 www.sudurpashchim.gov.np
@@ -620,7 +602,6 @@ www.vftchetauda.gov.np
 www.vhlsmorang.gov.np
 www.visitnepal2020.gov.np
 www.vlbiratnagar.gov.np
-www.vsdrl.gov.np
 www.wriddodang.gov.np
 www.wssdochitwan.gov.np
 yojana.sarumaranimun.gov.np
