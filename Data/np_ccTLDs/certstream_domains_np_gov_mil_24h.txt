@@ -1,6 +1,8 @@
 api-rms.ndrrma.gov.np
+attendance.gov.np
 aurahi.lpbmis.gov.np
 baglung.lpbmis.gov.np
+bajrabarahihospital.bagamati.gov.np
 banepa.lpbmis.gov.np
 banganga.lpbmis.gov.np
 barahtal.lpbmis.gov.np
@@ -54,9 +56,13 @@ manthali.lpbmis.gov.np
 mechinagar.lpbmis.gov.np
 moiac.koshi.gov.np
 mopid.bagamati.gov.np
+mountain.dot.gov.np
 myanglung.lpbmis.gov.np
+naksapass-api.golbazarmun.gov.np
+naksapass.golbazarmun.gov.np
 narshon.lpbmis.gov.np
 naukunda.lpbmis.gov.np
+nawalparasi.akc.gov.np
 nepalgunj.lpbmis.gov.np
 nilakantha.lpbmis.gov.np
 ntacall.nta.gov.np
@@ -90,5 +96,7 @@ tokha.lpbmis.gov.np
 training.copomis.gov.np
 triyuga.lpbmis.gov.np
 tulsipur.lpbmis.gov.np
+webcpanel5.nitc.gov.np
 www.lpbmis.gov.np
+www.mountain.dot.gov.np
 www.piuarghakhanchi.pmamp.gov.np
