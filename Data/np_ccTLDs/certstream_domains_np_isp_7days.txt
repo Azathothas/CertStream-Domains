@@ -4,6 +4,4 @@ beta-socket.ntc.net.np
 beta.ntc.net.np
 icewarp.subisu.net.np
 network.ntc.net.np
-pmportal.ncell.axiata.com
 ticket.ntc.net.np
-www.pmportal.ncell.axiata.com
