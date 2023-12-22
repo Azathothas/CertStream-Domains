@@ -13,6 +13,7 @@ app.ag.gov.np
 apply.mcsipc.gov.np
 apps.lungrimun.gov.np
 arghakhanchi.edcu.gov.np
+attendance.gov.np
 audit.kathmandu.gov.np
 aurahi.lpbmis.gov.np
 baglung.edcu.gov.np
@@ -158,6 +159,7 @@ dccudayapur.gov.np
 ddcpanchthar.gov.np
 ddctaplejung.gov.np
 demo.ptomb.bagamati.gov.np
+dfobanke.p5.gov.np
 dfokalikot.karnali.gov.np
 dhading.akc.gov.np
 dhading.edcu.gov.np
@@ -170,6 +172,7 @@ dhis2.ntpmis.gov.np
 dhulikhel.lpbmis.gov.np
 digital.sotangmun.gov.np
 dlpiudhankuta.nra.gov.np
+dlsobaitadi.gov.np
 dms.birgunjmun.gov.np
 dms.lekbeshimun.gov.np
 dms.tulsipurmun.gov.np
@@ -263,6 +266,7 @@ kamala.lpbmis.gov.np
 kanchanpur.edcu.gov.np
 kapilvastu.edcu.gov.np
 kaski.edcu.gov.np
+kaski4.pmamp.gov.np
 kathmandu.lpbmis.gov.np
 kavrepalanchok.edcu.gov.np
 kawasotikrishi.gov.np
@@ -284,6 +288,7 @@ lpbmis.gov.np
 lrims.dolrm.gov.np
 mahottari.edcu.gov.np
 mail.nddb.gov.np
+manang.akc.gov.np
 manthali.lpbmis.gov.np
 map.laljhadimun.gov.np
 mechinagar.lpbmis.gov.np
@@ -320,10 +325,12 @@ myagdi.edcu.gov.np
 myanglung.lpbmis.gov.np
 naksadata.butwalmun.gov.np
 naksapass.brindawanmun.gov.np
+naksapass.golbazarmun.gov.np
 namuda.gov.np
 narc.gov.np
 narshon.lpbmis.gov.np
 naukunda.lpbmis.gov.np
+nawalparasi.akc.gov.np
 nawalpur.edcu.gov.np
 nbsm.gov.np
 nc.amrsurveillance.gov.np
@@ -559,6 +566,7 @@ www.dcctehrathum.gov.np
 www.dccudayapur.gov.np
 www.ddcpanchthar.gov.np
 www.ddctaplejung.gov.np
+www.dlsobaitadi.gov.np
 www.dolfd.p1.gov.np
 www.dolma.gov.np
 www.dphobara.gov.np
@@ -576,6 +584,7 @@ www.khaptadnationalpark.gov.np
 www.kvda.gov.np
 www.lpbmis.gov.np
 www.lrims.dolrm.gov.np
+www.manang.akc.gov.np
 www.mhl.gov.np
 www.moest.gov.np
 www.moewri.gov.np
