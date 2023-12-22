@@ -72,6 +72,7 @@ phungling.lpbmis.gov.np
 piuarghakhanchi.pmamp.gov.np
 pokhara.lpbmis.gov.np
 pollution.gov.np
+prcsalyan.gov.np
 pyuthan.lpbmis.gov.np
 rajbiraj.lpbmis.gov.np
 rapti.lpbmis.gov.np
@@ -82,6 +83,7 @@ rolpa.lpbmis.gov.np
 rupa.lpbmis.gov.np
 sabaila.lpbmis.gov.np
 sandhikharka.lpbmis.gov.np
+seedlabkhajura.gov.np
 shadananda.lpbmis.gov.np
 sharada.lpbmis.gov.np
 shuklaphanta.lpbmis.gov.np
