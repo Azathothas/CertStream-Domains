@@ -1,3 +1,4 @@
+api-rms.ndrrma.gov.np
 aurahi.lpbmis.gov.np
 baglung.lpbmis.gov.np
 banepa.lpbmis.gov.np
@@ -21,6 +22,8 @@ budhanilakantha.lpbmis.gov.np
 butwal.lpbmis.gov.np
 byas.lpbmis.gov.np
 cao.p1.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
 dakshinkali.lpbmis.gov.np
 dhangadhi.lpbmis.gov.np
 dhankuta.lpbmis.gov.np
@@ -50,6 +53,7 @@ lpbmis.gov.np
 manthali.lpbmis.gov.np
 mechinagar.lpbmis.gov.np
 moiac.koshi.gov.np
+mopid.bagamati.gov.np
 myanglung.lpbmis.gov.np
 narshon.lpbmis.gov.np
 naukunda.lpbmis.gov.np
@@ -61,6 +65,7 @@ phidim.lpbmis.gov.np
 phungling.lpbmis.gov.np
 piuarghakhanchi.pmamp.gov.np
 pokhara.lpbmis.gov.np
+pollution.gov.np
 pyuthan.lpbmis.gov.np
 rajbiraj.lpbmis.gov.np
 rapti.lpbmis.gov.np
