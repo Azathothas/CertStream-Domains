@@ -77,6 +77,7 @@ dccdhanusha.gov.np
 demo.ptomb.bagamati.gov.np
 dfobanke.p5.gov.np
 dfokalikot.karnali.gov.np
+dforautahat.gov.np
 dhading.akc.gov.np
 dhading.edcu.gov.np
 dhangadhi.lpbmis.gov.np
@@ -125,6 +126,7 @@ gunaso.dhangadhimun.gov.np
 gunaso.kathmandu.gov.np
 gurans.lpbmis.gov.np
 harnamadi.hetaudamun.gov.np
+hd.bagamati.gov.np
 health.dhangadhimaimun.gov.np
 hetauda.lpbmis.gov.np
 hobhaktapur.bagamati.gov.np
@@ -181,6 +183,7 @@ kvda.gov.np
 lahan.lpbmis.gov.np
 lalitpur.edcu.gov.np
 lalitpur.lpbmis.gov.np
+lamjung.akc.gov.np
 law.kathmandu.gov.np
 lib.dmgnepal.gov.np
 licenseportal.gov.np
@@ -235,6 +238,7 @@ nawalpur.edcu.gov.np
 nbsm.gov.np
 nddb.gov.np
 nepalgunj.lpbmis.gov.np
+news.kaligandakimunsyangja.gov.np
 nilakantha.lpbmis.gov.np
 nlc.gov.np
 noc.moest.gov.np
@@ -370,6 +374,7 @@ www.chitwan.akc.gov.np
 www.dang.vethos.gov.np
 www.dccbhaktapur.gov.np
 www.dccdhanusha.gov.np
+www.dforautahat.gov.np
 www.dlsobaitadi.gov.np
 www.dolfd.p1.gov.np
 www.dolma.gov.np
