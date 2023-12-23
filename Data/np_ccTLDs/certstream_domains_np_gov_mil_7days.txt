@@ -53,6 +53,7 @@ budhanilakantha.lpbmis.gov.np
 butwal.lpbmis.gov.np
 byas.lpbmis.gov.np
 byawasaya.naraharinathmun.gov.np
+cao.p1.gov.np
 card.kathmandu.gov.np
 ccwb.gov.np
 censusapi.cbs.gov.np
@@ -171,6 +172,7 @@ dharan.lpbmis.gov.np
 dhis2.ntpmis.gov.np
 dhulikhel.lpbmis.gov.np
 digital.sotangmun.gov.np
+digitallibrary.fwd.gov.np
 dlpiudhankuta.nra.gov.np
 dlsobaitadi.gov.np
 dms.birgunjmun.gov.np
@@ -306,15 +308,18 @@ mofaga.gov.np
 mofald.gov.np
 mofe.gov.np
 moi.gov.np
+moiac.koshi.gov.np
 moial.gandaki.gov.np
 moialdemo.bagamati.gov.np
 moics.gov.np
 molmac.bagamati.gov.np
 monastery.gov.np
+mopid.bagamati.gov.np
 morang.aqo.gov.np
 morang.edcu.gov.np
 mosd.bagamati.gov.np
 motfe.koshi.gov.np
+mountain.dot.gov.np
 mowcsc.gov.np
 moys.gandaki.gov.np
 moys.gov.np
@@ -324,6 +329,7 @@ mugu.edcu.gov.np
 myagdi.edcu.gov.np
 myanglung.lpbmis.gov.np
 naksadata.butwalmun.gov.np
+naksapass-api.golbazarmun.gov.np
 naksapass.brindawanmun.gov.np
 naksapass.golbazarmun.gov.np
 namuda.gov.np
@@ -368,6 +374,7 @@ pgadmin.amrsurveillance.gov.np
 phidim.lpbmis.gov.np
 photo.ntb.gov.np
 phungling.lpbmis.gov.np
+piuarghakhanchi.pmamp.gov.np
 piubajhang.pmamp.gov.np
 piuokhaldhunga.pmamp.gov.np
 piusalyan.pmamp.gov.np
@@ -386,6 +393,7 @@ pphl.p5.gov.np
 pplkhajura.lumbini.gov.np
 pprofile.assembly.lumbini.gov.np
 pragati.sinjamun.gov.np
+prcsalyan.gov.np
 pri.gov.np
 profile.aiselukharkamun.gov.np
 profile.chaukunemun.gov.np
@@ -426,6 +434,7 @@ sarlahi.edcu.gov.np
 saruwa.mofaga.gov.np
 sdomugu.karnali.gov.np
 sdosalyan.gov.np
+seedlabkhajura.gov.np
 shadananda.lpbmis.gov.np
 sharada.lpbmis.gov.np
 shuklaphanta.lpbmis.gov.np
@@ -477,6 +486,7 @@ vhlsmorang.gov.np
 visitnepal2020.gov.np
 vpn.gov.np
 vsdtchetauda.bagamati.gov.np
+webcpanel5.nitc.gov.np
 webdisk.nddb.gov.np
 webmail.nddb.gov.np
 westrukum.edcu.gov.np
@@ -594,6 +604,7 @@ www.mofe.gov.np
 www.moi.gov.np
 www.moics.gov.np
 www.monastery.gov.np
+www.mountain.dot.gov.np
 www.mowcsc.gov.np
 www.moys.gov.np
 www.namuda.gov.np
@@ -604,6 +615,7 @@ www.njst.gov.np
 www.nlc.gov.np
 www.nwsc.gov.np
 www.pashupati.gov.np
+www.piuarghakhanchi.pmamp.gov.np
 www.pmp.gov.np
 www.pri.gov.np
 www.ptomb.bagamati.gov.np
