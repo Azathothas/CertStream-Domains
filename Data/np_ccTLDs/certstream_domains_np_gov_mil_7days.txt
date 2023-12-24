@@ -43,6 +43,7 @@ bidur.lpbmis.gov.np
 biratnagar.lpbmis.gov.np
 birendranagar.lpbmis.gov.np
 birgunj.lpbmis.gov.np
+bp.bagamati.gov.np
 budhanilakantha.lpbmis.gov.np
 butwal.lpbmis.gov.np
 byas.lpbmis.gov.np
@@ -102,6 +103,7 @@ eservice.birgunjmun.gov.np
 eservice.gokarneshwormun.gov.np
 eservice.khairahanimun.gov.np
 etc.p5.gov.np
+fansepdhanusha.gov.np
 fdcgodawari.gov.np
 film.gov.np
 ftqcdojumla.dftqc.gov.np
@@ -183,6 +185,7 @@ lpbmis.gov.np
 lrims.dolrm.gov.np
 mahottari.edcu.gov.np
 mail.nddb.gov.np
+mail.seedlabgandaki.gov.np
 manang.akc.gov.np
 manthali.lpbmis.gov.np
 map.laljhadimun.gov.np
@@ -307,6 +310,7 @@ saptari.edcu.gov.np
 sarlahi.edcu.gov.np
 sdomugu.karnali.gov.np
 sdosalyan.gov.np
+seedlabgandaki.gov.np
 seedlabkhajura.gov.np
 shadananda.lpbmis.gov.np
 sharada.lpbmis.gov.np
@@ -373,6 +377,7 @@ www.dphojhapa.gov.np
 www.dwandapidit.karnali.gov.np
 www.edcd.gov.np
 www.etc.p5.gov.np
+www.fansepdhanusha.gov.np
 www.fdcgodawari.gov.np
 www.film.gov.np
 www.gdfchitlang.gov.np
@@ -407,6 +412,7 @@ www.public.dolma.gov.np
 www.ratnanagarkrishi.gov.np
 www.sdomugu.karnali.gov.np
 www.sdosalyan.gov.np
+www.seedlabgandaki.gov.np
 www.support.nepalpolice.gov.np
 www.vftc.gov.np
 www.vftchetauda.gov.np
