@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 33 days, 12 hours and 36 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 10.98 10.31 11.06
+       ..'''.            0Xxoc:,.  ...              Uptime: 33 days, 13 hours and 35 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 9.85 10.32 9.92
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -39,7 +39,7 @@
     RX:  bytes packets errors dropped  missed   mcast           
          2.59T   1.03G      0   9.39k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         58.6G    703M      0       0       0       0 
+         58.7G    704M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 33 days, 12 hours and 35 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 4.02 3.93 3.86
+       ..'''.            0Xxoc:,.  ...              Uptime: 33 days, 13 hours and 35 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 6.55 8.66 7.21
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -82,7 +82,7 @@
     RX:  bytes packets errors dropped  missed   mcast           
          2.96T   1.18G      0      27       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         63.7G    778M      0       0       0       0 
+         63.8G    780M      0       0       0       0 
 
 
 
