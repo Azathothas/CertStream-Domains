@@ -131,6 +131,7 @@ dird.tu.edu.np
 domc.tu.edu.np
 edex.edu.np
 educrope.edu.np
+eduport.edu.np
 elibrary.kmcen.edu.np
 events.prime.edu.np
 ffen.edu.np

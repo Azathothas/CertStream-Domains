@@ -260,6 +260,7 @@ biswashdhungana.com.np
 biwaspudasaini.com.np
 bktapan.com.np
 blackfeather.com.np
+blog.abhishekkandel.com.np
 blog.balmanrawat.com.np
 blog.kushagra.com.np
 blog.shreejan25.com.np
@@ -810,6 +811,7 @@ ecsi.eattendance.com.np
 edainiki.urmilas.com.np
 edex.edu.np
 educrope.edu.np
+eduport.edu.np
 edusanjal.eattendance.com.np
 eduzeit.com.np
 eec.eattendance.com.np
@@ -1339,6 +1341,7 @@ mcvtc.tu.edu.np
 mda.com.np
 media.axismeditech.com.np
 medpoint.com.np
+medrik.salesrm.com.np
 memorygame.sq18.com.np
 meroato.tukisoft.com.np
 mfm.com.np
@@ -1500,6 +1503,7 @@ pay.shreejan25.com.np
 pay.skybase.com.np
 payroll.namasteacademy.edu.np
 pcclinic.com.np
+peshaladhikari.com.np
 pfpid.org.np
 phonefinder.com.np
 php.utsavkoju.com.np
@@ -1632,6 +1636,7 @@ royalcarpet.dipu.com.np
 royalnepal.com.np
 royalsit.com.np
 royaltrading.com.np
+rpgroup.com.np
 rppsathi.com.np
 rrimpex.com.np
 rsbiotechnology.com.np
@@ -2543,6 +2548,9 @@ www.yhr.com.np
 www.yogtravels.com.np
 www.zealheal-app.brandbuilder.com.np
 www.zerologicspace.com.np
+www.zind.worldwaysmanpower.com.np
+www.ztuuil.worldwaysmanpower.com.np
+www.zyuuo.worldwaysmanpower.com.np
 www1.avishekpariyar.com.np
 www1.dineshm.com.np
 www1.rajeshbhatta.com.np
@@ -2568,4 +2576,7 @@ yyf.org.np
 zealheal-app.brandbuilder.com.np
 zenitheducation.com.np
 zerologicspace.com.np
+zind.worldwaysmanpower.com.np
 zorsha.com.np
+ztuuil.worldwaysmanpower.com.np
+zyuuo.worldwaysmanpower.com.np
