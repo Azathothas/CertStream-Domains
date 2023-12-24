@@ -1,6 +1,7 @@
 amis.gov.np
 api-rms.ndrrma.gov.np
 app.arjundharamun.gov.np
+bajrabarahihospital.bagamati.gov.np
 cadp.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
