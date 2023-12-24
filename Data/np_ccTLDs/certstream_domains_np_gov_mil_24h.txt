@@ -1,0 +1,7 @@
+amis.gov.np
+api-rms.ndrrma.gov.np
+cadp.gov.np
+dhs.gov.np
+itahari.gov.np
+kirtipur.gov.np
+wrfd.gov.np
