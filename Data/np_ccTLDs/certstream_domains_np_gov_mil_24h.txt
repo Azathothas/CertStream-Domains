@@ -1,7 +1,12 @@
 amis.gov.np
 api-rms.ndrrma.gov.np
+app.arjundharamun.gov.np
 cadp.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
 dhs.gov.np
 itahari.gov.np
 kirtipur.gov.np
+pollution.gov.np
+tribhuvannagar.gov.np
 wrfd.gov.np
