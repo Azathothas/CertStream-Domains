@@ -1,7 +1,5 @@
-access.worldlink.com.np
 beta-cms.ntc.net.np
 beta-socket.ntc.net.np
 beta.ntc.net.np
 icewarp.subisu.net.np
 network.ntc.net.np
-ticket.ntc.net.np
