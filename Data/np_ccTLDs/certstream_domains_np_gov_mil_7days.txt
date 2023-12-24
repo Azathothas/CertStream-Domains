@@ -72,6 +72,7 @@ dang.edcu.gov.np
 dang.vethos.gov.np
 darchula.edcu.gov.np
 dashboard.mellekhmun.gov.np
+data.tulsipurmun.gov.np
 dccbhaktapur.gov.np
 dccdhanusha.gov.np
 demo.ptomb.bagamati.gov.np
@@ -240,9 +241,11 @@ nddb.gov.np
 nepalgunj.lpbmis.gov.np
 news.kaligandakimunsyangja.gov.np
 nilakantha.lpbmis.gov.np
+nistep.teacoffee.gov.np
 nlc.gov.np
 noc.moest.gov.np
 nocbackend.moest.gov.np
+np.lagani.lumbini.gov.np
 ntacall.nta.gov.np
 ntb.gov.np
 nuwakot.edcu.gov.np
@@ -342,6 +345,7 @@ tikapur.lpbmis.gov.np
 tilottama.lpbmis.gov.np
 tokha.lpbmis.gov.np
 tourismdharan.p1.gov.np
+trace.teacoffee.gov.np
 trade.ntb.gov.np
 training.copomis.gov.np
 triyuga.lpbmis.gov.np
