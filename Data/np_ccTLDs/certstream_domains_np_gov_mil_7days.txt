@@ -4,9 +4,11 @@ achham.edcu.gov.np
 admin.ntb.gov.np
 ahclamjung.gandaki.gov.np
 akcsiraha.p2.gov.np
+amis.gov.np
 ams.adboard.gov.np
 api-rms.ndrrma.gov.np
 app.ag.gov.np
+app.arjundharamun.gov.np
 apps.lungrimun.gov.np
 arghakhanchi.edcu.gov.np
 attendance.gov.np
@@ -47,6 +49,7 @@ bp.bagamati.gov.np
 budhanilakantha.lpbmis.gov.np
 butwal.lpbmis.gov.np
 byas.lpbmis.gov.np
+cadp.gov.np
 cao.p1.gov.np
 card.kathmandu.gov.np
 ccwb.gov.np
@@ -68,6 +71,8 @@ dakshinkali.lpbmis.gov.np
 dang.edcu.gov.np
 dang.vethos.gov.np
 darchula.edcu.gov.np
+dartachalani.kedarasyumun.gov.np
+dartachalani.parshurammun.gov.np
 dashboard.mellekhmun.gov.np
 data.tulsipurmun.gov.np
 demo.ptomb.bagamati.gov.np
@@ -81,6 +86,7 @@ dhankuta.edcu.gov.np
 dhankuta.lpbmis.gov.np
 dhanusha.edcu.gov.np
 dharan.lpbmis.gov.np
+dhs.gov.np
 dhulikhel.lpbmis.gov.np
 digital.sotangmun.gov.np
 digitallibrary.fwd.gov.np
@@ -118,6 +124,7 @@ gulariya.lpbmis.gov.np
 gulmi.edcu.gov.np
 gunaso.dhangadhimun.gov.np
 gunaso.kathmandu.gov.np
+gunaso.kedarasyumun.gov.np
 gurans.lpbmis.gov.np
 harnamadi.hetaudamun.gov.np
 hd.bagamati.gov.np
@@ -150,6 +157,7 @@ idomugu.karnali.gov.np
 ilam.edcu.gov.np
 internship.kathmandu.gov.np
 invest.sudurpashchim.gov.np
+itahari.gov.np
 jajarkot.akc.gov.np
 jajarkot.edcu.gov.np
 janakpurdham.lpbmis.gov.np
@@ -160,6 +168,7 @@ kailali.edcu.gov.np
 kalaiya.lpbmis.gov.np
 kalikot.edcu.gov.np
 kamala.lpbmis.gov.np
+kamboja.ndd.gov.np.nddb.gov.np
 kanchanpur.edcu.gov.np
 kapilvastu.edcu.gov.np
 kaski.edcu.gov.np
@@ -171,6 +180,7 @@ khairahani.lpbmis.gov.np
 khandbari.lpbmis.gov.np
 khaptadnationalpark.gov.np
 khotang.edcu.gov.np
+kirtipur.gov.np
 koshi.ppbmis.gov.np
 kushma.lpbmis.gov.np
 lahan.lpbmis.gov.np
@@ -359,6 +369,7 @@ webcpanel5.nitc.gov.np
 webdisk.nddb.gov.np
 webmail.nddb.gov.np
 westrukum.edcu.gov.np
+wrfd.gov.np
 wriddodang.gov.np
 wssdochitwan.gov.np
 www.bhaktapurhospital.gov.np
@@ -382,6 +393,7 @@ www.fdcgodawari.gov.np
 www.film.gov.np
 www.gdfchitlang.gov.np
 www.ialdopyuthan.lumbini.gov.np
+www.kamboja.ndd.gov.np.nddb.gov.np
 www.kawasotikrishi.gov.np
 www.khaptadnationalpark.gov.np
 www.lpbmis.gov.np
