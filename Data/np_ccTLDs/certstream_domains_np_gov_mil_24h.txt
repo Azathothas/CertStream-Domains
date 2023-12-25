@@ -1,5 +1,7 @@
 ehrpmis.nra.gov.np
+kavrewatersupply.gov.np
 landreform.gov.np
 naksadata-api.dhunibeshimun.gov.np
 naksadata.dhunibeshimun.gov.np
 profile.hatuwagadhimun.gov.np
+www.kavrewatersupply.gov.np

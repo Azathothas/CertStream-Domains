@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 34 days, 11 hours and 35 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 4.81 7.04 7.19
+       ..'''.            0Xxoc:,.  ...              Uptime: 34 days, 12 hours and 35 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 3.94 5.6 6.58
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,7 +17,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 130 MiB / 2048 MiB
+                                          ;l   ..   RAM: 128 MiB / 2048 MiB
                                            .o       Disk: 2.8 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
                                              .'     WAN IP: 193.142.200.24
@@ -29,7 +29,7 @@
 ├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
 ├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 16.0G │ 9.6G │  6.4G │  60.0% │ fuse.[ │ [encfs-ZjMMz │
+│ /sec       │ 16.0G │ 9.7G │  6.3G │  60.4% │ fuse.[ │ [encfs-ZjMMz │
 │            │       │      │       │        │ encfs- │ UwYzl]       │
 │            │       │      │       │        │ ZjMMzU │              │
 │            │       │      │       │        │ wYzl]  │              │
@@ -39,7 +39,7 @@
     RX:  bytes packets errors dropped  missed   mcast           
          2.73T   1.08G      0   9.39k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         61.5G    735M      0       0       0       0 
+         61.7G    737M      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 34 days, 11 hours and 34 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 9.41 10.35 11.11
+       ..'''.            0Xxoc:,.  ...              Uptime: 34 days, 12 hours and 34 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 5.33 5.14 5.06
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -72,7 +72,7 @@
 ├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
 ├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 12.0G │ 7.6G │  4.4G │  63.6% │ fuse.[ │ [encfs-ODlmN │
+│ /sec       │ 12.0G │ 7.7G │  4.3G │  64.1% │ fuse.[ │ [encfs-ODlmN │
 │            │       │      │       │        │ encfs- │ TJjMz]       │
 │            │       │      │       │        │ ODlmNT │              │
 │            │       │      │       │        │ JjMz]  │              │
@@ -82,7 +82,7 @@
     RX:  bytes packets errors dropped  missed   mcast           
          3.10T   1.23G      0      27       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         66.5G    813M      0       0       0       0 
+         66.7G    815M      0       0       0       0 
 
 
 
