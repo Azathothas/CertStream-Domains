@@ -9,7 +9,6 @@ ams.adboard.gov.np
 api-rms.ndrrma.gov.np
 app.ag.gov.np
 app.arjundharamun.gov.np
-apps.lungrimun.gov.np
 arghakhanchi.edcu.gov.np
 attendance.gov.np
 audit.kathmandu.gov.np
@@ -69,7 +68,6 @@ dadeldhura.edcu.gov.np
 dailekh.edcu.gov.np
 dakshinkali.lpbmis.gov.np
 dang.edcu.gov.np
-dang.vethos.gov.np
 darchula.edcu.gov.np
 dartachalani.kedarasyumun.gov.np
 dartachalani.parshurammun.gov.np
@@ -103,11 +101,8 @@ dpojhapa.gov.np
 dullu.lpbmis.gov.np
 dwandapidit.karnali.gov.np
 eastrukum.edcu.gov.np
-edcd.gov.np
 ehrpmis.nra.gov.np
-eservice.birgunjmun.gov.np
 eservice.gokarneshwormun.gov.np
-eservice.khairahanimun.gov.np
 etc.p5.gov.np
 fansepdhanusha.gov.np
 fdcgodawari.gov.np
@@ -211,10 +206,8 @@ moewri.gov.np
 mofe.gov.np
 moi.gov.np
 moiac.koshi.gov.np
-moial.gandaki.gov.np
 moics.gov.np
 molmac.bagamati.gov.np
-monastery.gov.np
 mopid.bagamati.gov.np
 morang.aqo.gov.np
 morang.edcu.gov.np
@@ -232,7 +225,6 @@ naksapass-api.golbazarmun.gov.np
 naksapass.brindawanmun.gov.np
 naksapass.golbazarmun.gov.np
 namuda.gov.np
-narc.gov.np
 narshon.lpbmis.gov.np
 naukunda.lpbmis.gov.np
 nawalparasi.akc.gov.np
@@ -272,7 +264,6 @@ piuarghakhanchi.pmamp.gov.np
 piubajhang.pmamp.gov.np
 piuokhaldhunga.pmamp.gov.np
 piusalyan.pmamp.gov.np
-planning.triyugamun.gov.np
 plgsp.gov.np
 pmis.moics.gov.np
 pmp.gov.np
@@ -304,7 +295,6 @@ ratnanagarkrishi.gov.np
 rautahat.akc.gov.np
 rautahat.edcu.gov.np
 rawabesi.lpbmis.gov.np
-reed.moald.gov.np
 result.psc.koshi.gov.np
 resunga.lpbmis.gov.np
 rm.gandakimun.gov.np
@@ -378,7 +368,6 @@ www.ccwb.gov.np
 www.cfsc.gov.np
 www.chckirtipur.gov.np
 www.chitwan.akc.gov.np
-www.dang.vethos.gov.np
 www.dforautahat.gov.np
 www.dlsobaitadi.gov.np
 www.dolfd.p1.gov.np
@@ -386,7 +375,6 @@ www.dolma.gov.np
 www.dphobara.gov.np
 www.dphojhapa.gov.np
 www.dwandapidit.karnali.gov.np
-www.edcd.gov.np
 www.etc.p5.gov.np
 www.fansepdhanusha.gov.np
 www.fdcgodawari.gov.np
@@ -405,12 +393,10 @@ www.moewri.gov.np
 www.mofe.gov.np
 www.moi.gov.np
 www.moics.gov.np
-www.monastery.gov.np
 www.mountain.dot.gov.np
 www.mowcsc.gov.np
 www.moys.gov.np
 www.namuda.gov.np
-www.narc.gov.np
 www.nbsm.gov.np
 www.nddb.gov.np
 www.nepaltrust.gov.np
