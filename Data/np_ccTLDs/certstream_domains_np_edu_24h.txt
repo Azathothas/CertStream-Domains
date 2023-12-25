@@ -37,6 +37,7 @@ giis.edu.np
 haec.edu.np
 himaaus.edu.np
 hlec.edu.np
+icahm.edu.np
 imap.nilkanthamultiplecampus.edu.np
 indreswori.edu.np
 ipc.kingscollege.edu.np
@@ -107,6 +108,7 @@ www.bhagawatimavi.edu.np
 www.classroom.moderneducere.edu.np
 www.docs.computer-new.dipendrasecondaryschool.edu.np
 www.eduma.kuart.edu.np
+www.icahm.edu.np
 www.ipc.kingscollege.edu.np
 www.janatahsschool.edu.np
 www.journal.rahs.edu.np
