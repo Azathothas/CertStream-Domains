@@ -101,6 +101,7 @@ dpojhapa.gov.np
 dullu.lpbmis.gov.np
 dwandapidit.karnali.gov.np
 eastrukum.edcu.gov.np
+ebaii.mofe.gov.np
 ehrpmis.nra.gov.np
 eservice.gokarneshwormun.gov.np
 etc.p5.gov.np
@@ -112,6 +113,7 @@ gaidakot.lpbmis.gov.np
 gdfchitlang.gov.np
 gharapjhong.lpbmis.gov.np
 ghorahi.lpbmis.gov.np
+gis.p1.gov.np
 godawari.lpbmis.gov.np
 gorkha.edcu.gov.np
 gorkha.lpbmis.gov.np
@@ -208,6 +210,8 @@ moi.gov.np
 moiac.koshi.gov.np
 moics.gov.np
 molmac.bagamati.gov.np
+molmac.madhesh.gov.np
+molmac.p2.gov.np
 mopid.bagamati.gov.np
 morang.aqo.gov.np
 morang.edcu.gov.np
@@ -221,6 +225,7 @@ mpdsr.fwd.gov.np
 mugu.edcu.gov.np
 myagdi.edcu.gov.np
 myanglung.lpbmis.gov.np
+naksadata-api.dhunibeshimun.gov.np
 naksapass-api.golbazarmun.gov.np
 naksapass.brindawanmun.gov.np
 naksapass.golbazarmun.gov.np
@@ -256,6 +261,7 @@ parking.kathmandu.gov.np
 parsa.akc.gov.np
 parsa.edcu.gov.np
 pc.p2.gov.np
+pfco.karnali.gov.np
 pfco.koshi.gov.np
 phidim.lpbmis.gov.np
 photo.ntb.gov.np
@@ -308,10 +314,13 @@ sandhikharka.lpbmis.gov.np
 sankhuwasabha.edcu.gov.np
 saptari.edcu.gov.np
 sarlahi.edcu.gov.np
+sdolamjung.gandaki.gov.np
 sdomugu.karnali.gov.np
 sdosalyan.gov.np
+seedlab.sudurpashchim.gov.np
 seedlabgandaki.gov.np
 seedlabkhajura.gov.np
+seismonepal.gov.np
 shadananda.lpbmis.gov.np
 sharada.lpbmis.gov.np
 shuklaphanta.lpbmis.gov.np
@@ -410,6 +419,7 @@ www.public.dolma.gov.np
 www.ratnanagarkrishi.gov.np
 www.sdomugu.karnali.gov.np
 www.sdosalyan.gov.np
+www.seedlab.sudurpashchim.gov.np
 www.seedlabgandaki.gov.np
 www.support.nepalpolice.gov.np
 www.vftc.gov.np
