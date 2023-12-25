@@ -1,2 +1,5 @@
 ehrpmis.nra.gov.np
 landreform.gov.np
+naksadata-api.dhunibeshimun.gov.np
+naksadata.dhunibeshimun.gov.np
+profile.hatuwagadhimun.gov.np
