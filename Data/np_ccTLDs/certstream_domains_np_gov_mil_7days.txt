@@ -172,6 +172,7 @@ kaski.edcu.gov.np
 kaski4.pmamp.gov.np
 kathmandu.lpbmis.gov.np
 kavrepalanchok.edcu.gov.np
+kavrewatersupply.gov.np
 kawasotikrishi.gov.np
 khairahani.lpbmis.gov.np
 khandbari.lpbmis.gov.np
@@ -184,6 +185,7 @@ lahan.lpbmis.gov.np
 lalitpur.edcu.gov.np
 lalitpur.lpbmis.gov.np
 lamjung.akc.gov.np
+landreform.gov.np
 law.kathmandu.gov.np
 lib.dmgnepal.gov.np
 licenseportal.gov.np
@@ -226,6 +228,7 @@ mugu.edcu.gov.np
 myagdi.edcu.gov.np
 myanglung.lpbmis.gov.np
 naksadata-api.dhunibeshimun.gov.np
+naksadata.dhunibeshimun.gov.np
 naksapass-api.golbazarmun.gov.np
 naksapass.brindawanmun.gov.np
 naksapass.golbazarmun.gov.np
@@ -391,6 +394,7 @@ www.film.gov.np
 www.gdfchitlang.gov.np
 www.ialdopyuthan.lumbini.gov.np
 www.kamboja.ndd.gov.np.nddb.gov.np
+www.kavrewatersupply.gov.np
 www.kawasotikrishi.gov.np
 www.khaptadnationalpark.gov.np
 www.lpbmis.gov.np
