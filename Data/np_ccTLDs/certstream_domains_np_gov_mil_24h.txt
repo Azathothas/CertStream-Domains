@@ -1,3 +1,10 @@
 api-rms.ndrrma.gov.np
+bajrabarahihospital.bagamati.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
+kavrewatersupply.gov.np
 mod.gov.np
+nepalfoods.gov.np
+www.kavrewatersupply.gov.np
 www.mod.gov.np
+www.nepalfoods.gov.np
