@@ -255,6 +255,7 @@ mca.madhesh.gov.np
 mechinagar.lpbmis.gov.np
 melamchimun.bipadportal.gov.np
 metronews.kathmandu.gov.np
+mod.gov.np
 moeap.koshi.gov.np
 moest.gov.np
 mofe.gov.np
@@ -273,8 +274,10 @@ myanglung.lpbmis.gov.np
 naksadata-api.dhunibeshimun.gov.np
 naksadata.dhunibeshimun.gov.np
 naksapass-api.golbazarmun.gov.np
+naksapass-api.ichchhakamanamun.gov.np
 naksapass.brindawanmun.gov.np
 naksapass.golbazarmun.gov.np
+naksapass.ichchhakamanamun.gov.np
 namuda.gov.np
 narahamun.bipadportal.gov.np
 narainapurmun.bipadportal.gov.np
@@ -285,6 +288,7 @@ nawalparasi.akc.gov.np
 nawalpur.edcu.gov.np
 nddb.gov.np
 neelakanthamun.bipadportal.gov.np
+nepalfoods.gov.np
 nepalgunj.lpbmis.gov.np
 nepaltrust.gov.np
 news.kaligandakimunsyangja.gov.np
@@ -446,11 +450,13 @@ www.kavrewatersupply.gov.np
 www.lpbmis.gov.np
 www.lrims.dolrm.gov.np
 www.manang.akc.gov.np
+www.mod.gov.np
 www.moest.gov.np
 www.mofe.gov.np
 www.mountain.dot.gov.np
 www.namuda.gov.np
 www.nddb.gov.np
+www.nepalfoods.gov.np
 www.nepaltrust.gov.np
 www.nidept.gov.np
 www.nwsc.gov.np
