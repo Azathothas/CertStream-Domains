@@ -1,12 +1,15 @@
 aathabismun.bipadportal.gov.np
 aauksoft.bagamati.gov.np
 abpstc.gandaki.gov.np
+acc.butwalmun.gov.np
 achham.edcu.gov.np
+adboard.gov.np
 admin.ntb.gov.np
 admincourt.gov.np
 ag.gov.np
 amis.gov.np
 api-rms.ndrrma.gov.np
+api.fwd.gov.np
 app.arjundharamun.gov.np
 arghakhanchi.edcu.gov.np
 attendance.gov.np
@@ -44,6 +47,7 @@ bhojpur.edcu.gov.np
 bhume.lpbmis.gov.np
 bidur.lpbmis.gov.np
 bipadportal.gov.np
+biratnagar.doc.gov.np
 biratnagar.lpbmis.gov.np
 biratnagarmun.bipadportal.gov.np
 birendranagar.lpbmis.gov.np
@@ -254,6 +258,7 @@ nilakantha.lpbmis.gov.np
 nistep.teacoffee.gov.np
 nkp.gov.np
 np.lagani.lumbini.gov.np
+nrsc.gov.np
 ntacall.nta.gov.np
 ntb.gov.np
 nwsc.gov.np
@@ -270,6 +275,7 @@ phatuwabijaypurmun.bipadportal.gov.np
 phidim.lpbmis.gov.np
 phungling.lpbmis.gov.np
 piuarghakhanchi.pmamp.gov.np
+piujumla.pmamp.gov.np
 piuokhaldhunga.pmamp.gov.np
 piusalyan.pmamp.gov.np
 pmamp.gov.np
@@ -389,6 +395,7 @@ www.nidept.gov.np
 www.nkp.gov.np
 www.nwsc.gov.np
 www.piuarghakhanchi.pmamp.gov.np
+www.piujumla.pmamp.gov.np
 www.pmamp.gov.np
 www.ppl.gandaki.gov.np
 www.ratnanagarkrishi.gov.np
