@@ -13,6 +13,7 @@ erp.rohinimun.gov.np
 hotel.dot.gov.np
 hotel.tourismdepartment.gov.np
 maps.damakmun.gov.np
+npctr.nhrc.gov.np
 ntacall.nta.gov.np
 psconline.p1.gov.np
 sagarmathanationalpark.gov.np
