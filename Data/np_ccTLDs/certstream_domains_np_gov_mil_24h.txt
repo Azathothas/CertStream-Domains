@@ -1,6 +1,7 @@
 aauksoft.bagamati.gov.np
 ag.gov.np
 analytics.sebon.gov.np
+api.fwd.gov.np
 bajrabarahihospital.bagamati.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -12,6 +13,7 @@ erp.rohinimun.gov.np
 hotel.dot.gov.np
 hotel.tourismdepartment.gov.np
 maps.damakmun.gov.np
+ntacall.nta.gov.np
 psconline.p1.gov.np
 sagarmathanationalpark.gov.np
 tourism.lmc.gov.np
