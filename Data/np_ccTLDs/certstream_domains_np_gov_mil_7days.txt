@@ -67,6 +67,7 @@ chaukunemun.bipadportal.gov.np
 chautarasangachowkgadhimun.bipadportal.gov.np
 chhayanathraramun.bipadportal.gov.np
 chhededahamun.bipadportal.gov.np
+ciaa.gov.np
 clean.kathmandu.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
@@ -79,6 +80,7 @@ dartachalani.kedarasyumun.gov.np
 dartachalani.parshurammun.gov.np
 dashboard.mellekhmun.gov.np
 dashboard.ntpmis.gov.np
+data.nsonepal.gov.np
 data.tulsipurmun.gov.np
 dewahigonahimun.bipadportal.gov.np
 dfobanke.p5.gov.np
@@ -104,6 +106,7 @@ dwc.gov.np
 ebaii.mofe.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.bipadportal.gov.np
+errs.sebon.gov.np
 eservice.gokarneshwormun.gov.np
 eticket.bherihospital.gov.np
 fansepdhanusha.gov.np
@@ -193,10 +196,14 @@ khandachakramun.bipadportal.gov.np
 khandbari.lpbmis.gov.np
 khatyadmun.bipadportal.gov.np
 kirtipur.gov.np
+kms.pri.gov.np
 koshimun.bipadportal.gov.np
+krishibajar.p1.gov.np
 krishnapurmun.bipadportal.gov.np
+krishnasar.dnpwc.gov.np
 kshireshwornathmun.bipadportal.gov.np
 kushma.lpbmis.gov.np
+labourcourt.gov.np
 lahan.lpbmis.gov.np
 lalitpur.edcu.gov.np
 lalitpur.lpbmis.gov.np
@@ -221,6 +228,7 @@ manang.akc.gov.np
 manthali.lpbmis.gov.np
 mca.madhesh.gov.np
 mechinagar.lpbmis.gov.np
+mediationcouncil.gov.np
 medpa.moics.gov.np
 melamchimun.bipadportal.gov.np
 metronews.kathmandu.gov.np
@@ -285,11 +293,14 @@ pokharamun.bipadportal.gov.np
 pokhariyamun.bipadportal.gov.np
 pollution.gov.np
 ppl.gandaki.gov.np
+ppsconline.sudurpashchim.gov.np
 prasaunimun.bipadportal.gov.np
 pratappurmun.bipadportal.gov.np
 prcsalyan.gov.np
 profile.chaukunemun.gov.np
 profile.hatuwagadhimun.gov.np
+profile.tikapurmun.gov.np
+psconline.p1.gov.np
 punarbasmun.bipadportal.gov.np
 pyuthan.lpbmis.gov.np
 rajapurmun.bipadportal.gov.np
@@ -313,6 +324,7 @@ sabaila.lpbmis.gov.np
 salyan.edcu.gov.np
 sandhikharka.lpbmis.gov.np
 sankhuwasabha.edcu.gov.np
+santati.mofaga.gov.np
 saptakoshimun.bipadportal.gov.np
 saptari.edcu.gov.np
 sarawalmun.bipadportal.gov.np
@@ -324,11 +336,13 @@ seismonepal.gov.np
 shadananda.lpbmis.gov.np
 shahidnagarmun.bipadportal.gov.np
 sharada.lpbmis.gov.np
+sheyphoksundo.dnpwc.gov.np
 shuklaphanta.lpbmis.gov.np
 simkot.lpbmis.gov.np
 siraha.edcu.gov.np
 sirahamun.bipadportal.gov.np
 sorumun.bipadportal.gov.np
+subsidy.sqcc.gov.np
 sudurpaschim.bipadportal.gov.np
 sunkoshi.lpbmis.gov.np
 supremecourt.gov.np
@@ -350,6 +364,7 @@ tilamun.bipadportal.gov.np
 tilathikoiladimun.bipadportal.gov.np
 tilottama.lpbmis.gov.np
 tokha.lpbmis.gov.np
+tourism.lmc.gov.np
 tourismkaski.gandaki.gov.np
 trace.teacoffee.gov.np
 trade.ntb.gov.np
@@ -370,9 +385,11 @@ webcpanel5.nitc.gov.np
 webmail.pmamp.gov.np
 westrukum.edcu.gov.np
 wieodailekh.survey.karnali.gov.np
+wlmmis.dofsc.gov.np
 wrfd.gov.np
 www.admincourt.gov.np
 www.bhojpur.akc.gov.np
+www.ciaa.gov.np
 www.dforautahat.gov.np
 www.dlsobaitadi.gov.np
 www.drat.gov.np
@@ -385,8 +402,10 @@ www.ialdopyuthan.lumbini.gov.np
 www.idorukumwest.gov.np
 www.kamboja.ndd.gov.np.nddb.gov.np
 www.kavrewatersupply.gov.np
+www.labourcourt.gov.np
 www.lpbmis.gov.np
 www.manang.akc.gov.np
+www.mediationcouncil.gov.np
 www.mod.gov.np
 www.mountain.dot.gov.np
 www.nepalfoods.gov.np
@@ -400,6 +419,7 @@ www.pmamp.gov.np
 www.ppl.gandaki.gov.np
 www.ratnanagarkrishi.gov.np
 www.revenuetribunal.gov.np
+www.santati.mofaga.gov.np
 www.seedlab.sudurpashchim.gov.np
 www.seedlabgandaki.gov.np
 www.supremecourt.gov.np

@@ -1,36 +1,36 @@
 
 
 ---
-- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2023_12_27
+- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2023_12_28
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +9257538
+[+] New/ReNewed SSL Certs (ALL): +0
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +3316
-[+] New/ReNewed SSL Certs (Edu): +354
-[+] New/ReNewed SSL Certs (Gov|Mil): +112
+[+] New/ReNewed SSL Certs (ALL): +0
+[+] New/ReNewed SSL Certs (Edu): +0
+[+] New/ReNewed SSL Certs (Gov|Mil): +0
 [+] New/ReNewed SSL Certs (ISPs): +0
 
 
 ```
 
 ---
-- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2023_12_27 <--> 2023_12_20
+- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2023_12_28 <--> 2023_12_21
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +66421417
+[+] New/ReNewed SSL Certs (ALL): +71066874
 
 
 --> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +21173
-[+] New/ReNewed SSL Certs (Edu): +1935
-[+] New/ReNewed SSL Certs (Gov|Mil): +406
+[+] New/ReNewed SSL Certs (ALL): +22902
+[+] New/ReNewed SSL Certs (Edu): +2183
+[+] New/ReNewed SSL Certs (Gov|Mil): +426
 [+] New/ReNewed SSL Certs (ISPs): +1
 
 
