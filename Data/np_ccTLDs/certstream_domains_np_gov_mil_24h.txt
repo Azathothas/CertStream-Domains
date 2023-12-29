@@ -8,6 +8,7 @@ bajrabarahihospital.bagamati.gov.np
 bharatpurhospital.gov.np
 censusnepal.cbs.gov.np
 dfobaglung.gov.np
+dhapdam.gov.np
 dhbaitadi.sudurpashchim.gov.np
 docs.censusnepal.cbs.gov.np
 dudbc.gov.np
@@ -17,6 +18,8 @@ exam.dotm.gov.np
 hd.sudurpashchim.gov.np
 hpc.sudurpashchim.gov.np
 htc.sudurpashchim.gov.np
+ifa.gov.np
+kalimatimarket.gov.np
 krishi.walingmun.gov.np
 languagecommission.gov.np
 mdms.nta.gov.np
@@ -28,6 +31,8 @@ nscsec.gov.np
 ntacall.nta.gov.np
 pcgg.lumbini.gov.np
 phlmc.sudurpashchim.gov.np
+plrip.karnali.gov.np
+rcip.karnali.gov.np
 reconstruction.ndrrma.gov.np
 sdodarchula.sudurpashchim.gov.np
 setup.censusnepal.cbs.gov.np
