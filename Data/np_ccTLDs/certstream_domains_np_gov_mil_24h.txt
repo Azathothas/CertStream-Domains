@@ -10,6 +10,7 @@ censusnepal.cbs.gov.np
 dfobaglung.gov.np
 dhapdam.gov.np
 dhbaitadi.sudurpashchim.gov.np
+dmis.karnali.gov.np
 docs.censusnepal.cbs.gov.np
 dudbc.gov.np
 ecensus.cbs.gov.np
@@ -27,6 +28,7 @@ merchant.adbl.gov.np
 mows.gov.np
 muslimcommission.gov.np
 ninc.gov.np
+nmdb.film.gov.np
 nscsec.gov.np
 ntacall.nta.gov.np
 pcgg.lumbini.gov.np
@@ -43,6 +45,7 @@ sokanchanpur.nsonepal.gov.np
 sosurkhet.nsonepal.gov.np
 spa.sudurpashchim.gov.np
 tourismnpl.gov.np
+tsc.gov.np
 webmail.bharatpurhospital.gov.np
 www.bharatpurhospital.gov.np
 www.dudbc.gov.np
