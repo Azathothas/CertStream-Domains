@@ -1,5 +1,13 @@
+admin.censusnepal.cbs.gov.np
+admin.monitoring.cbs.gov.np
 amis2.mof.gov.np
 bajrabarahihospital.bagamati.gov.np
+censusnepal.cbs.gov.np
+docs.censusnepal.cbs.gov.np
+ecensus.cbs.gov.np
+ehrpmis.nra.gov.np
 exam.dotm.gov.np
 mdms.nta.gov.np
 ntacall.nta.gov.np
+setup.censusnepal.cbs.gov.np
+setup.monitoring.cbs.gov.np
