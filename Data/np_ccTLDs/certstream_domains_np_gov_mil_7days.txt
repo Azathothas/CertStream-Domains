@@ -22,6 +22,7 @@ benighatrorangmun.bipadportal.gov.np
 benimun.bipadportal.gov.np
 beta.moest.gov.np
 bhairabimun.bipadportal.gov.np
+bharatpurhospital.gov.np
 bhimeshwormun.bipadportal.gov.np
 bhojpur.akc.gov.np
 bipadportal.gov.np
@@ -38,6 +39,7 @@ chaukunemun.bipadportal.gov.np
 chautarasangachowkgadhimun.bipadportal.gov.np
 chhayanathraramun.bipadportal.gov.np
 chhededahamun.bipadportal.gov.np
+chitwanmarket.pmamp.gov.np
 ciaa.gov.np
 ciciig.gov.np
 copomis.gov.np
@@ -83,6 +85,7 @@ etc.sudurpashchim.gov.np
 eticket.bherihospital.gov.np
 fansepdhanusha.gov.np
 fet.gov.np
+fts.dwri.gov.np
 gajurimun.bipadportal.gov.np
 gandaki.bipadportal.gov.np
 garudamun.bipadportal.gov.np
@@ -108,12 +111,14 @@ hotel.tourismdepartment.gov.np
 hpc.sudurpashchim.gov.np
 htc.sudurpashchim.gov.np
 idorukumwest.gov.np
+inaruwahospital.gov.np
 ishnathmun.bipadportal.gov.np
 ishworpurmun.bipadportal.gov.np
 itahari.gov.np
 jagarnathpurmun.bipadportal.gov.np
 jaleshwormun.bipadportal.gov.np
 janakpurmun.bipadportal.gov.np
+jhapa.akc.gov.np
 jirimun.bipadportal.gov.np
 kalaiyamun.bipadportal.gov.np
 kalikamunchitwan.bipadportal.gov.np
@@ -196,11 +201,13 @@ ntacall.nta.gov.np
 ntpco.dudbc.gov.np
 panchadewalbinayakmun.bipadportal.gov.np
 panchapurimun.bipadportal.gov.np
+panchtharhospital.p1.gov.np
 parsagadhimun.bipadportal.gov.np
 pfco.karnali.gov.np
 phatuwabijaypurmun.bipadportal.gov.np
 phlmc.sudurpashchim.gov.np
 pis.molcpa.gov.np
+piudailekh.pmamp.gov.np
 piugulmi.pmamp.gov.np
 piujumla.pmamp.gov.np
 pmamp.gov.np
@@ -234,6 +241,7 @@ sdodarchula.sudurpashchim.gov.np
 sdolamjung.gandaki.gov.np
 seedlab.sudurpashchim.gov.np
 seedlabgandaki.gov.np
+seema.moha.gov.np
 seismonepal.gov.np
 shahidnagarmun.bipadportal.gov.np
 sheyphoksundo.dnpwc.gov.np
@@ -252,6 +260,7 @@ supremecourt.gov.np
 surkhet.bipadportal.gov.np
 suwarnamun.bipadportal.gov.np
 tatopanimun.bipadportal.gov.np
+test.mod.gov.np
 thantikandhmun.bipadportal.gov.np
 tikapurmun.bipadportal.gov.np
 tilagufamun.bipadportal.gov.np
@@ -269,11 +278,13 @@ visittmo.bagamati.gov.np
 vsdtcokhal.p1.gov.np
 vyasmun.bipadportal.gov.np
 walingmun.bipadportal.gov.np
+webmail.bharatpurhospital.gov.np
 webmail.pmamp.gov.np
 wieodailekh.survey.karnali.gov.np
 wlmmis.dofsc.gov.np
 wrfd.gov.np
 www.admincourt.gov.np
+www.bharatpurhospital.gov.np
 www.bhojpur.akc.gov.np
 www.ciaa.gov.np
 www.ciciig.gov.np
@@ -292,6 +303,7 @@ www.fet.gov.np
 www.gxmis.ntpmis.gov.np
 www.hotel.tourismdepartment.gov.np
 www.idorukumwest.gov.np
+www.inaruwahospital.gov.np
 www.kamboja.ndd.gov.np.nddb.gov.np
 www.kavrewatersupply.gov.np
 www.labourcourt.gov.np
@@ -319,3 +331,4 @@ www.seedlab.sudurpashchim.gov.np
 www.seedlabgandaki.gov.np
 www.supremecourt.gov.np
 www.tourismdepartment.gov.np
+www.tourismnpl.gov.np
