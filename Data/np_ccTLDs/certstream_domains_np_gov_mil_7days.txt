@@ -5,6 +5,7 @@ adboard.gov.np
 admincourt.gov.np
 ag.gov.np
 amis.gov.np
+analytics.sebon.gov.np
 api-krishi.walingmun.gov.np
 api-rms.ndrrma.gov.np
 api.fwd.gov.np
@@ -93,6 +94,7 @@ digitallibrary.fwd.gov.np
 dlsobaitadi.gov.np
 dmli.gov.np
 dms.tulsipurmun.gov.np
+dot.gov.np
 drat.gov.np
 dudbc.gov.np
 dullu.lpbmis.gov.np
@@ -100,9 +102,11 @@ dullumun.bipadportal.gov.np
 durgabhagawatimun.bipadportal.gov.np
 dwc.gov.np
 ebaii.mofe.gov.np
+ecis.bagamati.gov.np
 ehrpinspection.nra.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.bipadportal.gov.np
+erp.rohinimun.gov.np
 errs.sebon.gov.np
 etc.sudurpashchim.gov.np
 eticket.bherihospital.gov.np
@@ -205,6 +209,7 @@ mail.seedlabgandaki.gov.np
 malangwamun.bipadportal.gov.np
 manang.akc.gov.np
 manthali.lpbmis.gov.np
+maps.damakmun.gov.np
 mca.madhesh.gov.np
 mechinagar.lpbmis.gov.np
 mediationcouncil.gov.np
@@ -244,6 +249,7 @@ ninc.gov.np
 nistep.teacoffee.gov.np
 nkp.gov.np
 np.lagani.lumbini.gov.np
+npctr.nhrc.gov.np
 nrsc.gov.np
 nscsec.gov.np
 ntacall.nta.gov.np
@@ -342,6 +348,7 @@ tilathikoiladimun.bipadportal.gov.np
 tilottama.lpbmis.gov.np
 tokha.lpbmis.gov.np
 tourism.lmc.gov.np
+tourismdepartment.gov.np
 tourismkaski.gandaki.gov.np
 trace.teacoffee.gov.np
 training.copomis.gov.np
@@ -369,6 +376,7 @@ www.dfopalpa.gov.np
 www.dforautahat.gov.np
 www.dlsobaitadi.gov.np
 www.dmli.gov.np
+www.dot.gov.np
 www.drat.gov.np
 www.dudbc.gov.np
 www.dwc.gov.np
@@ -408,3 +416,4 @@ www.santati.mofaga.gov.np
 www.seedlab.sudurpashchim.gov.np
 www.seedlabgandaki.gov.np
 www.supremecourt.gov.np
+www.tourismdepartment.gov.np
