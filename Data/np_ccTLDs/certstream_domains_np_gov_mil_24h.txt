@@ -1,4 +1,8 @@
 api-rms.ndrrma.gov.np
+copomis.gov.np
+copomis.mocpa.gov.np
 dhapdam.gov.np
+dmis.karnali.gov.np
 ocmcm.madhesh.gov.np
 pollution.gov.np
+tsc.gov.np
