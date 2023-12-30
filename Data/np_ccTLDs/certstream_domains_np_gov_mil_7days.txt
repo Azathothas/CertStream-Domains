@@ -16,7 +16,6 @@ api.fwd.gov.np
 api.tourismnpl.gov.np
 app.arjundharamun.gov.np
 app.oph.sudurpashchim.gov.np
-attendance.gov.np
 baglungmun.bipadportal.gov.np
 bagmati.bipadportal.gov.np
 bahudarmaimun.bipadportal.gov.np
@@ -56,10 +55,8 @@ dartachalani.kedarasyumun.gov.np
 dartachalani.parshurammun.gov.np
 dashboard.ntpmis.gov.np
 data.nsonepal.gov.np
-data.tulsipurmun.gov.np
 dewahigonahimun.bipadportal.gov.np
 dfobaglung.gov.np
-dfobanke.p5.gov.np
 dfobardiya.gov.np
 dfopalpa.gov.np
 dforautahat.gov.np
@@ -72,11 +69,8 @@ dhbaitadi.sudurpashchim.gov.np
 dhbajura.sudurpashchim.gov.np
 dhdoti.sudurpashchim.gov.np
 dhs.gov.np
-digitallibrary.fwd.gov.np
-dlsobaitadi.gov.np
 dmis.karnali.gov.np
 dmli.gov.np
-dms.tulsipurmun.gov.np
 docs.censusnepal.cbs.gov.np
 dot.gov.np
 drat.gov.np
@@ -145,7 +139,6 @@ kamboja.ndd.gov.np.nddb.gov.np
 kanchanrupmun.bipadportal.gov.np
 karjanhamun.bipadportal.gov.np
 karnali.bipadportal.gov.np
-kaski4.pmamp.gov.np
 katahariyamun.bipadportal.gov.np
 kavrewatersupply.gov.np
 kedarasyumun.bipadportal.gov.np
@@ -177,7 +170,6 @@ mahawaimun.bipadportal.gov.np
 mahottarimun.bipadportal.gov.np
 mail.seedlabgandaki.gov.np
 malangwamun.bipadportal.gov.np
-manang.akc.gov.np
 maps.damakmun.gov.np
 mca.madhesh.gov.np
 mdms.nta.gov.np
@@ -195,22 +187,18 @@ muslimcommission.gov.np
 naksadata-api.dhunibeshimun.gov.np
 naksadata.dhunibeshimun.gov.np
 naksapass-api.ichchhakamanamun.gov.np
-naksapass.golbazarmun.gov.np
 naksapass.ichchhakamanamun.gov.np
 narahamun.bipadportal.gov.np
 narainapurmun.bipadportal.gov.np
 narharinathmun.bipadportal.gov.np
-nawalparasi.akc.gov.np
 neelakanthamun.bipadportal.gov.np
 nepalfoods.gov.np
 nepaltrust.gov.np
 news.kaligandakimunsyangja.gov.np
 nidept.gov.np
 ninc.gov.np
-nistep.teacoffee.gov.np
 nkp.gov.np
 nmdb.film.gov.np
-np.lagani.lumbini.gov.np
 npctr.nhrc.gov.np
 nrsc.gov.np
 nscsec.gov.np
@@ -293,7 +281,6 @@ tourism.lmc.gov.np
 tourismdepartment.gov.np
 tourismkaski.gandaki.gov.np
 tourismnpl.gov.np
-trace.teacoffee.gov.np
 trial.dotm.gov.np
 tribhuvannagar.gov.np
 tsc.gov.np
@@ -316,7 +303,6 @@ www.ciciig.gov.np
 www.dfobardiya.gov.np
 www.dfopalpa.gov.np
 www.dforautahat.gov.np
-www.dlsobaitadi.gov.np
 www.dmli.gov.np
 www.dot.gov.np
 www.drat.gov.np
@@ -333,7 +319,6 @@ www.kamboja.ndd.gov.np.nddb.gov.np
 www.kavrewatersupply.gov.np
 www.labourcourt.gov.np
 www.languagecommission.gov.np
-www.manang.akc.gov.np
 www.mediationcouncil.gov.np
 www.merchant.adbl.gov.np
 www.mod.gov.np
