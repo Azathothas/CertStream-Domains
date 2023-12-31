@@ -1,10 +1,16 @@
 bajrabarahihospital.bagamati.gov.np
+charikothospital.bagamati.gov.np
 dhadinghospital.bagamati.gov.np
+kms.narc.gov.np
 methinkothospital.bagamati.gov.np
 moial.koshi.gov.np
 mopid.koshi.gov.np
 parbat.swmo.gov.np
+pbapps.narc.gov.np
+plgportal.lumbini.gov.np
 portal.mofaga.gov.np
 rasuwahospital.bagamati.gov.np
+seismonepal.gov.np
 tokhachandeshworihospital.bagamati.gov.np
 www.portal.mofaga.gov.np
+www.seismonepal.gov.np
