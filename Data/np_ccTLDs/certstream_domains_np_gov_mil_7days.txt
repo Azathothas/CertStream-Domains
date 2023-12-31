@@ -40,6 +40,7 @@ budhigangamunbajura.bipadportal.gov.np
 cadp.gov.np
 censusnepal.cbs.gov.np
 chamundabindrasainimun.bipadportal.gov.np
+charikothospital.bagamati.gov.np
 chatbot.giwms.gov.np
 chaukunemun.bipadportal.gov.np
 chautarasangachowkgadhimun.bipadportal.gov.np
@@ -48,6 +49,7 @@ chhededahamun.bipadportal.gov.np
 chitwanmarket.pmamp.gov.np
 ciaa.gov.np
 ciciig.gov.np
+college.bharatpurhospital.gov.np
 copomis.gov.np
 copomis.mocpa.gov.np
 dailekh.bipadportal.gov.np
@@ -62,6 +64,7 @@ dfobardiya.gov.np
 dfopalpa.gov.np
 dforautahat.gov.np
 dhachham.sudurpashchim.gov.np
+dhadinghospital.bagamati.gov.np
 dhangadhimun.bipadportal.gov.np
 dhankutamun.bipadportal.gov.np
 dhapdam.gov.np
@@ -85,6 +88,7 @@ ecis.bagamati.gov.np
 ehrpinspection.nra.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.bipadportal.gov.np
+elibrary.narc.gov.np
 emis.pmep.gov.np
 erp.rohinimun.gov.np
 errs.sebon.gov.np
@@ -148,6 +152,7 @@ khairahanimun.bipadportal.gov.np
 khandachakramun.bipadportal.gov.np
 khatyadmun.bipadportal.gov.np
 kirtipur.gov.np
+kms.narc.gov.np
 kms.pri.gov.np
 koshimun.bipadportal.gov.np
 krishi.walingmun.gov.np
@@ -179,9 +184,11 @@ mediationcouncil.gov.np
 medpa.moics.gov.np
 melamchimun.bipadportal.gov.np
 merchant.adbl.gov.np
+methinkothospital.bagamati.gov.np
 mis.kubk.gov.np
 mod.gov.np
 moea.sudurpashchim.gov.np
+moial.koshi.gov.np
 molmac.madhesh.gov.np
 molmac.p2.gov.np
 mows.gov.np
@@ -189,6 +196,7 @@ muslimcommission.gov.np
 naksadata-api.dhunibeshimun.gov.np
 naksadata.dhunibeshimun.gov.np
 naksapass-api.ichchhakamanamun.gov.np
+naksapass.bagmatimunsarlahi.gov.np
 naksapass.ichchhakamanamun.gov.np
 narahamun.bipadportal.gov.np
 narainapurmun.bipadportal.gov.np
@@ -206,10 +214,14 @@ nrsc.gov.np
 nscsec.gov.np
 ntacall.nta.gov.np
 ntpco.dudbc.gov.np
+ocmcm.madhesh.gov.np
+opac.narc.gov.np
 panchadewalbinayakmun.bipadportal.gov.np
 panchapurimun.bipadportal.gov.np
 panchtharhospital.p1.gov.np
+parbat.swmo.gov.np
 parsagadhimun.bipadportal.gov.np
+pbapps.narc.gov.np
 pcgg.lumbini.gov.np
 pfco.karnali.gov.np
 phatuwabijaypurmun.bipadportal.gov.np
@@ -218,11 +230,13 @@ pis.molcpa.gov.np
 piudailekh.pmamp.gov.np
 piugulmi.pmamp.gov.np
 piujumla.pmamp.gov.np
+plgportal.lumbini.gov.np
 plrip.karnali.gov.np
 pmamp.gov.np
 pokharamun.bipadportal.gov.np
 pokhariyamun.bipadportal.gov.np
 pollution.gov.np
+portal.mofaga.gov.np
 pphl.sudurpashchim.gov.np
 ppl.gandaki.gov.np
 ppsconline.sudurpashchim.gov.np
@@ -243,6 +257,7 @@ rajapurmun.bipadportal.gov.np
 rajdevimun.bipadportal.gov.np
 raptimunchitwan.bipadportal.gov.np
 raptisonarimun.bipadportal.gov.np
+rasuwahospital.bagamati.gov.np
 ratnanagarmun.bipadportal.gov.np
 rcip.karnali.gov.np
 reconstruction.ndrrma.gov.np
@@ -284,6 +299,7 @@ tikapurmun.bipadportal.gov.np
 tilagufamun.bipadportal.gov.np
 tilamun.bipadportal.gov.np
 tilathikoiladimun.bipadportal.gov.np
+tokhachandeshworihospital.bagamati.gov.np
 tourism.lmc.gov.np
 tourismdepartment.gov.np
 tourismkaski.gandaki.gov.np
@@ -340,6 +356,7 @@ www.nscsec.gov.np
 www.piugulmi.pmamp.gov.np
 www.piujumla.pmamp.gov.np
 www.pmamp.gov.np
+www.portal.mofaga.gov.np
 www.ppl.gandaki.gov.np
 www.rac.gov.np
 www.radionepal.gov.np
