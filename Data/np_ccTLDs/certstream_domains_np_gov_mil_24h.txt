@@ -5,11 +5,17 @@ kms.narc.gov.np
 methinkothospital.bagamati.gov.np
 moial.koshi.gov.np
 mopid.koshi.gov.np
+ntacall.nta.gov.np
 parbat.swmo.gov.np
 pbapps.narc.gov.np
 plgportal.lumbini.gov.np
+pollution.gov.np
 portal.mofaga.gov.np
+profile2.sunawarshimun.gov.np
+profile5.sunawarshimun.gov.np
 rasuwahospital.bagamati.gov.np
+seed.sqcc.gov.np
+seedapi.sqcc.gov.np
 seismonepal.gov.np
 tokhachandeshworihospital.bagamati.gov.np
 www.portal.mofaga.gov.np
