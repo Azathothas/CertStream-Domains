@@ -62,8 +62,10 @@ dailekh.bipadportal.gov.np
 damakmun.bipadportal.gov.np
 dashboard.ntpmis.gov.np
 data.nsonepal.gov.np
+dcwbrolpa.gov.np
 dewahigonahimun.bipadportal.gov.np
 dfobaglung.gov.np
+dfobaitadi.gov.np
 dfobara.gov.np
 dfobardiya.gov.np
 dfobheri.karnali.gov.np
@@ -74,6 +76,7 @@ dfopalpa.gov.np
 dfoparasi.gov.np
 dforolpa.gov.np
 dfosiraha.madhesh.gov.np
+dfoudayapur.gov.np
 dhachham.sudurpashchim.gov.np
 dhadinghospital.bagamati.gov.np
 dhadingvegzone.pmamp.gov.np
@@ -84,11 +87,13 @@ dharan.bipadportal.gov.np
 dhbaitadi.sudurpashchim.gov.np
 dhbajura.sudurpashchim.gov.np
 dhdoti.sudurpashchim.gov.np
+dhogorkha.gov.np
 dhopyuthan.gov.np
 dlpiugmalipalpa.gov.np
 dlpiurasuwa.gov.np
 dlsobajura.gov.np
 dlsodarchula.gov.np
+dlsoparbat.gov.np
 dlsorch.gov.np
 dlsosankhuwasabha.gov.np
 dmis.karnali.gov.np
@@ -98,8 +103,10 @@ docs.censusnepal.cbs.gov.np
 dof.gandaki.gov.np
 dot.gov.np
 drat.gov.np
+dri.gov.np
 drtribunal.gov.np
 dscobaglung.gov.np
+dtcokailali.gov.np
 dtcomorang.gov.np
 dtcosindhuli.gov.np
 dudbc.gov.np
@@ -168,6 +175,7 @@ idorukumwest.gov.np
 idsdbanke.gov.np
 ifa.gov.np
 ilam.dpr.gov.np
+ims.bhimeshwormun.gov.np
 inaruwahospital.gov.np
 irobrt.gov.np
 ishnathmun.bipadportal.gov.np
@@ -177,6 +185,7 @@ jaleshwormun.bipadportal.gov.np
 janakpurmun.bipadportal.gov.np
 jhapa.akc.gov.np
 jirimun.bipadportal.gov.np
+joshipurrmun.gov.np
 kalaiyamun.bipadportal.gov.np
 kalikamunchitwan.bipadportal.gov.np
 kalikamunkalikot.bipadportal.gov.np
@@ -189,6 +198,7 @@ kanchanrupmun.bipadportal.gov.np
 karjanhamun.bipadportal.gov.np
 karnali.bipadportal.gov.np
 karnalidc.gov.np
+kaski.akc.gov.np
 katahariyamun.bipadportal.gov.np
 kavrewatersupply.gov.np
 kedarasyumun.bipadportal.gov.np
@@ -223,6 +233,7 @@ mahakalimunkanchanpur.bipadportal.gov.np
 maharajgunjmun.bipadportal.gov.np
 mahawaimun.bipadportal.gov.np
 mahottarimun.bipadportal.gov.np
+mail.municipality.gov.np
 malangwamun.bipadportal.gov.np
 maps.damakmun.gov.np
 mca.madhesh.gov.np
@@ -236,6 +247,7 @@ methinkothospital.bagamati.gov.np
 metrology.gov.np
 mis.kubk.gov.np
 moc.gov.np
+moctca.gov.np
 mod.gov.np
 moea.sudurpashchim.gov.np
 mof.gandaki.gov.np
@@ -254,6 +266,7 @@ naksapass-api.ichchhakamanamun.gov.np
 naksapass.bagmatimunsarlahi.gov.np
 naksapass.ichchhakamanamun.gov.np
 naksapass.ramechhapmun.gov.np
+napnepal.gov.np
 narahamun.bipadportal.gov.np
 narainapurmun.bipadportal.gov.np
 narharinathmun.bipadportal.gov.np
@@ -292,6 +305,7 @@ pcgg.lumbini.gov.np
 perc.gov.np
 pfco.karnali.gov.np
 pfmtc.gov.np
+pfsmfbanke.gov.np
 phatuwabijaypurmun.bipadportal.gov.np
 phlmc.sudurpashchim.gov.np
 pis.doe.gov.np
@@ -386,6 +400,7 @@ tilagufamun.bipadportal.gov.np
 tilamun.bipadportal.gov.np
 tilathikoiladimun.bipadportal.gov.np
 tokhachandeshworihospital.bagamati.gov.np
+tourism.gov.np
 tourism.lmc.gov.np
 tourismdepartment.gov.np
 tourismkaski.gandaki.gov.np
@@ -394,6 +409,7 @@ trial.dotm.gov.np
 tsc.gov.np
 tulsipurmun.bipadportal.gov.np
 turmakhadmun.bipadportal.gov.np
+vegzonechitwan.pmamp.gov.np
 vhlsecsarlahi.madhesh.gov.np
 vhlssunsari.gov.np
 visittmo.bagamati.gov.np
@@ -413,6 +429,8 @@ www.bhimhospital.gov.np
 www.bhojpur.akc.gov.np
 www.ciaa.gov.np
 www.ciciig.gov.np
+www.dcwbrolpa.gov.np
+www.dfobaitadi.gov.np
 www.dfobara.gov.np
 www.dfobardiya.gov.np
 www.dfodarchula.gov.np
@@ -421,18 +439,23 @@ www.dfokailali.gov.np
 www.dfopalpa.gov.np
 www.dfoparasi.gov.np
 www.dforolpa.gov.np
+www.dfoudayapur.gov.np
+www.dhogorkha.gov.np
 www.dhopyuthan.gov.np
 www.dlpiugmalipalpa.gov.np
 www.dlpiurasuwa.gov.np
 www.dlsobajura.gov.np
 www.dlsodarchula.gov.np
+www.dlsoparbat.gov.np
 www.dlsorch.gov.np
 www.dlsosankhuwasabha.gov.np
 www.dmli.gov.np
 www.dot.gov.np
 www.drat.gov.np
+www.dri.gov.np
 www.drtribunal.gov.np
 www.dscobaglung.gov.np
+www.dtcokailali.gov.np
 www.dtcomorang.gov.np
 www.dtcosindhuli.gov.np
 www.dudbc.gov.np
@@ -457,9 +480,12 @@ www.htc.p3.gov.np
 www.idddolakha.gov.np
 www.idorukumwest.gov.np
 www.idsdbanke.gov.np
+www.ims.bhimeshwormun.gov.np
 www.inaruwahospital.gov.np
 www.irobrt.gov.np
+www.joshipurrmun.gov.np
 www.karnalidc.gov.np
+www.kaski.akc.gov.np
 www.kavrewatersupply.gov.np
 www.kis.gov.np
 www.krtp.gov.np
@@ -474,11 +500,13 @@ www.mediationcouncil.gov.np
 www.merchant.adbl.gov.np
 www.metrology.gov.np
 www.moc.gov.np
+www.moctca.gov.np
 www.mod.gov.np
 www.mows.gov.np
 www.mrtpdarchula.gov.np
 www.muslimcommission.gov.np
 www.mwred.gov.np
+www.napnepal.gov.np
 www.nationaltraumacenter.gov.np
 www.nbg.gov.np
 www.nepalfood.gov.np
@@ -495,6 +523,7 @@ www.onlineradionepal.gov.np
 www.pathivara.gov.np
 www.perc.gov.np
 www.pfmtc.gov.np
+www.pfsmfbanke.gov.np
 www.piugulmi.pmamp.gov.np
 www.piujumla.pmamp.gov.np
 www.pmamp.gov.np
@@ -519,6 +548,7 @@ www.snnp.gov.np
 www.spc.gov.np
 www.supremecourt.gov.np
 www.tcn.gov.np
+www.tourism.gov.np
 www.tourismdepartment.gov.np
 www.tourismnpl.gov.np
 www.vhlssunsari.gov.np
