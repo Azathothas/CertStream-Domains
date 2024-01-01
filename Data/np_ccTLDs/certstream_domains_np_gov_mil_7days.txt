@@ -28,7 +28,6 @@ barahatalmun.bipadportal.gov.np
 belaurimun.bipadportal.gov.np
 benighatrorangmun.bipadportal.gov.np
 benimun.bipadportal.gov.np
-beta.moest.gov.np
 bhairabimun.bipadportal.gov.np
 bharatpurhospital.gov.np
 bhimeshwormun.bipadportal.gov.np
@@ -42,7 +41,6 @@ birgunj.doc.gov.np
 bitthadchirmun.bipadportal.gov.np
 bmss.ddc.gov.np
 bode8.madhyapurthimimun.gov.np
-bp.bagamati.gov.np
 budhigangamunbajura.bipadportal.gov.np
 censusnepal.cbs.gov.np
 chamundabindrasainimun.bipadportal.gov.np
@@ -128,7 +126,6 @@ etc.sudurpashchim.gov.np
 eticket.bherihospital.gov.np
 etraining.hib.gov.np
 exam.dotm.gov.np
-fansepdhanusha.gov.np
 fet.gov.np
 ffppmdn.madhavnarayanmun.gov.np
 forensic.gov.np
@@ -213,7 +210,6 @@ labourcourt.gov.np
 lalitpurmun.bipadportal.gov.np
 laljhadimun.bipadportal.gov.np
 lamkichuhamun.bipadportal.gov.np
-landreform.gov.np
 languagecommission.gov.np
 lekbeshimun.bipadportal.gov.np
 llrc.gov.np
@@ -227,7 +223,6 @@ mahakalimunkanchanpur.bipadportal.gov.np
 maharajgunjmun.bipadportal.gov.np
 mahawaimun.bipadportal.gov.np
 mahottarimun.bipadportal.gov.np
-mail.seedlabgandaki.gov.np
 malangwamun.bipadportal.gov.np
 maps.damakmun.gov.np
 mca.madhesh.gov.np
@@ -255,7 +250,6 @@ mrtpdarchula.gov.np
 muslimcommission.gov.np
 mwred.gov.np
 naksadata-api.dhunibeshimun.gov.np
-naksadata.dhunibeshimun.gov.np
 naksapass-api.ichchhakamanamun.gov.np
 naksapass.bagmatimunsarlahi.gov.np
 naksapass.ichchhakamanamun.gov.np
@@ -268,7 +262,6 @@ nbg.gov.np
 neelakanthamun.bipadportal.gov.np
 nepalfood.gov.np
 nepalfoods.gov.np
-nepaltrust.gov.np
 nfmd.gov.np
 ngoprofile.karnali.gov.np
 nicdep.gov.np
@@ -323,7 +316,6 @@ prasaunimun.bipadportal.gov.np
 pratappurmun.bipadportal.gov.np
 prcm.gov.np
 profile.halesituwachungmun.gov.np
-profile.hatuwagadhimun.gov.np
 profile.tikapurmun.gov.np
 profile2.sunawarshimun.gov.np
 profile3.sunawarshimun.gov.np
@@ -348,7 +340,6 @@ reconstruction.ndrrma.gov.np
 revenue.kirtipurmun.gov.np
 revenuetribunal.gov.np
 rioitahari.dri.gov.np
-rm.gandakimun.gov.np
 roster.moics.gov.np
 rpplsundarpur.gov.np
 rtiswap.gov.np
@@ -361,7 +352,6 @@ sdolamjung.gandaki.gov.np
 seed.sqcc.gov.np
 seedapi.sqcc.gov.np
 seedlab.sudurpashchim.gov.np
-seedlabgandaki.gov.np
 seema.moha.gov.np
 seismonepal.gov.np
 setup.censusnepal.cbs.gov.np
@@ -401,7 +391,6 @@ tourismdepartment.gov.np
 tourismkaski.gandaki.gov.np
 tourismnpl.gov.np
 trial.dotm.gov.np
-tribhuvannagar.gov.np
 tsc.gov.np
 tulsipurmun.bipadportal.gov.np
 turmakhadmun.bipadportal.gov.np
@@ -454,7 +443,6 @@ www.edunoc.gov.np
 www.ehr.mddohs.gov.np
 www.ered.gov.np
 www.etc.sudurpashchim.gov.np
-www.fansepdhanusha.gov.np
 www.fet.gov.np
 www.forensic.gov.np
 www.fwdc.gov.np
@@ -495,7 +483,6 @@ www.nationaltraumacenter.gov.np
 www.nbg.gov.np
 www.nepalfood.gov.np
 www.nepalfoods.gov.np
-www.nepaltrust.gov.np
 www.nfmd.gov.np
 www.nicdep.gov.np
 www.nidept.gov.np
@@ -527,7 +514,6 @@ www.rtiswap.gov.np
 www.sagarmathanationalpark.gov.np
 www.santati.mofaga.gov.np
 www.seedlab.sudurpashchim.gov.np
-www.seedlabgandaki.gov.np
 www.seismonepal.gov.np
 www.snnp.gov.np
 www.spc.gov.np
