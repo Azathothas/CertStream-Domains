@@ -68,12 +68,14 @@ dewahigonahimun.bipadportal.gov.np
 dfobaglung.gov.np
 dfobara.gov.np
 dfobardiya.gov.np
+dfobheri.karnali.gov.np
 dfodarchula.gov.np
 dfojhapa.gov.np
 dfokailali.gov.np
 dfopalpa.gov.np
 dfoparasi.gov.np
 dforolpa.gov.np
+dfosiraha.madhesh.gov.np
 dhachham.sudurpashchim.gov.np
 dhadinghospital.bagamati.gov.np
 dhadingvegzone.pmamp.gov.np
@@ -95,6 +97,7 @@ dmis.karnali.gov.np
 dmli.gov.np
 dms2.dhm.gov.np
 docs.censusnepal.cbs.gov.np
+dof.gandaki.gov.np
 dot.gov.np
 drat.gov.np
 drtribunal.gov.np
@@ -111,6 +114,7 @@ ecis.bagamati.gov.np
 edcumyagdi.gov.np
 edd.p2.gov.np
 edunoc.gov.np
+ehr.mddohs.gov.np
 ehrpinspection.nra.gov.np
 ehrpmis.nra.gov.np
 ekdaramun.bipadportal.gov.np
@@ -127,6 +131,7 @@ exam.dotm.gov.np
 fansepdhanusha.gov.np
 fet.gov.np
 ffppmdn.madhavnarayanmun.gov.np
+forensic.gov.np
 fts.dwri.gov.np
 fwdc.gov.np
 gajurimun.bipadportal.gov.np
@@ -158,8 +163,10 @@ hotel.dot.gov.np
 hotel.tourismdepartment.gov.np
 hpc.sudurpashchim.gov.np
 hrmphd.p2.gov.np
+htc.p3.gov.np
 htc.sudurpashchim.gov.np
 idddolakha.gov.np
+idorautahat.madhesh.gov.np
 idorukumwest.gov.np
 idsdbanke.gov.np
 ifa.gov.np
@@ -242,6 +249,7 @@ mofelc.p1.gov.np
 moial.koshi.gov.np
 molmac.madhesh.gov.np
 molmac.p2.gov.np
+mopid.koshi.gov.np
 mows.gov.np
 mrtpdarchula.gov.np
 muslimcommission.gov.np
@@ -251,12 +259,14 @@ naksadata.dhunibeshimun.gov.np
 naksapass-api.ichchhakamanamun.gov.np
 naksapass.bagmatimunsarlahi.gov.np
 naksapass.ichchhakamanamun.gov.np
+naksapass.ramechhapmun.gov.np
 narahamun.bipadportal.gov.np
 narainapurmun.bipadportal.gov.np
 narharinathmun.bipadportal.gov.np
 nationaltraumacenter.gov.np
 nbg.gov.np
 neelakanthamun.bipadportal.gov.np
+nepalfood.gov.np
 nepalfoods.gov.np
 nepaltrust.gov.np
 nfmd.gov.np
@@ -395,6 +405,8 @@ tribhuvannagar.gov.np
 tsc.gov.np
 tulsipurmun.bipadportal.gov.np
 turmakhadmun.bipadportal.gov.np
+vhlsecsarlahi.madhesh.gov.np
+vhlssunsari.gov.np
 visittmo.bagamati.gov.np
 vsdtcokhal.p1.gov.np
 vyasmun.bipadportal.gov.np
@@ -439,10 +451,12 @@ www.dwc.gov.np
 www.edcumyagdi.gov.np
 www.edd.p2.gov.np
 www.edunoc.gov.np
+www.ehr.mddohs.gov.np
 www.ered.gov.np
 www.etc.sudurpashchim.gov.np
 www.fansepdhanusha.gov.np
 www.fet.gov.np
+www.forensic.gov.np
 www.fwdc.gov.np
 www.gorkhahospital.gov.np
 www.gpkncrd.gov.np
@@ -451,6 +465,7 @@ www.hivaids.gov.np
 www.hlchepr.gov.np
 www.holamjung.gandaki.gov.np
 www.hotel.tourismdepartment.gov.np
+www.htc.p3.gov.np
 www.idddolakha.gov.np
 www.idorukumwest.gov.np
 www.idsdbanke.gov.np
@@ -478,6 +493,7 @@ www.muslimcommission.gov.np
 www.mwred.gov.np
 www.nationaltraumacenter.gov.np
 www.nbg.gov.np
+www.nepalfood.gov.np
 www.nepalfoods.gov.np
 www.nepaltrust.gov.np
 www.nfmd.gov.np
@@ -512,10 +528,12 @@ www.sagarmathanationalpark.gov.np
 www.santati.mofaga.gov.np
 www.seedlab.sudurpashchim.gov.np
 www.seedlabgandaki.gov.np
+www.seismonepal.gov.np
 www.snnp.gov.np
 www.spc.gov.np
 www.supremecourt.gov.np
 www.tcn.gov.np
 www.tourismdepartment.gov.np
 www.tourismnpl.gov.np
+www.vhlssunsari.gov.np
 www.wcomorang.gov.np
