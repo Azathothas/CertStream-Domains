@@ -130,7 +130,6 @@ dudbc.gov.np
 dullumun.bipadportal.gov.np
 durgabhagawatimun.bipadportal.gov.np
 dwc.gov.np
-ebaii.mofe.gov.np
 ecensus.cbs.gov.np
 ecis.bagamati.gov.np
 edcumyagdi.gov.np
@@ -160,7 +159,6 @@ gandaki.bipadportal.gov.np
 garudamun.bipadportal.gov.np
 gaurmun.bipadportal.gov.np
 ghorahimun.bipadportal.gov.np
-gis.p1.gov.np
 godaitamun.bipadportal.gov.np
 godawarimunkailali.bipadportal.gov.np
 gorkhahospital.gov.np
@@ -230,7 +228,6 @@ karnali.bipadportal.gov.np
 karnalidc.gov.np
 kaski.akc.gov.np
 katahariyamun.bipadportal.gov.np
-kavrewatersupply.gov.np
 kedarasyumun.bipadportal.gov.np
 khairahanimun.bipadportal.gov.np
 khandachakramun.bipadportal.gov.np
@@ -283,24 +280,18 @@ mis.chureboard.gov.np
 mis.kubk.gov.np
 moc.gov.np
 moctca.gov.np
-mod.gov.np
 moea.sudurpashchim.gov.np
 mof.gandaki.gov.np
 mof.madhesh.gov.np
 mofelc.p1.gov.np
 mofesc.p1.gov.np
 moial.koshi.gov.np
-molmac.madhesh.gov.np
-molmac.p2.gov.np
 mopid.koshi.gov.np
 mows.gov.np
 mrtpdarchula.gov.np
 muslimcommission.gov.np
 mwred.gov.np
-naksadata-api.dhunibeshimun.gov.np
-naksapass-api.ichchhakamanamun.gov.np
 naksapass.bagmatimunsarlahi.gov.np
-naksapass.ichchhakamanamun.gov.np
 naksapass.ramechhapmun.gov.np
 napnepal.gov.np
 narahamun.bipadportal.gov.np
@@ -310,7 +301,6 @@ nationaltraumacenter.gov.np
 nbg.gov.np
 neelakanthamun.bipadportal.gov.np
 nepalfood.gov.np
-nepalfoods.gov.np
 nfmd.gov.np
 ngoprofile.karnali.gov.np
 nicdep.gov.np
@@ -349,7 +339,6 @@ pbapps.narc.gov.np
 pcgg.lumbini.gov.np
 perc.gov.np
 petroleumnepal.gov.np
-pfco.karnali.gov.np
 pfdir.madhesh.gov.np
 pfmtc.gov.np
 pfsmfbanke.gov.np
@@ -418,11 +407,9 @@ santati.mofaga.gov.np
 saptakoshimun.bipadportal.gov.np
 sarawalmun.bipadportal.gov.np
 sdodarchula.sudurpashchim.gov.np
-sdolamjung.gandaki.gov.np
 sectt.ncrc.gov.np
 seed.sqcc.gov.np
 seedapi.sqcc.gov.np
-seedlab.sudurpashchim.gov.np
 seema.moha.gov.np
 seismonepal.gov.np
 setup.censusnepal.cbs.gov.np
@@ -569,7 +556,6 @@ www.irobrt.gov.np
 www.joshipurrmun.gov.np
 www.karnalidc.gov.np
 www.kaski.akc.gov.np
-www.kavrewatersupply.gov.np
 www.kis.gov.np
 www.krtp.gov.np
 www.labourcourt.gov.np
@@ -584,7 +570,6 @@ www.merchant.adbl.gov.np
 www.metrology.gov.np
 www.moc.gov.np
 www.moctca.gov.np
-www.mod.gov.np
 www.mows.gov.np
 www.mrtpdarchula.gov.np
 www.muslimcommission.gov.np
@@ -593,7 +578,6 @@ www.napnepal.gov.np
 www.nationaltraumacenter.gov.np
 www.nbg.gov.np
 www.nepalfood.gov.np
-www.nepalfoods.gov.np
 www.nfmd.gov.np
 www.nicdep.gov.np
 www.nidept.gov.np
@@ -633,7 +617,6 @@ www.sagarmathanationalpark.gov.np
 www.sajhaswasthyasewa.gov.np
 www.salyan.postalservice.gov.np
 www.santati.mofaga.gov.np
-www.seedlab.sudurpashchim.gov.np
 www.seismonepal.gov.np
 www.snnp.gov.np
 www.spc.gov.np
