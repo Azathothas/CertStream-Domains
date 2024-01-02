@@ -1,6 +1,8 @@
 admin.mddohs.gov.np
 adokalikot.gov.np
+ancadarchula.gov.np
 bajrabarahihospital.bagamati.gov.np
+bardianationalpark.gov.np
 bbch.bagamati.gov.np
 bg.adbl.gov.np
 brbip.gov.np
@@ -18,9 +20,11 @@ forum.chureboard.gov.np
 frtc.sudurpashchim.gov.np
 gdco.gov.np
 heritage.gov.np
+icas.koshi.gov.np
 iddachham.sudurpashchim.gov.np
 itahari.vsdta.gov.np
 iwrmp.gov.np
+kca.gov.np
 metric.changunarayanmun.gov.np
 moctca.gov.np
 molrm.gov.np
@@ -53,6 +57,7 @@ skhdmp.gov.np
 sports.lumbini.gov.np
 tourism.gov.np
 udbomorang.p1.gov.np
+vftcattariya.dotm.gov.np
 vhlgorkha.gov.np
 vhlsecsaptari.madhesh.gov.np
 ward30.pokharamun.gov.np
