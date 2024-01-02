@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 42 days, 10 hours and 36 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 9.53 10.02 10.45
+       ..'''.            0Xxoc:,.  ...              Uptime: 42 days, 11 hours and 37 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 11.35 9.28 8.56
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         3.90T   1.48G      0   9.39k       0       0 
+         3.91T   1.48G      0   9.39k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         85.6G   1.01G      0       0       0       0 
+         85.7G   1.01G      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 42 days, 10 hours and 35 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 9.76 11.39 12.72
+       ..'''.            0Xxoc:,.  ...              Uptime: 42 days, 11 hours and 36 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 4.02 5.43 13.73
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,7 +60,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 127 MiB / 2048 MiB
+                                          ;l   ..   RAM: 128 MiB / 2048 MiB
                                            .o       Disk: 2.3 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
                                              .'     WAN IP: 194.110.115.62
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         4.32T   1.65G      0      27       0       0 
+         4.33T   1.65G      0      27       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         90.9G   1.11G      0       0       0       0 
+         91.1G   1.11G      0       0       0       0 
 
 
 
