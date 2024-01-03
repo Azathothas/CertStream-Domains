@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 43 days, 9 hours and 36 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 9.55 8.08 7.8
+       ..'''.            0Xxoc:,.  ...              Uptime: 43 days, 10 hours and 37 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 35.06 37.18 35.73
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -29,7 +29,7 @@
 ├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
 ├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 16.0G │ 7.5G │  8.5G │  47.1% │ fuse.[ │ [encfs-ZjMMz │
+│ /sec       │ 16.0G │ 7.6G │  8.4G │  47.5% │ fuse.[ │ [encfs-ZjMMz │
 │            │       │      │       │        │ encfs- │ UwYzl]       │
 │            │       │      │       │        │ ZjMMzU │              │
 │            │       │      │       │        │ wYzl]  │              │
@@ -39,7 +39,7 @@
     RX:  bytes packets errors dropped  missed   mcast           
          4.06T   1.53G      0   9.39k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         88.7G   1.04G      0       0       0       0 
+         88.9G   1.04G      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 43 days, 9 hours and 35 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 4.24 4.95 4.76
+       ..'''.            0Xxoc:,.  ...              Uptime: 43 days, 10 hours and 36 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 4.32 4.91 5.16
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -60,7 +60,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 121 MiB / 2048 MiB
+                                          ;l   ..   RAM: 117 MiB / 2048 MiB
                                            .o       Disk: 2.4 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.100, fe80::42:aff:fe0b:64
                                              .'     WAN IP: 91.219.215.229
@@ -72,7 +72,7 @@
 ├────────────┬───────┬──────┬───────┬────────┬────────┬──────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE   │ FILESYSTEM   │
 ├────────────┼───────┼──────┼───────┼────────┼────────┼──────────────┤
-│ /sec       │ 12.0G │ 6.0G │  6.0G │  50.3% │ fuse.[ │ [encfs-ODlmN │
+│ /sec       │ 12.0G │ 6.1G │  5.9G │  50.9% │ fuse.[ │ [encfs-ODlmN │
 │            │       │      │       │        │ encfs- │ TJjMz]       │
 │            │       │      │       │        │ ODlmNT │              │
 │            │       │      │       │        │ JjMz]  │              │
@@ -80,9 +80,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         4.47T   1.70G      0      27       0       0 
+         4.48T   1.70G      0      27       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         93.9G   1.14G      0       0       0       0 
+         94.0G   1.15G      0       0       0       0 
 
 
 
