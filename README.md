@@ -9,13 +9,6 @@
 [+] New/ReNewed SSL Certs (ALL): +5683032
 
 
---> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +1410
-[+] New/ReNewed SSL Certs (Edu): +175
-[+] New/ReNewed SSL Certs (Gov|Mil): +14
-[+] New/ReNewed SSL Certs (ISPs): +2
-
-
 ```
 
 ---
@@ -25,13 +18,6 @@
 
 --> 🌐 Total
 [+] New/ReNewed SSL Certs (ALL): +66481102
-
-
---> 🇳🇵 np_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +21150
-[+] New/ReNewed SSL Certs (Edu): +2420
-[+] New/ReNewed SSL Certs (Gov|Mil): +840
-[+] New/ReNewed SSL Certs (ISPs): +3
 
 
 ```
@@ -131,44 +117,6 @@
 > > > crt -json "rmb.info.np"
 > > >  ```
 > ---
-> Note: This is _just an example_, the full data contains logs from **every country** (**`TLD`**), **Worldwide**.
-> 
-> Example of how you can do this for your own country : [RebootEx/CertStream-Bangladesh](https://github.com/RebootEx/CertStream-Bangladesh)
-> - [**np-ccTLDs**](https://register.com.np/np-ccTLDs)
-> > ```mathematica
-> > !# Ref: https://register.com.np/np-ccTLDs
-> > com.np | coop.np | edu.np | gov.np | info.np | mil.np | name.np | net.np | org.np
-> >
-> > !# ISPs
-> > CG Net | ClassicTech | Ncell | NTC | Subisu | Vianet | Wordlink
-> > 
-> > !# Parsed: (Main)
-> >  grep -Ei 'com\.np|coop\.np|edu\.np|gov\.np|info\.np|mil\.np|name\.np|net\.np|org\.np' "certstream_domains_latest.txt" | sort -u
-> >
-> > !# Parsed: (ISPs)
-> > grep -i 'cgnet.com.np\|classic.com.np\|ncell.axiata.com\|ncell.com.np\|nettv.com.np\|ntc.net.np\|snpl.net.np\|subisu.net.np\|vianet.com.np\|via.net.np\|viatv.com.np\|wlink.com.np\|wlinktech.com.np\|worldlink.com.np' "certstream_domains_latest.txt" | sort -u
-> > 
-> > !# Grep for something Particular
-> > !# Example: List only .gov
-> >  grep -Ei 'gov\.np' "certstream_domains_np_24h.txt" | sort -u
-> >
-> > !# DL:
-> > !# ALL
-> > wget "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_all_24h.txt"
-> > View: curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_all_24h.txt" | less
-> > 
-> > !# Only edu.np
-> > wget "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_edu_24h.txt"
-> > View: curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_edu_24h.txt" | less
-> > 
-> > !# Only gov.np | mil.np
-> > wget "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_gov_mil_24h.txt"
-> > View: curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_gov_mil_24h.txt" | less
-> >
-> > !# Only ISP
-> > wget "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_isp_24h.txt"
-> > View: curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/Data/np_ccTLDs/certstream_domains_np_isp_24h.txt" | less
-> > ```
 ---
 - #### **Rationale**
 > ##### **What?**
@@ -191,6 +139,9 @@
 ---
 - #### **Elsewhere**
 > - [Seeing how fast people will probe you after you get a new TLS certificate](https://utcc.utoronto.ca/~cks/space/blog/web/WebProbeSpeedNewTLSCertificate)
+> - [Azathothas/CertStream-Nepal](https://github.com/Azathothas/CertStream-Nepal) : [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Nepal 🇳🇵
+> - [RebootEx/CertStream-Bangladesh](https://github.com/RebootEx/CertStream-Bangladesh) : [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Bangladesh 🇧🇩
+> - [Azathothas/CertStream-World](https://github.com/Azathothas/CertStream-World) : [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For the World 🌐 
 ---
 - #### **Ideas**
 > 1. Use something like [mouday/domain-admin](https://github.com/mouday/domain-admin) if looking to monitor only specific domains.
