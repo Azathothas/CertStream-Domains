@@ -6,8 +6,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-88-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 45 days and 37 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 11.8 10.88 10.01
+       ..'''.            0Xxoc:,.  ...              Uptime: 45 days, 1 hour and 36 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 7.73 9.34 9.32
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -17,7 +17,7 @@
                             ..',;:cdOOd::,.         Temperature: Not detected
                                      .:d;.':;.      CPU: 32 x AMD Ryzen 9 7950X3D 16-Core Processor
                                         'd,  .'     GPU: Advanced Micro Devices, Inc. [AMD/ATI] Raphael (rev c9)
-                                          ;l   ..   RAM: 115 MiB / 2048 MiB
+                                          ;l   ..   RAM: 116 MiB / 2048 MiB
                                            .o       Disk: 3.0 TiB / 3.4 TiB
                                              c      LAN IP: 10.11.0.10, fe80::42:aff:fe0b:a
                                              .'     WAN IP: 190.211.255.228
@@ -37,9 +37,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         4.30T   1.61G      0   9.40k       0       0 
+         4.31T   1.61G      0   9.40k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         93.9G   1.10G      0       0       0       0 
+         94.0G   1.10G      0       0       0       0 
 
 
 
@@ -49,8 +49,8 @@
            ......''';lxO.                           Model: ASRockRack B665D4U-1L 3.03 (container-other)
  .....''''..........,:ld;                           Distro: Kali GNU/Linux Rolling x86_64
             .';;;:::;,,.x,                          Kernel: Linux 5.15.0-73-generic
-       ..'''.            0Xxoc:,.  ...              Uptime: 45 days and 36 minutes
-   ....                ,ONkc;,;cokOdc',.            Load Average: 13.48 14.22 12.65
+       ..'''.            0Xxoc:,.  ...              Uptime: 45 days, 1 hour and 35 minutes
+   ....                ,ONkc;,;cokOdc',.            Load Average: 11.24 11.09 10.08
   .                   OMo           ':do.           Processes: 17
                      dMc               :OO;         Window Manager: Not detected
                      0M.                 .:o.       Desktop Environment: Not detected
@@ -82,7 +82,7 @@
     RX:  bytes packets errors dropped  missed   mcast           
          4.72T   1.79G      0      31       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         98.6G   1.20G      0       2       0       0 
+         98.7G   1.20G      0       2       0       0 
 
 
 
