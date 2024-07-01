@@ -1,0 +1,1 @@
+https://pub.ajam.dev/datasets/certstream/all_latest.txt

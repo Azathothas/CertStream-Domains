@@ -1,0 +1,222 @@
+name: ⚓ Filter | Parse (External) 🔰 
+# This will likely increase as Repo Size gets bigger over time
+#MAX_RUNTIME: 30-45 Mins
+on:
+  workflow_dispatch: # Whenever manually run from actions-tab
+  schedule:
+    #- cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
+    - cron: "0 */3 * * *" #( Every 03 Hrs )
+#------------------------------------------------------------------------------------#
+env:
+  RCLONE_CF_R2_PUB: "${{ secrets.RCLONE_CF_R2_PUB }}"
+  #https://github.com/Azathothas/Wordlists/tree/main/Misc#user-agents
+#------------------------------------------------------------------------------------#  
+jobs:
+  Parse:
+    runs-on: ubuntu-latest
+    #timeout-minutes: 45 # Can't afford to finish the 2000 Minutes quotes    
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Debloat Runner
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          bash <(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Arsenal/main/misc/Github/Runners/Ubuntu/debloat.sh")
+        continue-on-error: true
+        
+      # - name: Checkout repository
+      #   uses: actions/checkout@v4
+      #   with:
+      #     path: "main"
+      #     filter: "blob:none" #https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
+          
+      - name: Setup Env
+        run: |
+          ##presets
+          set +x ; set +e
+          #-------------#
+          ##CoreUtils
+          sudo apt update -y
+          sudo apt install bc coreutils curl dos2unix fdupes jq moreutils wget -y
+          sudo apt-get install apt-transport-https apt-utils ca-certificates coreutils dos2unix gnupg2 jq moreutils p7zip-full rename rsync software-properties-common texinfo tmux util-linux wget -y 2>/dev/null ; sudo apt-get update -y 2>/dev/null
+          ##Setup rClone
+          mkdir -p "$HOME/.config/rclone"
+          echo "${{ secrets.RCLONE_CF_R2_PUB }}" > "$HOME/.config/rclone/rclone.conf"
+          ##User-Agent
+          USER_AGENT="$(curl -qfsSL 'https://pub.ajam.dev/repos/Azathothas/Wordlists/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="$USER_AGENT"
+          echo "USER_AGENT=$USER_AGENT" >> "$GITHUB_ENV"
+        continue-on-error: true
+
+      - name: Install eget
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          # eget for bins
+          sudo wget "https://bin.ajam.dev/x86_64_Linux/eget" -O "/usr/local/bin/eget"
+          sudo chmod +xwr "/usr/local/bin/eget"
+        continue-on-error: false
+
+      - name: Install Deps
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #anew
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/anew" --to "/usr/local/bin/anew"
+          #anew-rs
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/anew-rs" --to "/usr/local/bin/anew-rs"
+          #asn
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/asn" --to "/usr/local/bin/asn"
+          #asnmap
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/asnmap" --to "/usr/local/bin/asnmap"
+          #csvtk
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/csvtk" --to "/usr/local/bin/csvtk"
+          #cut-cdn
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/cut-cdn" --to "/usr/local/bin/cut-cdn"
+          #dasel
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/dasel" --to "/usr/local/bin/dasel"
+          #dirstat-rs for tree
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/ds" --to "/usr/local/bin/ds"          
+          #dnsx
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/dnsx" --to "/usr/local/bin/dnsx"
+          #HTTPx
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/httpx" --to "/usr/local/bin/httpx"
+          #inscope
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/inscope" --to "/usr/local/bin/inscope"
+          #jq
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/jq" --to "/usr/local/bin/jq"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/jq" --to "/usr/bin/jq"
+          #mapcidr
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/mapcidr" --to "/usr/local/bin/mapcidr"
+          #scopegen
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/scopegen" --to "/usr/local/bin/scopegen"
+          #scopeview
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/scopeview" --to "/usr/local/bin/scopeview"
+          #spk
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/spk" --to "/usr/local/bin/spk"
+          #rclone
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/rclone" --to "/usr/local/bin/rclone"
+          #yq
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/yq" --to "/usr/local/bin/yq"
+        continue-on-error: true
+
+      - name: Parse & Filter External Sources
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          ##Fetch from kaeferjaeger.gay
+          rm -rf "/tmp/sni-ip-ranges" 2>/dev/null ; mkdir -p "/tmp/sni-ip-ranges" && cd "/tmp/sni-ip-ranges"
+          echo -e "\n[+] Stats:\n" > "/tmp/sni-ip-ranges/INFO.txt"
+          #--Amazon--#
+          #curl -qfksSL "http://kaeferjaeger.gay/sni-ip-ranges/amazon/ipv4_merged_sni.txt" -o "/tmp/sni-ip-ranges/amazon_ipv4_sni_raw.txt"
+          wget --no-check-certificate --timestamping --quiet --show-progress --progress="dot:giga" --user-agent="$USER_AGENT" "http://kaeferjaeger.gay/sni-ip-ranges/amazon/ipv4_merged_sni.txt" -O "/tmp/sni-ip-ranges/amazon_ipv4_sni_raw.txt"
+          MODTIME="$(curl -qfksSL -H "User-Agent: $USER_AGENT" "http://kaeferjaeger.gay/?dir=sni-ip-ranges/amazon" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}' | sed -n '1p' | sed 's/$/ UTC/')" && export MODTIME="$MODTIME"
+          echo -e "http://kaeferjaeger.gay/sni-ip-ranges/amazon/ipv4_merged_sni.txt --> $(wc -l </tmp/sni-ip-ranges/amazon_ipv4_sni_raw.txt) @ $MODTIME" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          #--DigitalOcean--#
+          #curl -qfksSL "http://kaeferjaeger.gay/sni-ip-ranges/digitalocean/ipv4_merged_sni.txt" -o "/tmp/sni-ip-ranges/digitalocean_ipv4_sni_raw.txt"
+          wget --no-check-certificate --timestamping --quiet --show-progress --progress="dot:giga" --user-agent="$USER_AGENT" "http://kaeferjaeger.gay/sni-ip-ranges/digitalocean/ipv4_merged_sni.txt" -O "/tmp/sni-ip-ranges/digitalocean_ipv4_sni_raw.txt"
+          MODTIME="$(curl -qfksSL -H "User-Agent: $USER_AGENT" "http://kaeferjaeger.gay/?dir=sni-ip-ranges/digitalocean" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}' | sed -n '1p' | sed 's/$/ UTC/')" && export MODTIME="$MODTIME"
+          echo -e "http://kaeferjaeger.gay/sni-ip-ranges/digitalocean/ipv4_merged_sni.txt --> $(wc -l </tmp/sni-ip-ranges/digitalocean_ipv4_sni_raw.txt) @ $MODTIME" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          #--Google--#
+          #curl -qfksSL "http://kaeferjaeger.gay/sni-ip-ranges/google/ipv4_merged_sni.txt" -o "/tmp/sni-ip-ranges/google_ipv4_sni_raw.txt"
+          wget --no-check-certificate --timestamping --quiet --show-progress --progress="dot:giga" --user-agent="$USER_AGENT" "http://kaeferjaeger.gay/sni-ip-ranges/google/ipv4_merged_sni.txt" -O "/tmp/sni-ip-ranges/google_ipv4_sni_raw.txt"
+          MODTIME="$(curl -qfksSL -H "User-Agent: $USER_AGENT" "http://kaeferjaeger.gay/?dir=sni-ip-ranges/google" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}' | sed -n '1p' | sed 's/$/ UTC/')" && export MODTIME="$MODTIME"
+          echo -e "http://kaeferjaeger.gay/sni-ip-ranges/google/ipv4_merged_sni.txt --> $(wc -l </tmp/sni-ip-ranges/google_ipv4_sni_raw.txt) @ $MODTIME" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          #--Microsoft--#
+          #curl -qfksSL "http://kaeferjaeger.gay/sni-ip-ranges/microsoft/ipv4_merged_sni.txt" -o "/tmp/sni-ip-ranges/microsoft_ipv4_sni_raw.txt"
+          wget --no-check-certificate --timestamping --quiet --show-progress --progress="dot:giga" --user-agent="$USER_AGENT" "http://kaeferjaeger.gay/sni-ip-ranges/microsoft/ipv4_merged_sni.txt" -O "/tmp/sni-ip-ranges/microsoft_ipv4_sni_raw.txt"
+          MODTIME="$(curl -qfksSL -H "User-Agent: $USER_AGENT" "http://kaeferjaeger.gay/?dir=sni-ip-ranges/microsoft" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}' | sed -n '1p' | sed 's/$/ UTC/')" && export MODTIME="$MODTIME"
+          echo -e "http://kaeferjaeger.gay/sni-ip-ranges/microsoft/ipv4_merged_sni.txt --> $(wc -l </tmp/sni-ip-ranges/microsoft_ipv4_sni_raw.txt) @ $MODTIME" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          #--Oracle--#
+          #curl -qfksSL "http://kaeferjaeger.gay/sni-ip-ranges/oracle/ipv4_merged_sni.txt" -o "/tmp/sni-ip-ranges/oracle_ipv4_sni_raw.txt"
+          wget --no-check-certificate --timestamping --quiet --show-progress --progress="dot:giga" --user-agent="$USER_AGENT" "http://kaeferjaeger.gay/sni-ip-ranges/oracle/ipv4_merged_sni.txt" -O "/tmp/sni-ip-ranges/oracle_ipv4_sni_raw.txt"
+          MODTIME="$(curl -qfksSL -H "User-Agent: $USER_AGENT" "http://kaeferjaeger.gay/?dir=sni-ip-ranges/oracle" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}' | sed -n '1p' | sed 's/$/ UTC/')" && export MODTIME="$MODTIME"
+          echo -e "http://kaeferjaeger.gay/sni-ip-ranges/oracle/ipv4_merged_sni.txt --> $(wc -l </tmp/sni-ip-ranges/oracle_ipv4_sni_raw.txt) @ $MODTIME" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          ##Parse
+          #anew
+          cat "/tmp/sni-ip-ranges/amazon_ipv4_sni_raw.txt" | anew-rs -q "/tmp/sni-ip-ranges/all_merged_ipv4_sni_raw.txt"
+          cat "/tmp/sni-ip-ranges/microsoft_ipv4_sni_raw.txt" | anew-rs -q "/tmp/sni-ip-ranges/all_merged_ipv4_sni_raw.txt"
+          cat "/tmp/sni-ip-ranges/digitalocean_ipv4_sni_raw.txt" | anew-rs -q "/tmp/sni-ip-ranges/all_merged_ipv4_sni_raw.txt"
+          cat "/tmp/sni-ip-ranges/google_ipv4_sni_raw.txt" | anew-rs -q "/tmp/sni-ip-ranges/all_merged_ipv4_sni_raw.txt"
+          cat "/tmp/sni-ip-ranges/oracle_ipv4_sni_raw.txt" | anew-rs -q "/tmp/sni-ip-ranges/all_merged_ipv4_sni_raw.txt"
+          #filter domains
+          cat "/tmp/sni-ip-ranges/all_merged_ipv4_sni_raw.txt" | awk -F ' -- \\[|\\]' '{print $2}' | tr ' ' '\n' | sed -E '/^[[:space:]]*$/d' | sed 's/^\*\.\(.*\)/\1/; s/^\*//' | sed 's/[A-Z]/\L&/g' | sed '/\([0-9].*\)\{5\}/d' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | sed 's/[${}%]//g' | sed 's/[()]//g' | sed "s/'//g" | sed 's/"//g' | sed 's/^\.\(.*\)/\1/' | sed 's/^\*//' | sed 's/^\.\(.*\)/\1/' | sed 's/^\*//' | sed 's/^\.\(.*\)/\1/' | sed 's/^\*//' | sed '/\./!d' | sed 's/^\.\(.*\)/\1/' | sed '/[[:cntrl:]]/d' | sed '/!/d' | sed '/[^[:alnum:][:space:]._-]/d' | sed '/\*/d' | sed '/^[^[:alnum:]]/d' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | sort -u -o "/tmp/sni-ip-ranges/all_merged_domains.txt"
+          sort --version-sort --unique "/tmp/sni-ip-ranges/all_merged_domains.txt" --output "/tmp/sni-ip-ranges/all_merged_domains.txt"
+          #Add Stats
+          echo -e "\nhttps://pub.ajam.dev/datasets/sni-ip-ranges/all_merged_ipv4_sni_raw.txt --> $(wc -l </tmp/sni-ip-ranges/all_merged_ipv4_sni_raw.txt)" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          echo -e "https://pub.ajam.dev/datasets/sni-ip-ranges/all_merged_domains.txt --> $(wc -l </tmp/sni-ip-ranges/all_merged_domains.txt)" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          #7z
+          7z a -t7z -mx="9" -mmt="$(($(nproc)+1))" -bt "/tmp/sni-ip-ranges/all_merged_ipv4_sni_raw.7z" "/tmp/sni-ip-ranges/all_merged_ipv4_sni_raw.txt" 2>/dev/null
+          ##Fetch from github.com/trickest/cloud
+          pushd "$(mktemp -d)" > /dev/null 2>&1 && git clone --filter="blob:none" --quiet "https://github.com/trickest/cloud" && cd "./cloud"
+          ##Everything
+          #find . -type f -name '*.csv' -exec dasel --file {} --read csv --write json \; > "/tmp/csv2.json"
+          ##json for each csv file
+          #find . -type f -name '*.csv' -exec sh -c 'dasel --file "$1" --read csv --write json > "${1%.csv}.json"' _ {} \;
+          rm -rf "/tmp/trickest" 2>/dev/null ; mkdir -p "/tmp/trickest"
+          find . -type f -name '*.csv' -exec sh -c 'dasel --file "$1" --read csv --write json > "/tmp/trickest/$(basename "${1%.csv}.json")"' _ {} \;
+          #Clean  
+          rm -rf "/tmp/cloud_trickest.txt"  2>/dev/null
+          #Store into an array
+          readarray -t inputs < <(find /tmp/trickest -type f -name '*.json')
+          #Loop
+            echo -e "\n[+] Total JSON: ${#inputs[@]}\n"
+            set +x
+            #set -x
+             for ((i = 0; i < ${#inputs[@]}; i += 10)); do
+                 end=$((i + 9))
+                 for ((j = i; j <= end && j < ${#inputs[@]}; j++)); do
+                     jq -r '.[] | "\(.["IP Address"]) --> [CN: \(.["Common Name"] // "N/A") || SAN: \(.["Subject Alternative DNS Name"] // "N/A") || SAN_IP: \(.["Subject Alternative IP address"] // "N/A") || ORG: \(.["Organization"] // "N/A") || CTRY: \(.["Country"] // "N/A")]"' "${inputs[j]}"
+                 done
+            #set +x     
+             done > "/tmp/cloud_trickest.txt"
+          #Filter
+           sed -i '/^[[:space:]]*[0-9]/!d' "/tmp/cloud_trickest.txt"   
+          #Sort
+           sort --version-sort --unique "/tmp/cloud_trickest.txt" --output "/tmp/cloud_trickest.txt"
+          ##Merge & Sort by IP
+          #jq -r '.[]' "/tmp/csv2.json" 2>/dev/null | jq -s 'sort_by(.["IP Address"])' 2>/dev/null | jq . > "/tmp/cloud_trickest.json"
+          #jq -s 'map(.[]) | sort_by(.["IP Address"])' "/tmp/csv2.json" > "/tmp/cloud_trickest.json"
+          ##Parse
+          #$Common Name --> [ IP: $IP Address || SAN: $Subject Alternative DNS Name || SAN_IP: $Subject Alternative IP address || ORG:$Organization || CTRY: $Country]
+          #cat "/tmp/cloud_trickest.json" | jq -r '.[] | "\(.["Common Name"]) --> [IP: \(.["IP Address"]) || SAN: \(.["Subject Alternative DNS Name"] // "N/A") || SAN_IP: \(.["Subject Alternative IP address"] // "N/A") || ORG: \(.["Organization"] // "N/A") || CTRY: \(.["Country"] // "N/A")]"' | sort -u -o "/tmp/cloud_trickest.txt"
+          #$IP Address --> [CN: $Common Name || SAN: $Subject Alternative DNS Name || SAN_IP: $Subject Alternative IP address || ORG:$Organization || CTRY: $Country]
+          #cat "/tmp/cloud_trickest.json" | jq -r '.[] | "\(.["IP Address"]) --> [CN: \(.["Common Name"] // "N/A") || SAN: \(.["Subject Alternative DNS Name"] // "N/A") || SAN_IP: \(.["Subject Alternative IP address"] // "N/A") || ORG: \(.["Organization"] // "N/A") || CTRY: \(.["Country"] // "N/A")]"' > "/tmp/cloud_trickest.txt"
+          #7z
+          #7z a -t7z -mx="9" -mmt="$(($(nproc)+1))" -bt "/tmp/cloud_trickest.json.7z" "/tmp/cloud_trickest.json" 2>/dev/null
+          7z a -t7z -mx="9" -mmt="$(($(nproc)+1))" -bt "/tmp/cloud_trickest.txt.7z" "/tmp/cloud_trickest.txt" 2>/dev/null
+          #Stats
+          #CN_WC="$(jq -r '.[] | .["Common Name"]' "/tmp/cloud_trickest.json" | sort -u | wc -l)" && export CN_WC="$CN_WC"
+          #IP_WC="$(jq -r '.[] | .["IP Address"]' "/tmp/cloud_trickest.json" | sort -u | wc -l)" && export IP_WC="$IP_WC"
+          ENTRIES="$(wc -l < "/tmp/cloud_trickest.txt")" && export ENTRIES="$ENTRIES"
+          UPDATED_AT="$(git log -1 --date=format-local:"%Y-%m-%d %H:%M:%S %Z" --format="%cd")" && export UPDATED_AT="$UPDATED_AT"
+          echo -e "\n[+] https://github.com/trickest/cloud\n" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          #echo -e "Total IP Addrs : $IP_WC" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          #echo -e "Total Common Names (CN) : $CN_WC" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          echo -e "Total Entries : $ENTRIES" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          echo -e "Last Updated : $UPDATED_AT" | tee -a "/tmp/sni-ip-ranges/INFO.txt"
+          #Exit
+          popd > /dev/null 2>&1
+        continue-on-error: true
+
+      - name: rClone Upload to R2 ("https://pub.ajam.dev/datasets/sni-ip-ranges")
+        run: |      
+          # Presets
+          set +x ; set +e
+          #--------------#
+          #touch "$HOME/.rclone.conf"
+          echo "${{ secrets.RCLONE_CF_R2_PUB }}" > "$HOME/.rclone.conf"   
+          ##Upload to R2
+          cd "/tmp/sni-ip-ranges"
+          rclone copy . "r2:/pub/datasets/sni-ip-ranges/" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          rclone copy . "r2:/pub/datasets/sni-ip-ranges/" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #rclone copyto "/tmp/cloud_trickest.json" "r2:/pub/datasets/sni-ip-ranges/cloud_trickest.json" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          #rclone copyto "/tmp/cloud_trickest.json.7z" "r2:/pub/datasets/sni-ip-ranges/cloud_trickest.json.7z" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          rclone copyto "/tmp/cloud_trickest.txt" "r2:/pub/datasets/sni-ip-ranges/cloud_trickest.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          rclone copyto "/tmp/cloud_trickest.txt.7z" "r2:/pub/datasets/sni-ip-ranges/cloud_trickest.txt.7z" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+        continue-on-error: true
