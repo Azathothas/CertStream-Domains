@@ -3,7 +3,7 @@
 #Current User (Usually not root)
 export CT_USER="$(whoami)"
 #Location for Archive ($HOME/certstream_data)
-export CT_ARCHIVE="${HOME}/certstream_data"
+export CERTSTREAM_ARCHIVE="${HOME}/certstream_data"
 #Systmp (System TEMP Dir, usually /tmp)
 SYSTMP="$(/usr/bin/dirname $(/bin/mktemp -u))" && export SYSTMP="${SYSTMP}"
 ```
@@ -22,7 +22,7 @@ After=network-online.target network.target
 [Service]
 Type=forking
 User=CT_USER
-Environment="CERTSTREAM_ARCHIVE=CT_ARCHIVE"
+Environment="CT_ARCHIVE=$CERTSTREAM_ARCHIVE"
 ExecStartPre=/bin/bash -c '/usr/bin/tmux kill-session -t "certstream-archive" >/dev/null 2>&1 || true'
 ExecStartPre=/bin/bash -c '/usr/bin/mkdir -p "CTR_TMP/Certstream.tmp"'
 ExecStartPre=/bin/bash -c '/usr/bin/curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/certstream_archive.sh" -o "CTR_TMP/Certstream.tmp/archive.sh" || true'
