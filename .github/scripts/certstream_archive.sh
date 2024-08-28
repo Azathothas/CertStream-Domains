@@ -11,9 +11,9 @@
  SYSTMP="$(dirname $(mktemp -u))" && export SYSTMP="${SYSTMP}"
  USER_AGENT="$(curl -qfsSL 'https://pub.ajam.dev/repos/Azathothas/Wordlists/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
  #Archive
- if [[ -n "$CT_ARCHIVE" ]]; then
+ if [[ -z "${CT_ARCHIVE}" ]]; then
      CT_ARCHIVE="${HOME}/certstream_data" && export CT_ARCHIVE="${CT_ARCHIVE}"
- fi    
+ fi
  #Echo
  echo -e "\n[+] User :: ${USER}"
  echo -e "[+] Home :: ${HOME}"
