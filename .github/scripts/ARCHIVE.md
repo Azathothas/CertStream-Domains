@@ -45,6 +45,7 @@ sudo systemctl restart "certstream_archive.service"
 sudo systemctl status "certstream_archive.service"
 journalctl -xeu "certstream_archive.service"
 tmux ls
+tmux attach-session -t "certstream_archive"
 ```
 
 - #### [OpenRC](https://wiki.gentoo.org/wiki/OpenRC) `/etc/init.d/certstream_archive`
@@ -120,4 +121,5 @@ sudo rc-update add "certstream-archive" default
 sudo rc-service "certstream-archive" start
 sudo rc-service "certstream-archive" status
 tmux ls
+tmux attach-session -t "certstream_archive"
 ```
