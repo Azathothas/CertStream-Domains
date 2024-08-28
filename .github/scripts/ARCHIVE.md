@@ -56,10 +56,10 @@ tmux attach-session -t "certstream-archive"
 sudo curl -qfsSL "https://bin.ajam.dev/$(uname -m)/curl" -o "/usr/bin/curl" && sudo chmod +x "/usr/bin/curl"
 sudo curl -qfsSL "https://bin.ajam.dev/$(uname -m)/tmux" -o "/usr/bin/tmux" && sudo chmod +x "/usr/bin/tmux"
 sudo mkdir -p "/etc/init.d/" && sudo touch "/etc/init.d/certstream_archive"
-cat << 'EOF' | sed -e "s|CT_USER|$CT_USER|" -e "s|CT_ARCHIVE|$CERTSTREAM_ARCHIVE|" -e "s|CTR_TMP|$SYSTMP|" | sudo tee "/etc/init.d/certstream_archive"
+cat << 'EOF' | sed -e "s|CT_USER|$CT_USER|" -e "s|C_ARCHIVE|$CT_ARCHIVE|" -e "s|CTR_TMP|$SYSTMP|" | sudo tee "/etc/init.d/certstream_archive"
 #!/sbin/openrc-run
 
-export CERTSTREAM_ARCHIVE="CT_ARCHIVE"
+export CT_ARCHIVE="C_ARCHIVE"
 export SYSTMP="CTR_TMP"
 
 description="Certstreamer"
