@@ -14,7 +14,11 @@
  if [[ -n "$CT_ARCHIVE" ]]; then
      CT_ARCHIVE="${HOME}/certstream_data" && export CT_ARCHIVE="${CT_ARCHIVE}"
  fi    
-
+ #Echo
+ echo -e "\n[+] User :: ${USER}"
+ echo -e "[+] Home :: ${HOME}"
+ echo -e "[+] Archive :: ${CT_ARCHIVE}\n"
+ 
 ##Archive
 while true
    do
