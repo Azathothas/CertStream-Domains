@@ -3,7 +3,7 @@
 #Current User (Usually not root)
 export CT_USER="$(whoami)"
 #Location for Archive ($HOME/certstream_data)
-export CERTSTREAM_ARCHIVE="${HOME}/certstream_data"
+export CT_ARCHIVE="${HOME}/certstream_data"
 #Systmp (System TEMP Dir, usually /tmp)
 SYSTMP="$(/usr/bin/dirname $(/bin/mktemp -u))" && export SYSTMP="${SYSTMP}"
 ```
@@ -13,7 +13,7 @@ SYSTMP="$(/usr/bin/dirname $(/bin/mktemp -u))" && export SYSTMP="${SYSTMP}"
 sudo curl -qfsSL "https://bin.ajam.dev/$(uname -m)/curl" -o "/usr/bin/curl" && sudo chmod +x "/usr/bin/curl"
 sudo curl -qfsSL "https://bin.ajam.dev/$(uname -m)/tmux" -o "/usr/bin/tmux" && sudo chmod +x "/usr/bin/tmux"
 sudo mkdir -p "/etc/systemd/system/" && sudo touch "/etc/systemd/system/certstream_archive.service"
-cat << 'EOF' | sed -e "s|CT_USER|$CT_USER|" -e "s|CT_ARCHIVE|$CERTSTREAM_ARCHIVE|" -e "s|CTR_TMP|$SYSTMP|" | sudo tee "/etc/systemd/system/certstream_archive.service"
+cat << 'EOF' | sed -e "s|CT_USER|$CT_USER|" -e "s|C_ARCHIVE|$CT_ARCHIVE|" -e "s|CTR_TMP|$SYSTMP|" | sudo tee "/etc/systemd/system/certstream_archive.service"
 [Unit]
 Description=Certstreamer
 Wants=network-online.target
@@ -22,12 +22,12 @@ After=network-online.target network.target
 [Service]
 Type=forking
 User=CT_USER
-Environment="CT_ARCHIVE=$CERTSTREAM_ARCHIVE"
+Environment="CT_ARCHIVE=C_ARCHIVE"
 ExecStartPre=/bin/bash -c '/usr/bin/tmux kill-session -t "certstream-archive" >/dev/null 2>&1 || true'
 ExecStartPre=/bin/bash -c '/usr/bin/mkdir -p "CTR_TMP/Certstream.tmp"'
 ExecStartPre=/bin/bash -c '/usr/bin/curl -qfsSL "https://raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/certstream_archive.sh" -o "CTR_TMP/Certstream.tmp/archive.sh" || true'
 ExecStartPre=/bin/bash -c '/usr/bin/chmod +x "CTR_TMP/Certstream.tmp/archive.sh"'
-ExecStart=/usr/bin/tmux new-session -d -s certstream /usr/bin/bash -c 'bash "CTR_TMP/Certstream.tmp/archive.sh"'
+ExecStart=/usr/bin/tmux new-session -d -s certstream-archive /usr/bin/bash -c 'bash "CTR_TMP/Certstream.tmp/archive.sh"'
 ExecStartPost=/bin/bash -c '/usr/bin/tmux ls || true'
 ExecStop=/bin/bash -c '/usr/bin/tmux kill-session -t "certstream-archive" >/dev/null 2>&1 || true'
 RemainAfterExit=yes
@@ -63,7 +63,7 @@ export SYSTMP="CTR_TMP"
 
 description="Certstreamer"
 command="/usr/bin/tmux"
-command_args="new-session -d -s certstream /bin/bash -c 'bash "CTR_TMP/Certstream.tmp/archive.sh"'"
+command_args="new-session -d -s certstream-archive /bin/bash -c 'bash "CTR_TMP/Certstream.tmp/archive.sh"'"
 command_user="CT_USER"
 command_background="yes"
 start_stop_daemon_args="--background"
