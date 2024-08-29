@@ -6,9 +6,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 6 days, 2 hours and 11 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.88 1.03 0.75
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 91
+   .mX2'       _xaaa__     XZ[.   Uptime: 6 days, 3 hours and 35 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.07 1.03 0.77
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 92
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -18,7 +18,7 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Not detected
-            ~~~~~                 RAM: 480 MiB / 3411 MiB
+            ~~~~~                 RAM: 475 MiB / 3411 MiB
                                   Disk: 24.6 GiB / 75.2 GiB
 [+] Storage:
 
@@ -27,14 +27,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 75.2G │ 24.5G │ 46.9G │  32.6% │ ext4 │ /dev/vda1  │
+│ /          │ 75.2G │ 24.6G │ 46.8G │  32.7% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          953G    307M      0   26.3k       0       0 
+          962G    310M      0   26.6k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         20.1G    170M      0       0       0       0 
+         20.3G    171M      0       0       0       0 
     altname enp0s3
     altname ens3
 
@@ -45,9 +45,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 27 days, 23 hours and 41 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 3.94 3.51 2.75
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 81
+   .mX2'       _xaaa__     XZ[.   Uptime: 28 days, 1 hour and 13 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 4.36 3.94 3.08
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 82
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -56,8 +56,8 @@
     XUb;.                         Temperature: Not detected
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
        +3#bc,                     GPU: Not detected
-         -)SSL,,                  RAM: 785 MiB / 3411 MiB
-            ~~~~~                 Disk: 13.5 GiB / 40.8 GiB
+         -)SSL,,                  RAM: 691 MiB / 3411 MiB
+            ~~~~~                 Disk: 13.8 GiB / 40.8 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -65,14 +65,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 40.8G │ 13.5G │ 25.2G │  33.2% │ ext4 │ /dev/vda1  │
+│ /          │ 40.8G │ 13.8G │ 24.9G │  33.8% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         4.20T   1.37G      0   1.40M       0       0 
+         4.21T   1.37G      0   1.40M       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         68.0G    543M      0       0       0       0 
+         68.1G    544M      0       0       0       0 
     altname enp0s3
     altname ens3
 
