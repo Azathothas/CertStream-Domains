@@ -1,23 +1,23 @@
 
 
 ---
-- #### [🖨️ **Stats** `24Hr`⏲️ ➼ 2024_08_29](https://pub.ajam.dev/datasets/certstream/all_latest.txt)
+- #### [🖨️ **Stats** `24Hr`⏲️ ➼ 2024_08_30](https://pub.ajam.dev/datasets/certstream/all_latest.txt)
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +19705714
+[+] New/ReNewed SSL Certs (ALL): +2885673
 [+] View/Download: https://pub.ajam.dev/datasets/certstream/all_latest.txt
 
 ```
 
 ---
-- #### [🖨️ **Stats** `7Days`⏲️ ➼ 2024_08_29 <--> 2024_08_22](https://pub.ajam.dev/datasets/certstream/all_weekly.txt)
+- #### [🖨️ **Stats** `7Days`⏲️ ➼ 2024_08_30 <--> 2024_08_23](https://pub.ajam.dev/datasets/certstream/all_weekly.txt)
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +108719510
+[+] New/ReNewed SSL Certs (ALL): +117063527
 [+] View/Download: https://pub.ajam.dev/datasets/certstream/all_weekly.txt
 
 ```
