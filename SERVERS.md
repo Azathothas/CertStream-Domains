@@ -6,9 +6,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 8 days, 9 hours and 51 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.83 1.11 0.83
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 94
+   .mX2'       _xaaa__     XZ[.   Uptime: 8 days, 11 hours and 15 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.3 0.98 0.69
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 91
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -18,8 +18,8 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Not detected
-            ~~~~~                 RAM: 481 MiB / 3411 MiB
-                                  Disk: 26.0 GiB / 75.2 GiB
+            ~~~~~                 RAM: 484 MiB / 3411 MiB
+                                  Disk: 26.3 GiB / 75.2 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -27,14 +27,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 75.2G │ 26.0G │ 45.4G │  34.5% │ ext4 │ /dev/vda1  │
+│ /          │ 75.2G │ 26.2G │ 45.1G │  34.9% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         1.34T    430M      0   36.4k       0       0 
+         1.35T    433M      0   36.6k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         28.1G    238M      0       0       0       0 
+         28.3G    240M      0       0       0       0 
     altname enp0s3
     altname ens3
 
