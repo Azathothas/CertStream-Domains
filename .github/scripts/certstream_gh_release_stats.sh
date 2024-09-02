@@ -4,9 +4,10 @@
 # This should be run in the same dir as the .tar archives
 # bash <(curl -qfsSL "https://@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/certstream_gh_release_stats.sh")
 # Requires: coreutils + 7z (+tar)
-# Consumes: RAM (High ~ 15-20 GB) + CPU (Mid)
+# Specs: [RAM: 32 GB || vCPU: 2 (70%) || Disk: ~ 30 GB]
 #-------------------------------------------------------#
 
+#-------------------------------------------------------#
 #ENV
 CT_MONTH="$(date -d '-1 month' +'%Y_%m')" && export CT_MONTH="${CT_MONTH}"
 echo -e "\n[+] Month: ${CT_MONTH}"
@@ -17,16 +18,37 @@ find "$(realpath .)" -type f -name "*.tar" -exec 7z x -mmt="$(($(nproc)+1))" -bt
 find "$(realpath .)" -type f -name "*.7z" -exec 7z x -mmt="$(($(nproc)+1))" -bt -y {} \;
 #.txt to Single TXT
 echo -e "\n[+] Writing to ${CT_TXT}\n"
+#Consumes: RAM (High ~ 30-50 GB) + CPU (Mid) + Time (~1-2 HR)
 find "$(realpath .)" -type f -name "*.txt" -exec cat {} + | sort -u -o "${CT_TXT}"
-find "$(realpath .)" -type f -name "*.txt" -exec cat {} + > "${CT_TXT}.bak"
+find "$(realpath .)" -type f -name "*.txt" ! -name "*certstream*" -exec cat {} + > "${CT_TXT}.bak"
 #Archive
-7z a -r -t7z -mx="9" -mmt="$(($(nproc)+1))" "${CT_TXT}.7z" "${CT_TXT}" 2>/dev/null
-7z a -r -t7z -mx="9" -mmt="$(($(nproc)+1))" "${CT_TXT}.bak.7z" "${CT_TXT}.bak" 2>/dev/null
+7z a -r -t7z -mx="9" -mmt="$(($(nproc)+1))" "certstream_${CT_MONTH}_sorted.7z" "${CT_TXT}" 2>/dev/null
+#7z a -r -t7z -mx="9" -mmt="$(($(nproc)+1))" "${CT_TXT}.bak.7z" "${CT_TXT}.bak" 2>/dev/null
 #Stats
 CT_LINES_U="$(wc -l < "${CT_TXT}")" && export CT_LINES_U="${CT_LINES_U}"
-CT_LINES_T="$(wc -l < "${CT_TXT.bak}")" && export CT_LINES_T="${CT_LINES_T}"
-CT_SIZE_U="$(du -sh "${CT_TXT}")" && export CT_SIZE_U="${CT_SIZE_U}"
-CT_SIZE_T="$(du -sh "${CT_TXT.bak}")" && export CT_SIZE_T="${CT_SIZE_T}"
-echo -e "\n[+]Total Domains: ${CT_LINES_T} [${CT_SIZE_T}]"
-echo -e "[+]Unique Domains: ${CT_LINES_U} [${CT_SIZE_U}]\n"
+CT_SIZE_U="$(du -sh "${CT_TXT}" | cut -f1)" && export CT_SIZE_U="${CT_SIZE_U}"
+CT_LINES_T="$(wc -l < "${CT_TXT}.bak")" && export CT_LINES_T="${CT_LINES_T}"
+CT_SIZE_T="$(du -sh "${CT_TXT}.bak" | cut -f1)" && export CT_SIZE_T="${CT_SIZE_T}"
+echo -e "\n[+] Total Domains: ${CT_LINES_T} [${CT_SIZE_T}]"
+echo -e "[+] Unique Domains: ${CT_LINES_U} [${CT_SIZE_U}]"
+echo -e "[+] 7z Archive: $(du -sh "certstream_${CT_MONTH}_sorted.7z")]\n"
 #END
+#-------------------------------------------------------#
+
+#-------------------------------------------------------#
+##Release
+#Tag: YYYY.MM
+#Title: CertStream Monthly Dump (YYYY-MM)
+#Body:
+# Archive of [`CertStream Daily Dumps`](https://github.com/Azathothas/CertStream-Domains/tree/main/Raw/Latest) (`YYYY-MM-DD-YYYY-MM-DD`)
+# Helper Script: https://github.com/Azathothas/CertStream-Domains/blob/main/.github/scripts/certstream_gh_release_stats.sh
+# ```bash
+# !#STATS
+# {STATS}
+# !#BANDWIDTH (per server) eth0/monthly: vnstat -m  
+# month        rx       |     tx      |    total    |   avg. rate
+# ------------------------+-------------+-------------+---------------
+# 2024-08      4.42 TiB |   94.32 GiB |    4.51 TiB |   14.81 Mbit/s
+# ------------------------+-------------+-------------+---------------
+# ```
+#-------------------------------------------------------#
