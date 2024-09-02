@@ -4,7 +4,7 @@
 # This should be run in the same dir as the .tar archives
 # bash <(curl -qfsSL "https://@raw.githubusercontent.com/Azathothas/CertStream-Domains/main/.github/scripts/certstream_gh_release_stats.sh")
 # Requires: coreutils + 7z (+tar)
-# Specs: [RAM: 32 GB || vCPU: 2 (70%) || Disk: ~ 30 GB]
+# Specs: [RAM: 32 GB || vCPU: 2 (70%) || Disk: ~ 50 GB]
 #-------------------------------------------------------#
 
 #-------------------------------------------------------#
@@ -29,9 +29,9 @@ CT_LINES_U="$(wc -l < "${CT_TXT}")" && export CT_LINES_U="${CT_LINES_U}"
 CT_SIZE_U="$(du -sh "${CT_TXT}" | cut -f1)" && export CT_SIZE_U="${CT_SIZE_U}"
 CT_LINES_T="$(wc -l < "${CT_TXT}.bak")" && export CT_LINES_T="${CT_LINES_T}"
 CT_SIZE_T="$(du -sh "${CT_TXT}.bak" | cut -f1)" && export CT_SIZE_T="${CT_SIZE_T}"
-echo -e "\n[+] Total Domains: ${CT_LINES_T} [${CT_SIZE_T}]"
-echo -e "[+] Unique Domains: ${CT_LINES_U} [${CT_SIZE_U}]"
-echo -e "[+] 7z Archive: $(du -sh "certstream_${CT_MONTH}_sorted.7z")]\n"
+echo -e "\n[+] Total Domains (Raw): ${CT_LINES_T} [${CT_SIZE_T}]"
+echo -e "[+] Unique Domains (Sorted): ${CT_LINES_U} [${CT_SIZE_U}]"
+echo -e "[+] 7z Archive (Unique Domains): $(du -sh "certstream_${CT_MONTH}_sorted.7z")]\n"
 #END
 #-------------------------------------------------------#
 
@@ -45,7 +45,7 @@ echo -e "[+] 7z Archive: $(du -sh "certstream_${CT_MONTH}_sorted.7z")]\n"
 # ```bash
 # !#STATS
 # {STATS}
-# !#BANDWIDTH (per server) eth0/monthly: vnstat -m  
+# !#BANDWIDTH (Avg./Server) eth0/monthly: vnstat -m  
 # month        rx       |     tx      |    total    |   avg. rate
 # ------------------------+-------------+-------------+---------------
 # 2024-08      4.42 TiB |   94.32 GiB |    4.51 TiB |   14.81 Mbit/s
