@@ -1,0 +1,48 @@
+name: 🛸List as Dirs 🗂️
+# This will likely increase as Repo Size gets bigger over time
+#MAX_RUNTIME: 30-45 Mins
+on:
+  workflow_dispatch: # Whenever manually run from actions-tab
+  #schedule:
+    #- cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
+    #- cron: "0 */4 * * *" #( Every 4 Hr )
+#------------------------------------------------------------------------------------#
+jobs:
+#Main Job to Upload Dirs/Files as Gh Artifacts 
+  list:
+    runs-on: ubuntu-latest
+    name: Directory Listings Index
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: main
+
+      - name: Generate Directory Listings
+        uses: jayanta525/github-pages-directory-listing@v4.0.0
+        with:
+          FOLDER: Raw     #directory to generate index
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: Raw     # upload generated folder
+        continue-on-error: true
+#------------------------------------------------------------------------------------#  
+  deploy:
+    needs: list
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    # Specify runner + deployment step
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

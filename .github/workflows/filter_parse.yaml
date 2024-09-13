@@ -1,0 +1,348 @@
+name: ⚓ Filter | Parse 🔰 
+# This will likely increase as Repo Size gets bigger over time
+#MAX_RUNTIME: 30-45 Mins
+on:
+  workflow_dispatch: # Whenever manually run from actions-tab
+  schedule:
+    #- cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
+    - cron: "45 * * * *" #( Every 45 Mins )
+#------------------------------------------------------------------------------------#
+env:
+  RCLONE_CF_R2_PUB: "${{ secrets.RCLONE_CF_R2_PUB }}"
+  #https://github.com/Azathothas/Wordlists/tree/main/Misc#user-agents
+  SSH_META: "${{ secrets.SF_SSH_HOSTS }}"
+#------------------------------------------------------------------------------------#  
+jobs:
+  Parse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45 # Can't afford to finish the 2000 Minutes quotes    
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Debloat Runner
+        run: |
+          #Presets
+          set -x ; set +e
+          #--------------#
+          bash <(curl -qfsSL "https://raw.githubusercontent.com/Azathothas/Arsenal/main/misc/Github/Runners/Ubuntu/debloat.sh")
+        continue-on-error: true
+        
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: "main"
+          filter: "blob:none" #https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
+          
+      - name: Setup Env
+        run: |
+          ##presets
+          set +x ; set +e
+          #-------------#
+          ##CoreUtils
+          sudo apt update -y
+          sudo apt install bc coreutils curl dos2unix fdupes jq moreutils wget -y
+          sudo apt-get install apt-transport-https apt-utils ca-certificates coreutils dos2unix gnupg2 jq moreutils p7zip-full rename rsync software-properties-common texinfo tmux util-linux wget -y 2>/dev/null ; sudo apt-get update -y 2>/dev/null
+          ##Setup rClone
+          mkdir -p "$HOME/.config/rclone"
+          echo "${{ secrets.RCLONE_CF_R2_PUB }}" > "$HOME/.config/rclone/rclone.conf"
+          ##User-Agent
+          USER_AGENT="$(curl -qfsSL 'https://pub.ajam.dev/repos/Azathothas/Wordlists/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="$USER_AGENT"
+          echo "USER_AGENT=$USER_AGENT" >> "$GITHUB_ENV"
+        continue-on-error: true
+
+      - name: Install eget
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          # eget for bins
+          sudo wget "https://bin.ajam.dev/x86_64_Linux/eget" -O "/usr/local/bin/eget"
+          sudo chmod +xwr "/usr/local/bin/eget"
+        continue-on-error: false
+
+      - name: Install Deps
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #7z
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/7z" --to "/usr/local/bin/7z"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/7z" --to "/usr/bin/7z"
+          #anew
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/anew" --to "/usr/local/bin/anew"
+          #anew-rs
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/anew-rs" --to "/usr/local/bin/anew-rs"
+          #asn
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/asn" --to "/usr/local/bin/asn"
+          #asnmap
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/asnmap" --to "/usr/local/bin/asnmap"
+          #csvtk
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/csvtk" --to "/usr/local/bin/csvtk"
+          #cut-cdn
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/cut-cdn" --to "/usr/local/bin/cut-cdn"
+          #dasel
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/dasel" --to "/usr/local/bin/dasel"
+          #dirstat-rs for tree
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/ds" --to "/usr/local/bin/ds"          
+          #dnsx
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/dnsx" --to "/usr/local/bin/dnsx"
+          #HTTPx
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/httpx" --to "/usr/local/bin/httpx"
+          #inscope
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/inscope" --to "/usr/local/bin/inscope"
+          #jq
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/jq" --to "/usr/local/bin/jq"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/jq" --to "/usr/bin/jq"
+          #mapcidr
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/mapcidr" --to "/usr/local/bin/mapcidr"
+          #scopegen
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/scopegen" --to "/usr/local/bin/scopegen"
+          #scopeview
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/scopeview" --to "/usr/local/bin/scopeview"
+          #spk
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/spk" --to "/usr/local/bin/spk"
+          #rclone
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/rclone" --to "/usr/local/bin/rclone"
+          #yq
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/yq" --to "/usr/local/bin/yq"
+        continue-on-error: true
+
+      - name: Archive Stales
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #Create Archive Dir
+          mkdir -p "$GITHUB_WORKSPACE/main/Raw/Archive" ; cd "$GITHUB_WORKSPACE/main/Raw/Archive"
+          #Remove +7 days
+          #find "$GITHUB_WORKSPACE/main/Raw/Archive" -name "*.7z" -type f -mtime +8 -exec rm {} \;
+          #Generate a range for the last 8 days
+          for i in {0..7}; do TZ='Asia/Kathmandu' date -d "$i days ago" +'%Y_%m_%d'; done > "/tmp/7day_range.txt"
+          #Purge
+          find "$GITHUB_WORKSPACE/main/Raw/Archive" -type f -exec basename {} \; | grep -v -f "/tmp/7day_range.txt" | xargs -I {} echo ./{} | sort -u | xargs -I {} rm {} -rf
+          # Find .7z files older than 24(+1) hours & Archive
+          find "$GITHUB_WORKSPACE/main/Raw/Latest" -maxdepth 1 -type f ! -name "*$(date +'%Y_%m_%d')*" -exec mv {} "$GITHUB_WORKSPACE/main/Raw/Archive" \;
+          #find "$GITHUB_WORKSPACE/main/Raw/Latest" -name "*.7z" -type f -mmin +1500 -exec mv {} "$GITHUB_WORKSPACE/main/Raw/Archive" \;
+          # Update new time metadata
+          find "$GITHUB_WORKSPACE/main/Raw/Archive" -name "*.7z" -exec touch {} \;
+        continue-on-error: true
+
+      - name: Parse New .7z
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #chdir to /tmp
+          mkdir -p "/tmp/Unzipped" ; cd "/tmp/Unzipped"
+          #Copy .7z
+          cp $GITHUB_WORKSPACE/main/Raw/Latest/*.7z /tmp/Unzipped
+          #Extract
+          find "/tmp/Unzipped" -iname "certstream*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
+          #Del .7z
+          find "/tmp/Unzipped" -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
+          #Cat {} +
+          #find "/tmp/Unzipped" -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "/tmp/certstream_domains.txt" ; wc -l < "/tmp/certstream_domains.txt"
+          find "/tmp/Unzipped" -type f -iname "certstream_domains.txt" -exec bash -c 'file -b --mime-type "$1" | grep -q "text/plain" && cat "$1"' bash {} \; 2>/dev/null | sort -u -o "/tmp/certstream_domains.txt" ; wc -l < "/tmp/certstream_domains.txt"
+          #Stats
+          echo -e "\n[+] Total Size (certstream_domains_latest.txt): $(du -h /tmp/certstream_domains.txt | awk '{print $1}')\n"
+        continue-on-error: true
+        
+      - name: Parse Old .7z
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          #chdir to /tmp
+          mkdir -p "/tmp/Unzipped_7days" ; cd "/tmp/Unzipped_7days"
+          #Copy .7z
+          cp $GITHUB_WORKSPACE/main/Raw/Archive/*.7z /tmp/Unzipped_7days
+          #Extract
+          find "/tmp/Unzipped_7days" -iname "certstream*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \;
+          #Del .7z
+          find "/tmp/Unzipped_7days" -type f -iname "certstream*.7z" -exec rm {} \; 2>/dev/null
+          #Cat {} +
+          #find "/tmp/Unzipped_7days" -type f -iname "certstream_domains.txt" -exec cat {} \; 2>/dev/null | sort -u -o "/tmp/certstream_domains_7days.txt" ; wc -l < "/tmp/certstream_domains_7days.txt"
+          find "/tmp/Unzipped_7days" -type f -iname "certstream_domains.txt" -exec bash -c 'file -b --mime-type "$1" | grep -q "text/plain" && cat "$1"' bash {} \; 2>/dev/null | sort -u -o "/tmp/certstream_domains_7days.txt" ; wc -l < "/tmp/certstream_domains_7days.txt"
+          #Stats
+          export SSL_7DAYS_TOTAL="$(wc -l < /tmp/certstream_domains_7days.txt)"
+          echo "SSL_7DAYS_TOTAL=$SSL_7DAYS_TOTAL" >> $GITHUB_ENV
+          echo -e "\n[+] Total Subs (certstream_domains_7days.txt): $SSL_7DAYS_TOTAL"
+          echo -e "[+] Total Size (certstream_domains_7days.txt): $(du -h /tmp/certstream_domains_7days.txt | awk '{print $1}')\n"
+        continue-on-error: true
+
+      - name: Parse External Sources (NRD)
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#
+          ##cubdomain
+          #Get Base URL
+           BASE_URL="$(curl -qfsSL "https://www.cubdomain.com/domains-registered-dates/1" -H "User-Agent: $USER_AGENT" | grep -oE 'https://www\.cubdomain\.com/domains-registered-by-date/[0-9]{4}-[0-9]{2}-[0-9]{2}/[0-9]+' | sort -u | sort -V | tail -n 1 | sed 's/\/[^/]*$//')" && export BASE_URL="$BASE_URL" && echo -e "\n[+] Base URL: $BASE_URL"
+          #Get latest HTML
+           curl -qfsSL "https://www.cubdomain.com/domains-registered-by-date/$(date +'%Y-%m-%d')/1" -H "User-Agent: $USER_AGENT" || curl -qfsSL "https://www.cubdomain.com/domains-registered-by-date/$(date -d 'yesterday' +'%Y-%m-%d')/1" -H "User-Agent: $USER_AGENT" > "/tmp/cubdomain_daily.html"
+           curl -qfsSL "$BASE_URL/1" -H "User-Agent: $USER_AGENT" >> "/tmp/cubdomain_daily.html"
+          #Get Number of Pages
+           PAGES_NUM="$(grep -oE 'https://www\.cubdomain\.com/domains-registered-by-date/[0-9]{4}-[0-9]{2}-[0-9]{2}/[0-9]+' "/tmp/cubdomain_daily.html" | awk -F '/' '{print $NF}' | sort -u | sort -V | tail -n 1)" && export PAGES_NUM="$PAGES_NUM" && echo -e "\n[+] Total Pages: $PAGES_NUM"
+          #Fetch
+          for ((i=1; i<=$PAGES_NUM; i++)); do
+           #echo -e "\n[+] Fetching Domains from : $BASE_URL/$i"
+           curl -qfsSL "$BASE_URL/$i" -H "User-Agent: $USER_AGENT" | grep -o '<a href=https://www\.cubdomain\.com/site/[^>]*>[^<]*' | sed 's/.*>//'
+          done > "/tmp/cubdomain_daily.txt"
+          #Filter
+           echo -e "\n[+] Parsing Domains"
+           sed '/^\s*$/d' "/tmp/cubdomain_daily.txt" | sed 's/[[:space:]]//g' | sort -u -o "/tmp/cubdomain_daily.txt"
+           echo -e "[+] Total Domains: $(wc -l < /tmp/cubdomain_daily.txt)"
+           echo -e "[+] Total Size: $(du -sh /tmp/cubdomain_daily.txt | awk '{print $1}')"
+          #anew
+           cat "/tmp/cubdomain_daily.txt" | anew-rs -q "/tmp/certstream_domains.txt"
+           cat "/tmp/cubdomain_daily.txt" | anew-rs -q "/tmp/nrd_latest.txt"
+          #--------------# 
+          ##Shrestha: https://shreshtait.com/blog/2024/02/recently-registered-domains-download/
+           curl -qfsSL "https://raw.githubusercontent.com/shreshta-labs/newly-registered-domains/main/nrd-1w.csv" | sed '/^\s*$/d' | sed 's/[[:space:]]//g' | sort -u -o "/tmp/shrestha_weekly.txt"
+          #anew
+           cat "/tmp/shrestha_weekly.txt" | anew-rs -q "/tmp/certstream_domains_7days.txt"
+           cat "/tmp/shrestha_weekly.txt" | anew-rs -q "/tmp/nrd_weekly.txt" 
+          #--------------# 
+          # NOT RELIABLE  
+          # ##WhoisDS.com (https://github.com/PeterDaveHello/nrd-list-downloader)
+          #  pushd "$(mktemp -d)" > /dev/null 2>&1
+          #  #Fetch
+          #  curl -qfsSL "https://pub.ajam.dev/repos/Azathothas/CertStream-Domains/.github/scripts/nrd-list-downloader.sh" | DAY_RANGE="2" bash
+          #  #cat
+          #  find . -type f -name '*.txt' -exec cat {} \; | sed '/^\s*$/d' | sed 's/[[:space:]]//g' | sort -u -o "/tmp/whoisds_daily.txt"
+          #  popd > /dev/null 2>&1
+          # #anew
+          #  cat "/tmp/whoisds_daily.txt" | anew-rs -q "/tmp/certstream_domains.txt"
+          #  cat "/tmp/whoisds_daily.txt" | anew-rs -q "/tmp/nrd_latest.txt"
+          #--------------# 
+          ##maaaaz/dnsdumps
+           #Fetch
+           pushd "$(mktemp -d)" > /dev/null 2>&1
+           curl -qfsSLJO "https://raw.githubusercontent.com/maaaaz/dnsdumps/main/daily/today_new.gz"
+           curl -qfsSLJO "https://raw.githubusercontent.com/maaaaz/dnsdumps/main/daily/yesterday_new.gz"
+           #Parse
+           find . -type f -name "*.gz" -exec gzip -d {} \; && find . -type f -name "*.gz" -exec rm {} \;
+           find . -type f -exec cat {} \; | sed '/^\s*$/d' | sed 's/[[:space:]]//g' | sort -u -o "/tmp/maaaaz_daily.txt"
+           #anew
+           cat "/tmp/maaaaz_daily.txt" | anew-rs -q "/tmp/certstream_domains.txt"
+           cat "/tmp/maaaaz_daily.txt" | anew-rs -q "/tmp/nrd_latest.txt"
+           popd > /dev/null 2>&1
+          #--------------#  
+          ##SystemJargon
+           #fetch
+           curl -qfsSL "https://raw.githubusercontent.com/SystemJargon/nrd-lists/main/nrd-list-7-days-agh.txt" | grep -oE '\|\|(.*?)\^' | sed 's/||\(.*\)\^/\1/' | sed '/^\s*$/d' | sed 's/[[:space:]]//g' | sort -u -o "/tmp/systemjargon_weekly.txt"
+           #anew
+           cat "/tmp/systemjargon_weekly.txt" | anew-rs -q "/tmp/certstream_domains_7days.txt"
+           cat "/tmp/systemjargon_weekly.txt" | anew-rs -q "/tmp/nrd_weekly.txt" 
+        continue-on-error: true
+
+      - name: 🖳🇨🇭 Get Runners Metadata 🔒🔑
+        run: |
+          # Presets
+          set +x ; set +e
+          #--------------#
+          echo '```console' > "$GITHUB_WORKSPACE/main/SERVERS.md"
+          find "$GITHUB_WORKSPACE/main/.github/SERVERS" -type f -name '*meta.txt' -exec cat {} \; | tee -a "$GITHUB_WORKSPACE/main/SERVERS.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/SERVERS.md"
+          #Ping Runners
+          echo '${{ secrets.SF_SSH_HOSTS }}' > "/tmp/sf.sh"
+          dos2unix --quiet "/tmp/sf.sh" ; chmod +xwr "/tmp/sf.sh"
+          tmux new-session -s "segfault" -d "bash /tmp/sf.sh"
+          sleep 10 ; while tmux has-session -t "segfault" ; do sleep 1 ; done
+          echo -e "\n\n" ; cat "/tmp/sf.log" ; echo -e "\n\n"
+        continue-on-error: true
+        
+      - name: Update README.md
+        run: |
+          # Presets
+          set -x ; set +e
+          #--------------#        
+          cd "$GITHUB_WORKSPACE/main"
+          #cat INFO
+          #cat "$GITHUB_WORKSPACE/main/INFO.md" > "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "\n" > "$GITHUB_WORKSPACE/main/README.md"
+          #Last 24 Hr
+          echo '---' >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "- #### [🖨️ **Stats** \`24Hr\`⏲️ ➼ $(date +'%Y_%m_%d')](https://pub.ajam.dev/datasets/certstream/all_latest.txt)" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
+          #Total 
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +$(wc -l < /tmp/certstream_domains.txt)" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "[+] View/Download: https://pub.ajam.dev/datasets/certstream/all_latest.txt\n" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo '---' >> "$GITHUB_WORKSPACE/main/README.md"
+          #7Days
+          echo -e "- #### [🖨️ **Stats** \`7Days\`⏲️ ➼ $(date +'%Y_%m_%d') <--> $(date -d "7 days ago" +'%Y_%m_%d')](https://pub.ajam.dev/datasets/certstream/all_weekly.txt)" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo '```console' >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
+          #Total
+          echo -e "\n--> 🌐 Total" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "[+] New/ReNewed SSL Certs (ALL): +${{ env.SSL_7DAYS_TOTAL }}" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "[+] View/Download: https://pub.ajam.dev/datasets/certstream/all_weekly.txt\n" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo '```' >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
+          echo '---' >> "$GITHUB_WORKSPACE/main/README.md"
+          echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
+          #cat INFO
+          cat "$GITHUB_WORKSPACE/main/INFO.md" >> "$GITHUB_WORKSPACE/main/README.md"          
+        continue-on-error: true
+        
+      - name: Get DateTime
+        run: |
+          # Date Time
+          NEPALI_TIME=$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')
+          echo "NEPALI_TIME=$NEPALI_TIME" >> $GITHUB_ENV
+          
+      - name: Git Pull
+        run: |
+           cd "$GITHUB_WORKSPACE/main" && git pull origin main
+        continue-on-error: true
+        
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./main
+          commit_user_name: Azathothas # defaults to "github-actions[bot]"
+          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "✅ ⚓ Filter | Parsed 🔰 CertStream Data 🌊 <-- ${{ env.NEPALI_TIME }} ⌚"
+          #push_options: '--force'
+
+      - name: rClone Upload to R2 ("https://pub.ajam.dev/datasets/certstream")
+        run: |
+          # Presets
+          set +x ; set +e
+          #--------------#
+          #touch "$HOME/.rclone.conf"
+          echo "${{ secrets.RCLONE_CF_R2_PUB }}" > "$HOME/.rclone.conf"
+          R2_ARCHIVE="$(date --utc +'%Y_%m_%d')" && export R2_ARCHIVE="${R2_ARCHIVE}" ; echo "R2_ARCHIVE: ${R2_ARCHIVE}" && echo "${R2_ARCHIVE}" > "/tmp/R2_ARCHIVE.txt"
+          R2_ARCHIVE_P="$(date --utc -d "$(date --utc +'%Y-%m-%d') - 1 day" +'%Y_%m_%d')" && export R2_ARCHIVE_P="${R2_ARCHIVE_P}" ; echo "R2_ARCHIVE_P: ${R2_ARCHIVE_P}" && echo "${R2_ARCHIVE_P}" >> "/tmp/R2_ARCHIVE.txt"
+          ##Fetch Today's Archive
+          rm -rf "/tmp/R2ARCHIVE" ; mkdir -p "/tmp/R2ARCHIVE" ; cd "/tmp/R2ARCHIVE"
+          readarray -t dates < "/tmp/R2_ARCHIVE.txt"
+          for date in "${dates[@]}"; do
+             echo -e "\n[+] Processing $date\n"
+             find "$GITHUB_WORKSPACE/main/Raw/" -iname "*$date*.7z" -exec cp {} "/tmp/R2ARCHIVE" \; 2>/dev/null
+             cd "/tmp/R2ARCHIVE" ; find "/tmp/R2ARCHIVE" -iname "*$date*.7z" -exec sh -c '7z x "{}" -o"$(dirname "{}")/$(basename "{}" .7z)"' \; 2>/dev/null
+             find "/tmp/R2ARCHIVE" -iname "*$date*.7z" -exec rm -rf {} \; 2>/dev/null
+             find "/tmp/R2ARCHIVE" -type f -iname "certstream_domains.txt" -exec bash -c 'file -b --mime-type "$1" | grep -q "text/plain" && cat "$1"' bash {} \; 2>/dev/null | sort -u -o "/tmp/$date.txt" ; wc -l "/tmp/$date.txt"
+             find "/tmp/R2ARCHIVE" -type d -iname "*$date*" -exec rm -rf {} \; 2>/dev/null
+             7z a -t7z -mx="9" -mmt="$(($(nproc)+1))" "/tmp/$date.7z" "/tmp/$date.txt"
+             cp "/tmp/$date.7z" "/tmp/R2ARCHIVE/$date.7z" ; du -sh "/tmp/R2ARCHIVE/$date.7z"
+             echo -e "\n[+] Generated (/tmp/R2ARCHIVE/$date.7z) [$date]\n"
+          done
+          cd "/tmp/R2ARCHIVE" && rclone sync "./" "r2:/pub/datasets/certstream/Temp/" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          ##Upload
+          echo -e "\n[+] Uploading Results to R2 (rclone)\n"
+          ##CertStream
+          sort -u "/tmp/certstream_domains.txt" -o "/tmp/certstream_domains.txt"
+          rclone copyto "/tmp/certstream_domains.txt" "r2:/pub/datasets/certstream/all_latest.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          sort -u "/tmp/certstream_domains_7days.txt" -o "/tmp/certstream_domains_7days.txt"
+          rclone copyto "/tmp/certstream_domains_7days.txt" "r2:/pub/datasets/certstream/all_weekly.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          ##NRD
+          sort -u "/tmp/nrd_latest.txt" -o "/tmp/nrd_latest.txt"
+          rclone copyto "/tmp/nrd_latest.txt" "r2:/pub/datasets/certstream/nrd_latest.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+          sort -u "/tmp/nrd_weekly.txt" -o "/tmp/nrd_weekly.txt"
+          rclone copyto "/tmp/nrd_weekly.txt" "r2:/pub/datasets/certstream/nrd_weekly.txt" --user-agent="$USER_AGENT" --buffer-size="100M" --s3-upload-concurrency="500" --s3-chunk-size="100M" --multi-thread-streams="500" --checkers="2000" --transfers="1000" --retries="10" --check-first --checksum --copy-links --fast-list --progress
+        continue-on-error: true
