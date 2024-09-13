@@ -6,9 +6,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 20 days, 10 hours and 51 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.73 0.95 0.74
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 95
+   .mX2'       _xaaa__     XZ[.   Uptime: 20 days, 12 hours and 15 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.34 1.21 0.83
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 91
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -18,7 +18,7 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Not detected
-            ~~~~~                 RAM: 484 MiB / 3411 MiB
+            ~~~~~                 RAM: 485 MiB / 3411 MiB
                                   Disk: 26.2 GiB / 75.2 GiB
 [+] Storage:
 
@@ -32,9 +32,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         3.16T   1.02G      0   88.4k       0       0 
+         3.16T   1.03G      0   88.6k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         72.7G    576M      0       0       0       0 
+         72.9G    578M      0       0       0       0 
     altname enp0s3
     altname ens3
 
@@ -45,8 +45,8 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 42 days, 7 hours and 24 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 3.32 3.15 2.67
+   .mX2'       _xaaa__     XZ[.   Uptime: 42 days, 8 hours and 55 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 3.51 3.2 2.48
   _#e'     .]X2(     ~Xw|  )XXc   Processes: 82
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
@@ -57,7 +57,7 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
        +3#bc,                     GPU: Not detected
          -)SSL,,                  RAM: 699 MiB / 3411 MiB
-            ~~~~~                 Disk: 19.8 GiB / 40.8 GiB
+            ~~~~~                 Disk: 19.9 GiB / 40.8 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -70,9 +70,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         6.19T   2.03G      0   2.11M       0       0 
+         6.19T   2.03G      0   2.12M       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         99.6G    798M      0       0       0       0 
+         99.7G    799M      0       0       0       0 
     altname enp0s3
     altname ens3
 
