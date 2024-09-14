@@ -6,9 +6,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 21 days, 6 hours and 24 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.04 1.16 0.85
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 91
+   .mX2'       _xaaa__     XZ[.   Uptime: 21 days, 7 hours and 47 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.46 0.81 0.68
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 93
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -18,8 +18,8 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Not detected
-            ~~~~~                 RAM: 498 MiB / 3411 MiB
-                                  Disk: 26.6 GiB / 75.2 GiB
+            ~~~~~                 RAM: 489 MiB / 3411 MiB
+                                  Disk: 26.7 GiB / 75.2 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -32,9 +32,9 @@
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         3.28T   1.07G      0   91.9k       0       0 
+         3.29T   1.07G      0   92.2k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         75.4G    600M      0       0       0       0 
+         75.6G    601M      0       0       0       0 
     altname enp0s3
     altname ens3
 
