@@ -45,9 +45,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 46 days and 56 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.84 2.64 2.24
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 83
+   .mX2'       _xaaa__     XZ[.   Uptime: 46 days, 2 hours and 26 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 3.32 3.36 2.67
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 82
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -56,7 +56,7 @@
     XUb;.                         Temperature: Not detected
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
        +3#bc,                     GPU: Not detected
-         -)SSL,,                  RAM: 649 MiB / 3411 MiB
+         -)SSL,,                  RAM: 658 MiB / 3411 MiB
             ~~~~~                 Disk: 9.7 GiB / 40.8 GiB
 [+] Storage:
 
@@ -65,14 +65,14 @@
 ├────────────┬───────┬──────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼──────┼───────┼────────┼──────┼────────────┤
-│ /          │ 40.8G │ 9.6G │ 29.0G │  23.6% │ ext4 │ /dev/vda1  │
+│ /          │ 40.8G │ 9.7G │ 29.0G │  23.7% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴──────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         6.68T   2.19G      0   2.30M       0       0 
+         6.68T   2.20G      0   2.30M       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-          108G    861M      0       0       0       0 
+          108G    862M      0       0       0       0 
     altname enp0s3
     altname ens3
 
