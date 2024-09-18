@@ -45,9 +45,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 47 days, 16 hours and 10 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.91 2.6 2.29
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 86
+   .mX2'       _xaaa__     XZ[.   Uptime: 47 days, 17 hours and 42 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 3.02 3.11 2.63
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 82
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -56,7 +56,7 @@
     XUb;.                         Temperature: Not detected
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
        +3#bc,                     GPU: Not detected
-         -)SSL,,                  RAM: 706 MiB / 3411 MiB
+         -)SSL,,                  RAM: 687 MiB / 3411 MiB
             ~~~~~                 Disk: 12.0 GiB / 40.8 GiB
 [+] Storage:
 
@@ -65,14 +65,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 40.8G │ 11.9G │ 26.7G │  29.3% │ ext4 │ /dev/vda1  │
+│ /          │ 40.8G │ 12.0G │ 26.7G │  29.3% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         6.89T   2.27G      0   2.38M       0       0 
+         6.90T   2.27G      0   2.39M       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-          111G    889M      0       0       0       0 
+          111G    890M      0       0       0       0 
     altname enp0s3
     altname ens3
 
