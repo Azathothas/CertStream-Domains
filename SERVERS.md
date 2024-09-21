@@ -6,9 +6,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 50 days, 15 hours and 33 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 3.61 2.92 2.6
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 82
+   .mX2'       _xaaa__     XZ[.   Uptime: 50 days, 17 hours and 3 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 4.63 3.62 2.97
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 83
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -17,7 +17,7 @@
     XUb;.                         Temperature: Not detected
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
        +3#bc,                     GPU: Not detected
-         -)SSL,,                  RAM: 1187 MiB / 3411 MiB
+         -)SSL,,                  RAM: 1278 MiB / 3411 MiB
             ~~~~~                 Disk: 12.1 GiB / 40.8 GiB
 [+] Storage:
 
@@ -26,14 +26,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 40.8G │ 12.1G │ 26.6G │  29.6% │ ext4 │ /dev/vda1  │
+│ /          │ 40.8G │ 12.1G │ 26.6G │  29.7% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         7.34T   2.41G      0   2.41M       0       0 
+         7.35T   2.41G      0   2.41M       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-          118G    948M      0       0       0       0 
+          118G    949M      0       0       0       0 
     altname enp0s3
     altname ens3
 
