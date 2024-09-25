@@ -6,8 +6,8 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 1 day, 8 hours and 41 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.21 1.34 0.96
+   .mX2'       _xaaa__     XZ[.   Uptime: 1 day, 10 hours and 6 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 1.99 1.27 0.91
   _#e'     .]X2(     ~Xw|  )XXc   Processes: 81
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
@@ -17,8 +17,8 @@
     XUb;.                         Temperature: Not detected
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
        +3#bc,                     GPU: Not detected
-         -)SSL,,                  RAM: 586 MiB / 3411 MiB
-            ~~~~~                 Disk: 7.8 GiB / 40.8 GiB
+         -)SSL,,                  RAM: 576 MiB / 3411 MiB
+            ~~~~~                 Disk: 7.9 GiB / 40.8 GiB
 [+] Storage:
 
 ╭────────────────────────────────────────────────────────────────╮
@@ -26,14 +26,14 @@
 ├────────────┬───────┬──────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼──────┼───────┼────────┼──────┼────────────┤
-│ /          │ 40.8G │ 7.8G │ 30.9G │  19.1% │ ext4 │ /dev/vda1  │
+│ /          │ 40.8G │ 7.8G │ 30.8G │  19.2% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴──────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          232G   73.7M      0   68.6k       0       0 
+          242G   76.9M      0   71.6k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         4.11G   33.5M      0       0       0       0 
+         4.29G   34.9M      0       0       0       0 
     altname enp0s3
     altname ens3
 
