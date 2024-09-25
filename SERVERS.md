@@ -6,8 +6,8 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-22-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 1 day, 17 hours and 13 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.26 1.49 1.03
+   .mX2'       _xaaa__     XZ[.   Uptime: 1 day, 18 hours and 38 minutes
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.09 1.37 0.93
   _#e'     .]X2(     ~Xw|  )XXc   Processes: 81
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
@@ -17,7 +17,7 @@
     XUb;.                         Temperature: Not detected
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
        +3#bc,                     GPU: Not detected
-         -)SSL,,                  RAM: 585 MiB / 3411 MiB
+         -)SSL,,                  RAM: 579 MiB / 3411 MiB
             ~~~~~                 Disk: 8.0 GiB / 40.8 GiB
 [+] Storage:
 
@@ -26,14 +26,14 @@
 ├────────────┬───────┬──────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │ USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼──────┼───────┼────────┼──────┼────────────┤
-│ /          │ 40.8G │ 7.9G │ 30.8G │  19.4% │ ext4 │ /dev/vda1  │
+│ /          │ 40.8G │ 7.9G │ 30.7G │  19.5% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴──────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-          294G   94.3M      0   86.6k       0       0 
+          304G   97.6M      0   89.5k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         5.25G   42.7M      0       0       0       0 
+         5.43G   44.2M      0       0       0       0 
     altname enp0s3
     altname ens3
 
