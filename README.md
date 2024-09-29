@@ -6,7 +6,7 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +3154091
+[+] New/ReNewed SSL Certs (ALL): +3966781
 [+] View/Download: https://pub.ajam.dev/datasets/certstream/all_latest.txt
 
 ```
