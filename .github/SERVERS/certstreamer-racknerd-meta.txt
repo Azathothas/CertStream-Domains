@@ -5,9 +5,9 @@
           _sudZUZ#Z#XZo=_         Model: Red Hat KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
        _jmZZ2!!~---~!!X##wx       Distro: Debian GNU/Linux 12 (bookworm) x86_64
     .<wdP~~            -!YZL,     Kernel: Linux 6.1.0-21-amd64
-   .mX2'       _xaaa__     XZ[.   Uptime: 26 days, 9 hours and 37 minutes
-   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 3.57 2.13 1.35
-  _#e'     .]X2(     ~Xw|  )XXc   Processes: 94
+   .mX2'       _xaaa__     XZ[.   Uptime: 26 days, 11 hours and 1 minute
+   oZ[      _jdXY!~?S#wa   ]Xb;   Load Average: 2.47 1.57 1.12
+  _#e'     .]X2(     ~Xw|  )XXc   Processes: 91
  .2Z`      ]X[.       xY|  ]oZ(   Window Manager: Not detected
  .2#;      )3k;     _s!~   jXf`   Desktop Environment: Not detected
   1Z>      -]Xb/    ~    __#2(    Shell: /bin/bash
@@ -17,8 +17,8 @@
      )YXL,,                       CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
        +3#bc,                     CPU: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz
          -)SSL,,                  GPU: Not detected
-            ~~~~~                 RAM: 595 MiB / 3411 MiB
-                                  Disk: 33.5 GiB / 75.2 GiB
+            ~~~~~                 RAM: 591 MiB / 3411 MiB
+                                  Disk: 33.6 GiB / 75.2 GiB
 [+] Storage:
 
 ╭─────────────────────────────────────────────────────────────────╮
@@ -26,14 +26,14 @@
 ├────────────┬───────┬───────┬───────┬────────┬──────┬────────────┤
 │ MOUNTED ON │  SIZE │  USED │ AVAIL │  USE%  │ TYPE │ FILESYSTEM │
 ├────────────┼───────┼───────┼───────┼────────┼──────┼────────────┤
-│ /          │ 75.2G │ 33.5G │ 37.9G │  44.5% │ ext4 │ /dev/vda1  │
+│ /          │ 75.2G │ 33.5G │ 37.8G │  44.6% │ ext4 │ /dev/vda1  │
 ╰────────────┴───────┴───────┴───────┴────────┴──────┴────────────╯
 
 [+] BandWidth
     RX:  bytes packets errors dropped  missed   mcast           
-         4.75T   1.50G      0   1.29k       0       0 
+         4.76T   1.51G      0   1.29k       0       0 
     TX:  bytes packets errors dropped carrier collsns           
-         93.4G    790M      0       0       0       0 
+         93.7G    792M      0       0       0       0 
     altname enp0s3
     altname ens3
 
